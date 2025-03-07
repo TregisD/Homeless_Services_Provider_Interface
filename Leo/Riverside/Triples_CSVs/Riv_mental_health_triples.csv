@@ -44,7 +44,7 @@ Return to Zero HOPE Virtual Support Groups,covers,This program covers residents 
 Return to Zero HOPE Virtual Support Groups,24hours_status_is,False
 Return to Zero HOPE Virtual Support Groups,serves,"['adults', 'young adults', 'teens', 'seniors', 'grieving', 'pregnant', 'families', 'with children', 'parents'], []"
 Return to Zero HOPE Virtual Support Groups,socials_are,"https://www.facebook.com/rtzhope/, https://www.twitter.com/@RTZHope"
-Return to Zero HOPE Virtual Support Groups,is_open_from,"?, ?, ?, ?, ?, ?, ?"
+Return to Zero HOPE Virtual Support Groups,is_open_from,We are unsure when they are open
 Dr Bergin Family Counseling Services,main_services_are,"['counseling', 'specialized therapy', 'group therapy', 'individual counseling']"
 Dr Bergin Family Counseling Services,phone_number_is,951-684-6684
 Dr Bergin Family Counseling Services,website_is,https://drbergin.net/therapy-services/
@@ -540,7 +540,7 @@ Hope for the Warriors Therapeutic Interventions,covers,This program covers resid
 Hope for the Warriors Therapeutic Interventions,24hours_status_is,False
 Hope for the Warriors Therapeutic Interventions,serves,"['adults 18+', 'active duty', 'veterans', 'individuals', 'families', 'caregivers', 'ptsd', 'all mental health'], ['Must be a post-9/11 combat injured service member, veteran or caregiver.']"
 Hope for the Warriors Therapeutic Interventions,socials_are,"https://www.facebook.com/HopeForTheWarriors, https://www.twitter.com/@Hope4Warriors"
-Hope for the Warriors Therapeutic Interventions,is_open_from,"?, ?, ?, ?, ?, ?, ?"
+Hope for the Warriors Therapeutic Interventions,is_open_from,We are unsure when they are open
 Hazelden Betty Ford Foundation One-Day Virtual Family Program,main_services_are,"['substance abuse counseling', 'health education', 'family counseling', 'support network', 'support groups', 'virtual support']"
 Hazelden Betty Ford Foundation One-Day Virtual Family Program,phone_number_is,833-653-9334
 Hazelden Betty Ford Foundation One-Day Virtual Family Program,website_is,https://www.hazeldenbettyford.org/treatment/family-children/family-program
@@ -553,7 +553,7 @@ Hazelden Betty Ford Foundation One-Day Virtual Family Program,covers,"This progr
 Hazelden Betty Ford Foundation One-Day Virtual Family Program,24hours_status_is,False
 Hazelden Betty Ford Foundation One-Day Virtual Family Program,serves,"['adults', 'young adults', 'teens', 'seniors', 'families', 'limited english', 'substance dependency'], ['This program serves families who have been impacted by substance abuse.']"
 Hazelden Betty Ford Foundation One-Day Virtual Family Program,socials_are,"https://www.facebook.com/pg/hazeldenbettyfordfoundation/, https://www.twitter.com/@hazldnbettyford"
-Hazelden Betty Ford Foundation One-Day Virtual Family Program,is_open_from,"?, ?, ?, ?, ?, ?, ?"
+Hazelden Betty Ford Foundation One-Day Virtual Family Program,is_open_from,We are unsure when they are open
 Adventures of the Heart and Mind Counseling Services,main_services_are,"['counseling', 'group therapy', 'family counseling', 'individual counseling', 'virtual support']"
 Adventures of the Heart and Mind Counseling Services,phone_number_is,951-541-1898
 Adventures of the Heart and Mind Counseling Services,website_is,https://adventuresoftheheartandmind.com/ahm-services
@@ -566,7 +566,7 @@ Adventures of the Heart and Mind Counseling Services,covers,This program covers 
 Adventures of the Heart and Mind Counseling Services,24hours_status_is,False
 Adventures of the Heart and Mind Counseling Services,serves,"['adults', 'young adults', 'teens', 'children', 'grieving', 'lgbtqia+', 'individuals', 'families', 'with children', 'low-income', 'spouses', 'parents', 'depression', 'anxiety', 'all mental health', 'substance dependency'], ['This program serves individuals, married individuals, and families.']"
 Adventures of the Heart and Mind Counseling Services,socials_are,"https://www.facebook.com/AdventuresoftheHeartandMind/, https://www.twitter.com/@AdventuresHM"
-Adventures of the Heart and Mind Counseling Services,is_open_from,"?, ?, ?, ?, ?, ?, ?"
+Adventures of the Heart and Mind Counseling Services,is_open_from,We are unsure when they are open
 Thrive Crisis Text Hotline,main_services_are,"['understand mental health', 'mental health care', 'psychiatric emergency services', 'help hotlines', 'one-on-one support', 'virtual support']"
 Thrive Crisis Text Hotline,phone_number_is,313-662-8209
 Thrive Crisis Text Hotline,website_is,https://thrivelifeline.org/index.html
@@ -619,7 +619,7 @@ The Grove Community Church Counseling Services,24hours_status_is,False
 The Grove Community Church Counseling Services,serves,"['adults', 'young adults', 'teens', 'children', 'seniors', 'individuals', 'families', 'low-income', 'all mental health'], ['This program serves individuals (adults and children), couples, and families.']"
 The Grove Community Church Counseling Services,socials_are,https://www.facebook.com/thegrovecc/
 The Grove Community Church Counseling Services,coordinates_are,"33.9002124, -117.3156509"
-The Grove Community Church Counseling Services,is_open_from,"?, ?, ?, ?, ?, ?, ?"
+The Grove Community Church Counseling Services,is_open_from,We are unsure when they are open
 USC Telebehavioral Health Clinic,main_services_are,"['specialized therapy', 'mental health care', 'one-on-one support', 'virtual support']"
 USC Telebehavioral Health Clinic,phone_number_is,866-740-6502
 USC Telebehavioral Health Clinic,website_is,https://dworakpeck.usc.edu/research/centers-affiliations/telehealth
@@ -631,7 +631,7 @@ USC Telebehavioral Health Clinic,has_Google_Reviews,True
 USC Telebehavioral Health Clinic,covers,This program covers residents of the following states: CA.
 USC Telebehavioral Health Clinic,24hours_status_is,False
 USC Telebehavioral Health Clinic,serves,"['adults', 'young adults', 'teens', 'children', 'seniors', 'grieving', 'individuals', 'caregivers', 'parents'], ['No eligibility required.', 'No documents required.', 'This program helps people who are older than 11 years old.']"
-USC Telebehavioral Health Clinic,is_open_from,"?, ?, ?, ?, ?, ?, ?"
+USC Telebehavioral Health Clinic,is_open_from,We are unsure when they are open
 NAMI HelpLine,main_services_are,"['understand mental health', 'navigating the system', 'help hotlines']"
 NAMI HelpLine,phone_number_is,800-950-6264
 NAMI HelpLine,website_is,https://www.nami.org/help
@@ -656,7 +656,7 @@ Star Legacy Foundation Online Support Groups,covers,This program covers resident
 Star Legacy Foundation Online Support Groups,24hours_status_is,False
 Star Legacy Foundation Online Support Groups,serves,"['adults', 'young adults', 'teens', 'seniors', 'grieving', 'pregnant', 'families', 'caregivers', 'fathers', 'mothers', 'parents'], ['If you or a loved one,  have lost an infant through miscarriage, stillbirth, or infant death']"
 Star Legacy Foundation Online Support Groups,socials_are,"https://www.facebook.com/StarLegacyFoundation/, https://www.twitter.com/@starlegacyfdn"
-Star Legacy Foundation Online Support Groups,is_open_from,"?, ?, ?, ?, ?, ?, ?"
+Star Legacy Foundation Online Support Groups,is_open_from,We are unsure when they are open
 James Orrell Psychotherapy Individual and Family Counseling,main_services_are,"['mental health care', 'counseling', 'family counseling', 'individual counseling']"
 James Orrell Psychotherapy Individual and Family Counseling,phone_number_is,951-813-1009
 James Orrell Psychotherapy Individual and Family Counseling,has_an_availability_status_of,available
@@ -667,7 +667,7 @@ James Orrell Psychotherapy Individual and Family Counseling,has_Google_Reviews,T
 James Orrell Psychotherapy Individual and Family Counseling,covers,"This program covers residents of the following counties: Riverside County, CA."
 James Orrell Psychotherapy Individual and Family Counseling,24hours_status_is,False
 James Orrell Psychotherapy Individual and Family Counseling,serves,"['adults', 'young adults', 'teens', 'seniors', 'individuals', 'families', 'low-income', 'uninsured', 'trauma survivors', 'depression', 'anxiety', 'ptsd', 'all mental health'], ['This program helps people who are older than 13 years old.', 'Must meet income guidelines for sliding scale fee.']"
-James Orrell Psychotherapy Individual and Family Counseling,is_open_from,"?, ?, ?, ?, ?, ?, ?"
+James Orrell Psychotherapy Individual and Family Counseling,is_open_from,We are unsure when they are open
 Veterinary Chaplaincy Online Support Group,main_services_are,"['bereavement', 'support groups', 'virtual support']"
 Veterinary Chaplaincy Online Support Group,website_is,https://veterinarychaplaincy.com/services/
 Veterinary Chaplaincy Online Support Group,has_an_availability_status_of,available
@@ -715,7 +715,7 @@ Harmonic Speech Gender Affirming Voice Training,covers,"This program covers resi
 Harmonic Speech Gender Affirming Voice Training,24hours_status_is,False
 Harmonic Speech Gender Affirming Voice Training,serves,"['anyone in need', 'adults', 'young adults', 'teens', 'seniors', 'female', 'lgbtqia+', 'male', 'transgender or non-binary', 'autism', 'individuals', 'homeless', 'near homeless', 'low-income', 'limited english', 'african american', 'asian', 'latino', 'native american'], ['This program serves all people seeking speech, voice, and swallowing therapy.', 'This program serves LGBTQ+ individuals seeking voice training.']"
 Harmonic Speech Gender Affirming Voice Training,socials_are,https://www.facebook.com/HarmonicSpeech/
-Harmonic Speech Gender Affirming Voice Training,is_open_from,"?, ?, ?, ?, ?, ?, ?"
+Harmonic Speech Gender Affirming Voice Training,is_open_from,We are unsure when they are open
 Kick It Text Program,main_services_are,"['addiction & recovery', 'substance abuse counseling', 'support network', 'virtual support']"
 Kick It Text Program,other_services_are,66819
 Kick It Text Program,website_is,https://kickitca.org/
@@ -750,7 +750,7 @@ Mommy Interrupted Peer-to-Peer Support Network,covers,This program covers reside
 Mommy Interrupted Peer-to-Peer Support Network,24hours_status_is,False
 Mommy Interrupted Peer-to-Peer Support Network,serves,"['adults', 'young adults', 'teens', 'seniors', 'grieving', 'female', 'families', 'mothers'], []"
 Mommy Interrupted Peer-to-Peer Support Network,socials_are,"https://facebook.com/mommyinterrupted.org, https://www.twitter.com/@MomIntrrptdOrg"
-Mommy Interrupted Peer-to-Peer Support Network,is_open_from,"?, ?, ?, ?, ?, ?, ?"
+Mommy Interrupted Peer-to-Peer Support Network,is_open_from,We are unsure when they are open
 First Candle Grief Counseling Program,main_services_are,"['mental health care', 'bereavement', 'individual counseling']"
 First Candle Grief Counseling Program,phone_number_is,800-221-7437
 First Candle Grief Counseling Program,website_is,https://firstcandle.org/online-support-groups/
@@ -796,7 +796,7 @@ BABY LOSS FAMILY ADVISORS,has_Google_Reviews,True
 BABY LOSS FAMILY ADVISORS,covers,This program covers residents of All US states and territories.
 BABY LOSS FAMILY ADVISORS,24hours_status_is,False
 BABY LOSS FAMILY ADVISORS,serves,"['adults', 'young adults', 'teens', 'seniors', 'grieving', 'female', 'individuals', 'families', 'mothers'], []"
-BABY LOSS FAMILY ADVISORS,is_open_from,"?, ?, ?, ?, ?, ?, ?"
+BABY LOSS FAMILY ADVISORS,is_open_from,We are unsure when they are open
 For the Frontlines Crisis Counseling,main_services_are,"['mental health care', 'help hotlines', 'virtual support']"
 For the Frontlines Crisis Counseling,phone_number_is,741741
 For the Frontlines Crisis Counseling,website_is,https://www.forthefrontlines.org/
@@ -964,7 +964,7 @@ Face It TOGETHER,covers,This program covers residents of All US states and terri
 Face It TOGETHER,24hours_status_is,False
 Face It TOGETHER,serves,"['adults', 'young adults', 'teens', 'seniors', 'substance dependency'], ['This program helps people who are older than 17 years old']"
 Face It TOGETHER,socials_are,https://www.facebook.com/wefaceittogether/
-Face It TOGETHER,is_open_from,"?, ?, ?, ?, ?, ?, ?"
+Face It TOGETHER,is_open_from,We are unsure when they are open
 Postpartum Support Internation Online Support Meetings,main_services_are,"['mental health care', 'peer support', 'support groups', 'virtual support']"
 Postpartum Support Internation Online Support Meetings,phone_number_is,800-944-4773
 Postpartum Support Internation Online Support Meetings,website_is,https://www.postpartum.net/get-help/psi-online-support-meetings/
@@ -989,7 +989,7 @@ National Veterans Wellness and Healing Center Retreats,covers,This program cover
 National Veterans Wellness and Healing Center Retreats,24hours_status_is,False
 National Veterans Wellness and Healing Center Retreats,serves,"['adults 18+', 'active duty', 'national guard', 'veterans', 'individuals', 'spouses', 'ptsd'], ['Veteran must have been diagnosed with Post Traumatic Stress (indicate date and by whom/where diagnosed in application).', 'Veteran must attend with partner or support person (spouse, boyfriend/girlfriend, sibling, close friend, fellow vet from PTS support group, or similar existing and continuing close relationship).  Contact the Center if you have unusual circumstances regarding a partner.', 'All attendees must commit to the full seven and a half days.', 'Participants must be free from any alcohol/drug addictions for at least 12 months prior to attending the retreat.']"
 National Veterans Wellness and Healing Center Retreats,socials_are,https://www.facebook.com/pages/National-Veterans-Wellness-and-Healing-Center-of-Angel-Fire/123391897719973
-National Veterans Wellness and Healing Center Retreats,is_open_from,"?, ?, ?, ?, ?, ?, ?"
+National Veterans Wellness and Healing Center Retreats,is_open_from,We are unsure when they are open
 Modern Widows Club Communities and Support Groups,main_services_are,"['bereavement', 'health education', 'understand mental health', 'womens health', 'community support services', 'support network', 'mentoring', 'one-on-one support', 'peer support', 'support groups', 'virtual support']"
 Modern Widows Club Communities and Support Groups,website_is,https://modernwidowsclub.org/find-your-community
 Modern Widows Club Communities and Support Groups,has_an_availability_status_of,available
@@ -1001,7 +1001,7 @@ Modern Widows Club Communities and Support Groups,covers,"This program covers re
 Modern Widows Club Communities and Support Groups,24hours_status_is,False
 Modern Widows Club Communities and Support Groups,serves,"['adults 18+', 'grieving', 'female', 'lgbtqia+', 'transgender or non-binary', 'individuals', 'limited english', 'caregivers', 'spouses'], ['This program serves widows.']"
 Modern Widows Club Communities and Support Groups,socials_are,"https://www.facebook.com/modernwidowsclub, https://www.twitter.com/@ModernWidows"
-Modern Widows Club Communities and Support Groups,is_open_from,"?, ?, ?, ?, ?, ?, ?"
+Modern Widows Club Communities and Support Groups,is_open_from,We are unsure when they are open
 UNITED CEREBRAL PALSY of the INLAND EMPIRE Family Empowerment Program,main_services_are,"['daily life skills', 'counseling', 'group therapy']"
 UNITED CEREBRAL PALSY of the INLAND EMPIRE Family Empowerment Program,phone_number_is,760-321-8184
 UNITED CEREBRAL PALSY of the INLAND EMPIRE Family Empowerment Program,website_is,https://ucpie.org/family-empowerment-program/
@@ -1014,7 +1014,7 @@ UNITED CEREBRAL PALSY of the INLAND EMPIRE Family Empowerment Program,covers,"Th
 UNITED CEREBRAL PALSY of the INLAND EMPIRE Family Empowerment Program,24hours_status_is,False
 UNITED CEREBRAL PALSY of the INLAND EMPIRE Family Empowerment Program,serves,"['adults', 'young adults', 'teens', 'children', 'developmental disability', 'intellectual disability', 'families', 'with children', 'parents'], ['This program serves children and adults with special needs.']"
 UNITED CEREBRAL PALSY of the INLAND EMPIRE Family Empowerment Program,socials_are,https://www.facebook.com/ucpie
-UNITED CEREBRAL PALSY of the INLAND EMPIRE Family Empowerment Program,is_open_from,"?, ?, ?, ?, ?, ?, ?"
+UNITED CEREBRAL PALSY of the INLAND EMPIRE Family Empowerment Program,is_open_from,We are unsure when they are open
 Suicide is Different Services,main_services_are,"['health education', 'understand mental health', 'one-on-one support']"
 Suicide is Different Services,website_is,https://www.suicideisdifferent.org/services
 Suicide is Different Services,has_an_availability_status_of,available
@@ -1026,7 +1026,7 @@ Suicide is Different Services,covers,"This program covers residents of the follo
 Suicide is Different Services,24hours_status_is,False
 Suicide is Different Services,serves,"['adults 18+', 'individuals', 'caregivers', 'suicidal thoughts'], ['This program serves caregivers of people struggling with suicide tendencies.', 'Prospective clients need to specify need for sliding scale fees during their initial consult appointment, no further documentation is required.']"
 Suicide is Different Services,socials_are,https://www.twitter.com/@SuicideIsDiff
-Suicide is Different Services,is_open_from,"?, ?, ?, ?, ?, ?, ?"
+Suicide is Different Services,is_open_from,We are unsure when they are open
 TAPS National Military Survivor Helpline,main_services_are,"['bereavement', 'navigating the system', 'support network', 'help hotlines']"
 TAPS National Military Survivor Helpline,phone_number_is,800-959-8277
 TAPS National Military Survivor Helpline,website_is,https://www.taps.org/helpline
@@ -1104,7 +1104,7 @@ Muslim Family Foundation,covers,"This program covers residents of the following 
 Muslim Family Foundation,24hours_status_is,False
 Muslim Family Foundation,serves,"['anyone in need', 'adults', 'young adults', 'teens', 'seniors', 'individuals', 'families', 'with children', 'all mental health'], ['This program focuses on serving individuals and families in the muslim community in the Inland Empire region.']"
 Muslim Family Foundation,socials_are,https://www.facebook.com/mffie/
-Muslim Family Foundation,is_open_from,"?, ?, ?, ?, ?, ?, ?"
+Muslim Family Foundation,is_open_from,We are unsure when they are open
 University Community Health Center,main_services_are,"['counseling', 'medication management', 'mental health care', 'anger management', 'family counseling', 'individual counseling']"
 University Community Health Center,other_services_are,['virtual support']
 University Community Health Center,phone_number_is,951-224-8220
@@ -1134,7 +1134,7 @@ Prostate Cancer Treatment,has_Google_Reviews,True
 Prostate Cancer Treatment,covers,This program covers residents of the following states: CA.
 Prostate Cancer Treatment,24hours_status_is,False
 Prostate Cancer Treatment,serves,"['adults 18+', 'male', 'cancer', 'low-income', 'uninsured', 'underinsured'], ['This program helps people who are older than 17 years old.', 'This program helps people with income at or below 200% of federal poverty guidelines.', 'Must be a California resident.', 'Must have little or no health insurance.', 'Must have had an abnormal DRE or elevated PSA.', 'This program serves those with a prostate cancer diagnosis.']"
-Prostate Cancer Treatment,is_open_from,"?, ?, ?, ?, ?, ?, ?"
+Prostate Cancer Treatment,is_open_from,We are unsure when they are open
 U.S. Department of Veterans Affairs Emergency Mental Health Care,main_services_are,"['help pay for healthcare', 'psychiatric emergency services', 'mental health care', 'understand government programs', 'navigating the system']"
 U.S. Department of Veterans Affairs Emergency Mental Health Care,phone_number_is,844-724-7842
 U.S. Department of Veterans Affairs Emergency Mental Health Care,website_is,https://www.va.gov/resources/getting-emergency-care-at-non-va-facilities/#emergency-care-eligibility-req
@@ -1171,7 +1171,7 @@ NAMI Western Riverside County,covers,This program covers residents of the follow
 NAMI Western Riverside County,24hours_status_is,False
 NAMI Western Riverside County,serves,"['adults 18+', 'all mental health'], ['This program serves adults living with mental health challenges.']"
 NAMI Western Riverside County,socials_are,"https://www.facebook.com/namicalifornia, https://www.twitter.com/@namicalifornia"
-NAMI Western Riverside County,is_open_from,"?, ?, ?, ?, ?, ?, ?"
+NAMI Western Riverside County,is_open_from,We are unsure when they are open
 SU CARES Line,main_services_are,"['addiction & recovery', 'substance abuse counseling', 'residential treatment']"
 SU CARES Line,other_services_are,"['navigating the system', 'one-on-one support']"
 SU CARES Line,phone_number_is,800-499-3008
@@ -1187,7 +1187,7 @@ SU CARES Line,24hours_status_is,False
 SU CARES Line,serves,"['adults 18+', 'pregnant', 'individuals', 'uninsured', 'limited english', 'all mental health', 'substance dependency'], ['This program serves individuals with substance dependency.']"
 SU CARES Line,socials_are,"https://www.facebook.com/RUHSbh/, https://www.twitter.com/@RUHSbh"
 SU CARES Line,coordinates_are,"33.9931066, -117.33649"
-SU CARES Line,is_open_from,"?, ?, ?, ?, ?, ?, ?"
+SU CARES Line,is_open_from,We are unsure when they are open
 Goodwill Southern California Employment Center,main_services_are,"['counseling', 'skills & training', 'help find work']"
 Goodwill Southern California Employment Center,phone_number_is,951-255-2918
 Goodwill Southern California Employment Center,website_is,https://www.goodwillsocal.org/career-services/employment-centers/
@@ -1228,7 +1228,7 @@ Array Behavioral Care Telehealth Services,covers,"This program covers residents 
 Array Behavioral Care Telehealth Services,24hours_status_is,False
 Array Behavioral Care Telehealth Services,serves,"['adults', 'young adults', 'teens', 'children', 'seniors', 'benefit recipients', 'depression', 'bipolar', 'suicidal thoughts', 'anxiety', 'eating disorder', 'ptsd', 'all mental health'], ['Must have Medicare.']"
 Array Behavioral Care Telehealth Services,socials_are,"https://www.facebook.com/ArrayBehavioralCare, https://www.twitter.com/@ArrayBC"
-Array Behavioral Care Telehealth Services,is_open_from,"?, ?, ?, ?, ?, ?, ?"
+Array Behavioral Care Telehealth Services,is_open_from,We are unsure when they are open
 Warriors' Ascent Program,main_services_are,"['mental health care', 'overnight camp', 'support network', 'skills & training']"
 Warriors' Ascent Program,website_is,https://www.warriorsascent.org/application
 Warriors' Ascent Program,has_an_availability_status_of,available
@@ -1239,7 +1239,7 @@ Warriors' Ascent Program,has_Google_Reviews,True
 Warriors' Ascent Program,covers,This program covers residents of All US states and territories.
 Warriors' Ascent Program,24hours_status_is,False
 Warriors' Ascent Program,serves,"['adults 18+', 'veterans', 'trauma survivors', 'ptsd'], ['Serves Veterans and First Responders.']"
-Warriors' Ascent Program,is_open_from,"?, ?, ?, ?, ?, ?, ?"
+Warriors' Ascent Program,is_open_from,We are unsure when they are open
 Stand Beside Them Health and Wellness Coaching,main_services_are,"['health education', 'nutrition education', 'mental health care', 'mentoring', 'virtual support']"
 Stand Beside Them Health and Wellness Coaching,other_services_are,"['bereavement', 'spiritual support']"
 Stand Beside Them Health and Wellness Coaching,phone_number_is,888-315-3224
@@ -1253,7 +1253,7 @@ Stand Beside Them Health and Wellness Coaching,covers,"This program covers resid
 Stand Beside Them Health and Wellness Coaching,24hours_status_is,False
 Stand Beside Them Health and Wellness Coaching,serves,"['adults 18+', 'veterans', 'add/adhd', 'grieving', 'families', 'caregivers', 'anxiety', 'ptsd'], ['This program helps veterans from Iraq/Afghanistan (post 9/11; OEF, OND, OIF) and their family members and/or caregivers.']"
 Stand Beside Them Health and Wellness Coaching,socials_are,"https://www.facebook.com/standbesidethem/, https://www.twitter.com/@standbesidethem"
-Stand Beside Them Health and Wellness Coaching,is_open_from,"?, ?, ?, ?, ?, ?, ?"
+Stand Beside Them Health and Wellness Coaching,is_open_from,We are unsure when they are open
 360 Behavioral Health Services,main_services_are,"['specialized therapy', 'mental health care']"
 360 Behavioral Health Services,other_services_are,"['individual counseling', 'mental health evaluation', 'one-on-one support']"
 360 Behavioral Health Services,phone_number_is,833-227-3454
@@ -1267,7 +1267,7 @@ Stand Beside Them Health and Wellness Coaching,is_open_from,"?, ?, ?, ?, ?, ?, ?
 360 Behavioral Health Services,24hours_status_is,False
 360 Behavioral Health Services,serves,"['all ages', 'autism', 'benefit recipients'], ['Must have Medicare or Medicaid.']"
 360 Behavioral Health Services,socials_are,https://www.facebook.com/360-Behavioral-Health-538960049852066/
-360 Behavioral Health Services,is_open_from,"?, ?, ?, ?, ?, ?, ?"
+360 Behavioral Health Services,is_open_from,We are unsure when they are open
 Blaine Street Adult Clinic,main_services_are,"['psychiatric emergency services', 'outpatient treatment', 'mental health care', 'mental health evaluation', 'one-on-one support']"
 Blaine Street Adult Clinic,other_services_are,"['navigating the system', 'case management']"
 Blaine Street Adult Clinic,phone_number_is,951-358-4705
@@ -1332,7 +1332,7 @@ Veterans Healing through Connection Workshop,covers,"This program covers residen
 Veterans Healing through Connection Workshop,24hours_status_is,False
 Veterans Healing through Connection Workshop,serves,"['adults 18+', 'active duty', 'veterans', 'spouses'], ['Serves active service members, veterans and their significant others.']"
 Veterans Healing through Connection Workshop,socials_are,"https://www.facebook.com/caron, https://www.twitter.com/@CaronTreatment"
-Veterans Healing through Connection Workshop,is_open_from,"?, ?, ?, ?, ?, ?, ?"
+Veterans Healing through Connection Workshop,is_open_from,We are unsure when they are open
 California Family Urgent Response System (Cal-FURS) Hotline,main_services_are,"['navigating the system', 'support network', 'counseling', 'help hotlines', 'peer support']"
 California Family Urgent Response System (Cal-FURS) Hotline,phone_number_is,833-939-3877
 California Family Urgent Response System (Cal-FURS) Hotline,website_is,https://www.cal-furs.org/
@@ -1357,7 +1357,7 @@ Nursing Mothers Counsel Breastfeeding Support,covers,This program covers residen
 Nursing Mothers Counsel Breastfeeding Support,24hours_status_is,False
 Nursing Mothers Counsel Breastfeeding Support,serves,"['adults', 'young adults', 'teens', 'female', 'lgbtqia+', 'transgender or non-binary', 'with children', 'mothers'], ['This program serves families who want breastfeeding or chestfeeding education and support.']"
 Nursing Mothers Counsel Breastfeeding Support,socials_are,https://www.facebook.com/Nursing-Mothers-Counsel-195210663856980/timeline/
-Nursing Mothers Counsel Breastfeeding Support,is_open_from,"?, ?, ?, ?, ?, ?, ?"
+Nursing Mothers Counsel Breastfeeding Support,is_open_from,We are unsure when they are open
 American Red Cross Post-Deployment: Support Resources for Homecomings,main_services_are,"['health education', 'understand mental health', 'support network']"
 American Red Cross Post-Deployment: Support Resources for Homecomings,phone_number_is,877-272-7337
 American Red Cross Post-Deployment: Support Resources for Homecomings,website_is,http://www.redcross.org/find-help/military-families/deployment-services/postdeployment-preparedness-homecoming
@@ -1369,7 +1369,7 @@ American Red Cross Post-Deployment: Support Resources for Homecomings,has_Google
 American Red Cross Post-Deployment: Support Resources for Homecomings,covers,This program covers residents of All US states and territories.
 American Red Cross Post-Deployment: Support Resources for Homecomings,24hours_status_is,False
 American Red Cross Post-Deployment: Support Resources for Homecomings,serves,"['adults 18+', 'active duty', 'national guard', 'veterans', 'families'], []"
-American Red Cross Post-Deployment: Support Resources for Homecomings,is_open_from,"?, ?, ?, ?, ?, ?, ?"
+American Red Cross Post-Deployment: Support Resources for Homecomings,is_open_from,We are unsure when they are open
 988 Hotline,main_services_are,"['psychiatric emergency services', 'help hotlines', 'one-on-one support', 'virtual support']"
 988 Hotline,phone_number_is,988
 988 Hotline,website_is,https://988lifeline.org/
@@ -1457,7 +1457,7 @@ WWP Talk,covers,This program covers residents of All US states and territories.
 WWP Talk,24hours_status_is,False
 WWP Talk,serves,"['active duty', 'national guard', 'veterans'], ['Must have suffered a physical or mental injury, wound, or illness during your military service on or after September 11, 2001, or be a registered family service member and/or caregiver to an individual that has.', 'WWP Talk is available to all warriors, family members, and caregivers registered with WWP. It’s most appropriate for those who are not experiencing a crisis and who are ready to discuss emotional issues and set goals leading to improved mental health.', 'WWP Talk provides nonclinical emotional support and isn’t meant to take the place of any clinical treatment, therapy, or counseling you may be receiving.']"
 WWP Talk,socials_are,"https://www.facebook.com/wwp/, https://www.twitter.com/@wwp"
-WWP Talk,is_open_from,"?, ?, ?, ?, ?, ?, ?"
+WWP Talk,is_open_from,We are unsure when they are open
 Independence At Home Insights Mental Health Program,main_services_are,"['understand mental health', 'counseling', 'mental health care', 'mental health evaluation', 'one-on-one support']"
 Independence At Home Insights Mental Health Program,phone_number_is,866-421-1964
 Independence At Home Insights Mental Health Program,website_is,https://independenceathome.org/our-services/insights
@@ -1482,7 +1482,7 @@ Sound Off Anonymous Mental Health Support,covers,"This program covers residents 
 Sound Off Anonymous Mental Health Support,24hours_status_is,False
 Sound Off Anonymous Mental Health Support,serves,"['adults 18+', 'active duty', 'national guard', 'veterans', 'individuals', 'all mental health'], ['This program serves veterans, service members, and intelligence officers seeking mental health services.']"
 Sound Off Anonymous Mental Health Support,socials_are,"https://www.facebook.com/soundofforg/, https://www.twitter.com/@SoundOFF"
-Sound Off Anonymous Mental Health Support,is_open_from,"?, ?, ?, ?, ?, ?, ?"
+Sound Off Anonymous Mental Health Support,is_open_from,We are unsure when they are open
 Inland Southern California Search for Resources,main_services_are,"['psychiatric emergency services', 'help hotlines']"
 Inland Southern California Search for Resources,phone_number_is,2-1-1
 Inland Southern California Search for Resources,website_is,https://inlandsocaluw.org/211
@@ -1507,7 +1507,7 @@ CAREspace - Mental Health Services,covers,"This program covers residents of the 
 CAREspace - Mental Health Services,24hours_status_is,False
 CAREspace - Mental Health Services,serves,"['anyone in need', 'young adults', 'teens', 'children', 'students', 'families', 'low-income', 'parents', 'all mental health'], ['Students, families, schools, and the community of Riverside County can access this program.']"
 CAREspace - Mental Health Services,socials_are,"https://www.facebook.com/RiversideCOE, https://www.twitter.com/@RCOE"
-CAREspace - Mental Health Services,is_open_from,"?, ?, ?, ?, ?, ?, ?"
+CAREspace - Mental Health Services,is_open_from,We are unsure when they are open
 Neighborhood Healthcare Riverside Latham,main_services_are,"['addiction & recovery', 'medications for addiction', 'mental health care', 'counseling', 'medications for mental health', 'mental health evaluation', 'virtual support']"
 Neighborhood Healthcare Riverside Latham,phone_number_is,833-867-4642
 Neighborhood Healthcare Riverside Latham,website_is,https://www.nhcare.org/health-services/behavioral/
@@ -1547,7 +1547,7 @@ Cystic Fibrosis Research Institute Online Support,has_Google_Reviews,True
 Cystic Fibrosis Research Institute Online Support,covers,This program covers residents of All US states and territories.
 Cystic Fibrosis Research Institute Online Support,24hours_status_is,False
 Cystic Fibrosis Research Institute Online Support,serves,"['adults', 'young adults', 'teens', 'children', 'seniors', 'chronic illness', 'individuals', 'low-income', 'uninsured', 'underinsured', 'caregivers'], ['This program serves individuals diagnosed with cystic fibrosis, or caregivers that support individuals such as family members with cystic fibrosis.', 'This program serves individuals and families that currently reside in the United States.']"
-Cystic Fibrosis Research Institute Online Support,is_open_from,"?, ?, ?, ?, ?, ?, ?"
+Cystic Fibrosis Research Institute Online Support,is_open_from,We are unsure when they are open
 Pechanga Child and Family Services,main_services_are,"['parenting education', 'early childhood intervention', 'anger management', 'adoption & foster care', 'adoption & foster placement', 'adoption & foster parenting', 'navigating the system', 'case management', 'home visiting']"
 Pechanga Child and Family Services,phone_number_is,951-770-6106
 Pechanga Child and Family Services,website_is,https://www.pechanga-nsn.gov/cfs/
@@ -1573,7 +1573,7 @@ Angelman Syndrome Foundation Counseling Services,covers,"This program covers res
 Angelman Syndrome Foundation Counseling Services,24hours_status_is,False
 Angelman Syndrome Foundation Counseling Services,serves,"['all ages', 'genetic disorder', 'individuals', 'families', 'caregivers', 'parents'], ['This program serves individuals, caregivers and families of people with Angelman Syndrome']"
 Angelman Syndrome Foundation Counseling Services,socials_are,"https://www.facebook.com/AngelmanSyndromeFoundation/, https://www.twitter.com/@angelman"
-Angelman Syndrome Foundation Counseling Services,is_open_from,"?, ?, ?, ?, ?, ?, ?"
+Angelman Syndrome Foundation Counseling Services,is_open_from,We are unsure when they are open
 Self-Care Mondays - Anxiety Group for Women,main_services_are,"['understand mental health', 'support groups', 'virtual support']"
 Self-Care Mondays - Anxiety Group for Women,phone_number_is,626-354-4615
 Self-Care Mondays - Anxiety Group for Women,website_is,https://balancelife.my.canva.site/
@@ -1599,7 +1599,7 @@ Stepstone Connect Intensive Outpatient Therapy,covers,"This program covers resid
 Stepstone Connect Intensive Outpatient Therapy,24hours_status_is,False
 Stepstone Connect Intensive Outpatient Therapy,serves,"['adults 18+', 'substance dependency'], ['This program serves anyone suffering from substance abuse and trauma.', 'Must qualify for financial assistance.']"
 Stepstone Connect Intensive Outpatient Therapy,socials_are,"https://www.facebook.com/stepstoneconnect, https://www.twitter.com/@stpstnconnect"
-Stepstone Connect Intensive Outpatient Therapy,is_open_from,"?, ?, ?, ?, ?, ?, ?"
+Stepstone Connect Intensive Outpatient Therapy,is_open_from,We are unsure when they are open
 Hand to Hold Parent Support-Virtual Support Groups,main_services_are,"['mental health care', 'understand mental health', 'support groups']"
 Hand to Hold Parent Support-Virtual Support Groups,phone_number_is,855-424-6428
 Hand to Hold Parent Support-Virtual Support Groups,website_is,https://handtohold.org/
@@ -1612,7 +1612,7 @@ Hand to Hold Parent Support-Virtual Support Groups,covers,This program covers re
 Hand to Hold Parent Support-Virtual Support Groups,24hours_status_is,False
 Hand to Hold Parent Support-Virtual Support Groups,serves,"['adults', 'adults 18+', 'grieving', 'parents'], ['This program serves individuals and families, who meet ONE of the following criteria: are affected by a stay in the Neonatal Intensive Care Unit (NICU), OR have a high-risk pregnancy, OR experience preterm birth, OR have babies with special healthcare needs, OR have experienced the loss of a preterm infant or a pregnancy.']"
 Hand to Hold Parent Support-Virtual Support Groups,socials_are,"https://www.facebook.com/HANDtoHOLD, https://www.twitter.com/@atx_handtohold"
-Hand to Hold Parent Support-Virtual Support Groups,is_open_from,"?, ?, ?, ?, ?, ?, ?"
+Hand to Hold Parent Support-Virtual Support Groups,is_open_from,We are unsure when they are open
 Camp Spero,main_services_are,"['bereavement', 'alternative medicine', 'overnight camp']"
 Camp Spero,phone_number_is,760-223-7337
 Camp Spero,website_is,https://elizabethhospice.org/grief-support/children/camp-spero/
@@ -1625,7 +1625,7 @@ Camp Spero,covers,"This program covers residents of the following counties: Rive
 Camp Spero,24hours_status_is,False
 Camp Spero,serves,"['teens', 'children', 'grieving'], ['This program helps people who are 7 to 17 years old.']"
 Camp Spero,socials_are,"https://www.facebook.com/TheElizabethHospice, https://www.twitter.com/@thelizabethhosp"
-Camp Spero,is_open_from,"?, ?, ?, ?, ?, ?, ?"
+Camp Spero,is_open_from,We are unsure when they are open
 American Living Organ Donor Fund Services,main_services_are,"['mental health care', 'virtual support']"
 American Living Organ Donor Fund Services,phone_number_is,215-601-6530
 American Living Organ Donor Fund Services,website_is,https://www.helplivingdonorssavelives.org/services/
@@ -1638,7 +1638,7 @@ American Living Organ Donor Fund Services,covers,This program covers residents o
 American Living Organ Donor Fund Services,24hours_status_is,False
 American Living Organ Donor Fund Services,serves,"['all ages', 'all care phases', 'individuals', 'families', 'caregivers'], ['This program helps living organ donors.', 'Must be a US citizen.']"
 American Living Organ Donor Fund Services,socials_are,"https://www.facebook.com/HelpLivingDonorsSaveLives/, https://www.twitter.com/@HelpOrganDonors"
-American Living Organ Donor Fund Services,is_open_from,"?, ?, ?, ?, ?, ?, ?"
+American Living Organ Donor Fund Services,is_open_from,We are unsure when they are open
 Mental Health Strong Online Couples Support GrouGroup,main_services_are,"['addiction & recovery', 'mental health care', 'peer support']"
 Mental Health Strong Online Couples Support GrouGroup,website_is,https://mentalhealthstrong.com/support-groups/
 Mental Health Strong Online Couples Support GrouGroup,has_an_availability_status_of,available
@@ -1675,7 +1675,7 @@ Fran's Place Cancer Counseling,covers,This program covers residents of the follo
 Fran's Place Cancer Counseling,24hours_status_is,False
 Fran's Place Cancer Counseling,serves,"['all ages', 'cancer', 'all cancer types', 'individuals', 'families', 'caregivers', 'spouses'], ['This program works in communities in Southern California, providing services in English and Spanish, and via telehealth across all of California.']"
 Fran's Place Cancer Counseling,socials_are,"https://www.facebook.com/centerforcancercounseling2, https://www.twitter.com/@fran_place"
-Fran's Place Cancer Counseling,is_open_from,"?, ?, ?, ?, ?, ?, ?"
+Fran's Place Cancer Counseling,is_open_from,We are unsure when they are open
 National Maternal Mental Health Hotline,main_services_are,"['understand mental health', 'mental health care', 'navigating the system', 'help hotlines']"
 National Maternal Mental Health Hotline,other_services_are,['translation & interpretation']
 National Maternal Mental Health Hotline,phone_number_is,833-852-6262
@@ -1766,7 +1766,7 @@ Brightlife Kids program by Brightline,covers,This program covers residents of th
 Brightlife Kids program by Brightline,24hours_status_is,False
 Brightlife Kids program by Brightline,serves,"['lgbtqia+', 'families', 'with children', 'limited english', 'african american', 'asian', 'latino', 'native american', 'caregivers', 'parents', 'all mental health'], ['This program helps people who are 0 to 12 years old', 'This program serves families residing in the state of California.']"
 Brightlife Kids program by Brightline,socials_are,"https://www.facebook.com/hellobrightline, https://www.twitter.com/@hellobrightline"
-Brightlife Kids program by Brightline,is_open_from,"?, ?, ?, ?, ?, ?, ?"
+Brightlife Kids program by Brightline,is_open_from,We are unsure when they are open
 Boys Town National Hotline,main_services_are,"['counseling', 'help hotlines', 'one-on-one support', 'virtual support']"
 Boys Town National Hotline,other_services_are,['translation & interpretation']
 Boys Town National Hotline,phone_number_is,800-448-3000
@@ -1814,7 +1814,7 @@ The Compassionate Friends Online Grief Support,covers,"This program covers resid
 The Compassionate Friends Online Grief Support,24hours_status_is,False
 The Compassionate Friends Online Grief Support,serves,"['adults 18+', 'grieving', 'families', 'with children', 'caregivers', 'fathers', 'mothers', 'parents'], ['This program is available to grieving parents, grandparents, and siblings over the age of 18.']"
 The Compassionate Friends Online Grief Support,socials_are,"https://www.facebook.com/TCFUSA, https://www.twitter.com/@TCFofUSA"
-The Compassionate Friends Online Grief Support,is_open_from,"?, ?, ?, ?, ?, ?, ?"
+The Compassionate Friends Online Grief Support,is_open_from,We are unsure when they are open
 California Youth Crisis Line,main_services_are,"['psychiatric emergency services', 'counseling', 'navigating the system', 'help hotlines', 'virtual support']"
 California Youth Crisis Line,other_services_are,['translation & interpretation']
 California Youth Crisis Line,phone_number_is,800-843-5200
@@ -1839,7 +1839,7 @@ Embrace Psychological and Counseling Services,has_Google_Reviews,True
 Embrace Psychological and Counseling Services,covers,This program covers residents of the following states: CA.
 Embrace Psychological and Counseling Services,24hours_status_is,False
 Embrace Psychological and Counseling Services,serves,"['anyone in need', 'all ages', 'lgbtqia+', 'transgender or non-binary', 'individuals', 'families', 'all mental health'], ['The group is open to the public and everyone is welcome.']"
-Embrace Psychological and Counseling Services,is_open_from,"?, ?, ?, ?, ?, ?, ?"
+Embrace Psychological and Counseling Services,is_open_from,We are unsure when they are open
 New Creation Treatment Center Helpline,main_services_are,"['addiction & recovery', 'outpatient treatment', 'medical care']"
 New Creation Treatment Center Helpline,phone_number_is,877-868-5730
 New Creation Treatment Center Helpline,website_is,https://newcreationtreatment.com/
@@ -1885,7 +1885,7 @@ Grief Share Online Support,has_Google_Reviews,True
 Grief Share Online Support,covers,"This program covers residents of the following states: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, GU, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV and WY."
 Grief Share Online Support,24hours_status_is,False
 Grief Share Online Support,serves,"['adults', 'young adults', 'teens', 'seniors', 'grieving', 'individuals'], ['This program serves individuals and families who are grieving the death of a family member or friend.']"
-Grief Share Online Support,is_open_from,"?, ?, ?, ?, ?, ?, ?"
+Grief Share Online Support,is_open_from,We are unsure when they are open
 Overeaters Anonymous Online Meetings and Hotline,main_services_are,"['group therapy', 'help hotlines', 'peer support']"
 Overeaters Anonymous Online Meetings and Hotline,phone_number_is,951-715-2080
 Overeaters Anonymous Online Meetings and Hotline,website_is,https://www.go2oa.org/local-meetings.html
@@ -1897,7 +1897,7 @@ Overeaters Anonymous Online Meetings and Hotline,has_Google_Reviews,True
 Overeaters Anonymous Online Meetings and Hotline,covers,This program covers residents of the following states: CA.
 Overeaters Anonymous Online Meetings and Hotline,24hours_status_is,False
 Overeaters Anonymous Online Meetings and Hotline,serves,"['adults 18+', 'eating disorder'], ['This program serves individuals who have been impacted by compulsive eating.']"
-Overeaters Anonymous Online Meetings and Hotline,is_open_from,"?, ?, ?, ?, ?, ?, ?"
+Overeaters Anonymous Online Meetings and Hotline,is_open_from,We are unsure when they are open
 Caregiver Teleconnection,main_services_are,"['health education', 'understand disability', 'understand mental health', 'support network', 'virtual support']"
 Caregiver Teleconnection,phone_number_is,866-390-6491
 Caregiver Teleconnection,website_is,https://www.wellmedcharitablefoundation.org/caregiver-support/caregiver-teleconnection/
@@ -1910,7 +1910,7 @@ Caregiver Teleconnection,covers,This program covers residents of All US states a
 Caregiver Teleconnection,24hours_status_is,False
 Caregiver Teleconnection,serves,"['adults 18+', 'alzheimers', 'caregivers'], ['This program serves caregivers.']"
 Caregiver Teleconnection,socials_are,"https://www.facebook.com/CaregiverSOS, https://www.twitter.com/@CaregiverSOS"
-Caregiver Teleconnection,is_open_from,"?, ?, ?, ?, ?, ?, ?"
+Caregiver Teleconnection,is_open_from,We are unsure when they are open
 Nationwide Helpline,main_services_are,"['individual counseling', 'navigating the system', 'support network', 'help hotlines']"
 Nationwide Helpline,phone_number_is,866-732-7392
 Nationwide Helpline,website_is,https://sikhfamilycenter.org/helpline/
@@ -1935,7 +1935,7 @@ Project Heal Programs,covers,"This program covers residents of the following sta
 Project Heal Programs,24hours_status_is,False
 Project Heal Programs,serves,"['adults', 'young adults', 'teens', 'children', 'seniors', 'lgbtqia+', 'transgender or non-binary', 'with children', 'uninsured', 'underinsured', 'african american', 'asian', 'latino', 'native american', 'parents', 'eating disorder', 'all mental health', 'dual diagnosis'], ['This program serves individuals with eating disorders including shared marginalized identities (including but not limited to, identities based on: Race, Gender, Sexuality, Ability, Age, and Religion).']"
 Project Heal Programs,socials_are,"https://www.facebook.com/ProjectHEAL/, https://www.twitter.com/@TheProjectHEAL"
-Project Heal Programs,is_open_from,"?, ?, ?, ?, ?, ?, ?"
+Project Heal Programs,is_open_from,We are unsure when they are open
 FACES Online Counseling Services,main_services_are,"['counseling', 'mental health care', 'family counseling', 'individual counseling']"
 FACES Online Counseling Services,phone_number_is,714-447-9024
 FACES Online Counseling Services,website_is,https://www.facescounseling.org/services-5
@@ -1948,7 +1948,7 @@ FACES Online Counseling Services,covers,This program covers residents of the fol
 FACES Online Counseling Services,24hours_status_is,False
 FACES Online Counseling Services,serves,"['adults', 'young adults', 'teens', 'school-aged children', 'preschoolers', 'toddlers', 'seniors', 'individuals', 'families', 'low-income', 'uninsured', 'all mental health'], ['Must meet income requirements for sliding scale fees.']"
 FACES Online Counseling Services,socials_are,"https://www.facebook.com/FACES4safekids, https://www.twitter.com/@faces4safekids"
-FACES Online Counseling Services,is_open_from,"?, ?, ?, ?, ?, ?, ?"
+FACES Online Counseling Services,is_open_from,We are unsure when they are open
 Deaf Counseling Center Videoline,main_services_are,"['counseling', 'mental health care', 'family counseling', 'individual counseling']"
 Deaf Counseling Center Videoline,phone_number_is,240-380-2577
 Deaf Counseling Center Videoline,website_is,https://deafcounseling.com/get-started/
@@ -1961,7 +1961,7 @@ Deaf Counseling Center Videoline,covers,"This program covers residents of the fo
 Deaf Counseling Center Videoline,24hours_status_is,False
 Deaf Counseling Center Videoline,serves,"['adults', 'young adults', 'teens', 'children', 'seniors', 'deaf or hard of hearing', 'grieving', 'individuals', 'families', 'low-income', 'spouses', 'depression', 'anxiety', 'all mental health', 'substance dependency'], ['This program serves Deaf people and their families.', 'Must meet income guidelines.']"
 Deaf Counseling Center Videoline,socials_are,"https://www.facebook.com/deafcounseling, https://www.twitter.com/@deafcounseling"
-Deaf Counseling Center Videoline,is_open_from,"?, ?, ?, ?, ?, ?, ?"
+Deaf Counseling Center Videoline,is_open_from,We are unsure when they are open
 Touch of Love Prison Ministry,main_services_are,"['substance abuse counseling', 'family counseling', 'individual counseling', 'support network', 'spiritual support', 'skills & training', 'specialized training']"
 Touch of Love Prison Ministry,phone_number_is,951-485-0226
 Touch of Love Prison Ministry,website_is,http://www.newbeginningstol.org
@@ -2062,7 +2062,7 @@ Remaining Hopeful,covers,This program covers residents of All US states and terr
 Remaining Hopeful,24hours_status_is,False
 Remaining Hopeful,serves,"['all ages', 'all care phases', 'recently diagnosed', 'on-treatment', 'cancer', 'individuals', 'families'], []"
 Remaining Hopeful,socials_are,"https://www.facebook.com/cancersurvivorship, https://www.twitter.com/@canceradvocacy"
-Remaining Hopeful,is_open_from,"?, ?, ?, ?, ?, ?, ?"
+Remaining Hopeful,is_open_from,We are unsure when they are open
 Stanford Children's Health Teen Van,main_services_are,"['substance abuse counseling', 'medical care', 'primary care', 'checkup & test', 'pregnancy tests', 'prevent & treat', 'vaccinations', 'mental health care', 'mental health evaluation', 'sexual and reproductive health', 'womens health', 'std/sti treatment & prevention']"
 Stanford Children's Health Teen Van,phone_number_is,650-736-7172
 Stanford Children's Health Teen Van,website_is,https://www.stanfordchildrens.org/en/service/teen-van
@@ -2075,7 +2075,7 @@ Stanford Children's Health Teen Van,covers,This program covers residents of the 
 Stanford Children's Health Teen Van,24hours_status_is,False
 Stanford Children's Health Teen Van,serves,"['young adults', 'teens', 'students', 'low-income', 'uninsured', 'underinsured'], ['This program helps people who are 12-25 years old.']"
 Stanford Children's Health Teen Van,socials_are,"https://www.facebook.com/stanfordchildrens, https://www.twitter.com/@StanfordChild"
-Stanford Children's Health Teen Van,is_open_from,"?, ?, ?, ?, ?, ?, ?"
+Stanford Children's Health Teen Van,is_open_from,We are unsure when they are open
 Disaster Distress Helpline,main_services_are,"['disaster response', 'counseling', 'mental health care', 'navigating the system', 'help hotlines']"
 Disaster Distress Helpline,other_services_are,['translation & interpretation']
 Disaster Distress Helpline,phone_number_is,800-985-5990
@@ -2106,7 +2106,7 @@ Tru Evolution Support Groups,24hours_status_is,False
 Tru Evolution Support Groups,serves,"['adults', 'young adults', 'teens', 'seniors', 'lgbtqia+', 'infectious disease', 'hiv/aids', 'limited english'], ['This program serves LGBTQ+, and HIV/AIDS positive persons. See the specific details for each group.']"
 Tru Evolution Support Groups,socials_are,https://www.facebook.com/truevolutioninc
 Tru Evolution Support Groups,coordinates_are,"33.9806434, -117.3817193"
-Tru Evolution Support Groups,is_open_from,"?, ?, ?, ?, ?, ?, ?"
+Tru Evolution Support Groups,is_open_from,We are unsure when they are open
 The Heart Matters Foster Family Agency,main_services_are,"['residential housing', 'short-term housing', 'daily life skills', 'mental health care', 'counseling', 'financial education', 'navigating the system', 'case management', 'support network', 'skills & training', 'help find work']"
 The Heart Matters Foster Family Agency,phone_number_is,909-906-1023
 The Heart Matters Foster Family Agency,website_is,https://www.heartmattersffa.org/blank
