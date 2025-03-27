@@ -1,206 +1,230 @@
 Subject,Relationship,Object
-(For Disasters) Disaster Relief And Recovery,main_services_are,"['disaster response', 'emergency food', 'temporary shelter', 'psychiatric emergency services', 'help find housing', 'medical care', 'mental health care', 'financial assistance', 'disaster preparedness & response']"
-(For Disasters) Disaster Relief And Recovery,other_services_are,"['psychiatric emergency services', 'mental health care']"
-(For Disasters) Disaster Relief And Recovery,phone_number_is,888-831-0031
-(For Disasters) Disaster Relief And Recovery,website_is,https://www.redcross.org/local/california/southern-california.html
-(For Disasters) Disaster Relief And Recovery,is_located_at,"6235 South Riverside Avenue, Colton, CA 92507"
-(For Disasters) Disaster Relief And Recovery,url_is_located_at,"https://www.google.com/maps/?q=6235+South+Riverside+Avenue,+Colton,+CA+92507/"
-(For Disasters) Disaster Relief And Recovery,has_an_availability_status_of,available
-(For Disasters) Disaster Relief And Recovery,description_is,"The American Red Cross Disaster Relief and Recovery program provides emergency aid, advice, and assistance to help those recovering from a disaster.This program provides:- Temporary shelter/housing - Mental Health Assistance- Financial Assistance- Health Services- Disaster-related assistance"
-(For Disasters) Disaster Relief And Recovery,speaks,"['English', 'Spanish']"
-(For Disasters) Disaster Relief And Recovery,costs,Free
-(For Disasters) Disaster Relief And Recovery,has_Google_Reviews,True
-(For Disasters) Disaster Relief And Recovery,covers,"This program covers residents of the following counties: Imperial County, CA, Orange County, CA, Riverside County, CA, San Bernardino County, CA and San Diego County, CA."
-(For Disasters) Disaster Relief And Recovery,zipcode_is,92507.0
-(For Disasters) Disaster Relief And Recovery,24hours_status_is,False
-(For Disasters) Disaster Relief And Recovery,serves,"['all ages', 'limited english', 'domestic violence survivors', 'natural disaster survivors', 'in crisis'], []"
-(For Disasters) Disaster Relief And Recovery,socials_are,"https://www.facebook.com/redcross, https://www.twitter.com/@redcross"
-(For Disasters) Disaster Relief And Recovery,coordinates_are,"34.0209513, -117.3635299"
-(For Disasters) Disaster Relief And Recovery,is_open_from,"8:00 AM - 5:00 PM  PST, 8:00 AM - 5:00 PM  PST, 8:00 AM - 5:00 PM  PST, 8:00 AM - 5:00 PM  PST, 8:00 AM - 5:00 PM  PST, Closed, Closed"
-(For heat) Cooling Center,main_services_are,['weather relief']
-(For heat) Cooling Center,phone_number_is,951-351-6142
-(For heat) Cooling Center,website_is,https://www.riversideca.gov/park_rec/facilities-parks/indoor-facilities/community-centers
-(For heat) Cooling Center,is_located_at,"3091 Esperanza Street, Riverside, CA 92504"
-(For heat) Cooling Center,url_is_located_at,"https://www.google.com/maps/?q=3091+Esperanza+Street,+Riverside,+CA+92504/"
-(For heat) Cooling Center,has_an_availability_status_of,available
-(For heat) Cooling Center,description_is,The Ysmael Villegas Community Center helps residents cope safely with extreme weather conditions when the heat index is predicted to be dangerously high.This program provides:– Drop-in for temporary relief from the heatHours of operations are subject to change. Please call the Cooling Center for more information.
-(For heat) Cooling Center,speaks,['English']
-(For heat) Cooling Center,costs,Free
-(For heat) Cooling Center,has_Google_Reviews,True
-(For heat) Cooling Center,covers,"This program covers residents of the following counties: Riverside County, CA."
-(For heat) Cooling Center,zipcode_is,92504.0
-(For heat) Cooling Center,24hours_status_is,False
-(For heat) Cooling Center,serves,"['anyone in need', 'all ages'], ['Anyone can access this program.']"
-(For heat) Cooling Center,socials_are,https://www.facebook.com/CityofRiverside.ParksandRecreation/
-(For heat) Cooling Center,coordinates_are,"33.9342857, -117.3973585"
-(For heat) Cooling Center,is_open_from,"11:00 AM - 5:00 PM  PST, 11:00 AM - 5:00 PM  PST, 11:00 AM - 5:00 PM  PST, 11:00 AM - 5:00 PM  PST, 11:00 AM - 5:00 PM  PST, Closed, Closed"
-Emergency Shelters,main_services_are,['temporary shelter']
-Emergency Shelters,other_services_are,"['meals', 'help find housing', 'personal hygiene', 'case management', 'help find work']"
-Emergency Shelters,phone_number_is,951-266-9158
-Emergency Shelters,website_is,https://www.fpriverside.org/emergency-shelter
-Emergency Shelters,is_located_at,"7177 Potomac Street, Riverside, CA 92504"
-Emergency Shelters,url_is_located_at,"https://www.google.com/maps/?q=7177+Potomac+Street,+Riverside,+CA+92504/"
-Emergency Shelters,has_an_availability_status_of,available
-Emergency Shelters,description_is,Family Promise of Riverside Emergency Shelters program and warm hospitality is the foundation of the Family Promise model.This program provides:- Temporary shelterServices provided in the shelter's can include:- Case management- Food- Showers- Help find housing- Help find workShelter address' rotate. Please call for more details about current shelters.
-Emergency Shelters,speaks,['English']
-Emergency Shelters,costs,Free
-Emergency Shelters,has_Google_Reviews,True
-Emergency Shelters,covers,"This program covers residents of the following cities: Riverside, CA."
-Emergency Shelters,zipcode_is,92504.0
-Emergency Shelters,24hours_status_is,False
-Emergency Shelters,serves,"['all ages', 'families', 'with children', 'homeless'], ['Must care for children under the age of 18.']"
-Emergency Shelters,socials_are,"https://www.facebook.com/FamilyPromiseRiverside/, https://www.twitter.com/@fpriverside"
-Emergency Shelters,coordinates_are,"33.9439846, -117.4030955"
-Emergency Shelters,is_open_from,"9:00 AM - 5:00 PM, 9:00 AM - 5:00 PM, 9:00 AM - 5:00 PM, 9:00 AM - 5:00 PM, 9:00 AM - 5:00 PM, 9:00 AM - 5:00 PM, 9:00 AM - 5:00 PM"
-Access Center,main_services_are,['temporary shelter']
-Access Center,other_services_are,"['help find housing', 'transportation', 'addiction & recovery', 'substance abuse counseling', 'daily life skills', 'mental health care', 'understand government programs', 'financial education', 'computer or internet access', 'navigating the system', 'help fill out forms', 'skills & training', 'help find work', 'advocacy & legal aid']"
-Access Center,phone_number_is,951-826-3938
-Access Center,website_is,https://riversideca.gov/endhomelessness/home.asp
-Access Center,is_located_at,"2880 Hulen Place, Riverside, CA 92507"
-Access Center,url_is_located_at,"https://www.google.com/maps/?q=2880+Hulen+Place,+Riverside,+CA+92507/"
-Access Center,has_an_availability_status_of,available
-Access Center,description_is,The City's Access Center serves as the entry point and service hub of the City's continuum of care providing access to a wide-range of services to prevent homelessness.This program provides:- Homeless street outreach- Emergency shelter- Housing placement- Employment development- Benefits enrollment- Health care access- Mental health services- Substance abuse recovery- Veteran's services- Life skills training- Financial counseling- Legal services- Client stabilization resources- Computer resources- Transportation assistance- Basic needs emergency assistance- Homeless prevention resources
-Access Center,speaks,['English']
-Access Center,costs,Free
-Access Center,has_Google_Reviews,True
-Access Center,covers,"This program covers residents of the following counties: Riverside County, CA."
-Access Center,zipcode_is,92507.0
-Access Center,24hours_status_is,False
-Access Center,serves,"['all ages', 'veterans', 'individuals', 'homeless', 'near homeless', 'substance dependency'], ['This porgram serves homeless individuals.']"
-Access Center,socials_are,"https://www.facebook.com/CityofRiverside, https://www.twitter.com/@riversidecagov"
-Access Center,coordinates_are,"33.9869603, -117.3535424"
-Access Center,is_open_from,"8:00 AM - 4:30 PM  PST, 8:00 AM - 4:30 PM  PST, 8:00 AM - 4:30 PM  PST, 8:00 AM - 4:30 PM  PST, 8:00 AM - 4:30 PM  PST, Closed, Closed"
-Operations Safe House Young Adult Emergency Services,main_services_are,['temporary shelter']
-Operations Safe House Young Adult Emergency Services,phone_number_is,951-515-6155
-Operations Safe House Young Adult Emergency Services,website_is,https://operationsafehouse.org/youth-emergency-services/
-Operations Safe House Young Adult Emergency Services,is_located_at,"9685 Hayes Street, Riverside, CA 92503"
-Operations Safe House Young Adult Emergency Services,url_is_located_at,"https://www.google.com/maps/?q=9685+Hayes+Street,+Riverside,+CA+92503/"
-Operations Safe House Young Adult Emergency Services,has_an_availability_status_of,available
-Operations Safe House Young Adult Emergency Services,description_is,"Operation SafeHouse is a 24-hour emergency shelter whose mission is to serve runaway, homeless, and at-risk youth ages 11 - 17 in Riverside County. This program provides:- Three-weeks of emergency shelter- Nutritious meals- Counseling- Attempts at family reunification- On-site education program- Aftercare- 24- hour toll-free crisis line"
-Operations Safe House Young Adult Emergency Services,speaks,['English']
-Operations Safe House Young Adult Emergency Services,costs,Free
-Operations Safe House Young Adult Emergency Services,has_Google_Reviews,True
-Operations Safe House Young Adult Emergency Services,covers,"This program covers residents of the following cities: Riverside, CA."
-Operations Safe House Young Adult Emergency Services,zipcode_is,92503.0
-Operations Safe House Young Adult Emergency Services,24hours_status_is,True
-Operations Safe House Young Adult Emergency Services,serves,"['teens', 'children', 'runaways', 'in crisis'], ['This program helps people who are 11 to 17 years old.']"
-Operations Safe House Young Adult Emergency Services,socials_are,"https://www.facebook.com/operationsafehouse, https://www.twitter.com/https://twitter.com/OpSafeHouse"
-Operations Safe House Young Adult Emergency Services,coordinates_are,"33.9201939, -117.4514445"
-(for heat) Cooling Center,main_services_are,"['weather relief', 'community support services']"
-(for heat) Cooling Center,phone_number_is,951-351-6135
-(for heat) Cooling Center,website_is,https://riversideca.galaxydigital.com/agency/detail/?agency_id=95361
-(for heat) Cooling Center,is_located_at,"7950 Philbin Avenue, Riverside, CA 92503"
-(for heat) Cooling Center,url_is_located_at,"https://www.google.com/maps/?q=7950+Philbin+Avenue,+Riverside,+CA+92503/"
-(for heat) Cooling Center,has_an_availability_status_of,available
-(for heat) Cooling Center,description_is,"The Arlanza Community Center provides a cooling center for those who are disabled, elderly, or otherwise vulnerable to excessive heat.This program provides:- Relief from excessive heatThe cooling center generally activates when temperatures reach 100 degree F. The center generally closes during the day, but stays open continuously on days with excessive heat. Please call for more info."
-(for heat) Cooling Center,speaks,"['English', 'Spanish']"
-(for heat) Cooling Center,costs,Free
-(for heat) Cooling Center,has_Google_Reviews,True
-(for heat) Cooling Center,covers,"This program covers residents of the following cities: Riverside, CA."
-(for heat) Cooling Center,zipcode_is,92503.0
-(for heat) Cooling Center,24hours_status_is,False
-(for heat) Cooling Center,serves,"['anyone in need', 'all ages', 'all disabilities'], ['Anyone can access this program.']"
-(for heat) Cooling Center,socials_are,"https://www.facebook.com/CityofRiverside, https://www.twitter.com/@riversidecagov"
-(for heat) Cooling Center,coordinates_are,"33.9384788, -117.4597453"
-(for heat) Cooling Center,is_open_from,"11:00 AM - 5:00 PM  PST, 11:00 AM - 5:00 PM  PST, 11:00 AM - 5:00 PM  PST, 11:00 AM - 5:00 PM  PST, 11:00 AM - 5:00 PM  PST, Closed, Closed"
-(for heat) Cooling Center,main_services_are,"['weather relief', 'community support services']"
-(for heat) Cooling Center,phone_number_is,951-351-8800
-(for heat) Cooling Center,website_is,https://jgc4seniors.com/cooling-center-will-open/
-(for heat) Cooling Center,is_located_at,"5257 Sierra Street, Riverside, CA 92504"
-(for heat) Cooling Center,url_is_located_at,"https://www.google.com/maps/?q=5257+Sierra+Street,+Riverside,+CA+92504/"
-(for heat) Cooling Center,has_an_availability_status_of,available
-(for heat) Cooling Center,description_is,The Janet Goeske Foundation provides a cooling center to seniors who are at risk of health issues caused by excessive heat. The cooling center opens when it is 95 degree Fahrenheit or above.This program provides:- Relief from excessive heat
-(for heat) Cooling Center,speaks,['English']
-(for heat) Cooling Center,costs,Free
-(for heat) Cooling Center,has_Google_Reviews,True
-(for heat) Cooling Center,covers,"This program covers residents of the following cities: Riverside, CA."
-(for heat) Cooling Center,zipcode_is,92504.0
-(for heat) Cooling Center,24hours_status_is,False
-(for heat) Cooling Center,serves,"['seniors', 'all disabilities'], ['This program helps people who are older than 49 years old.', 'This program helps those in need of respite from excessive heat.']"
-(for heat) Cooling Center,socials_are,"https://www.facebook.com/JanetGoeskeFoundation, https://www.twitter.com/@JGF4Seniors"
-(for heat) Cooling Center,coordinates_are,"33.9503363, -117.4177486"
-(for heat) Cooling Center,is_open_from,"11:00 AM - 5:00 PM  PST, 11:00 AM - 5:00 PM  PST, 11:00 AM - 5:00 PM  PST, 11:00 AM - 5:00 PM  PST, 11:00 AM - 5:00 PM  PST, Closed, Closed"
-(for heat) Cooling Center,main_services_are,['weather relief']
-(for heat) Cooling Center,phone_number_is,951-351-6131
-(for heat) Cooling Center,website_is,https://riversideca.gov/park_rec/facilities-parks/indoor-facilities/senior-centers
-(for heat) Cooling Center,is_located_at,"5215 La Sierra Avenue, Riverside, CA 92505"
-(for heat) Cooling Center,url_is_located_at,"https://www.google.com/maps/?q=5215+La+Sierra+Avenue,+Riverside,+CA+92505/"
-(for heat) Cooling Center,has_an_availability_status_of,available
-(for heat) Cooling Center,description_is,La Sierra Senior Center helps residents cope safely with extreme weather conditions when the heat index is predicted to be dangerously high.This program provides:– Drop-in for temporary relief from the heatHours of operations are subject to change. Please call the Cool Center for more information.
-(for heat) Cooling Center,speaks,['English']
-(for heat) Cooling Center,costs,Free
-(for heat) Cooling Center,has_Google_Reviews,True
-(for heat) Cooling Center,covers,"This program covers residents of the following counties: Riverside County, CA."
-(for heat) Cooling Center,zipcode_is,92505.0
-(for heat) Cooling Center,24hours_status_is,False
-(for heat) Cooling Center,serves,"['anyone in need', 'all ages'], ['Anyone can access this program.']"
-(for heat) Cooling Center,socials_are,https://www.facebook.com/CityofRiverside.ParksandRecreation/
-(for heat) Cooling Center,coordinates_are,"33.927345, -117.491992"
-(for heat) Cooling Center,is_open_from,"11:00 AM - 5:00 PM  PST, 11:00 AM - 5:00 PM  PST, 11:00 AM - 5:00 PM  PST, 11:00 AM - 5:00 PM  PST, 11:00 AM - 5:00 PM  PST, Closed, Closed"
-(for heat) Cooling Center,main_services_are,"['temporary shelter', 'weather relief', 'community support services']"
-(for heat) Cooling Center,phone_number_is,951-351-6131
-(for heat) Cooling Center,website_is,https://www.riversideca.gov/park_rec/facilities-parks/indoor-facilities/community-centers
-(for heat) Cooling Center,is_located_at,"5215 La Sierra Avenue, Riverside, CA 92505"
-(for heat) Cooling Center,url_is_located_at,"https://www.google.com/maps/?q=5215+La+Sierra+Avenue,+Riverside,+CA+92505/"
-(for heat) Cooling Center,has_an_availability_status_of,available
-(for heat) Cooling Center,description_is,The La Sierra Senior Center serves as a cooling center to help residents cope safely with extreme weather conditions when the heat index is predicted to be dangerously high.This program provides:– Drop-in for temporary relief from the heat
-(for heat) Cooling Center,speaks,['English']
-(for heat) Cooling Center,costs,Free
-(for heat) Cooling Center,has_Google_Reviews,True
-(for heat) Cooling Center,covers,"This program covers residents of the following counties: Riverside County, CA."
-(for heat) Cooling Center,zipcode_is,92505.0
-(for heat) Cooling Center,24hours_status_is,False
-(for heat) Cooling Center,serves,"['anyone in need', 'all ages', 'individuals', 'families', 'homeless'], ['This program is available to anyone in need.']"
-(for heat) Cooling Center,coordinates_are,"33.927345, -117.491992"
-(for heat) Cooling Center,is_open_from,"11:00 AM - 5:00 PM  PST, 11:00 AM - 5:00 PM  PST, 11:00 AM - 5:00 PM  PST, 11:00 AM - 5:00 PM  PST, 11:00 AM - 5:00 PM  PST, Closed, Closed"
-Path of Life Emergency Shelter Program,main_services_are,"['temporary shelter', 'help hotlines']"
-Path of Life Emergency Shelter Program,other_services_are,"['meals', 'personal care items', 'personal hygiene', 'navigating the system', 'spiritual support', 'identification recovery']"
-Path of Life Emergency Shelter Program,phone_number_is,951-462-9822
-Path of Life Emergency Shelter Program,website_is,https://www.thepathoflife.com/shelter
-Path of Life Emergency Shelter Program,is_located_at,"2840 Hulen Place, Riverside, CA 92507"
-Path of Life Emergency Shelter Program,url_is_located_at,"https://www.google.com/maps/?q=2840+Hulen+Place,+Riverside,+CA+92507/"
-Path of Life Emergency Shelter Program,has_an_availability_status_of,available
-Path of Life Emergency Shelter Program,description_is,"The Community Shelter Program is a 30-60 day emergency homeless shelter that serves adult individuals experiencing housing crises by providing an immediate exit off of the street into temporary housing along with wraparound support services.This program provides:- Temporary shelterShelter guests are also provided with:- Assistance in obtaining important documents- Job readiness training- Housing referrals- Computer workshops- Counseling- Nutritious meals- Hygiene supplies- Showers- Social, spiritual, and emotional support- Case managementIntakes are conducted daily from 10:00 a.m. to 5:00 p.m. based on bed availability. Please call to schedule an appointment."
-Path of Life Emergency Shelter Program,speaks,"['English', 'Spanish']"
-Path of Life Emergency Shelter Program,costs,Free
-Path of Life Emergency Shelter Program,has_Google_Reviews,True
-Path of Life Emergency Shelter Program,covers,"This program covers residents of the following counties: Riverside County, CA and San Bernardino County, CA."
-Path of Life Emergency Shelter Program,zipcode_is,92507.0
-Path of Life Emergency Shelter Program,24hours_status_is,True
-Path of Life Emergency Shelter Program,serves,"['adults 18+', 'individuals', 'homeless', 'limited english', 'emergency'], ['This program helps people who are older than 17 years old.', 'Must be experiencing a housing crisis.']"
-Path of Life Emergency Shelter Program,socials_are,"https://www.facebook.com/POLMCommunityShelter/, https://www.twitter.com/@pol_ministries"
-Path of Life Emergency Shelter Program,coordinates_are,"33.9871825, -117.3534851"
-Norton Younglove Community Center Cool/Warm Center,main_services_are,"['temporary shelter', 'weather relief', 'community support services']"
-Norton Younglove Community Center Cool/Warm Center,other_services_are,"['emergency food', 'food delivery', 'food pantry', 'meals', 'nutrition education', 'clothing', 'help find work']"
-Norton Younglove Community Center Cool/Warm Center,phone_number_is,951-241-7221
-Norton Younglove Community Center Cool/Warm Center,website_is,https://nycchighgrove.com/
-Norton Younglove Community Center Cool/Warm Center,is_located_at,"459 Center Street, Riverside, CA 92507"
-Norton Younglove Community Center Cool/Warm Center,url_is_located_at,"https://www.google.com/maps/?q=459+Center+Street,+Riverside,+CA+92507/"
-Norton Younglove Community Center Cool/Warm Center,has_an_availability_status_of,available
-Norton Younglove Community Center Cool/Warm Center,description_is,"When the temperature climbs, Norton Younglove Community Center springs into action as a designated “Cool Center.” From June 1st to October 15th, we welcome vulnerable individuals, seniors, the disabled, and anyone seeking temporary relief from the scorching heat. Our air-conditioned facility provides a safe haven where you can beat the heat and stay comfortable. Remember, your well-being matters to us! Stay hydrated, take breaks, and enjoy the cool respite with us.🌞🏢🌟"
-Norton Younglove Community Center Cool/Warm Center,speaks,"['English', 'Spanish']"
-Norton Younglove Community Center Cool/Warm Center,costs,Free
-Norton Younglove Community Center Cool/Warm Center,has_Google_Reviews,True
-Norton Younglove Community Center Cool/Warm Center,covers,"This program covers residents of the following counties: Riverside County, CA."
-Norton Younglove Community Center Cool/Warm Center,zipcode_is,92507.0
-Norton Younglove Community Center Cool/Warm Center,24hours_status_is,False
-Norton Younglove Community Center Cool/Warm Center,serves,"['anyone in need', 'all ages', 'individuals', 'families', 'homeless', 'low-income'], ['This program is available to anyone in need.']"
-Norton Younglove Community Center Cool/Warm Center,socials_are,https://www.facebook.com/nycchighgrove
-Norton Younglove Community Center Cool/Warm Center,coordinates_are,"34.0160207, -117.3209281"
-Norton Younglove Community Center Cool/Warm Center,is_open_from,"8:00 AM - 4:00 PM  PST, 8:00 AM - 4:00 PM  PST, 8:00 AM - 4:00 PM  PST, 8:00 AM - 4:00 PM  PST, 8:00 AM - 2:00 PM  PST, Closed, Closed"
-Riverside University Health System HHOPE,main_services_are,"['temporary shelter', 'weather relief', 'meals', 'personal hygiene', 'mental health care', 'community support services', 'navigating the system', 'peer support']"
-Riverside University Health System HHOPE,phone_number_is,951-715-5050
-Riverside University Health System HHOPE,website_is,https://www.ruhealth.org/behavioral-health/housing
-Riverside University Health System HHOPE,is_located_at,"2800 Hulen Place, Riverside, CA 92507"
-Riverside University Health System HHOPE,url_is_located_at,"https://www.google.com/maps/?q=2800+Hulen+Place,+Riverside,+CA+92507/"
-Riverside University Health System HHOPE,has_an_availability_status_of,available
-Riverside University Health System HHOPE,description_is,"Safe Haven Welcome Centers provides peer to peer engagement, linkage to community resources, and daily basic needs including food, showers, and laundry facilities.This program provides:- Peer to peer engagement and support- Linkages to community resources- Support with mental health services - Showers- Laundry facilities- Weather relief- Meals- Access to Nationwide Courtesy Phone"
-Riverside University Health System HHOPE,speaks,['English']
-Riverside University Health System HHOPE,costs,Free
-Riverside University Health System HHOPE,has_Google_Reviews,True
-Riverside University Health System HHOPE,covers,"This program covers residents of the following counties: Riverside County, CA."
-Riverside University Health System HHOPE,zipcode_is,92507.0
-Riverside University Health System HHOPE,24hours_status_is,False
-Riverside University Health System HHOPE,serves,"['adults 18+', 'homeless', 'near homeless', 'all mental health'], ['This program is open to anyone.']"
-Riverside University Health System HHOPE,coordinates_are,"33.9874923, -117.3537087"
-Riverside University Health System HHOPE,is_open_from,"7:00 AM - 7:00 PM  PST, 7:00 AM - 7:00 PM  PST, 7:00 AM - 7:00 PM  PST, 7:00 AM - 7:00 PM  PST, 7:00 AM - 7:00 PM  PST, Closed, Closed"
+Disaster Relief And Recovery (American Red Cross Southern California Region),main_services_are,"['disaster response', 'emergency food', 'temporary shelter', 'psychiatric emergency services', 'help find housing', 'medical care', 'mental health care', 'financial assistance', 'disaster preparedness & response']"
+Disaster Relief And Recovery (American Red Cross Southern California Region),other_services_are,"['psychiatric emergency services', 'mental health care']"
+Disaster Relief And Recovery (American Red Cross Southern California Region),phone_number_is,888-831-0031
+Disaster Relief And Recovery (American Red Cross Southern California Region),website_is,https://www.redcross.org/local/california/southern-california.html
+Disaster Relief And Recovery (American Red Cross Southern California Region),is_located_at,"6235 South Riverside Avenue, Colton, CA 92507"
+Disaster Relief And Recovery (American Red Cross Southern California Region),url_is_located_at,"https://www.google.com/maps/?q=6235+South+Riverside+Avenue,+Colton,+CA+92507/"
+Disaster Relief And Recovery (American Red Cross Southern California Region),has_an_availability_status_of,available
+Disaster Relief And Recovery (American Red Cross Southern California Region),description_is,"The American Red Cross Disaster Relief and Recovery program provides emergency aid, advice, and assistance to help those recovering from a disaster.This program provides:- Temporary shelter/housing - Mental Health Assistance- Financial Assistance- Health Services- Disaster-related assistance"
+Disaster Relief And Recovery (American Red Cross Southern California Region),speaks,"['English', 'Spanish']"
+Disaster Relief And Recovery (American Red Cross Southern California Region),costs,Free
+Disaster Relief And Recovery (American Red Cross Southern California Region),has_Google_Reviews,False
+Disaster Relief And Recovery (American Red Cross Southern California Region),covers,"This program covers residents of the following counties: Imperial County, CA, Orange County, CA, Riverside County, CA, San Bernardino County, CA and San Diego County, CA."
+Disaster Relief And Recovery (American Red Cross Southern California Region),zipcode_is,92507.0
+Disaster Relief And Recovery (American Red Cross Southern California Region),24hours_status_is,False
+Disaster Relief And Recovery (American Red Cross Southern California Region),has_a_Google_Rating_of,0
+Disaster Relief And Recovery (American Red Cross Southern California Region),offers,Shelter
+Disaster Relief And Recovery (American Red Cross Southern California Region),serves,"['all ages', 'limited english', 'domestic violence survivors', 'natural disaster survivors', 'in crisis'], []"
+Disaster Relief And Recovery (American Red Cross Southern California Region),socials_are,"https://www.facebook.com/redcross, https://www.twitter.com/@redcross"
+Disaster Relief And Recovery (American Red Cross Southern California Region),coordinates_are,"34.0209513, -117.3635299"
+Disaster Relief And Recovery (American Red Cross Southern California Region),is_open_from,"11:00AM - 8:00PM, 11:00AM - 8:00PM, 11:00AM - 8:00PM, 11:00AM - 8:00PM, 11:00AM - 8:00PM, Closed, Closed"
+Cooling Center (Ysmael Villegas Community Center),main_services_are,['weather relief']
+Cooling Center (Ysmael Villegas Community Center),phone_number_is,951-351-6142
+Cooling Center (Ysmael Villegas Community Center),website_is,https://www.riversideca.gov/park_rec/facilities-parks/indoor-facilities/community-centers
+Cooling Center (Ysmael Villegas Community Center),is_located_at,"3091 Esperanza Street, Riverside, CA 92504"
+Cooling Center (Ysmael Villegas Community Center),url_is_located_at,"https://www.google.com/maps/?q=3091+Esperanza+Street,+Riverside,+CA+92504/"
+Cooling Center (Ysmael Villegas Community Center),has_an_availability_status_of,available
+Cooling Center (Ysmael Villegas Community Center),description_is,The Ysmael Villegas Community Center helps residents cope safely with extreme weather conditions when the heat index is predicted to be dangerously high.This program provides:– Drop-in for temporary relief from the heatHours of operations are subject to change. Please call the Cooling Center for more information.
+Cooling Center (Ysmael Villegas Community Center),speaks,['English']
+Cooling Center (Ysmael Villegas Community Center),costs,Free
+Cooling Center (Ysmael Villegas Community Center),has_Google_Reviews,False
+Cooling Center (Ysmael Villegas Community Center),covers,"This program covers residents of the following counties: Riverside County, CA."
+Cooling Center (Ysmael Villegas Community Center),zipcode_is,92504.0
+Cooling Center (Ysmael Villegas Community Center),24hours_status_is,False
+Cooling Center (Ysmael Villegas Community Center),has_a_Google_Rating_of,0
+Cooling Center (Ysmael Villegas Community Center),offers,Shelter
+Cooling Center (Ysmael Villegas Community Center),serves,"['anyone in need', 'all ages'], ['Anyone can access this program.']"
+Cooling Center (Ysmael Villegas Community Center),socials_are,https://www.facebook.com/CityofRiverside.ParksandRecreation/
+Cooling Center (Ysmael Villegas Community Center),coordinates_are,"33.9342857, -117.3973585"
+Cooling Center (Ysmael Villegas Community Center),is_open_from,"2:00PM - 8:00PM, 2:00PM - 8:00PM, 2:00PM - 8:00PM, 2:00PM - 8:00PM, 2:00PM - 8:00PM, Closed, Closed"
+Emergency Shelters (Family Promise of Riverside),main_services_are,['temporary shelter']
+Emergency Shelters (Family Promise of Riverside),other_services_are,"['meals', 'help find housing', 'personal hygiene', 'case management', 'help find work']"
+Emergency Shelters (Family Promise of Riverside),phone_number_is,951-266-9158
+Emergency Shelters (Family Promise of Riverside),website_is,https://www.fpriverside.org/emergency-shelter
+Emergency Shelters (Family Promise of Riverside),is_located_at,"7177 Potomac Street, Riverside, CA 92504"
+Emergency Shelters (Family Promise of Riverside),url_is_located_at,"https://www.google.com/maps/?q=7177+Potomac+Street,+Riverside,+CA+92504/"
+Emergency Shelters (Family Promise of Riverside),has_an_availability_status_of,available
+Emergency Shelters (Family Promise of Riverside),description_is,Family Promise of Riverside Emergency Shelters program and warm hospitality is the foundation of the Family Promise model.This program provides:- Temporary shelterServices provided in the shelter's can include:- Case management- Food- Showers- Help find housing- Help find workShelter address' rotate. Please call for more details about current shelters.
+Emergency Shelters (Family Promise of Riverside),speaks,['English']
+Emergency Shelters (Family Promise of Riverside),costs,Free
+Emergency Shelters (Family Promise of Riverside),has_Google_Reviews,False
+Emergency Shelters (Family Promise of Riverside),covers,"This program covers residents of the following cities: Riverside, CA."
+Emergency Shelters (Family Promise of Riverside),zipcode_is,92504.0
+Emergency Shelters (Family Promise of Riverside),24hours_status_is,False
+Emergency Shelters (Family Promise of Riverside),has_a_Google_Rating_of,0
+Emergency Shelters (Family Promise of Riverside),offers,Shelter
+Emergency Shelters (Family Promise of Riverside),serves,"['all ages', 'families', 'with children', 'homeless'], ['Must care for children under the age of 18.']"
+Emergency Shelters (Family Promise of Riverside),socials_are,"https://www.facebook.com/FamilyPromiseRiverside/, https://www.twitter.com/@fpriverside"
+Emergency Shelters (Family Promise of Riverside),coordinates_are,"33.9439846, -117.4030955"
+Emergency Shelters (Family Promise of Riverside),is_open_from,"12:00PM - 8:00PM, 12:00PM - 8:00PM, 12:00PM - 8:00PM, 12:00PM - 8:00PM, 12:00PM - 8:00PM, 12:00PM - 8:00PM, 12:00PM - 8:00PM"
+Access Center (City of Riverside),main_services_are,['temporary shelter']
+Access Center (City of Riverside),other_services_are,"['help find housing', 'transportation', 'addiction & recovery', 'substance abuse counseling', 'daily life skills', 'mental health care', 'understand government programs', 'financial education', 'computer or internet access', 'navigating the system', 'help fill out forms', 'skills & training', 'help find work', 'advocacy & legal aid']"
+Access Center (City of Riverside),phone_number_is,951-826-3938
+Access Center (City of Riverside),website_is,https://riversideca.gov/endhomelessness/home.asp
+Access Center (City of Riverside),is_located_at,"2880 Hulen Place, Riverside, CA 92507"
+Access Center (City of Riverside),url_is_located_at,"https://www.google.com/maps/?q=2880+Hulen+Place,+Riverside,+CA+92507/"
+Access Center (City of Riverside),has_an_availability_status_of,available
+Access Center (City of Riverside),description_is,The City's Access Center serves as the entry point and service hub of the City's continuum of care providing access to a wide-range of services to prevent homelessness.This program provides:- Homeless street outreach- Emergency shelter- Housing placement- Employment development- Benefits enrollment- Health care access- Mental health services- Substance abuse recovery- Veteran's services- Life skills training- Financial counseling- Legal services- Client stabilization resources- Computer resources- Transportation assistance- Basic needs emergency assistance- Homeless prevention resources
+Access Center (City of Riverside),speaks,['English']
+Access Center (City of Riverside),costs,Free
+Access Center (City of Riverside),has_Google_Reviews,False
+Access Center (City of Riverside),covers,"This program covers residents of the following counties: Riverside County, CA."
+Access Center (City of Riverside),zipcode_is,92507.0
+Access Center (City of Riverside),24hours_status_is,False
+Access Center (City of Riverside),has_a_Google_Rating_of,0
+Access Center (City of Riverside),offers,Shelter
+Access Center (City of Riverside),serves,"['all ages', 'veterans', 'individuals', 'homeless', 'near homeless', 'substance dependency'], ['This porgram serves homeless individuals.']"
+Access Center (City of Riverside),socials_are,"https://www.facebook.com/CityofRiverside, https://www.twitter.com/@riversidecagov"
+Access Center (City of Riverside),coordinates_are,"33.9869603, -117.3535424"
+Access Center (City of Riverside),is_open_from,"11:00AM - 7:30PM, 11:00AM - 7:30PM, 11:00AM - 7:30PM, 11:00AM - 7:30PM, 11:00AM - 7:30PM, Closed, Closed"
+Youth Emergency Services (SafeHouse),main_services_are,['temporary shelter']
+Youth Emergency Services (SafeHouse),phone_number_is,951-515-6155
+Youth Emergency Services (SafeHouse),website_is,https://operationsafehouse.org/youth-emergency-services/
+Youth Emergency Services (SafeHouse),is_located_at,"9685 Hayes Street, Riverside, CA 92503"
+Youth Emergency Services (SafeHouse),url_is_located_at,"https://www.google.com/maps/?q=9685+Hayes+Street,+Riverside,+CA+92503/"
+Youth Emergency Services (SafeHouse),has_an_availability_status_of,available
+Youth Emergency Services (SafeHouse),description_is,"Operation SafeHouse is a 24-hour emergency shelter whose mission is to serve runaway, homeless, and at-risk youth ages 11 - 17 in Riverside County. This program provides:- Three-weeks of emergency shelter- Nutritious meals- Counseling- Attempts at family reunification- On-site education program- Aftercare- 24- hour toll-free crisis line"
+Youth Emergency Services (SafeHouse),speaks,['English']
+Youth Emergency Services (SafeHouse),costs,Free
+Youth Emergency Services (SafeHouse),has_Google_Reviews,True
+Youth Emergency Services (SafeHouse),covers,"This program covers residents of the following cities: Riverside, CA."
+Youth Emergency Services (SafeHouse),zipcode_is,92503.0
+Youth Emergency Services (SafeHouse),24hours_status_is,True
+Youth Emergency Services (SafeHouse),has_a_Google_Rating_of,3.4
+Youth Emergency Services (SafeHouse),offers,Shelter
+Youth Emergency Services (SafeHouse),serves,"['teens', 'children', 'runaways', 'in crisis'], ['This program helps people who are 11 to 17 years old.']"
+Youth Emergency Services (SafeHouse),socials_are,"https://www.facebook.com/operationsafehouse, https://www.twitter.com/https://twitter.com/OpSafeHouse"
+Youth Emergency Services (SafeHouse),coordinates_are,"33.9201939, -117.4514445"
+Cooling Center (Arlanza Community Center),main_services_are,"['weather relief', 'community support services']"
+Cooling Center (Arlanza Community Center),phone_number_is,951-351-6135
+Cooling Center (Arlanza Community Center),website_is,https://riversideca.galaxydigital.com/agency/detail/?agency_id=95361
+Cooling Center (Arlanza Community Center),is_located_at,"7950 Philbin Avenue, Riverside, CA 92503"
+Cooling Center (Arlanza Community Center),url_is_located_at,"https://www.google.com/maps/?q=7950+Philbin+Avenue,+Riverside,+CA+92503/"
+Cooling Center (Arlanza Community Center),has_an_availability_status_of,available
+Cooling Center (Arlanza Community Center),description_is,"The Arlanza Community Center provides a cooling center for those who are disabled, elderly, or otherwise vulnerable to excessive heat.This program provides:- Relief from excessive heatThe cooling center generally activates when temperatures reach 100 degree F. The center generally closes during the day, but stays open continuously on days with excessive heat. Please call for more info."
+Cooling Center (Arlanza Community Center),speaks,"['English', 'Spanish']"
+Cooling Center (Arlanza Community Center),costs,Free
+Cooling Center (Arlanza Community Center),has_Google_Reviews,True
+Cooling Center (Arlanza Community Center),covers,"This program covers residents of the following cities: Riverside, CA."
+Cooling Center (Arlanza Community Center),zipcode_is,92503.0
+Cooling Center (Arlanza Community Center),24hours_status_is,False
+Cooling Center (Arlanza Community Center),has_a_Google_Rating_of,0
+Cooling Center (Arlanza Community Center),offers,Shelter
+Cooling Center (Arlanza Community Center),serves,"['anyone in need', 'all ages', 'all disabilities'], ['Anyone can access this program.']"
+Cooling Center (Arlanza Community Center),socials_are,"https://www.facebook.com/CityofRiverside, https://www.twitter.com/@riversidecagov"
+Cooling Center (Arlanza Community Center),coordinates_are,"33.9384788, -117.4597453"
+Cooling Center (Arlanza Community Center),is_open_from,"2:00PM - 8:00PM, 2:00PM - 8:00PM, 2:00PM - 8:00PM, 2:00PM - 8:00PM, 2:00PM - 8:00PM, Closed, Closed"
+Cooling Center (Janet Goeske Foundation),main_services_are,"['weather relief', 'community support services']"
+Cooling Center (Janet Goeske Foundation),phone_number_is,951-351-8800
+Cooling Center (Janet Goeske Foundation),website_is,https://jgc4seniors.com/cooling-center-will-open/
+Cooling Center (Janet Goeske Foundation),is_located_at,"5257 Sierra Street, Riverside, CA 92504"
+Cooling Center (Janet Goeske Foundation),url_is_located_at,"https://www.google.com/maps/?q=5257+Sierra+Street,+Riverside,+CA+92504/"
+Cooling Center (Janet Goeske Foundation),has_an_availability_status_of,available
+Cooling Center (Janet Goeske Foundation),description_is,The Janet Goeske Foundation provides a cooling center to seniors who are at risk of health issues caused by excessive heat. The cooling center opens when it is 95 degree Fahrenheit or above.This program provides:- Relief from excessive heat
+Cooling Center (Janet Goeske Foundation),speaks,['English']
+Cooling Center (Janet Goeske Foundation),costs,Free
+Cooling Center (Janet Goeske Foundation),has_Google_Reviews,False
+Cooling Center (Janet Goeske Foundation),covers,"This program covers residents of the following cities: Riverside, CA."
+Cooling Center (Janet Goeske Foundation),zipcode_is,92504.0
+Cooling Center (Janet Goeske Foundation),24hours_status_is,False
+Cooling Center (Janet Goeske Foundation),has_a_Google_Rating_of,0
+Cooling Center (Janet Goeske Foundation),offers,Shelter
+Cooling Center (Janet Goeske Foundation),serves,"['seniors', 'all disabilities'], ['This program helps people who are older than 49 years old.', 'This program helps those in need of respite from excessive heat.']"
+Cooling Center (Janet Goeske Foundation),socials_are,"https://www.facebook.com/JanetGoeskeFoundation, https://www.twitter.com/@JGF4Seniors"
+Cooling Center (Janet Goeske Foundation),coordinates_are,"33.9503363, -117.4177486"
+Cooling Center (Janet Goeske Foundation),is_open_from,"2:00PM - 8:00PM, 2:00PM - 8:00PM, 2:00PM - 8:00PM, 2:00PM - 8:00PM, 2:00PM - 8:00PM, Closed, Closed"
+Cooling Center (La Sierra Senior Center),main_services_are,['weather relief']
+Cooling Center (La Sierra Senior Center),phone_number_is,951-351-6131
+Cooling Center (La Sierra Senior Center),website_is,https://riversideca.gov/park_rec/facilities-parks/indoor-facilities/senior-centers
+Cooling Center (La Sierra Senior Center),is_located_at,"5215 La Sierra Avenue, Riverside, CA 92505"
+Cooling Center (La Sierra Senior Center),url_is_located_at,"https://www.google.com/maps/?q=5215+La+Sierra+Avenue,+Riverside,+CA+92505/"
+Cooling Center (La Sierra Senior Center),has_an_availability_status_of,available
+Cooling Center (La Sierra Senior Center),description_is,La Sierra Senior Center helps residents cope safely with extreme weather conditions when the heat index is predicted to be dangerously high.This program provides:– Drop-in for temporary relief from the heatHours of operations are subject to change. Please call the Cool Center for more information.
+Cooling Center (La Sierra Senior Center),speaks,['English']
+Cooling Center (La Sierra Senior Center),costs,Free
+Cooling Center (La Sierra Senior Center),has_Google_Reviews,False
+Cooling Center (La Sierra Senior Center),covers,"This program covers residents of the following counties: Riverside County, CA."
+Cooling Center (La Sierra Senior Center),zipcode_is,92505.0
+Cooling Center (La Sierra Senior Center),24hours_status_is,False
+Cooling Center (La Sierra Senior Center),has_a_Google_Rating_of,0
+Cooling Center (La Sierra Senior Center),offers,Shelter
+Cooling Center (La Sierra Senior Center),serves,"['anyone in need', 'all ages'], ['Anyone can access this program.']"
+Cooling Center (La Sierra Senior Center),socials_are,https://www.facebook.com/CityofRiverside.ParksandRecreation/
+Cooling Center (La Sierra Senior Center),coordinates_are,"33.927345, -117.491992"
+Cooling Center (La Sierra Senior Center),is_open_from,"2:00PM - 8:00PM, 2:00PM - 8:00PM, 2:00PM - 8:00PM, 2:00PM - 8:00PM, 2:00PM - 8:00PM, Closed, Closed"
+Cooling Center (La Sierra Community Center),main_services_are,"['temporary shelter', 'weather relief', 'community support services']"
+Cooling Center (La Sierra Community Center),phone_number_is,951-351-6131
+Cooling Center (La Sierra Community Center),website_is,https://www.riversideca.gov/park_rec/facilities-parks/indoor-facilities/community-centers
+Cooling Center (La Sierra Community Center),is_located_at,"5215 La Sierra Avenue, Riverside, CA 92505"
+Cooling Center (La Sierra Community Center),url_is_located_at,"https://www.google.com/maps/?q=5215+La+Sierra+Avenue,+Riverside,+CA+92505/"
+Cooling Center (La Sierra Community Center),has_an_availability_status_of,available
+Cooling Center (La Sierra Community Center),description_is,The La Sierra Senior Center serves as a cooling center to help residents cope safely with extreme weather conditions when the heat index is predicted to be dangerously high.This program provides:– Drop-in for temporary relief from the heat
+Cooling Center (La Sierra Community Center),speaks,['English']
+Cooling Center (La Sierra Community Center),costs,Free
+Cooling Center (La Sierra Community Center),has_Google_Reviews,False
+Cooling Center (La Sierra Community Center),covers,"This program covers residents of the following counties: Riverside County, CA."
+Cooling Center (La Sierra Community Center),zipcode_is,92505.0
+Cooling Center (La Sierra Community Center),24hours_status_is,False
+Cooling Center (La Sierra Community Center),has_a_Google_Rating_of,0
+Cooling Center (La Sierra Community Center),offers,Shelter
+Cooling Center (La Sierra Community Center),serves,"['anyone in need', 'all ages', 'individuals', 'families', 'homeless'], ['This program is available to anyone in need.']"
+Cooling Center (La Sierra Community Center),coordinates_are,"33.927345, -117.491992"
+Cooling Center (La Sierra Community Center),is_open_from,"2:00PM - 8:00PM, 2:00PM - 8:00PM, 2:00PM - 8:00PM, 2:00PM - 8:00PM, 2:00PM - 8:00PM, Closed, Closed"
+Community Shelter Program (Path of Life Ministries),main_services_are,"['temporary shelter', 'help hotlines']"
+Community Shelter Program (Path of Life Ministries),other_services_are,"['meals', 'personal care items', 'personal hygiene', 'navigating the system', 'spiritual support', 'identification recovery']"
+Community Shelter Program (Path of Life Ministries),phone_number_is,951-462-9822
+Community Shelter Program (Path of Life Ministries),website_is,https://www.thepathoflife.com/shelter
+Community Shelter Program (Path of Life Ministries),is_located_at,"2840 Hulen Place, Riverside, CA 92507"
+Community Shelter Program (Path of Life Ministries),url_is_located_at,"https://www.google.com/maps/?q=2840+Hulen+Place,+Riverside,+CA+92507/"
+Community Shelter Program (Path of Life Ministries),has_an_availability_status_of,available
+Community Shelter Program (Path of Life Ministries),description_is,"The Community Shelter Program is a 30-60 day emergency homeless shelter that serves adult individuals experiencing housing crises by providing an immediate exit off of the street into temporary housing along with wraparound support services.This program provides:- Temporary shelterShelter guests are also provided with:- Assistance in obtaining important documents- Job readiness training- Housing referrals- Computer workshops- Counseling- Nutritious meals- Hygiene supplies- Showers- Social, spiritual, and emotional support- Case managementIntakes are conducted daily from 10:00 a.m. to 5:00 p.m. based on bed availability. Please call to schedule an appointment."
+Community Shelter Program (Path of Life Ministries),speaks,"['English', 'Spanish']"
+Community Shelter Program (Path of Life Ministries),costs,Free
+Community Shelter Program (Path of Life Ministries),has_Google_Reviews,True
+Community Shelter Program (Path of Life Ministries),covers,"This program covers residents of the following counties: Riverside County, CA and San Bernardino County, CA."
+Community Shelter Program (Path of Life Ministries),zipcode_is,92507.0
+Community Shelter Program (Path of Life Ministries),24hours_status_is,True
+Community Shelter Program (Path of Life Ministries),has_a_Google_Rating_of,3.7
+Community Shelter Program (Path of Life Ministries),offers,Shelter
+Community Shelter Program (Path of Life Ministries),serves,"['adults 18+', 'individuals', 'homeless', 'limited english', 'emergency'], ['This program helps people who are older than 17 years old.', 'Must be experiencing a housing crisis.']"
+Community Shelter Program (Path of Life Ministries),socials_are,"https://www.facebook.com/POLMCommunityShelter/, https://www.twitter.com/@pol_ministries"
+Community Shelter Program (Path of Life Ministries),coordinates_are,"33.9871825, -117.3534851"
+Cooling Center (Norton Younglove Community Center),main_services_are,"['temporary shelter', 'weather relief', 'community support services']"
+Cooling Center (Norton Younglove Community Center),other_services_are,"['emergency food', 'food delivery', 'food pantry', 'meals', 'nutrition education', 'clothing', 'help find work']"
+Cooling Center (Norton Younglove Community Center),phone_number_is,951-241-7221
+Cooling Center (Norton Younglove Community Center),website_is,https://nycchighgrove.com/
+Cooling Center (Norton Younglove Community Center),is_located_at,"459 Center Street, Riverside, CA 92507"
+Cooling Center (Norton Younglove Community Center),url_is_located_at,"https://www.google.com/maps/?q=459+Center+Street,+Riverside,+CA+92507/"
+Cooling Center (Norton Younglove Community Center),has_an_availability_status_of,available
+Cooling Center (Norton Younglove Community Center),description_is,"When the temperature climbs, Norton Younglove Community Center springs into action as a designated “Cool Center.” From June 1st to October 15th, we welcome vulnerable individuals, seniors, the disabled, and anyone seeking temporary relief from the scorching heat. Our air-conditioned facility provides a safe haven where you can beat the heat and stay comfortable. Remember, your well-being matters to us! Stay hydrated, take breaks, and enjoy the cool respite with us.🌞🏢🌟"
+Cooling Center (Norton Younglove Community Center),speaks,"['English', 'Spanish']"
+Cooling Center (Norton Younglove Community Center),costs,Free
+Cooling Center (Norton Younglove Community Center),has_Google_Reviews,True
+Cooling Center (Norton Younglove Community Center),covers,"This program covers residents of the following counties: Riverside County, CA."
+Cooling Center (Norton Younglove Community Center),zipcode_is,92507.0
+Cooling Center (Norton Younglove Community Center),24hours_status_is,False
+Cooling Center (Norton Younglove Community Center),has_a_Google_Rating_of,4.4
+Cooling Center (Norton Younglove Community Center),offers,Shelter
+Cooling Center (Norton Younglove Community Center),serves,"['anyone in need', 'all ages', 'individuals', 'families', 'homeless', 'low-income'], ['This program is available to anyone in need.']"
+Cooling Center (Norton Younglove Community Center),socials_are,https://www.facebook.com/nycchighgrove
+Cooling Center (Norton Younglove Community Center),coordinates_are,"34.0160207, -117.3209281"
+Cooling Center (Norton Younglove Community Center),is_open_from,"11:00AM - 7:00PM, 11:00AM - 7:00PM, 11:00AM - 7:00PM, 11:00AM - 7:00PM, 11:00AM - 7:00PM, Closed, Closed"
+Safe Haven Welcome Centers (RI International - Riverside County),main_services_are,"['temporary shelter', 'weather relief', 'meals', 'personal hygiene', 'mental health care', 'community support services', 'navigating the system', 'peer support']"
+Safe Haven Welcome Centers (RI International - Riverside County),phone_number_is,951-715-5050
+Safe Haven Welcome Centers (RI International - Riverside County),website_is,https://www.ruhealth.org/behavioral-health/housing
+Safe Haven Welcome Centers (RI International - Riverside County),is_located_at,"2800 Hulen Place, Riverside, CA 92507"
+Safe Haven Welcome Centers (RI International - Riverside County),url_is_located_at,"https://www.google.com/maps/?q=2800+Hulen+Place,+Riverside,+CA+92507/"
+Safe Haven Welcome Centers (RI International - Riverside County),has_an_availability_status_of,available
+Safe Haven Welcome Centers (RI International - Riverside County),description_is,"Safe Haven Welcome Centers provides peer to peer engagement, linkage to community resources, and daily basic needs including food, showers, and laundry facilities.This program provides:- Peer to peer engagement and support- Linkages to community resources- Support with mental health services - Showers- Laundry facilities- Weather relief- Meals- Access to Nationwide Courtesy Phone"
+Safe Haven Welcome Centers (RI International - Riverside County),speaks,['English']
+Safe Haven Welcome Centers (RI International - Riverside County),costs,Free
+Safe Haven Welcome Centers (RI International - Riverside County),has_Google_Reviews,False
+Safe Haven Welcome Centers (RI International - Riverside County),covers,"This program covers residents of the following counties: Riverside County, CA."
+Safe Haven Welcome Centers (RI International - Riverside County),zipcode_is,92507.0
+Safe Haven Welcome Centers (RI International - Riverside County),24hours_status_is,False
+Safe Haven Welcome Centers (RI International - Riverside County),has_a_Google_Rating_of,0
+Safe Haven Welcome Centers (RI International - Riverside County),offers,Shelter
+Safe Haven Welcome Centers (RI International - Riverside County),serves,"['adults 18+', 'homeless', 'near homeless', 'all mental health'], ['This program is open to anyone.']"
+Safe Haven Welcome Centers (RI International - Riverside County),coordinates_are,"33.9874923, -117.3537087"
+Safe Haven Welcome Centers (RI International - Riverside County),is_open_from,"7:00 AM - 7:00 PM  PST, 7:00 AM - 7:00 PM  PST, 7:00 AM - 7:00 PM  PST, 7:00 AM - 7:00 PM  PST, 7:00 AM - 7:00 PM  PST, Closed, Closed"
