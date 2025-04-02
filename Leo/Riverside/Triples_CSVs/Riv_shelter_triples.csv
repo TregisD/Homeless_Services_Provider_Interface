@@ -13,12 +13,18 @@ Disaster Relief And Recovery (American Red Cross Southern California Region),has
 Disaster Relief And Recovery (American Red Cross Southern California Region),covers,"This program covers residents of the following counties: Imperial County, CA, Orange County, CA, Riverside County, CA, San Bernardino County, CA and San Diego County, CA."
 Disaster Relief And Recovery (American Red Cross Southern California Region),zipcode_is,92507.0
 Disaster Relief And Recovery (American Red Cross Southern California Region),24hours_status_is,False
+Disaster Relief And Recovery (American Red Cross Southern California Region),Monday's_time_open,11:00AM - 8:00PM
+Disaster Relief And Recovery (American Red Cross Southern California Region),Tuesday's_time_open,11:00AM - 8:00PM
+Disaster Relief And Recovery (American Red Cross Southern California Region),Wednesday's_time_open,11:00AM - 8:00PM
+Disaster Relief And Recovery (American Red Cross Southern California Region),Thursday's_time_open,11:00AM - 8:00PM
+Disaster Relief And Recovery (American Red Cross Southern California Region),Friday's_time_open,11:00AM - 8:00PM
+Disaster Relief And Recovery (American Red Cross Southern California Region),Saturday's_time_open,Closed
+Disaster Relief And Recovery (American Red Cross Southern California Region),Sunday's_time_open,Closed
 Disaster Relief And Recovery (American Red Cross Southern California Region),has_a_Google_Rating_of,0
 Disaster Relief And Recovery (American Red Cross Southern California Region),offers,Shelter
 Disaster Relief And Recovery (American Red Cross Southern California Region),serves,"['all ages', 'limited english', 'domestic violence survivors', 'natural disaster survivors', 'in crisis'], []"
 Disaster Relief And Recovery (American Red Cross Southern California Region),socials_are,"https://www.facebook.com/redcross, https://www.twitter.com/@redcross"
 Disaster Relief And Recovery (American Red Cross Southern California Region),coordinates_are,"34.0209513, -117.3635299"
-Disaster Relief And Recovery (American Red Cross Southern California Region),is_open_from,"11:00AM - 8:00PM, 11:00AM - 8:00PM, 11:00AM - 8:00PM, 11:00AM - 8:00PM, 11:00AM - 8:00PM, Closed, Closed"
 Cooling Center (Ysmael Villegas Community Center),main_services_are,['weather relief']
 Cooling Center (Ysmael Villegas Community Center),phone_number_is,951-351-6142
 Cooling Center (Ysmael Villegas Community Center),website_is,https://www.riversideca.gov/park_rec/facilities-parks/indoor-facilities/community-centers
@@ -32,12 +38,18 @@ Cooling Center (Ysmael Villegas Community Center),has_Google_Reviews,False
 Cooling Center (Ysmael Villegas Community Center),covers,"This program covers residents of the following counties: Riverside County, CA."
 Cooling Center (Ysmael Villegas Community Center),zipcode_is,92504.0
 Cooling Center (Ysmael Villegas Community Center),24hours_status_is,False
+Cooling Center (Ysmael Villegas Community Center),Monday's_time_open,2:00PM - 8:00PM
+Cooling Center (Ysmael Villegas Community Center),Tuesday's_time_open,2:00PM - 8:00PM
+Cooling Center (Ysmael Villegas Community Center),Wednesday's_time_open,2:00PM - 8:00PM
+Cooling Center (Ysmael Villegas Community Center),Thursday's_time_open,2:00PM - 8:00PM
+Cooling Center (Ysmael Villegas Community Center),Friday's_time_open,2:00PM - 8:00PM
+Cooling Center (Ysmael Villegas Community Center),Saturday's_time_open,Closed
+Cooling Center (Ysmael Villegas Community Center),Sunday's_time_open,Closed
 Cooling Center (Ysmael Villegas Community Center),has_a_Google_Rating_of,0
 Cooling Center (Ysmael Villegas Community Center),offers,Shelter
 Cooling Center (Ysmael Villegas Community Center),serves,"['anyone in need', 'all ages'], ['Anyone can access this program.']"
 Cooling Center (Ysmael Villegas Community Center),socials_are,https://www.facebook.com/CityofRiverside.ParksandRecreation/
 Cooling Center (Ysmael Villegas Community Center),coordinates_are,"33.9342857, -117.3973585"
-Cooling Center (Ysmael Villegas Community Center),is_open_from,"2:00PM - 8:00PM, 2:00PM - 8:00PM, 2:00PM - 8:00PM, 2:00PM - 8:00PM, 2:00PM - 8:00PM, Closed, Closed"
 Emergency Shelters (Family Promise of Riverside),main_services_are,['temporary shelter']
 Emergency Shelters (Family Promise of Riverside),other_services_are,"['meals', 'help find housing', 'personal hygiene', 'case management', 'help find work']"
 Emergency Shelters (Family Promise of Riverside),phone_number_is,951-266-9158
@@ -52,12 +64,18 @@ Emergency Shelters (Family Promise of Riverside),has_Google_Reviews,False
 Emergency Shelters (Family Promise of Riverside),covers,"This program covers residents of the following cities: Riverside, CA."
 Emergency Shelters (Family Promise of Riverside),zipcode_is,92504.0
 Emergency Shelters (Family Promise of Riverside),24hours_status_is,False
+Emergency Shelters (Family Promise of Riverside),Monday's_time_open,12:00PM - 8:00PM
+Emergency Shelters (Family Promise of Riverside),Tuesday's_time_open,12:00PM - 8:00PM
+Emergency Shelters (Family Promise of Riverside),Wednesday's_time_open,12:00PM - 8:00PM
+Emergency Shelters (Family Promise of Riverside),Thursday's_time_open,12:00PM - 8:00PM
+Emergency Shelters (Family Promise of Riverside),Friday's_time_open,12:00PM - 8:00PM
+Emergency Shelters (Family Promise of Riverside),Saturday's_time_open,12:00PM - 8:00PM
+Emergency Shelters (Family Promise of Riverside),Sunday's_time_open,12:00PM - 8:00PM
 Emergency Shelters (Family Promise of Riverside),has_a_Google_Rating_of,0
 Emergency Shelters (Family Promise of Riverside),offers,Shelter
 Emergency Shelters (Family Promise of Riverside),serves,"['all ages', 'families', 'with children', 'homeless'], ['Must care for children under the age of 18.']"
 Emergency Shelters (Family Promise of Riverside),socials_are,"https://www.facebook.com/FamilyPromiseRiverside/, https://www.twitter.com/@fpriverside"
 Emergency Shelters (Family Promise of Riverside),coordinates_are,"33.9439846, -117.4030955"
-Emergency Shelters (Family Promise of Riverside),is_open_from,"12:00PM - 8:00PM, 12:00PM - 8:00PM, 12:00PM - 8:00PM, 12:00PM - 8:00PM, 12:00PM - 8:00PM, 12:00PM - 8:00PM, 12:00PM - 8:00PM"
 Access Center (City of Riverside),main_services_are,['temporary shelter']
 Access Center (City of Riverside),other_services_are,"['help find housing', 'transportation', 'addiction & recovery', 'substance abuse counseling', 'daily life skills', 'mental health care', 'understand government programs', 'financial education', 'computer or internet access', 'navigating the system', 'help fill out forms', 'skills & training', 'help find work', 'advocacy & legal aid']"
 Access Center (City of Riverside),phone_number_is,951-826-3938
@@ -72,12 +90,18 @@ Access Center (City of Riverside),has_Google_Reviews,False
 Access Center (City of Riverside),covers,"This program covers residents of the following counties: Riverside County, CA."
 Access Center (City of Riverside),zipcode_is,92507.0
 Access Center (City of Riverside),24hours_status_is,False
+Access Center (City of Riverside),Monday's_time_open,11:00AM - 7:30PM
+Access Center (City of Riverside),Tuesday's_time_open,11:00AM - 7:30PM
+Access Center (City of Riverside),Wednesday's_time_open,11:00AM - 7:30PM
+Access Center (City of Riverside),Thursday's_time_open,11:00AM - 7:30PM
+Access Center (City of Riverside),Friday's_time_open,11:00AM - 7:30PM
+Access Center (City of Riverside),Saturday's_time_open,Closed
+Access Center (City of Riverside),Sunday's_time_open,Closed
 Access Center (City of Riverside),has_a_Google_Rating_of,0
 Access Center (City of Riverside),offers,Shelter
 Access Center (City of Riverside),serves,"['all ages', 'veterans', 'individuals', 'homeless', 'near homeless', 'substance dependency'], ['This porgram serves homeless individuals.']"
 Access Center (City of Riverside),socials_are,"https://www.facebook.com/CityofRiverside, https://www.twitter.com/@riversidecagov"
 Access Center (City of Riverside),coordinates_are,"33.9869603, -117.3535424"
-Access Center (City of Riverside),is_open_from,"11:00AM - 7:30PM, 11:00AM - 7:30PM, 11:00AM - 7:30PM, 11:00AM - 7:30PM, 11:00AM - 7:30PM, Closed, Closed"
 Youth Emergency Services (SafeHouse),main_services_are,['temporary shelter']
 Youth Emergency Services (SafeHouse),phone_number_is,951-515-6155
 Youth Emergency Services (SafeHouse),website_is,https://operationsafehouse.org/youth-emergency-services/
@@ -109,12 +133,18 @@ Cooling Center (Arlanza Community Center),has_Google_Reviews,True
 Cooling Center (Arlanza Community Center),covers,"This program covers residents of the following cities: Riverside, CA."
 Cooling Center (Arlanza Community Center),zipcode_is,92503.0
 Cooling Center (Arlanza Community Center),24hours_status_is,False
+Cooling Center (Arlanza Community Center),Monday's_time_open,2:00PM - 8:00PM
+Cooling Center (Arlanza Community Center),Tuesday's_time_open,2:00PM - 8:00PM
+Cooling Center (Arlanza Community Center),Wednesday's_time_open,2:00PM - 8:00PM
+Cooling Center (Arlanza Community Center),Thursday's_time_open,2:00PM - 8:00PM
+Cooling Center (Arlanza Community Center),Friday's_time_open,2:00PM - 8:00PM
+Cooling Center (Arlanza Community Center),Saturday's_time_open,Closed
+Cooling Center (Arlanza Community Center),Sunday's_time_open,Closed
 Cooling Center (Arlanza Community Center),has_a_Google_Rating_of,0
 Cooling Center (Arlanza Community Center),offers,Shelter
 Cooling Center (Arlanza Community Center),serves,"['anyone in need', 'all ages', 'all disabilities'], ['Anyone can access this program.']"
 Cooling Center (Arlanza Community Center),socials_are,"https://www.facebook.com/CityofRiverside, https://www.twitter.com/@riversidecagov"
 Cooling Center (Arlanza Community Center),coordinates_are,"33.9384788, -117.4597453"
-Cooling Center (Arlanza Community Center),is_open_from,"2:00PM - 8:00PM, 2:00PM - 8:00PM, 2:00PM - 8:00PM, 2:00PM - 8:00PM, 2:00PM - 8:00PM, Closed, Closed"
 Cooling Center (Janet Goeske Foundation),main_services_are,"['weather relief', 'community support services']"
 Cooling Center (Janet Goeske Foundation),phone_number_is,951-351-8800
 Cooling Center (Janet Goeske Foundation),website_is,https://jgc4seniors.com/cooling-center-will-open/
@@ -128,12 +158,18 @@ Cooling Center (Janet Goeske Foundation),has_Google_Reviews,False
 Cooling Center (Janet Goeske Foundation),covers,"This program covers residents of the following cities: Riverside, CA."
 Cooling Center (Janet Goeske Foundation),zipcode_is,92504.0
 Cooling Center (Janet Goeske Foundation),24hours_status_is,False
+Cooling Center (Janet Goeske Foundation),Monday's_time_open,2:00PM - 8:00PM
+Cooling Center (Janet Goeske Foundation),Tuesday's_time_open,2:00PM - 8:00PM
+Cooling Center (Janet Goeske Foundation),Wednesday's_time_open,2:00PM - 8:00PM
+Cooling Center (Janet Goeske Foundation),Thursday's_time_open,2:00PM - 8:00PM
+Cooling Center (Janet Goeske Foundation),Friday's_time_open,2:00PM - 8:00PM
+Cooling Center (Janet Goeske Foundation),Saturday's_time_open,Closed
+Cooling Center (Janet Goeske Foundation),Sunday's_time_open,Closed
 Cooling Center (Janet Goeske Foundation),has_a_Google_Rating_of,0
 Cooling Center (Janet Goeske Foundation),offers,Shelter
 Cooling Center (Janet Goeske Foundation),serves,"['seniors', 'all disabilities'], ['This program helps people who are older than 49 years old.', 'This program helps those in need of respite from excessive heat.']"
 Cooling Center (Janet Goeske Foundation),socials_are,"https://www.facebook.com/JanetGoeskeFoundation, https://www.twitter.com/@JGF4Seniors"
 Cooling Center (Janet Goeske Foundation),coordinates_are,"33.9503363, -117.4177486"
-Cooling Center (Janet Goeske Foundation),is_open_from,"2:00PM - 8:00PM, 2:00PM - 8:00PM, 2:00PM - 8:00PM, 2:00PM - 8:00PM, 2:00PM - 8:00PM, Closed, Closed"
 Cooling Center (La Sierra Senior Center),main_services_are,['weather relief']
 Cooling Center (La Sierra Senior Center),phone_number_is,951-351-6131
 Cooling Center (La Sierra Senior Center),website_is,https://riversideca.gov/park_rec/facilities-parks/indoor-facilities/senior-centers
@@ -147,12 +183,18 @@ Cooling Center (La Sierra Senior Center),has_Google_Reviews,False
 Cooling Center (La Sierra Senior Center),covers,"This program covers residents of the following counties: Riverside County, CA."
 Cooling Center (La Sierra Senior Center),zipcode_is,92505.0
 Cooling Center (La Sierra Senior Center),24hours_status_is,False
+Cooling Center (La Sierra Senior Center),Monday's_time_open,2:00PM - 8:00PM
+Cooling Center (La Sierra Senior Center),Tuesday's_time_open,2:00PM - 8:00PM
+Cooling Center (La Sierra Senior Center),Wednesday's_time_open,2:00PM - 8:00PM
+Cooling Center (La Sierra Senior Center),Thursday's_time_open,2:00PM - 8:00PM
+Cooling Center (La Sierra Senior Center),Friday's_time_open,2:00PM - 8:00PM
+Cooling Center (La Sierra Senior Center),Saturday's_time_open,Closed
+Cooling Center (La Sierra Senior Center),Sunday's_time_open,Closed
 Cooling Center (La Sierra Senior Center),has_a_Google_Rating_of,0
 Cooling Center (La Sierra Senior Center),offers,Shelter
 Cooling Center (La Sierra Senior Center),serves,"['anyone in need', 'all ages'], ['Anyone can access this program.']"
 Cooling Center (La Sierra Senior Center),socials_are,https://www.facebook.com/CityofRiverside.ParksandRecreation/
 Cooling Center (La Sierra Senior Center),coordinates_are,"33.927345, -117.491992"
-Cooling Center (La Sierra Senior Center),is_open_from,"2:00PM - 8:00PM, 2:00PM - 8:00PM, 2:00PM - 8:00PM, 2:00PM - 8:00PM, 2:00PM - 8:00PM, Closed, Closed"
 Cooling Center (La Sierra Community Center),main_services_are,"['temporary shelter', 'weather relief', 'community support services']"
 Cooling Center (La Sierra Community Center),phone_number_is,951-351-6131
 Cooling Center (La Sierra Community Center),website_is,https://www.riversideca.gov/park_rec/facilities-parks/indoor-facilities/community-centers
@@ -166,11 +208,17 @@ Cooling Center (La Sierra Community Center),has_Google_Reviews,False
 Cooling Center (La Sierra Community Center),covers,"This program covers residents of the following counties: Riverside County, CA."
 Cooling Center (La Sierra Community Center),zipcode_is,92505.0
 Cooling Center (La Sierra Community Center),24hours_status_is,False
+Cooling Center (La Sierra Community Center),Monday's_time_open,2:00PM - 8:00PM
+Cooling Center (La Sierra Community Center),Tuesday's_time_open,2:00PM - 8:00PM
+Cooling Center (La Sierra Community Center),Wednesday's_time_open,2:00PM - 8:00PM
+Cooling Center (La Sierra Community Center),Thursday's_time_open,2:00PM - 8:00PM
+Cooling Center (La Sierra Community Center),Friday's_time_open,2:00PM - 8:00PM
+Cooling Center (La Sierra Community Center),Saturday's_time_open,Closed
+Cooling Center (La Sierra Community Center),Sunday's_time_open,Closed
 Cooling Center (La Sierra Community Center),has_a_Google_Rating_of,0
 Cooling Center (La Sierra Community Center),offers,Shelter
 Cooling Center (La Sierra Community Center),serves,"['anyone in need', 'all ages', 'individuals', 'families', 'homeless'], ['This program is available to anyone in need.']"
 Cooling Center (La Sierra Community Center),coordinates_are,"33.927345, -117.491992"
-Cooling Center (La Sierra Community Center),is_open_from,"2:00PM - 8:00PM, 2:00PM - 8:00PM, 2:00PM - 8:00PM, 2:00PM - 8:00PM, 2:00PM - 8:00PM, Closed, Closed"
 Community Shelter Program (Path of Life Ministries),main_services_are,"['temporary shelter', 'help hotlines']"
 Community Shelter Program (Path of Life Ministries),other_services_are,"['meals', 'personal care items', 'personal hygiene', 'navigating the system', 'spiritual support', 'identification recovery']"
 Community Shelter Program (Path of Life Ministries),phone_number_is,951-462-9822
@@ -204,12 +252,18 @@ Cooling Center (Norton Younglove Community Center),has_Google_Reviews,True
 Cooling Center (Norton Younglove Community Center),covers,"This program covers residents of the following counties: Riverside County, CA."
 Cooling Center (Norton Younglove Community Center),zipcode_is,92507.0
 Cooling Center (Norton Younglove Community Center),24hours_status_is,False
+Cooling Center (Norton Younglove Community Center),Monday's_time_open,11:00AM - 7:00PM
+Cooling Center (Norton Younglove Community Center),Tuesday's_time_open,11:00AM - 7:00PM
+Cooling Center (Norton Younglove Community Center),Wednesday's_time_open,11:00AM - 7:00PM
+Cooling Center (Norton Younglove Community Center),Thursday's_time_open,11:00AM - 7:00PM
+Cooling Center (Norton Younglove Community Center),Friday's_time_open,11:00AM - 7:00PM
+Cooling Center (Norton Younglove Community Center),Saturday's_time_open,Closed
+Cooling Center (Norton Younglove Community Center),Sunday's_time_open,Closed
 Cooling Center (Norton Younglove Community Center),has_a_Google_Rating_of,4.4
 Cooling Center (Norton Younglove Community Center),offers,Shelter
 Cooling Center (Norton Younglove Community Center),serves,"['anyone in need', 'all ages', 'individuals', 'families', 'homeless', 'low-income'], ['This program is available to anyone in need.']"
 Cooling Center (Norton Younglove Community Center),socials_are,https://www.facebook.com/nycchighgrove
 Cooling Center (Norton Younglove Community Center),coordinates_are,"34.0160207, -117.3209281"
-Cooling Center (Norton Younglove Community Center),is_open_from,"11:00AM - 7:00PM, 11:00AM - 7:00PM, 11:00AM - 7:00PM, 11:00AM - 7:00PM, 11:00AM - 7:00PM, Closed, Closed"
 Safe Haven Welcome Centers (RI International - Riverside County),main_services_are,"['temporary shelter', 'weather relief', 'meals', 'personal hygiene', 'mental health care', 'community support services', 'navigating the system', 'peer support']"
 Safe Haven Welcome Centers (RI International - Riverside County),phone_number_is,951-715-5050
 Safe Haven Welcome Centers (RI International - Riverside County),website_is,https://www.ruhealth.org/behavioral-health/housing
@@ -223,8 +277,14 @@ Safe Haven Welcome Centers (RI International - Riverside County),has_Google_Revi
 Safe Haven Welcome Centers (RI International - Riverside County),covers,"This program covers residents of the following counties: Riverside County, CA."
 Safe Haven Welcome Centers (RI International - Riverside County),zipcode_is,92507.0
 Safe Haven Welcome Centers (RI International - Riverside County),24hours_status_is,False
+Safe Haven Welcome Centers (RI International - Riverside County),Monday's_time_open,7:00 AM - 7:00 PM  PST
+Safe Haven Welcome Centers (RI International - Riverside County),Tuesday's_time_open,7:00 AM - 7:00 PM  PST
+Safe Haven Welcome Centers (RI International - Riverside County),Wednesday's_time_open,7:00 AM - 7:00 PM  PST
+Safe Haven Welcome Centers (RI International - Riverside County),Thursday's_time_open,7:00 AM - 7:00 PM  PST
+Safe Haven Welcome Centers (RI International - Riverside County),Friday's_time_open,7:00 AM - 7:00 PM  PST
+Safe Haven Welcome Centers (RI International - Riverside County),Saturday's_time_open,Closed
+Safe Haven Welcome Centers (RI International - Riverside County),Sunday's_time_open,Closed
 Safe Haven Welcome Centers (RI International - Riverside County),has_a_Google_Rating_of,0
 Safe Haven Welcome Centers (RI International - Riverside County),offers,Shelter
 Safe Haven Welcome Centers (RI International - Riverside County),serves,"['adults 18+', 'homeless', 'near homeless', 'all mental health'], ['This program is open to anyone.']"
 Safe Haven Welcome Centers (RI International - Riverside County),coordinates_are,"33.9874923, -117.3537087"
-Safe Haven Welcome Centers (RI International - Riverside County),is_open_from,"7:00 AM - 7:00 PM  PST, 7:00 AM - 7:00 PM  PST, 7:00 AM - 7:00 PM  PST, 7:00 AM - 7:00 PM  PST, 7:00 AM - 7:00 PM  PST, Closed, Closed"
