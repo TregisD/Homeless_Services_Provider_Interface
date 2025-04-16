@@ -1,0 +1,1507 @@
+[
+  {
+    "Subject": "Drop In Center (Prevention Point Philadelphia)",
+    "Relationship": "main_services_are",
+    "Object": "['weather relief', 'meals', 'addiction & recovery', 'medical care', 'navigating the system', 'case management', 'one-on-one support', 'advocacy & legal aid']"
+  },
+  {
+    "Subject": "Drop In Center (Prevention Point Philadelphia)",
+    "Relationship": "phone_number_is",
+    "Object": "215-634-5272"
+  },
+  {
+    "Subject": "Drop In Center (Prevention Point Philadelphia)",
+    "Relationship": "is_located_at",
+    "Object": "2915 Kensington Avenue, Philadelphia, PA 19134"
+  },
+  {
+    "Subject": "Drop In Center (Prevention Point Philadelphia)",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=2915+Kensington+Avenue,+Philadelphia,+PA+19134/"
+  },
+  {
+    "Subject": "Drop In Center (Prevention Point Philadelphia)",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Drop In Center (Prevention Point Philadelphia)",
+    "Relationship": "description_is",
+    "Object": "The Drop In Center strives to be free of judgment, allowing people of all backgrounds to come in and relax. The Drop In Center is in many ways the gateway through which participants are connected to the many services provided by PPP. This program provides:- Case management- HIV/HCV testing and counseling- Mail services- Legal clinic- Medical services- CRAFT (links participants to addiction treatment)- Specialized surveys - MealsThe Drop In Center is open five days a week and provides daily respite for clients from outside weather."
+  },
+  {
+    "Subject": "Drop In Center (Prevention Point Philadelphia)",
+    "Relationship": "speaks",
+    "Object": "['English', 'Spanish']"
+  },
+  {
+    "Subject": "Drop In Center (Prevention Point Philadelphia)",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Drop In Center (Prevention Point Philadelphia)",
+    "Relationship": "has_Google_Reviews",
+    "Object": "TRUE"
+  },
+  {
+    "Subject": "Drop In Center (Prevention Point Philadelphia)",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following counties: Philadelphia County, PA."
+  },
+  {
+    "Subject": "Drop In Center (Prevention Point Philadelphia)",
+    "Relationship": "zipcode_is",
+    "Object": 19134
+  },
+  {
+    "Subject": "Drop In Center (Prevention Point Philadelphia)",
+    "Relationship": "24hours_status_is",
+    "Object": "FALSE"
+  },
+  {
+    "Subject": "Drop In Center (Prevention Point Philadelphia)",
+    "Relationship": "serves",
+    "Object": "['adults 18+', 'individuals', 'families'], ['This program serves residents in Philadelphia county, PA.']"
+  },
+  {
+    "Subject": "Drop In Center (Prevention Point Philadelphia)",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/preventionpointphiladelphia, https://www.twitter.com/@preventionpp"
+  },
+  {
+    "Subject": "Drop In Center (Prevention Point Philadelphia)",
+    "Relationship": "coordinates_are",
+    "Object": "39.9927854, -75.1196455"
+  },
+  {
+    "Subject": "Drop In Center (Prevention Point Philadelphia)",
+    "Relationship": "is_open_from",
+    "Object": "8:00AM - 5:00PM, 5:00AM - 2:00PM, 5:00AM - 2:00PM, 5:00AM - 2:00PM, 5:00AM - 2:00PM, Closed, Closed"
+  },
+  {
+    "Subject": "Overnight Services (Horizon House)",
+    "Relationship": "main_services_are",
+    "Object": "['temporary shelter']"
+  },
+  {
+    "Subject": "Overnight Services (Horizon House)",
+    "Relationship": "other_services_are",
+    "Object": "['meals', 'personal hygiene', 'mental health evaluation', 'one-on-one support']"
+  },
+  {
+    "Subject": "Overnight Services (Horizon House)",
+    "Relationship": "phone_number_is",
+    "Object": "215-386-3838"
+  },
+  {
+    "Subject": "Overnight Services (Horizon House)",
+    "Relationship": "website_is",
+    "Object": "https://www.hhinc.org/homeless-services-overview/emergency-housing/"
+  },
+  {
+    "Subject": "Overnight Services (Horizon House)",
+    "Relationship": "is_located_at",
+    "Object": "5901 Market Street, Philadelphia, PA 19136"
+  },
+  {
+    "Subject": "Overnight Services (Horizon House)",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=5901+Market+Street,+Philadelphia,+PA+19136/"
+  },
+  {
+    "Subject": "Overnight Services (Horizon House)",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Overnight Services (Horizon House)",
+    "Relationship": "description_is",
+    "Object": "The Horizon House Navigation Center in West Philadelphia offers a variety of support services to homeless adults all year round. Here, people have a safe haven to meet their basic needs. The center is open 7 p.m. to 6 a.m. and is available on a drop-in basis.  Services include:- Temporary shelter- Food- Shower- Clean clothing- Laundry facilities- Medical and psychiatric assessments- Case managementExtended daytime hours are available two days/week for medical and psychiatric assessments and referral services. Case management services are offered to link individuals with appropriate housing, benefits, medical care and treatment services.For more information, please call at 215-386-3838, ext. 12603"
+  },
+  {
+    "Subject": "Overnight Services (Horizon House)",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Overnight Services (Horizon House)",
+    "Relationship": "costs",
+    "Object": "Reduced Cost"
+  },
+  {
+    "Subject": "Overnight Services (Horizon House)",
+    "Relationship": "has_Google_Reviews",
+    "Object": "TRUE"
+  },
+  {
+    "Subject": "Overnight Services (Horizon House)",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following counties: Philadelphia County, PA."
+  },
+  {
+    "Subject": "Overnight Services (Horizon House)",
+    "Relationship": "zipcode_is",
+    "Object": 19136
+  },
+  {
+    "Subject": "Overnight Services (Horizon House)",
+    "Relationship": "24hours_status_is",
+    "Object": "TRUE"
+  },
+  {
+    "Subject": "Overnight Services (Horizon House)",
+    "Relationship": "serves",
+    "Object": "['adults 18+', 'homeless'], ['This program serves homeless individuals.']"
+  },
+  {
+    "Subject": "Overnight Services (Horizon House)",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/horizonhouseinc/?fref=ts"
+  },
+  {
+    "Subject": "Overnight Services (Horizon House)",
+    "Relationship": "coordinates_are",
+    "Object": "39.962058, -75.2391324"
+  },
+  {
+    "Subject": "Cooling Centers (Office of Emergency Management)",
+    "Relationship": "main_services_are",
+    "Object": "['weather relief']"
+  },
+  {
+    "Subject": "Cooling Centers (Office of Emergency Management)",
+    "Relationship": "phone_number_is",
+    "Object": "215-232-1984"
+  },
+  {
+    "Subject": "Cooling Centers (Office of Emergency Management)",
+    "Relationship": "website_is",
+    "Object": "https://www.phila.gov/services/mental-physical-health/environmental-health-hazards/extreme-weather/cooling-centers/"
+  },
+  {
+    "Subject": "Cooling Centers (Office of Emergency Management)",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Cooling Centers (Office of Emergency Management)",
+    "Relationship": "description_is",
+    "Object": "In the event of extreme heat and humidity, the City of Philadelphia opens cooling centers, which are air-conditioned spaces available for public use.This program provides:- Relief from extreme weatherVisit the website to find a cooling center located near you."
+  },
+  {
+    "Subject": "Cooling Centers (Office of Emergency Management)",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Cooling Centers (Office of Emergency Management)",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Cooling Centers (Office of Emergency Management)",
+    "Relationship": "has_Google_Reviews",
+    "Object": "TRUE"
+  },
+  {
+    "Subject": "Cooling Centers (Office of Emergency Management)",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following cities: Philadelphia, PA."
+  },
+  {
+    "Subject": "Cooling Centers (Office of Emergency Management)",
+    "Relationship": "24hours_status_is",
+    "Object": "FALSE"
+  },
+  {
+    "Subject": "Cooling Centers (Office of Emergency Management)",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages', 'individuals', 'families', 'homeless'], ['Anyone can access this program.']"
+  },
+  {
+    "Subject": "Cooling Centers (Office of Emergency Management)",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/cityofphiladelphia, https://www.twitter.com/@PhiladelphiaGov"
+  },
+  {
+    "Subject": "Cooling Centers (Office of Emergency Management)",
+    "Relationship": "is_open_from",
+    "Object": "8:00AM - 5:00PM, 8:00AM - 5:00PM, 8:00AM - 5:00PM, 8:00AM - 5:00PM, 8:00AM - 5:00PM, Closed, Closed"
+  },
+  {
+    "Subject": "Emergency Safe Havens (Women Against Abuse)",
+    "Relationship": "main_services_are",
+    "Object": "['temporary shelter', 'safe housing', 'short-term housing']"
+  },
+  {
+    "Subject": "Emergency Safe Havens (Women Against Abuse)",
+    "Relationship": "other_services_are",
+    "Object": "['immediate safety', 'meals', 'group therapy', 'individual counseling', 'after school care', 'childcare', 'navigating the system', 'one-on-one support', 'more education', 'interview training', 'resume development']"
+  },
+  {
+    "Subject": "Emergency Safe Havens (Women Against Abuse)",
+    "Relationship": "phone_number_is",
+    "Object": "866-723-3014"
+  },
+  {
+    "Subject": "Emergency Safe Havens (Women Against Abuse)",
+    "Relationship": "website_is",
+    "Object": "https://www.womenagainstabuse.org/services/safe-havens"
+  },
+  {
+    "Subject": "Emergency Safe Havens (Women Against Abuse)",
+    "Relationship": "is_located_at",
+    "Object": "100 South Broad Street, Suite 1341, Philadelphia, PA 19102"
+  },
+  {
+    "Subject": "Emergency Safe Havens (Women Against Abuse)",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Emergency Safe Havens (Women Against Abuse)",
+    "Relationship": "description_is",
+    "Object": "Women Against Abuse’s two 24-hour emergency safe havens provide free services to survivors of all gender identities and their children who are victims of domestic violence. This program provides:- Up to 90 days of shelter- Case management- Individual & group counseling- Three meals a day- Children's health assessments- Emergency relocation funds (as available)- Adult education & job readiness referrals- After school & summer school programs- On-site child careIf you need emergency housing because of a domestic violence situation, please call the toll-free 24-hour Philadelphia Domestic Violence Hotline (866-723-3014)."
+  },
+  {
+    "Subject": "Emergency Safe Havens (Women Against Abuse)",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Emergency Safe Havens (Women Against Abuse)",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Emergency Safe Havens (Women Against Abuse)",
+    "Relationship": "has_Google_Reviews",
+    "Object": "TRUE"
+  },
+  {
+    "Subject": "Emergency Safe Havens (Women Against Abuse)",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following counties: Philadelphia County, PA."
+  },
+  {
+    "Subject": "Emergency Safe Havens (Women Against Abuse)",
+    "Relationship": "zipcode_is",
+    "Object": 19102
+  },
+  {
+    "Subject": "Emergency Safe Havens (Women Against Abuse)",
+    "Relationship": "24hours_status_is",
+    "Object": "TRUE"
+  },
+  {
+    "Subject": "Emergency Safe Havens (Women Against Abuse)",
+    "Relationship": "serves",
+    "Object": "['all ages', 'female', 'lgbtqia+', 'male', 'transgender or non-binary', 'abuse or neglect survivors', 'domestic violence survivors', 'emergency'], ['For women experiencing domestic violence in the Philadelphia area.']"
+  },
+  {
+    "Subject": "Emergency Safe Havens (Women Against Abuse)",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/womenagainstabuse, https://www.twitter.com/@WomenAgnstAbuse"
+  },
+  {
+    "Subject": "Crisis Care Services (Covenant House)",
+    "Relationship": "main_services_are",
+    "Object": "['temporary shelter']"
+  },
+  {
+    "Subject": "Crisis Care Services (Covenant House)",
+    "Relationship": "other_services_are",
+    "Object": "['temporary shelter', 'meals', 'clothing', 'home goods', 'medical care', 'personal hygiene', 'physical safety', 'advocacy & legal aid']"
+  },
+  {
+    "Subject": "Crisis Care Services (Covenant House)",
+    "Relationship": "phone_number_is",
+    "Object": "800-388-3888"
+  },
+  {
+    "Subject": "Crisis Care Services (Covenant House)",
+    "Relationship": "website_is",
+    "Object": "https://www.covenanthouse.org/childrens-charity/continuum-of-care/crisis-care"
+  },
+  {
+    "Subject": "Crisis Care Services (Covenant House)",
+    "Relationship": "is_located_at",
+    "Object": "31 East Armat Street, Philadelphia, PA 19144"
+  },
+  {
+    "Subject": "Crisis Care Services (Covenant House)",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=31+East+Armat+Street,+Philadelphia,+PA+19144/"
+  },
+  {
+    "Subject": "Crisis Care Services (Covenant House)",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Crisis Care Services (Covenant House)",
+    "Relationship": "description_is",
+    "Object": "Covenant House's Crisis Care Services are short-term programs where a homeless child's most pressing, urgent needs are met immediately. There is no requirement that a young person be referred through an official channel – they can come anytime, day or night.\n\nThis program provides:\n\n- Shelter\n- Hot meal\n- Emergency medical care\n- Showers\n\nThis program also provides:\n\n- Mental health care\n- Legal assistance \n\nDuring the intake process, kids share their stories with trained staff so their immediate needs can be identified and then a plan is created for the best way to support them."
+  },
+  {
+    "Subject": "Crisis Care Services (Covenant House)",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Crisis Care Services (Covenant House)",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Crisis Care Services (Covenant House)",
+    "Relationship": "has_Google_Reviews",
+    "Object": "TRUE"
+  },
+  {
+    "Subject": "Crisis Care Services (Covenant House)",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following cities: Anchorage, AK, Anaheim, CA, Hayward, CA, Los Angeles, CA, Oakland, CA, Santa Clara, CA, Washington, DC, Fort Lauderdale, FL, Orlando, FL, Atlanta, GA, Chicago, IL, New Orleans, LA, Detroit, MI, Grand Rapids, MI, Saint Louis, MO, Asbury Park, NJ, Atlantic City, NJ, Elizabeth, NJ, Jersey City, NJ, Montclair, NJ, Newark, NJ, New York, NY, Philadelphia, PA, York, PA and Houston, TX."
+  },
+  {
+    "Subject": "Crisis Care Services (Covenant House)",
+    "Relationship": "zipcode_is",
+    "Object": 19144
+  },
+  {
+    "Subject": "Crisis Care Services (Covenant House)",
+    "Relationship": "24hours_status_is",
+    "Object": "FALSE"
+  },
+  {
+    "Subject": "Crisis Care Services (Covenant House)",
+    "Relationship": "serves",
+    "Object": "['teens', 'foster youth', 'homeless'], ['This program serves teens experiencing homelessness.']"
+  },
+  {
+    "Subject": "Crisis Care Services (Covenant House)",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/CovenantHouse, https://www.twitter.com/@CovenantHouse"
+  },
+  {
+    "Subject": "Crisis Care Services (Covenant House)",
+    "Relationship": "coordinates_are",
+    "Object": "40.0356379, -75.1733708"
+  },
+  {
+    "Subject": "Crisis Care Services (Covenant House)",
+    "Relationship": "is_open_from",
+    "Object": "8:00AM - 5:00PM, 8:00AM - 5:00PM, 8:00AM - 5:00PM, 8:00AM - 5:00PM, 8:00AM - 5:00PM, Closed, Closed"
+  },
+  {
+    "Subject": "Emergency Shelter (HELP USA Pennsylvania)",
+    "Relationship": "main_services_are",
+    "Object": "['temporary shelter', 'skilled nursing', 'prevent & treat', 'navigating the system', 'help find work']"
+  },
+  {
+    "Subject": "Emergency Shelter (HELP USA Pennsylvania)",
+    "Relationship": "phone_number_is",
+    "Object": "215-473-6454"
+  },
+  {
+    "Subject": "Emergency Shelter (HELP USA Pennsylvania)",
+    "Relationship": "website_is",
+    "Object": "https://www.helpusa.org/"
+  },
+  {
+    "Subject": "Emergency Shelter (HELP USA Pennsylvania)",
+    "Relationship": "is_located_at",
+    "Object": "4910 Wyalusing Avenue, Philadelphia, PA 19131"
+  },
+  {
+    "Subject": "Emergency Shelter (HELP USA Pennsylvania)",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=4910+Wyalusing+Avenue,+Philadelphia,+PA+19131/"
+  },
+  {
+    "Subject": "Emergency Shelter (HELP USA Pennsylvania)",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Emergency Shelter (HELP USA Pennsylvania)",
+    "Relationship": "description_is",
+    "Object": "HELP USA is there for those who find themselves suddenly homeless, and they provide them with safe, temporary shelter and the support they need to get back on their feet. They believe in a different kind of homeless shelter – one that is respectful, supportive, and treats each resident as a unique individual.This program provides:- Temporary shelter- Day care and afterschool care- Physical and mental healthcare- Navigating the system- Help find work"
+  },
+  {
+    "Subject": "Emergency Shelter (HELP USA Pennsylvania)",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Emergency Shelter (HELP USA Pennsylvania)",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Emergency Shelter (HELP USA Pennsylvania)",
+    "Relationship": "has_Google_Reviews",
+    "Object": "TRUE"
+  },
+  {
+    "Subject": "Emergency Shelter (HELP USA Pennsylvania)",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following counties: Bucks County, PA, Delaware County, PA, Montgomery County, PA and Philadelphia County, PA."
+  },
+  {
+    "Subject": "Emergency Shelter (HELP USA Pennsylvania)",
+    "Relationship": "zipcode_is",
+    "Object": 19131
+  },
+  {
+    "Subject": "Emergency Shelter (HELP USA Pennsylvania)",
+    "Relationship": "24hours_status_is",
+    "Object": "FALSE"
+  },
+  {
+    "Subject": "Emergency Shelter (HELP USA Pennsylvania)",
+    "Relationship": "serves",
+    "Object": "['all ages', 'individuals', 'families', 'homeless', 'near homeless', 'low-income', 'abuse or neglect survivors', 'domestic violence survivors'], ['For individuals facing homelessness in the Philadelphia area.']"
+  },
+  {
+    "Subject": "Emergency Shelter (HELP USA Pennsylvania)",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/helpusa, https://www.twitter.com/@HelpUSA"
+  },
+  {
+    "Subject": "Emergency Shelter (HELP USA Pennsylvania)",
+    "Relationship": "coordinates_are",
+    "Object": "39.9699305, -75.2192177"
+  },
+  {
+    "Subject": "Emergency Shelter (HELP USA Pennsylvania)",
+    "Relationship": "is_open_from",
+    "Object": "8:00AM - 5:00PM, 8:00AM - 5:00PM, 8:00AM - 5:00PM, 8:00AM - 5:00PM, 8:00AM - 5:00PM, Closed, Closed"
+  },
+  {
+    "Subject": "Emergency Shelter (Families Forward)",
+    "Relationship": "main_services_are",
+    "Object": "['temporary shelter']"
+  },
+  {
+    "Subject": "Emergency Shelter (Families Forward)",
+    "Relationship": "other_services_are",
+    "Object": "['meals', 'daily life skills', 'parenting education', 'financial education', 'navigating the system', 'skills & training', 'computer class']"
+  },
+  {
+    "Subject": "Emergency Shelter (Families Forward)",
+    "Relationship": "phone_number_is",
+    "Object": "215-240-4800"
+  },
+  {
+    "Subject": "Emergency Shelter (Families Forward)",
+    "Relationship": "website_is",
+    "Object": "https://familiesforwardphilly.org/programs/emergency-shelter/"
+  },
+  {
+    "Subject": "Emergency Shelter (Families Forward)",
+    "Relationship": "is_located_at",
+    "Object": "111 North 49th Street, Philadelphia, PA 19139"
+  },
+  {
+    "Subject": "Emergency Shelter (Families Forward)",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=111+North+49th+Street,+Philadelphia,+PA+19139/"
+  },
+  {
+    "Subject": "Emergency Shelter (Families Forward)",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Emergency Shelter (Families Forward)",
+    "Relationship": "description_is",
+    "Object": "Families Forward Philadelphia offers an emergency family shelter, for families in need, that has 65 individual rooms. While obtaining housing is their top priority, they also encourage saving money – working with families to dedicate funds to rent, furnishings and day-to-day living expenses once they leave the shelter.This program provides:- A warm, safe environment- Nutritious meals- Case managementAdditionally throughout the day, workshops are available to prepare families for independent living, including parenting classes, life skills development, computer classes, money management classes, and much more."
+  },
+  {
+    "Subject": "Emergency Shelter (Families Forward)",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Emergency Shelter (Families Forward)",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Emergency Shelter (Families Forward)",
+    "Relationship": "has_Google_Reviews",
+    "Object": "TRUE"
+  },
+  {
+    "Subject": "Emergency Shelter (Families Forward)",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following counties: Philadelphia County, PA."
+  },
+  {
+    "Subject": "Emergency Shelter (Families Forward)",
+    "Relationship": "zipcode_is",
+    "Object": 19139
+  },
+  {
+    "Subject": "Emergency Shelter (Families Forward)",
+    "Relationship": "24hours_status_is",
+    "Object": "TRUE"
+  },
+  {
+    "Subject": "Emergency Shelter (Families Forward)",
+    "Relationship": "serves",
+    "Object": "['all ages', 'individuals', 'families', 'homeless'], ['All families must be referred to us through the City of Philadelphias Office of Supportive Housing central intake.']"
+  },
+  {
+    "Subject": "Emergency Shelter (Families Forward)",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/FFPhiladelphia/"
+  },
+  {
+    "Subject": "Emergency Shelter (Families Forward)",
+    "Relationship": "coordinates_are",
+    "Object": "39.9617037, -75.2184789"
+  },
+  {
+    "Subject": "Comprehensive Shelters (Salvation Army Eastern Pennsylvania & Delaware)",
+    "Relationship": "main_services_are",
+    "Object": "['temporary shelter']"
+  },
+  {
+    "Subject": "Comprehensive Shelters (Salvation Army Eastern Pennsylvania & Delaware)",
+    "Relationship": "other_services_are",
+    "Object": "['meals', 'community support services', 'spiritual support']"
+  },
+  {
+    "Subject": "Comprehensive Shelters (Salvation Army Eastern Pennsylvania & Delaware)",
+    "Relationship": "phone_number_is",
+    "Object": "215-474-1010"
+  },
+  {
+    "Subject": "Comprehensive Shelters (Salvation Army Eastern Pennsylvania & Delaware)",
+    "Relationship": "website_is",
+    "Object": "https://easternusa.salvationarmy.org/eastern-pennsylvania/provide-housing/"
+  },
+  {
+    "Subject": "Comprehensive Shelters (Salvation Army Eastern Pennsylvania & Delaware)",
+    "Relationship": "is_located_at",
+    "Object": "5501 Market Street, Philadelphia, PA 19139"
+  },
+  {
+    "Subject": "Comprehensive Shelters (Salvation Army Eastern Pennsylvania & Delaware)",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=5501+Market+Street,+Philadelphia,+PA+19139/"
+  },
+  {
+    "Subject": "Comprehensive Shelters (Salvation Army Eastern Pennsylvania & Delaware)",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Comprehensive Shelters (Salvation Army Eastern Pennsylvania & Delaware)",
+    "Relationship": "description_is",
+    "Object": "Salvation Army shelters welcome all homeless who come to their door. Comprehensive services are available to single-parent families, single women, single men, married couples, children awaiting placement in a foster home, and dual-parent families.This program provides:- Temporary shelter These shelters offer spiritual and physical care, food, and shelter to people in need. They attend the total needs of the individual and are meant to be a kind resting place to help these individuals get back on their feet."
+  },
+  {
+    "Subject": "Comprehensive Shelters (Salvation Army Eastern Pennsylvania & Delaware)",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Comprehensive Shelters (Salvation Army Eastern Pennsylvania & Delaware)",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Comprehensive Shelters (Salvation Army Eastern Pennsylvania & Delaware)",
+    "Relationship": "has_Google_Reviews",
+    "Object": "TRUE"
+  },
+  {
+    "Subject": "Comprehensive Shelters (Salvation Army Eastern Pennsylvania & Delaware)",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following counties: Kent County, DE, New Castle County, DE, Berks County, PA, Chester County, PA, Lebanon County, PA, Luzerne County, PA, Monroe County, PA, Montgomery County, PA and Philadelphia County, PA."
+  },
+  {
+    "Subject": "Comprehensive Shelters (Salvation Army Eastern Pennsylvania & Delaware)",
+    "Relationship": "zipcode_is",
+    "Object": 19139
+  },
+  {
+    "Subject": "Comprehensive Shelters (Salvation Army Eastern Pennsylvania & Delaware)",
+    "Relationship": "24hours_status_is",
+    "Object": "FALSE"
+  },
+  {
+    "Subject": "Comprehensive Shelters (Salvation Army Eastern Pennsylvania & Delaware)",
+    "Relationship": "serves",
+    "Object": "['all ages', 'children', 'individuals', 'families', 'single parent', 'homeless', 'parents'], ['This program serves homeless individuals and families.']"
+  },
+  {
+    "Subject": "Comprehensive Shelters (Salvation Army Eastern Pennsylvania & Delaware)",
+    "Relationship": "coordinates_are",
+    "Object": "39.9610016, -75.2312927"
+  },
+  {
+    "Subject": "Comprehensive Shelters (Salvation Army Eastern Pennsylvania & Delaware)",
+    "Relationship": "is_open_from",
+    "Object": "9:00AM - 4:00PM, 9:00AM - 4:00PM, 9:00AM - 4:00PM, 9:00AM - 4:00PM, 9:00AM - 4:00PM, 9:00AM - 4:00PM, 9:00AM - 4:00PM"
+  },
+  {
+    "Subject": "Kailo Haven (Resources for Human Development - Pennsylvania)",
+    "Relationship": "main_services_are",
+    "Object": "['temporary shelter', 'short-term housing']"
+  },
+  {
+    "Subject": "Kailo Haven (Resources for Human Development - Pennsylvania)",
+    "Relationship": "other_services_are",
+    "Object": "['meals', 'personal hygiene', 'navigating the system', 'one-on-one support', '12-step']"
+  },
+  {
+    "Subject": "Kailo Haven (Resources for Human Development - Pennsylvania)",
+    "Relationship": "phone_number_is",
+    "Object": "215-225-8645"
+  },
+  {
+    "Subject": "Kailo Haven (Resources for Human Development - Pennsylvania)",
+    "Relationship": "website_is",
+    "Object": "https://www.rhd.org/program/kailo-haven/"
+  },
+  {
+    "Subject": "Kailo Haven (Resources for Human Development - Pennsylvania)",
+    "Relationship": "is_located_at",
+    "Object": "2107 West Tioga Street, Philadelphia, PA 19140"
+  },
+  {
+    "Subject": "Kailo Haven (Resources for Human Development - Pennsylvania)",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=2107+West+Tioga+Street,+Philadelphia,+PA+19140/"
+  },
+  {
+    "Subject": "Kailo Haven (Resources for Human Development - Pennsylvania)",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Kailo Haven (Resources for Human Development - Pennsylvania)",
+    "Relationship": "description_is",
+    "Object": "Resources for Human Development's Kailo Haven is a safe haven homeless shelter for individuals experiencing chronic homelessness and identified as suffering from some form of co-occuring disorders, including mental health and addiction challenges.This program provides:- Safe environment to live and sleep- Meals and snacks- Bathroom and laundry facilities- 12-step recovering meetings- Emotional Management Courses- Individualized meetings and support to obtain financial and medical benefits- Referral ServicesPlease call The Homeless Outreach Hotline at 215-225-8645."
+  },
+  {
+    "Subject": "Kailo Haven (Resources for Human Development - Pennsylvania)",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Kailo Haven (Resources for Human Development - Pennsylvania)",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Kailo Haven (Resources for Human Development - Pennsylvania)",
+    "Relationship": "has_Google_Reviews",
+    "Object": "TRUE"
+  },
+  {
+    "Subject": "Kailo Haven (Resources for Human Development - Pennsylvania)",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following cities: Philadelphia, PA."
+  },
+  {
+    "Subject": "Kailo Haven (Resources for Human Development - Pennsylvania)",
+    "Relationship": "zipcode_is",
+    "Object": 19140
+  },
+  {
+    "Subject": "Kailo Haven (Resources for Human Development - Pennsylvania)",
+    "Relationship": "24hours_status_is",
+    "Object": "FALSE"
+  },
+  {
+    "Subject": "Kailo Haven (Resources for Human Development - Pennsylvania)",
+    "Relationship": "serves",
+    "Object": "['adults 18+', 'homeless', 'all mental health', 'substance dependency', 'dual diagnosis'], ['This program serves homeless people.']"
+  },
+  {
+    "Subject": "Kailo Haven (Resources for Human Development - Pennsylvania)",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/kailohaven/"
+  },
+  {
+    "Subject": "Kailo Haven (Resources for Human Development - Pennsylvania)",
+    "Relationship": "coordinates_are",
+    "Object": "40.007932, -75.1637777"
+  },
+  {
+    "Subject": "Kailo Haven (Resources for Human Development - Pennsylvania)",
+    "Relationship": "is_open_from",
+    "Object": "8:00AM - 5:00PM, 8:00AM - 5:00PM, 8:00AM - 5:00PM, 8:00AM - 5:00PM, 8:00AM - 5:00PM, Closed, Closed"
+  },
+  {
+    "Subject": "Station House Intake Center Services (SELF, Inc.)",
+    "Relationship": "main_services_are",
+    "Object": "['temporary shelter']"
+  },
+  {
+    "Subject": "Station House Intake Center Services (SELF, Inc.)",
+    "Relationship": "other_services_are",
+    "Object": "['case management']"
+  },
+  {
+    "Subject": "Station House Intake Center Services (SELF, Inc.)",
+    "Relationship": "phone_number_is",
+    "Object": "215-225-9230"
+  },
+  {
+    "Subject": "Station House Intake Center Services (SELF, Inc.)",
+    "Relationship": "website_is",
+    "Object": "https://www.selfincorp.org/station-house"
+  },
+  {
+    "Subject": "Station House Intake Center Services (SELF, Inc.)",
+    "Relationship": "is_located_at",
+    "Object": "2601 North Broad Street, Philadelphia, PA 19132"
+  },
+  {
+    "Subject": "Station House Intake Center Services (SELF, Inc.)",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=2601+North+Broad+Street,+Philadelphia,+PA+19132/"
+  },
+  {
+    "Subject": "Station House Intake Center Services (SELF, Inc.)",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Station House Intake Center Services (SELF, Inc.)",
+    "Relationship": "description_is",
+    "Object": "Centralized Homeless Intake Services includes an assessment of eligibility and service needs of persons and families presenting for placement into emergency housing. If eligible, persons and families are placed in appropriate emergency housing, boarding homes, or other alternative housing. Services include:- Temporary shelter- Ongoing case management services- Assistance with obtaining transitional and/or permanent housing- Supportive housing for special populations- An optional savings program which allows households to save a part of their income for future housing expensesMental health assessments and referrals to drug/alcohol treatment, health services, children and youth services, legal services and veteran’s services, etc., are provided as needed to clients of the program.- Connecting Services to other community resources- ScreeningIf you are currently experiencing homelessness, please call us during business hours. You must go through central intake for an initial assessment of your housing needs before placement into the homeless housing system."
+  },
+  {
+    "Subject": "Station House Intake Center Services (SELF, Inc.)",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Station House Intake Center Services (SELF, Inc.)",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Station House Intake Center Services (SELF, Inc.)",
+    "Relationship": "has_Google_Reviews",
+    "Object": "TRUE"
+  },
+  {
+    "Subject": "Station House Intake Center Services (SELF, Inc.)",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following counties: Philadelphia County, PA."
+  },
+  {
+    "Subject": "Station House Intake Center Services (SELF, Inc.)",
+    "Relationship": "zipcode_is",
+    "Object": 19132
+  },
+  {
+    "Subject": "Station House Intake Center Services (SELF, Inc.)",
+    "Relationship": "24hours_status_is",
+    "Object": "FALSE"
+  },
+  {
+    "Subject": "Station House Intake Center Services (SELF, Inc.)",
+    "Relationship": "serves",
+    "Object": "['adults 18+', 'male', 'homeless'], ['We serve single men experiencing homelessness.']"
+  },
+  {
+    "Subject": "Station House Intake Center Services (SELF, Inc.)",
+    "Relationship": "coordinates_are",
+    "Object": "39.9923482, -75.1544469"
+  },
+  {
+    "Subject": "Station House Intake Center Services (SELF, Inc.)",
+    "Relationship": "is_open_from",
+    "Object": "Closed, Closed, Closed, Closed, Closed, 5:00PM - 11:00PM, 5:00PM - 11:00PM"
+  },
+  {
+    "Subject": "Station House Shelter (SELF, Inc.)",
+    "Relationship": "main_services_are",
+    "Object": "['temporary shelter']"
+  },
+  {
+    "Subject": "Station House Shelter (SELF, Inc.)",
+    "Relationship": "other_services_are",
+    "Object": "['navigating the system', 'case management', 'one-on-one support']"
+  },
+  {
+    "Subject": "Station House Shelter (SELF, Inc.)",
+    "Relationship": "phone_number_is",
+    "Object": "215-225-9230"
+  },
+  {
+    "Subject": "Station House Shelter (SELF, Inc.)",
+    "Relationship": "website_is",
+    "Object": "https://www.selfincorp.org/service-approaches"
+  },
+  {
+    "Subject": "Station House Shelter (SELF, Inc.)",
+    "Relationship": "is_located_at",
+    "Object": "2601 North Broad Street, Philadelphia, PA 19132"
+  },
+  {
+    "Subject": "Station House Shelter (SELF, Inc.)",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=2601+North+Broad+Street,+Philadelphia,+PA+19132/"
+  },
+  {
+    "Subject": "Station House Shelter (SELF, Inc.)",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Station House Shelter (SELF, Inc.)",
+    "Relationship": "description_is",
+    "Object": "The Station House Shelter is an emergency shelter and after hour intake site providing client service case management, a computer lab, and residential services for 99 men in North Philadelphia. This program provides:- Emergency temporary shelter- Case managementStation House includes an intake assessment of eligibility and service needs of persons and families presenting for placement into emergency housing. You must go through a central intake assessment before placement into the homeless housing system. Intake hours for our emergency shelter occur after 5pm."
+  },
+  {
+    "Subject": "Station House Shelter (SELF, Inc.)",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Station House Shelter (SELF, Inc.)",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Station House Shelter (SELF, Inc.)",
+    "Relationship": "has_Google_Reviews",
+    "Object": "TRUE"
+  },
+  {
+    "Subject": "Station House Shelter (SELF, Inc.)",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following counties: Philadelphia County, PA."
+  },
+  {
+    "Subject": "Station House Shelter (SELF, Inc.)",
+    "Relationship": "zipcode_is",
+    "Object": 19132
+  },
+  {
+    "Subject": "Station House Shelter (SELF, Inc.)",
+    "Relationship": "24hours_status_is",
+    "Object": "FALSE"
+  },
+  {
+    "Subject": "Station House Shelter (SELF, Inc.)",
+    "Relationship": "serves",
+    "Object": "['seniors', 'adults 18+', 'male', 'homeless', 'emergency'], ['This program serves single men in North Philadelphia who are experiencing homelessness.']"
+  },
+  {
+    "Subject": "Station House Shelter (SELF, Inc.)",
+    "Relationship": "coordinates_are",
+    "Object": "39.9923482, -75.1544469"
+  },
+  {
+    "Subject": "Station House Shelter (SELF, Inc.)",
+    "Relationship": "is_open_from",
+    "Object": "5:00PM - 11:00PM, 5:00PM - 11:00PM, 5:00PM - 11:00PM, 5:00PM - 11:00PM, 5:00PM - 11:00PM, Closed, Closed"
+  },
+  {
+    "Subject": "Emergency Disaster Services (Salvation Army Eastern Pennsylvania & Delaware)",
+    "Relationship": "main_services_are",
+    "Object": "['disaster response', 'emergency food', 'temporary shelter', 'clothing', 'spiritual support']"
+  },
+  {
+    "Subject": "Emergency Disaster Services (Salvation Army Eastern Pennsylvania & Delaware)",
+    "Relationship": "website_is",
+    "Object": "https://easternusa.salvationarmy.org/eastern-pennsylvania/help-disaster-survivors/"
+  },
+  {
+    "Subject": "Emergency Disaster Services (Salvation Army Eastern Pennsylvania & Delaware)",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Emergency Disaster Services (Salvation Army Eastern Pennsylvania & Delaware)",
+    "Relationship": "description_is",
+    "Object": "When disaster strikes, The Salvation Army is often among the first on the scene. In disaster relief operation, The Salvation Army's first aim is to meet the basic needs of those affected – both survivors and first responders.This program provides:- Food- Disaster shelter- Financial assistance- Spiritual care- Emotional carePlease call this provider for more information."
+  },
+  {
+    "Subject": "Emergency Disaster Services (Salvation Army Eastern Pennsylvania & Delaware)",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Emergency Disaster Services (Salvation Army Eastern Pennsylvania & Delaware)",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Emergency Disaster Services (Salvation Army Eastern Pennsylvania & Delaware)",
+    "Relationship": "has_Google_Reviews",
+    "Object": "TRUE"
+  },
+  {
+    "Subject": "Emergency Disaster Services (Salvation Army Eastern Pennsylvania & Delaware)",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following counties: Adams County, PA, Berks County, PA, Bradford County, PA, Bucks County, PA, Carbon County, PA, Centre County, PA, Chester County, PA, Clinton County, PA, Columbia County, PA, Cumberland County, PA, Dauphin County, PA, Delaware County, PA, Franklin County, PA, Juniata County, PA, Lackawanna County, PA, Lancaster County, PA, Lebanon County, PA, Lehigh County, PA, Luzerne County, PA, Lycoming County, PA, Mifflin County, PA, Monroe County, PA, Montgomery County, PA, Montour County, PA, Northampton County, PA, Northumberland County, PA, Perry County, PA, Philadelphia County, PA, Pike County, PA, Potter County, PA, Schuylkill County, PA, Snyder County, PA, Sullivan County, PA, Susquehanna County, PA, Tioga County, PA, Union County, PA, Wayne County, PA, Wyoming County, PA and York County, PA."
+  },
+  {
+    "Subject": "Emergency Disaster Services (Salvation Army Eastern Pennsylvania & Delaware)",
+    "Relationship": "24hours_status_is",
+    "Object": "FALSE"
+  },
+  {
+    "Subject": "Emergency Disaster Services (Salvation Army Eastern Pennsylvania & Delaware)",
+    "Relationship": "serves",
+    "Object": "['all ages', 'natural disaster survivors', 'emergency', 'individuals', 'families'], []"
+  },
+  {
+    "Subject": "Emergency Disaster Services (Salvation Army Eastern Pennsylvania & Delaware)",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/SalArmyEDS, https://www.twitter.com/@SalArmyEDS"
+  },
+  {
+    "Subject": "Emergency Disaster Services (Salvation Army Eastern Pennsylvania & Delaware)",
+    "Relationship": "is_open_from",
+    "Object": "8:00AM - 5:00PM, 8:00AM - 5:00PM, 8:00AM - 5:00PM, 8:00AM - 5:00PM, 8:00AM - 5:00PM, Closed, Closed"
+  },
+  {
+    "Subject": "Youth Services (Covenant House Pennsylvania)",
+    "Relationship": "main_services_are",
+    "Object": "['temporary shelter', 'residential housing', 'short-term housing']"
+  },
+  {
+    "Subject": "Youth Services (Covenant House Pennsylvania)",
+    "Relationship": "other_services_are",
+    "Object": "['meals', 'medical care', 'counseling', 'financial education', 'navigating the system', 'case management', 'one-on-one support', 'spiritual support', 'advocacy & legal aid']"
+  },
+  {
+    "Subject": "Youth Services (Covenant House Pennsylvania)",
+    "Relationship": "phone_number_is",
+    "Object": "888-829-1249"
+  },
+  {
+    "Subject": "Youth Services (Covenant House Pennsylvania)",
+    "Relationship": "website_is",
+    "Object": "https://www.covenanthousepa.org/our-impact/our-programs"
+  },
+  {
+    "Subject": "Youth Services (Covenant House Pennsylvania)",
+    "Relationship": "is_located_at",
+    "Object": "31 East Armat St. , Philadelphia, PA 19144"
+  },
+  {
+    "Subject": "Youth Services (Covenant House Pennsylvania)",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=31+East+Armat+St.+,+Philadelphia,+PA+19144/"
+  },
+  {
+    "Subject": "Youth Services (Covenant House Pennsylvania)",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Youth Services (Covenant House Pennsylvania)",
+    "Relationship": "description_is",
+    "Object": "Covenant House Pennsylvania offers shelter and supportive services to young people experiencing homelessness. They aim to help homeless young people become healthy, happy, responsible, productive, and ultimately independent adults.This program provides:- A safe, secure environment- Immediate and transitional housing- Rapid rehousing- Meals and food- Case Management- Spiritual Support- Counseling- Physical health, mental health, and drug and alcohol services- Saving and budgeting- Continuing education- Support for LGBTQ individuals- Job readinessThe Crisis Center is open 24 hours per day, seven days per week. There are no shelter fees; however, those staying at the shelter must deposit 75% of their income during their stay. All money is returned upon leaving the shelter. Covenant House is a drug and weapon-free program."
+  },
+  {
+    "Subject": "Youth Services (Covenant House Pennsylvania)",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Youth Services (Covenant House Pennsylvania)",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Youth Services (Covenant House Pennsylvania)",
+    "Relationship": "has_Google_Reviews",
+    "Object": "TRUE"
+  },
+  {
+    "Subject": "Youth Services (Covenant House Pennsylvania)",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following counties: Philadelphia County, PA."
+  },
+  {
+    "Subject": "Youth Services (Covenant House Pennsylvania)",
+    "Relationship": "zipcode_is",
+    "Object": 19144
+  },
+  {
+    "Subject": "Youth Services (Covenant House Pennsylvania)",
+    "Relationship": "24hours_status_is",
+    "Object": "TRUE"
+  },
+  {
+    "Subject": "Youth Services (Covenant House Pennsylvania)",
+    "Relationship": "serves",
+    "Object": "['young adults', 'teens', 'children', 'homeless', 'runaways', 'human trafficking survivors', 'in crisis', 'lgbtqia+'], ['This program helps people who are younger than 21 years old']"
+  },
+  {
+    "Subject": "Youth Services (Covenant House Pennsylvania)",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/CovenantHousePA, https://www.twitter.com/@CovenantHousePA"
+  },
+  {
+    "Subject": "Youth Services (Covenant House Pennsylvania)",
+    "Relationship": "coordinates_are",
+    "Object": "40.0356453, -75.1733712"
+  },
+  {
+    "Subject": "My Brother's House (Bethesda Project)",
+    "Relationship": "main_services_are",
+    "Object": "['temporary shelter', 'safe housing', 'mental health care', 'substance abuse counseling']"
+  },
+  {
+    "Subject": "My Brother's House (Bethesda Project)",
+    "Relationship": "other_services_are",
+    "Object": "['meals', 'navigating the system', 'case management']"
+  },
+  {
+    "Subject": "My Brother's House (Bethesda Project)",
+    "Relationship": "phone_number_is",
+    "Object": "215-985-1600"
+  },
+  {
+    "Subject": "My Brother's House (Bethesda Project)",
+    "Relationship": "website_is",
+    "Object": "https://www.bethesdaproject.org/housing-shelter"
+  },
+  {
+    "Subject": "My Brother's House (Bethesda Project)",
+    "Relationship": "is_located_at",
+    "Object": "1630 South Street, Philadelphia, PA 19146"
+  },
+  {
+    "Subject": "My Brother's House (Bethesda Project)",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=609+South+15th+Street,+Philadelphia,+PA+19146/"
+  },
+  {
+    "Subject": "My Brother's House (Bethesda Project)",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "My Brother's House (Bethesda Project)",
+    "Relationship": "description_is",
+    "Object": "My Brother's House program offers a safe heaven that provides pre-recovery housing and an array of supportive services to 20 vulnerable men with chronic mental illness and substance abuse problem. This program provides:- Temporary shelterIn addition to a safe place to stay, resident are provided with:- Meals- Social services"
+  },
+  {
+    "Subject": "My Brother's House (Bethesda Project)",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "My Brother's House (Bethesda Project)",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "My Brother's House (Bethesda Project)",
+    "Relationship": "has_Google_Reviews",
+    "Object": "TRUE"
+  },
+  {
+    "Subject": "My Brother's House (Bethesda Project)",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following counties: Philadelphia County, PA."
+  },
+  {
+    "Subject": "My Brother's House (Bethesda Project)",
+    "Relationship": "zipcode_is",
+    "Object": 19146
+  },
+  {
+    "Subject": "My Brother's House (Bethesda Project)",
+    "Relationship": "24hours_status_is",
+    "Object": "FALSE"
+  },
+  {
+    "Subject": "My Brother's House (Bethesda Project)",
+    "Relationship": "serves",
+    "Object": "['all ages', 'male', 'homeless', 'near homeless', 'all mental health'], ['This program serves homeless men.']"
+  },
+  {
+    "Subject": "My Brother's House (Bethesda Project)",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/BethesdaProject/, https://www.twitter.com/@Bethesda_Proj"
+  },
+  {
+    "Subject": "My Brother's House (Bethesda Project)",
+    "Relationship": "coordinates_are",
+    "Object": "39.9435352, -75.1671412"
+  },
+  {
+    "Subject": "My Brother's House (Bethesda Project)",
+    "Relationship": "is_open_from",
+    "Object": "8:00AM - 5:00PM, 8:00AM - 5:00PM, 8:00AM - 5:00PM, 8:00AM - 5:00PM, 8:00AM - 5:00PM, Closed, Closed"
+  },
+  {
+    "Subject": "Residential Maternity Shelter (Mother's Home)",
+    "Relationship": "main_services_are",
+    "Object": "['temporary shelter', 'safe housing']"
+  },
+  {
+    "Subject": "Residential Maternity Shelter (Mother's Home)",
+    "Relationship": "other_services_are",
+    "Object": "['nutrition education', 'help find housing', 'baby supplies', 'health education', 'parenting education', 'individual counseling', 'financial education', 'skills & training']"
+  },
+  {
+    "Subject": "Residential Maternity Shelter (Mother's Home)",
+    "Relationship": "phone_number_is",
+    "Object": "610-583-4663"
+  },
+  {
+    "Subject": "Residential Maternity Shelter (Mother's Home)",
+    "Relationship": "website_is",
+    "Object": "https://mothershome.org/"
+  },
+  {
+    "Subject": "Residential Maternity Shelter (Mother's Home)",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Residential Maternity Shelter (Mother's Home)",
+    "Relationship": "description_is",
+    "Object": "Mothers' Home provides a Residential Maternity Shelter and supportive services for pregnant women who are homeless or in crisis over the age of 18 who do not have other children in their care.This program provides: - Temporary housingWomen in the shelter have access to:- Life skills training- Parenting classes- Job readiness training- Counseling services- Pre and postnatal health education- Childbirth and development classes- Housing search assistance- Educational classes on budgeting, legal, and nutrition- Initial personal and baby supplies- Peer supportWomen may continue to reside in our Residential Maternity Shelter for up to six months after giving birth."
+  },
+  {
+    "Subject": "Residential Maternity Shelter (Mother's Home)",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Residential Maternity Shelter (Mother's Home)",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Residential Maternity Shelter (Mother's Home)",
+    "Relationship": "has_Google_Reviews",
+    "Object": "TRUE"
+  },
+  {
+    "Subject": "Residential Maternity Shelter (Mother's Home)",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following counties: Bucks County, PA, Chester County, PA, Delaware County, PA, Montgomery County, PA and Philadelphia County, PA."
+  },
+  {
+    "Subject": "Residential Maternity Shelter (Mother's Home)",
+    "Relationship": "24hours_status_is",
+    "Object": "FALSE"
+  },
+  {
+    "Subject": "Residential Maternity Shelter (Mother's Home)",
+    "Relationship": "serves",
+    "Object": "['adults 18+', 'female', 'pregnant', 'homeless', 'near homeless'], ['This program helps people who are older than 17 years old.', 'Must be a pregnant woman with no children currently in your care.']"
+  },
+  {
+    "Subject": "Residential Maternity Shelter (Mother's Home)",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/mothershomeshelter"
+  },
+  {
+    "Subject": "Residential Maternity Shelter (Mother's Home)",
+    "Relationship": "is_open_from",
+    "Object": "8:00AM - 5:00PM, 8:00AM - 5:00PM, 8:00AM - 5:00PM, 8:00AM - 5:00PM, 8:00AM - 5:00PM, Closed, Closed"
+  },
+  {
+    "Subject": "RHD Fernwood Program (Resources for Human Development - Pennsylvania)",
+    "Relationship": "main_services_are",
+    "Object": "['temporary shelter']"
+  },
+  {
+    "Subject": "RHD Fernwood Program (Resources for Human Development - Pennsylvania)",
+    "Relationship": "other_services_are",
+    "Object": "['navigating the system']"
+  },
+  {
+    "Subject": "RHD Fernwood Program (Resources for Human Development - Pennsylvania)",
+    "Relationship": "phone_number_is",
+    "Object": "267-797-2500"
+  },
+  {
+    "Subject": "RHD Fernwood Program (Resources for Human Development - Pennsylvania)",
+    "Relationship": "website_is",
+    "Object": "https://www.rhd.org/program/rhd-fernwood/"
+  },
+  {
+    "Subject": "RHD Fernwood Program (Resources for Human Development - Pennsylvania)",
+    "Relationship": "is_located_at",
+    "Object": "2100 West Girard Avenue, Philadelphia, PA 19130"
+  },
+  {
+    "Subject": "RHD Fernwood Program (Resources for Human Development - Pennsylvania)",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=7979+State+Rd,+Philadelphia,+PA+19136/"
+  },
+  {
+    "Subject": "RHD Fernwood Program (Resources for Human Development - Pennsylvania)",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "RHD Fernwood Program (Resources for Human Development - Pennsylvania)",
+    "Relationship": "description_is",
+    "Object": "RHD Fernwood provides emergency housing for single men in Philadelphia referred by Philadelphia’s Office of Homeless Services. Assessments focus on the immediate needs of the individual. Linkages with community services enable individuals to address primary social service and housing needs.This program provides:- Emergency housing"
+  },
+  {
+    "Subject": "RHD Fernwood Program (Resources for Human Development - Pennsylvania)",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "RHD Fernwood Program (Resources for Human Development - Pennsylvania)",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "RHD Fernwood Program (Resources for Human Development - Pennsylvania)",
+    "Relationship": "has_Google_Reviews",
+    "Object": "TRUE"
+  },
+  {
+    "Subject": "RHD Fernwood Program (Resources for Human Development - Pennsylvania)",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following counties: Philadelphia County, PA."
+  },
+  {
+    "Subject": "RHD Fernwood Program (Resources for Human Development - Pennsylvania)",
+    "Relationship": "zipcode_is",
+    "Object": 19136
+  },
+  {
+    "Subject": "RHD Fernwood Program (Resources for Human Development - Pennsylvania)",
+    "Relationship": "24hours_status_is",
+    "Object": "FALSE"
+  },
+  {
+    "Subject": "RHD Fernwood Program (Resources for Human Development - Pennsylvania)",
+    "Relationship": "serves",
+    "Object": "['all ages', 'male', 'individuals', 'homeless'], ['This program serves single males.']"
+  },
+  {
+    "Subject": "RHD Fernwood Program (Resources for Human Development - Pennsylvania)",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/ResourcesHD/timeline/, https://www.twitter.com/@Resources4HD"
+  },
+  {
+    "Subject": "RHD Fernwood Program (Resources for Human Development - Pennsylvania)",
+    "Relationship": "coordinates_are",
+    "Object": "40.0311934, -75.0218051"
+  },
+  {
+    "Subject": "RHD Fernwood Program (Resources for Human Development - Pennsylvania)",
+    "Relationship": "is_open_from",
+    "Object": "8:00AM - 5:00PM, 8:00AM - 5:00PM, 8:00AM - 5:00PM, 8:00AM - 5:00PM, 8:00AM - 5:00PM, Closed, Closed"
+  },
+  {
+    "Subject": "Homeless Veterans Initiative (Disabled American Veterans)",
+    "Relationship": "main_services_are",
+    "Object": "['temporary shelter', 'government benefits']"
+  },
+  {
+    "Subject": "Homeless Veterans Initiative (Disabled American Veterans)",
+    "Relationship": "phone_number_is",
+    "Object": "877-426-2838"
+  },
+  {
+    "Subject": "Homeless Veterans Initiative (Disabled American Veterans)",
+    "Relationship": "website_is",
+    "Object": "https://www.dav.org/get-help-now/veteran-topics-resources/homeless-veterans-assistance/"
+  },
+  {
+    "Subject": "Homeless Veterans Initiative (Disabled American Veterans)",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Homeless Veterans Initiative (Disabled American Veterans)",
+    "Relationship": "description_is",
+    "Object": "The DAV Homeless Veterans Initiative, supported by DAV’s Charitable Service Trust and Columbia Trust, promotes the development of supportive housing and necessary services to assist homeless veterans in becoming productive, self-sufficient members of society. Our goal is to establish a partnership between the DAV and Federal, state, county and local governments to develop programs to assist homeless veterans in becoming self-sufficient.\n\nService:\n\n-counsel individuals on the many VA benefits for which they may be entitled\n\nIf you or someone you know is a homeless veteran in need of assistance, please contact us."
+  },
+  {
+    "Subject": "Homeless Veterans Initiative (Disabled American Veterans)",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Homeless Veterans Initiative (Disabled American Veterans)",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Homeless Veterans Initiative (Disabled American Veterans)",
+    "Relationship": "has_Google_Reviews",
+    "Object": "TRUE"
+  },
+  {
+    "Subject": "Homeless Veterans Initiative (Disabled American Veterans)",
+    "Relationship": "covers",
+    "Object": "This program covers residents of All US states and territories."
+  },
+  {
+    "Subject": "Homeless Veterans Initiative (Disabled American Veterans)",
+    "Relationship": "24hours_status_is",
+    "Object": "FALSE"
+  },
+  {
+    "Subject": "Homeless Veterans Initiative (Disabled American Veterans)",
+    "Relationship": "serves",
+    "Object": "['veterans'], ['Serves homeless veterans.']"
+  },
+  {
+    "Subject": "Homeless Veterans Initiative (Disabled American Veterans)",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/DAV, https://www.twitter.com/@DAVHQ"
+  },
+  {
+    "Subject": "Homeless Veterans Initiative (Disabled American Veterans)",
+    "Relationship": "is_open_from",
+    "Object": "8:00AM - 5:00PM, 8:00AM - 5:00PM, 8:00AM - 5:00PM, 8:00AM - 5:00PM, 8:00AM - 5:00PM, Closed, Closed"
+  },
+  {
+    "Subject": "Financial Assistance for Military Families (American Red Cross)",
+    "Relationship": "main_services_are",
+    "Object": "['emergency payments', 'emergency food', 'temporary shelter', 'burial & funeral help', 'financial assistance']"
+  },
+  {
+    "Subject": "Financial Assistance for Military Families (American Red Cross)",
+    "Relationship": "phone_number_is",
+    "Object": "877-272-7337"
+  },
+  {
+    "Subject": "Financial Assistance for Military Families (American Red Cross)",
+    "Relationship": "website_is",
+    "Object": "https://www.redcross.org/get-help/military-families/financial-assistance.html"
+  },
+  {
+    "Subject": "Financial Assistance for Military Families (American Red Cross)",
+    "Relationship": "is_located_at",
+    "Object": "700 Spring Garden St, Philadelphia, PA 19123"
+  },
+  {
+    "Subject": "Financial Assistance for Military Families (American Red Cross)",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Financial Assistance for Military Families (American Red Cross)",
+    "Relationship": "description_is",
+    "Object": "The American Red Cross works in partnership with military aid societies to provide quality, reliable financial assistance to eligible applicants 24/7/365 in times of hardship.This program provides: - Financial assistance for emergency needsAssistance can include funds for emergency travel, burial of a loved one, emergency food and shelter, etc. Red Cross helps to facilitate the application process, the military aid society determines eligibility and the specific financial assistance package that is offered.You can submit a request online or call the American Red Cross Hero Care Center.  When calliing, be sure to have the following information ready to provide the representative:- Legal name- Rank or rating- Social Security number- Date of birth- Branch of service (Army, Navy, Air Force, Marines, Coast Guard)- Military unit address- Information about the deployed unit and home base unit (for deployed service members only)"
+  },
+  {
+    "Subject": "Financial Assistance for Military Families (American Red Cross)",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Financial Assistance for Military Families (American Red Cross)",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Financial Assistance for Military Families (American Red Cross)",
+    "Relationship": "has_Google_Reviews",
+    "Object": "TRUE"
+  },
+  {
+    "Subject": "Financial Assistance for Military Families (American Red Cross)",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following states: AK, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV and WY."
+  },
+  {
+    "Subject": "Financial Assistance for Military Families (American Red Cross)",
+    "Relationship": "24hours_status_is",
+    "Object": "FALSE"
+  },
+  {
+    "Subject": "Financial Assistance for Military Families (American Red Cross)",
+    "Relationship": "serves",
+    "Object": "['adults 18+', 'active duty', 'national guard', 'veterans', 'families', 'spouses', 'emergency'], ['Eligible for financial assistance if you are: An active duty service member OR', 'A member of an activated National Guard or Reserve unit OR', 'An immediate family member of a service member in the above two categories OR', 'A military retiree or spouse/widow(er) of a retiree.']"
+  },
+  {
+    "Subject": "Financial Assistance for Military Families (American Red Cross)",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/redcross, https://www.twitter.com/@redcross"
+  },
+  {
+    "Subject": "Financial Assistance for Military Families (American Red Cross)",
+    "Relationship": "is_open_from",
+    "Object": "8:30AM - 4:30PM, 8:30AM - 4:30PM, 8:30AM - 4:30PM, 8:30AM - 4:30PM, 8:30AM - 4:30PM, Closed, Closed"
+  },
+  {
+    "Subject": "Emergency Food & Shelter Services (PathStone)",
+    "Relationship": "main_services_are",
+    "Object": "['emergency food', 'temporary shelter']"
+  },
+  {
+    "Subject": "Emergency Food & Shelter Services (PathStone)",
+    "Relationship": "phone_number_is",
+    "Object": "585-340-3300"
+  },
+  {
+    "Subject": "Emergency Food & Shelter Services (PathStone)",
+    "Relationship": "website_is",
+    "Object": "https://pathstone.org/workforce-development/"
+  },
+  {
+    "Subject": "Emergency Food & Shelter Services (PathStone)",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Emergency Food & Shelter Services (PathStone)",
+    "Relationship": "description_is",
+    "Object": "PathStone provides one-time emergency services for migrant and seasonal farmworkers, and other rural disadvantaged people, who may not be eligible for other emergency services.This program provides: - Emergency food- Emergency shelter"
+  },
+  {
+    "Subject": "Emergency Food & Shelter Services (PathStone)",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Emergency Food & Shelter Services (PathStone)",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Emergency Food & Shelter Services (PathStone)",
+    "Relationship": "has_Google_Reviews",
+    "Object": "TRUE"
+  },
+  {
+    "Subject": "Emergency Food & Shelter Services (PathStone)",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following states: NJ, NY, OH, PA and PR."
+  },
+  {
+    "Subject": "Emergency Food & Shelter Services (PathStone)",
+    "Relationship": "24hours_status_is",
+    "Object": "FALSE"
+  },
+  {
+    "Subject": "Emergency Food & Shelter Services (PathStone)",
+    "Relationship": "serves",
+    "Object": "['all ages', 'immigrants', 'refugees', 'undocumented', 'low-income', 'emergency'], ['Must be a migrant or seasonal farmworker, or other rural disadvantaged person.', 'Must reside in the coverage area.']"
+  },
+  {
+    "Subject": "Emergency Food & Shelter Services (PathStone)",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/pathstonecorp/, https://www.twitter.com/@PathStoneCorp"
+  },
+  {
+    "Subject": "Emergency Food & Shelter Services (PathStone)",
+    "Relationship": "is_open_from",
+    "Object": "9:00AM - 5:00PM, 9:00AM - 5:00PM, 9:00AM - 5:00PM, 9:00AM - 5:00PM, 9:00AM - 5:00PM, Closed, Closed"
+  }
+]

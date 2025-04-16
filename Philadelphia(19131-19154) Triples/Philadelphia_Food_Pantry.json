@@ -1,0 +1,5457 @@
+[
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry']"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "phone_number_is",
+    "Object": "267-908-9000"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "website_is",
+    "Object": "https://north10phl.org/health-wellness/"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "is_located_at",
+    "Object": "3890 North 10th Street, Philadelphia, PA 19140"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=3890+North+10th+Street,+Philadelphia,+PA+19140/"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "description_is",
+    "Object": "North10, Philadelphia's Community Market provides a food pantry consisting of quality food items to households experiencing food insecurity. This program supplies critical nutrition to hungry individuals and families. This program provides:- Food to meet nutritional needsPlease call before visiting since registration may be required at times."
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "speaks",
+    "Object": "['English', 'Spanish']"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following cities: Philadelphia, PA."
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "zipcode_is",
+    "Object": 19140
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages', 'individuals', 'families'], ['Anyone can access this program.']"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/lenfest.ctr/"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "coordinates_are",
+    "Object": "40.0116671, -75.1444282"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "is_open_from",
+    "Object": "Closed, 10:00 AM - 2:00 PM  EST, Closed, 10:00 AM - 2:00 PM  EST, Closed, Closed, Closed"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "phone_number_is",
+    "Object": "215-473-1044"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "website_is",
+    "Object": "https://stbarbphila.org/events/food-pantry-ph"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_located_at",
+    "Object": "5359 Lebanon Avenue, Philadelphia, PA 19131"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=5359+Lebanon+Avenue,+Philadelphia,+PA+19131/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "description_is",
+    "Object": "The food pantry provides quality food items to households experiencing food insecurity. This program supplies critical nutrition to hungry individuals and families. This program provides:- Food to meet basic nutritional needs"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following counties: Philadelphia County, PA."
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "zipcode_is",
+    "Object": 19131
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages', 'individuals', 'families'], ['Anyone can access this program.']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/profile.php?id=100083359778002, https://www.twitter.com/@SaintBarbPhilly"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "coordinates_are",
+    "Object": "39.9878915, -75.2314511"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_open_from",
+    "Object": "Closed, Closed, 12:00 PM - 2:00 PM  EST, Closed, Closed, Closed, Closed"
+  },
+  {
+    "Subject": "Resource Fair",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry', 'clothing', 'navigating the system']"
+  },
+  {
+    "Subject": "Resource Fair",
+    "Relationship": "phone_number_is",
+    "Object": "215-423-3598"
+  },
+  {
+    "Subject": "Resource Fair",
+    "Relationship": "website_is",
+    "Object": "https://thesimpleway.org/what-we-do/"
+  },
+  {
+    "Subject": "Resource Fair",
+    "Relationship": "is_located_at",
+    "Object": "3234 Potter Street, Philadelphia, PA 19134"
+  },
+  {
+    "Subject": "Resource Fair",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=3234+Potter+Street,+Philadelphia,+PA+19134/"
+  },
+  {
+    "Subject": "Resource Fair",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Resource Fair",
+    "Relationship": "description_is",
+    "Object": "On the third Wednesday of every month from 10 am to 12 pm, we host a resource fair in partnership with Esperanza Health Center. Located at 3222 H Street, the resource fair offers food, clothing, and other resources. Appointments are not necessary. \n\nIn addition, we have a community refrigerator outside located around the corner from 3234 Potter Street on Westmoreland with fresh food available. \n\nIndividuals who are interested in receiving updates on our events can text “FOOD” to 866-551-1675 for updates and the latest information about events, timing, and changes, or follow us on Facebook, Instagram, or Twitter."
+  },
+  {
+    "Subject": "Resource Fair",
+    "Relationship": "speaks",
+    "Object": "['English', 'Spanish']"
+  },
+  {
+    "Subject": "Resource Fair",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Resource Fair",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Resource Fair",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following counties: Philadelphia County, PA."
+  },
+  {
+    "Subject": "Resource Fair",
+    "Relationship": "zipcode_is",
+    "Object": 19134
+  },
+  {
+    "Subject": "Resource Fair",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Resource Fair",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages', 'individuals', 'families', 'limited english'], ['Anyone can access this program.']"
+  },
+  {
+    "Subject": "Resource Fair",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/theSimpleWay/, https://www.twitter.com/@theSimpleWay"
+  },
+  {
+    "Subject": "Resource Fair",
+    "Relationship": "coordinates_are",
+    "Object": "39.9978678, -75.11218960000001"
+  },
+  {
+    "Subject": "Resource Fair",
+    "Relationship": "is_open_from",
+    "Object": "12:30 PM - 2:30 PM  EST, 12:30 PM - 2:30 PM  EST, Closed, Closed, 9:30 AM - 11:30 AM  EST, Closed, Closed"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "phone_number_is",
+    "Object": "215-825-4601"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "website_is",
+    "Object": "https://easternusa.salvationarmy.org/eastern-pennsylvania/greater-philadelphia/alleviate-hunger/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_located_at",
+    "Object": "5501 Market Street, Philadelphia, PA 19139"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=5501+Market+Street,+Philadelphia,+PA+19139/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "description_is",
+    "Object": "The Salvation Army West Philadelphia Corps Community Center Food Pantry provides groceries and food for families and individuals in need.This program provides:- Food to meet basic nutritional needsFood is free, but some locations require appointments. Others are on a walk-in first come first served basis. Call your local Salvation Army office or the 2-1-1 help line to determine which food pantry serves your area."
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following cities: Philadelphia, PA."
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "zipcode_is",
+    "Object": 19139
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages', 'individuals', 'families', 'homeless', 'near homeless', 'low-income'], ['Anyone can access this program.']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/SalArmyPhilly, https://www.twitter.com/@SalArmyPhilly"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "coordinates_are",
+    "Object": "39.9610016, -75.2312927"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_open_from",
+    "Object": "9:00 AM - 2:00 PM  EST, 9:00 AM - 2:00 PM  EST, 9:00 AM - 2:00 PM  EST, 9:00 AM - 2:00 PM  EST, 9:00 AM - 2:00 PM  EST, Closed, Closed"
+  },
+  {
+    "Subject": "Farm to Families",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry']"
+  },
+  {
+    "Subject": "Farm to Families",
+    "Relationship": "other_services_are",
+    "Object": "['nutrition education']"
+  },
+  {
+    "Subject": "Farm to Families",
+    "Relationship": "phone_number_is",
+    "Object": "484-734-0189"
+  },
+  {
+    "Subject": "Farm to Families",
+    "Relationship": "website_is",
+    "Object": "https://scfchildren.org/farm-to-families-initiative/"
+  },
+  {
+    "Subject": "Farm to Families",
+    "Relationship": "is_located_at",
+    "Object": "4865 Market Street, Philadelphia, PA 19139"
+  },
+  {
+    "Subject": "Farm to Families",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=4865+Market+Street,+Philadelphia,+PA+19139/"
+  },
+  {
+    "Subject": "Farm to Families",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Farm to Families",
+    "Relationship": "description_is",
+    "Object": "Each week, Farm to Families supplies North Philadelphia families with boxes of wholesome fresh produce or fruit at a reduced cost. Boxes are packed with delicious seasonal fruits and vegetables, often valued at double the price. Additional fresh items including local eggs, meat, and seafood are also offered at affordable prices.This program provides:- Food to meet basic nutritional needsFarm to Families also provides food and nutrition education, including food budgeting and shopping tips, basic food preparation and cooking skills, and demonstrations and taste tests, aligned with the weekly boxes.Orders are taken one week in advance. SNAP benefits are all accepted for payment. Farm to Families is open to all with no income restrictions."
+  },
+  {
+    "Subject": "Farm to Families",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Farm to Families",
+    "Relationship": "costs",
+    "Object": "Reduced Cost"
+  },
+  {
+    "Subject": "Farm to Families",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Farm to Families",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following cities: Philadelphia, PA."
+  },
+  {
+    "Subject": "Farm to Families",
+    "Relationship": "zipcode_is",
+    "Object": 19139
+  },
+  {
+    "Subject": "Farm to Families",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Farm to Families",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages', 'individuals', 'families', 'benefit recipients', 'low-income'], ['Must be eligible for SNAP benefits.']"
+  },
+  {
+    "Subject": "Farm to Families",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/FarmtoFamilies/, https://www.twitter.com/@FarmtoFamilies"
+  },
+  {
+    "Subject": "Farm to Families",
+    "Relationship": "coordinates_are",
+    "Object": "39.9595901, -75.2175494"
+  },
+  {
+    "Subject": "Farm to Families",
+    "Relationship": "is_open_from",
+    "Object": "Closed, Closed, Closed, 11:00 AM - 3:00 PM  EST, Closed, Closed, Closed"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "phone_number_is",
+    "Object": "267-593-4989"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "website_is",
+    "Object": "https://urmbc.org/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_located_at",
+    "Object": "7236 Ogontz Avenue, Philadelphia, PA 19138"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=7236+Ogontz+Avenue,+Philadelphia,+PA+19138/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "description_is",
+    "Object": "Upper Room Missionary Baptist Church offers quality food items to households experiencing food insecurity. This program supplies critical nutrition to hungry individuals and families. This program provides:- Food to meet basic nutritional needs"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following cities: Philadelphia, PA."
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "zipcode_is",
+    "Object": 19138
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages'], ['This program serves anyone in need.']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/Upper-Room-Missionary-Baptist-Church-2195510364097911/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "coordinates_are",
+    "Object": "40.064768, -75.1550397"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_open_from",
+    "Object": "10:00 AM - 12:00 PM  EST, 9:00 AM - 11:00 AM  EST, 8:30 AM - 10:00 AM  EST, 10:00 AM - 12:00 PM  EST, 9:00 AM - 11:00 AM  EST, Closed, Closed"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "website_is",
+    "Object": "https://www.stlukesgermantown.com/about-3"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_located_at",
+    "Object": "5421 Germantown Avenue, Philadelphia, PA 19144"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=5421+Germantown+Avenue,+Philadelphia,+PA+19144/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "temporarily closed"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "description_is",
+    "Object": "St. Barnabas Pantry provides bags of food to individuals and families in St. Luke's community who are in need.Services provided:- Take-away food bags"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following cities: Philadelphia, PA."
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "zipcode_is",
+    "Object": 19144
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages', 'individuals', 'families'], ['Anyone can access this program.']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/St-Lukes-Church-Germantown-111657445537323/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "coordinates_are",
+    "Object": "40.0337844, -75.1709773"
+  },
+  {
+    "Subject": "Whole Foods Distribution",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry']"
+  },
+  {
+    "Subject": "Whole Foods Distribution",
+    "Relationship": "website_is",
+    "Object": "http://www.stpeterswol.org/community/whole-foods-ministry/"
+  },
+  {
+    "Subject": "Whole Foods Distribution",
+    "Relationship": "is_located_at",
+    "Object": "2167 74th Avenue, Philadelphia, PA 19138"
+  },
+  {
+    "Subject": "Whole Foods Distribution",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=2167+74th+Avenue,+Philadelphia,+PA+19138/"
+  },
+  {
+    "Subject": "Whole Foods Distribution",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Whole Foods Distribution",
+    "Relationship": "description_is",
+    "Object": "St. Peter's offers a twice monthly fresh food distribution to anyone who is in need in the community. Services provided:- Fresh food to meet basic nutritional needs The only information required is a name, number of people in the household, and a phone number."
+  },
+  {
+    "Subject": "Whole Foods Distribution",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Whole Foods Distribution",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Whole Foods Distribution",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Whole Foods Distribution",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following counties: Philadelphia County, PA."
+  },
+  {
+    "Subject": "Whole Foods Distribution",
+    "Relationship": "zipcode_is",
+    "Object": 19138
+  },
+  {
+    "Subject": "Whole Foods Distribution",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Whole Foods Distribution",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages', 'individuals', 'families'], ['Anyone can access this program.']"
+  },
+  {
+    "Subject": "Whole Foods Distribution",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/StPeterswol/"
+  },
+  {
+    "Subject": "Whole Foods Distribution",
+    "Relationship": "coordinates_are",
+    "Object": "40.0676098, -75.1539533"
+  },
+  {
+    "Subject": "Whole Foods Distribution",
+    "Relationship": "is_open_from",
+    "Object": "Closed, Closed, 10:30 AM - 12:00 PM  EST, Closed, Closed, Closed, Closed"
+  },
+  {
+    "Subject": "Food Bank",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry']"
+  },
+  {
+    "Subject": "Food Bank",
+    "Relationship": "other_services_are",
+    "Object": "['clothing']"
+  },
+  {
+    "Subject": "Food Bank",
+    "Relationship": "phone_number_is",
+    "Object": "215-365-6352"
+  },
+  {
+    "Subject": "Food Bank",
+    "Relationship": "website_is",
+    "Object": "http://eastwickumc.org/ministries/"
+  },
+  {
+    "Subject": "Food Bank",
+    "Relationship": "is_located_at",
+    "Object": "8325 Lindbergh Boulevard, Philadelphia, PA 19153"
+  },
+  {
+    "Subject": "Food Bank",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=8325+Lindbergh+Boulevard,+Philadelphia,+PA+19153/"
+  },
+  {
+    "Subject": "Food Bank",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Food Bank",
+    "Relationship": "description_is",
+    "Object": "Our food bank is a three-day per week ministry serving Southwest Philadelphia and some parts of Delaware County with food and clothing distribution. It has an added component of Bible Study for those who wish to participate and serves as an evangelistic outreach witness for the church.Services provided:- Food to meet basic nutritional needs- Clothing distribution"
+  },
+  {
+    "Subject": "Food Bank",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Food Bank",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Food Bank",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Food Bank",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following cities: Philadelphia, PA."
+  },
+  {
+    "Subject": "Food Bank",
+    "Relationship": "zipcode_is",
+    "Object": 19153
+  },
+  {
+    "Subject": "Food Bank",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Food Bank",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages'], ['Anyone can access this program.']"
+  },
+  {
+    "Subject": "Food Bank",
+    "Relationship": "coordinates_are",
+    "Object": "39.8981827, -75.2524857"
+  },
+  {
+    "Subject": "Food Bank",
+    "Relationship": "is_open_from",
+    "Object": "10:00 AM - 1:00 PM  EST, 10:00 AM - 1:00 PM  EST, 10:00 AM - 1:00 PM  EST, Closed, Closed, Closed, Closed"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry']"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "phone_number_is",
+    "Object": "856-320-8230"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "website_is",
+    "Object": "https://www.circleofhope.church/"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "is_located_at",
+    "Object": "29 West Tulpehocken Street, Philadelphia, PA 19144"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=29+West+Tulpehocken+Street,+Philadelphia,+PA+19144/"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "full"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "description_is",
+    "Object": "Circle of Hope offers food distribution through mutual aid, based on what is currently available.This program provides: - Food distributionPlease note that while those in need can generally call to be added to the waitlist, the list is past capacity and Circle of Hope is not currently accepting new requests for food."
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following counties: Camden County, NJ and Philadelphia County, PA."
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "zipcode_is",
+    "Object": 19144
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages'], ['Those program serves those in Philadelphia and South Jersey.']"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/CircleofHopePhillyRegion/, https://www.twitter.com/@CircleofHopeNet"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "coordinates_are",
+    "Object": "40.0415456, -75.181191"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "phone_number_is",
+    "Object": "215-365-3330"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "website_is",
+    "Object": "http://www.spmame.org/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_located_at",
+    "Object": "8398 Lindbergh Boulevard, Philadelphia, PA 19153"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=8398+Lindbergh+Boulevard,+Philadelphia,+PA+19153/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "description_is",
+    "Object": "St. Paul Metropolitan A.M.E. Church provides a food pantry for members of their community. The food pantry serves close to 100 families each Thursday.This program provides:- Food to meet basic nutritional needs"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following cities: Philadelphia, PA."
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "zipcode_is",
+    "Object": 19153
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages', 'individuals', 'families'], ['Anyone can access this program.']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "coordinates_are",
+    "Object": "39.8977253, -75.2515019"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_open_from",
+    "Object": "Closed, Closed, Closed, 8:00 AM - 5:00 PM  EST, Closed, Closed, Closed"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "website_is",
+    "Object": "http://www.gracebaptistgtn.org/ministries/g-c-c-c"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_located_at",
+    "Object": "25 West Johnson Street, Philadelphia, PA 19144"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=25+West+Johnson+Street,+Philadelphia,+PA+19144/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "temporarily closed"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "description_is",
+    "Object": "Grace Community Christian Center food pantry provides supplemental groceries to individuals and families in need of assistance in the community. This program provides:- Food to meet basic nutritional needs"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following cities: Philadelphia, PA."
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "zipcode_is",
+    "Object": 19144
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages', 'individuals', 'families'], ['Anyone can access this program.']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/pg/TheGraceBaptistChurchofGermantown/about/?ref=page_internal"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "coordinates_are",
+    "Object": "40.045458, -75.182896"
+  },
+  {
+    "Subject": "Human Services",
+    "Relationship": "main_services_are",
+    "Object": "['temporary shelter', 'food pantry', 'mental health care', 'navigating the system', 'case management']"
+  },
+  {
+    "Subject": "Human Services",
+    "Relationship": "phone_number_is",
+    "Object": "215-546-1232"
+  },
+  {
+    "Subject": "Human Services",
+    "Relationship": "website_is",
+    "Object": "http://afaho.org/human-services/"
+  },
+  {
+    "Subject": "Human Services",
+    "Relationship": "is_located_at",
+    "Object": "2420 South 45th Street, Philadelphia, PA 19143"
+  },
+  {
+    "Subject": "Human Services",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=2420+South+45th+Street,+Philadelphia,+PA+19143/"
+  },
+  {
+    "Subject": "Human Services",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Human Services",
+    "Relationship": "description_is",
+    "Object": "AFAHO’s multi-lingual and bi-cultural case managers assist clients in mitigating the myriad of barriers they face in accessing critical health and social services which play a vital role in their successful integration, improved health, and ability to be self-sufficient. This program provides:- Behavioral health - Domestic violence awareness and support- Housing assistance and monthly food assistance- Elders' programming- Individual case management- Family case management"
+  },
+  {
+    "Subject": "Human Services",
+    "Relationship": "speaks",
+    "Object": "['Arabic', 'English', 'French', 'Kinyarwanda', 'Swahili', 'Yoruba']"
+  },
+  {
+    "Subject": "Human Services",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Human Services",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Human Services",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following cities: Philadelphia, PA."
+  },
+  {
+    "Subject": "Human Services",
+    "Relationship": "zipcode_is",
+    "Object": 19143
+  },
+  {
+    "Subject": "Human Services",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Human Services",
+    "Relationship": "serves",
+    "Object": "['all ages', 'immigrants', 'refugees', 'individuals', 'families'], ['This program serves African and Caribbean immigrants/refugees.']"
+  },
+  {
+    "Subject": "Human Services",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/The-Salvation-Army-Nampa-Idaho-208522825852957/, https://www.twitter.com/@AFAHO"
+  },
+  {
+    "Subject": "Human Services",
+    "Relationship": "coordinates_are",
+    "Object": "39.9454475, -75.2085961"
+  },
+  {
+    "Subject": "Human Services",
+    "Relationship": "is_open_from",
+    "Object": "8:00 AM - 5:00 PM  EST, 8:00 AM - 5:00 PM  EST, 8:00 AM - 5:00 PM  EST, 8:00 AM - 5:00 PM  EST, 8:00 AM - 5:00 PM  EST, Closed, Closed"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "phone_number_is",
+    "Object": "215-387-3014"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "website_is",
+    "Object": "https://crusadersforchristpa.org/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_located_at",
+    "Object": "1201 South 47th Street, Philadelphia, PA 19143"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=1201+South+47th+Street,+Philadelphia,+PA+19143/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "description_is",
+    "Object": "Crusaders for Christ Church provides supplemental groceries to individuals and families in need of assistance in our community. This program provides:- Food to meet basic nutritional needsPlease contact this provider to see when the pantry is available."
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following cities: Philadelphia, PA."
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "zipcode_is",
+    "Object": 19143
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "serves",
+    "Object": "['all ages', 'individuals', 'families'], []"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/MyCFC1/, https://www.twitter.com/@CFC_PA1"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "coordinates_are",
+    "Object": "39.9448797, -75.2122188"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_open_from",
+    "Object": "8:00 AM - 5:00 PM  EST, 8:00 AM - 5:00 PM  EST, 8:00 AM - 5:00 PM  EST, 8:00 AM - 5:00 PM  EST, 8:00 AM - 5:00 PM  EST, Closed, Closed"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "phone_number_is",
+    "Object": "215-729-8225"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "website_is",
+    "Object": "http://acanaus.org"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_located_at",
+    "Object": "5530 Chester Avenue, Philadelphia, PA 19143"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=5530+Chester+Avenue,+Philadelphia,+PA+19143/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "description_is",
+    "Object": "ACANA serves as a food bank and distributes food to members of the Southwest and West Philadelphia community. ACANA can also distribute clothing, toys, building materials and other resources received as donations.This program provides:- Food to meet basic nutritional requirements - Other items as availableThis program is distributed very two weeks at ACANA."
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following counties: Prince Georges County, MD and Philadelphia County, PA."
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "zipcode_is",
+    "Object": 19143
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "serves",
+    "Object": "['all ages', 'immigrants', 'refugees', 'individuals', 'families', 'low-income', 'limited english'], ['This program serves individuals and families experiencing food insecurity.']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/ACANA.Philadelphia, https://www.twitter.com/@ACANAevents"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "coordinates_are",
+    "Object": "39.938005, -75.2248314"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_open_from",
+    "Object": "10:00 AM - 6:30 PM  EST, 10:00 AM - 6:30 PM  EST, 10:00 AM - 6:30 PM  EST, 10:00 AM - 6:30 PM  EST, Closed, Closed, Closed"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry']"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "phone_number_is",
+    "Object": "215-825-4601"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "website_is",
+    "Object": "https://easternusa.salvationarmy.org/eastern-pennsylvania/greater-philadelphia/"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "is_located_at",
+    "Object": "3225 Reed Street, Philadelphia, PA 19146"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=3225+Reed+Street,+Philadelphia,+PA+19146/"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "description_is",
+    "Object": "The Salvation Army provides distribution of nutritious food to those in need.This program provides:- Food distributionParticipants must complete an application and bring documentation before receiving services. Please call for food availability, distribution times, and distribution dates."
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "speaks",
+    "Object": "['English', 'Spanish']"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following cities: Philadelphia, PA."
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "zipcode_is",
+    "Object": 19146
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "serves",
+    "Object": "['all ages', 'low-income'], []"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/pages/category/Charity-Organization/The-Salvation-Army-CentralGrays-Ferry-Corps-100664791779478/"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "coordinates_are",
+    "Object": "39.9370679, -75.197445"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "is_open_from",
+    "Object": "8:00 AM - 5:00 PM  EST, 8:00 AM - 5:00 PM  EST, 8:00 AM - 5:00 PM  EST, 8:00 AM - 5:00 PM  EST, 8:00 AM - 5:00 PM  EST, Closed, Closed"
+  },
+  {
+    "Subject": "Senior Box Program (CSFP)",
+    "Relationship": "main_services_are",
+    "Object": "['food delivery', 'food pantry']"
+  },
+  {
+    "Subject": "Senior Box Program (CSFP)",
+    "Relationship": "phone_number_is",
+    "Object": "215-223-2220"
+  },
+  {
+    "Subject": "Senior Box Program (CSFP)",
+    "Relationship": "website_is",
+    "Object": "https://www.sharefoodprogram.org/our-programs/food-for-seniors/"
+  },
+  {
+    "Subject": "Senior Box Program (CSFP)",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "waitlist"
+  },
+  {
+    "Subject": "Senior Box Program (CSFP)",
+    "Relationship": "description_is",
+    "Object": "The Share Food Program's Senior Box Program (CSFP) provides food to qualifying seniors. Food boxes can be picked up at a distribution site or delivered to home-bound individuals in need.This program provides:- Food to meet basic nutritional needs.This program operates on a waitlist, please fill out the form on their website."
+  },
+  {
+    "Subject": "Senior Box Program (CSFP)",
+    "Relationship": "speaks",
+    "Object": "['English', 'Spanish']"
+  },
+  {
+    "Subject": "Senior Box Program (CSFP)",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Senior Box Program (CSFP)",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Senior Box Program (CSFP)",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following counties: Chester County, PA, Montgomery County, PA and Philadelphia County, PA."
+  },
+  {
+    "Subject": "Senior Box Program (CSFP)",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Senior Box Program (CSFP)",
+    "Relationship": "serves",
+    "Object": "['seniors', 'all disabilities', 'limited mobility', 'low-income'], ['This program helps people with income at or below 130% of federal poverty guidelines.', 'This program helps people who are older than 59 years old.']"
+  },
+  {
+    "Subject": "Senior Box Program (CSFP)",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/SHAREFood/, https://www.twitter.com/@sharefoodphilly"
+  },
+  {
+    "Subject": "Senior Box Program (CSFP)",
+    "Relationship": "is_open_from",
+    "Object": "8:30 AM - 4:30 PM  EST, 6:00 AM - 6:00 PM  EST, 6:00 AM - 6:00 PM  EST, 6:00 AM - 6:00 PM  EST, 6:00 AM - 6:00 PM  EST, 8:30 AM - 4:30 PM  EST, Closed"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "phone_number_is",
+    "Object": "215-288-8504"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "website_is",
+    "Object": "https://occcda.org/programs/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_located_at",
+    "Object": "6500 Castor Avenue, Philadelphia, PA 19149"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=6500+Castor+Avenue,+Philadelphia,+PA+19149/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "description_is",
+    "Object": "The Oxford Circle Christian Community Development Association's food pantry provides quality food items to households experiencing food insecurity. This program supplies critical nutrition to hungry individuals and families. This program provides:- Food to meet basic nutritional needsFood pantry times and dates vary per both locations, please call them for more information."
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "speaks",
+    "Object": "['Chinese', 'English', 'Spanish']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following cities: Philadelphia, PA."
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "zipcode_is",
+    "Object": 19149
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages', 'individuals'], ['Anyone can access this program.']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/occcda/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "coordinates_are",
+    "Object": "40.040975, -75.0763135"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_open_from",
+    "Object": "Closed, Closed, Closed, 10:00 AM - 2:00 PM  EST, Closed, Closed, Closed"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry']"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "website_is",
+    "Object": "https://kitchenofloveinpa.wixsite.com/kitchen-of-love/events"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "is_located_at",
+    "Object": "8500 Pickering Avenue, Philadelphia, PA 19150"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=8500+Pickering+Avenue,+Philadelphia,+PA+19150/"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "waitlist"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "description_is",
+    "Object": "Kitchen of Love provides Food Distribution to Philadelphia residents in need. Every Thursday canned foods and meat are distributed and every Friday fresh fruits and vegetables are distributed.This program provides:- Food pantryCurrently, they have a waiting list of more than 100 residents, but as they begin to expand, they will begin to pull more residents from the waiting list."
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following counties: Philadelphia County, PA."
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "zipcode_is",
+    "Object": 19150
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "serves",
+    "Object": "['all ages', 'individuals', 'families', 'undocumented'], ['Must reside in Philadelphia, PA.']"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "coordinates_are",
+    "Object": "40.0813989, -75.1746935"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "is_open_from",
+    "Object": "Closed, Closed, 9:00 AM - 11:00 AM  EST, 9:00 AM - 11:00 AM  EST, 9:00 AM - 11:00 AM  EST, Closed, Closed"
+  },
+  {
+    "Subject": "KITHS Kitchen and Garden",
+    "Relationship": "main_services_are",
+    "Object": "['emergency food', 'food pantry', 'nutrition education', 'navigating the system']"
+  },
+  {
+    "Subject": "KITHS Kitchen and Garden",
+    "Relationship": "phone_number_is",
+    "Object": "215-278-6222"
+  },
+  {
+    "Subject": "KITHS Kitchen and Garden",
+    "Relationship": "website_is",
+    "Object": "https://www.kithservices.org/kiths-kitchen-and-garden"
+  },
+  {
+    "Subject": "KITHS Kitchen and Garden",
+    "Relationship": "is_located_at",
+    "Object": "4923 Old York Road, Philadelphia, PA 19141"
+  },
+  {
+    "Subject": "KITHS Kitchen and Garden",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=4923+Old+York+Road,+Philadelphia,+PA+19141/"
+  },
+  {
+    "Subject": "KITHS Kitchen and Garden",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "KITHS Kitchen and Garden",
+    "Relationship": "description_is",
+    "Object": "KITHS Kitchen provides a culturally affirming stock pantry, supplied with food items reflective of what Cambodian refugees and Southeast Asians normally consume, such as canned baby corn, rice, seafood-based staples that are reminiscent of cuisines from their native countries (e.g., fish sauce, oyster sauce, etc.).This program provides:- Food distribution- Nutrition education- Information about food access opportunities- Emergency pantryKITHS cannot guarantee services without an appointment. Please call for more information."
+  },
+  {
+    "Subject": "KITHS Kitchen and Garden",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "KITHS Kitchen and Garden",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "KITHS Kitchen and Garden",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "KITHS Kitchen and Garden",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following counties: Philadelphia County, PA."
+  },
+  {
+    "Subject": "KITHS Kitchen and Garden",
+    "Relationship": "zipcode_is",
+    "Object": 19141
+  },
+  {
+    "Subject": "KITHS Kitchen and Garden",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "KITHS Kitchen and Garden",
+    "Relationship": "serves",
+    "Object": "['all ages', 'immigrants', 'refugees', 'individuals', 'families', 'asian', 'undocumented'], []"
+  },
+  {
+    "Subject": "KITHS Kitchen and Garden",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/kithsnonprofit/"
+  },
+  {
+    "Subject": "KITHS Kitchen and Garden",
+    "Relationship": "coordinates_are",
+    "Object": "40.0280731, -75.146067"
+  },
+  {
+    "Subject": "KITHS Kitchen and Garden",
+    "Relationship": "is_open_from",
+    "Object": "Closed, 9:00 AM - 8:00 PM, 9:00 AM - 8:00 PM, 9:00 AM - 8:00 PM, 6:30 PM - 8:00 PM, 12:00 PM - 6:00 PM, Closed"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "phone_number_is",
+    "Object": "215-548-3788"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "website_is",
+    "Object": "https://centredadorationchretienne.org/index.html"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_located_at",
+    "Object": "4520 Benner Street, Philadelphia, PA 19135"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=4520+Benner+Street,+Philadelphia,+PA+19135/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "description_is",
+    "Object": "Centre D'Adoration Chretienne's food pantry provides quality food items to households experiencing food insecurity. This program supplies critical nutrition to hungry individuals and families. This program provides:- Food to meet basic nutritional needs"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following cities: Philadelphia, PA."
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "zipcode_is",
+    "Object": 19135
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages', 'individuals', 'families'], ['This program serves anyone in need.']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/CentreDadorationChretienne/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "coordinates_are",
+    "Object": "40.01987, -75.05921099999999"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_open_from",
+    "Object": "Closed, 7:30 PM - 9:00 PM  EST, Closed, 7:30 PM - 9:00 PM  EST, Closed, Closed, Closed"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "phone_number_is",
+    "Object": "215-848-0916"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_located_at",
+    "Object": "1980 Church Lane, Philadelphia, PA 19141"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=1980+Church+Lane,+Philadelphia,+PA+19141/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "description_is",
+    "Object": "Annie's Kitchen Food Cupboard provides quality food items to households experiencing food insecurity. This program supplies critical nutrition to hungry individuals and families. This program provides:- Food to meet basic nutritional needsPlease call to arrange food pick up, the team is not in the building daily, but can come to give you food if arranged."
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following cities: Philadelphia, PA."
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "zipcode_is",
+    "Object": 19141
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "serves",
+    "Object": "['all ages', 'individuals', 'families'], []"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "coordinates_are",
+    "Object": "40.0463325, -75.1531951"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_open_from",
+    "Object": "8:00 AM - 5:00 PM  EST, 8:00 AM - 5:00 PM  EST, 8:00 AM - 5:00 PM  EST, 8:00 AM - 5:00 PM  EST, 8:00 AM - 5:00 PM  EST, Closed, Closed"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "phone_number_is",
+    "Object": "267-344-9665"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "website_is",
+    "Object": "https://vophila.org/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_located_at",
+    "Object": "4500 Tyson Avenue, Philadelphia, PA 19135"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=4500+Tyson+Avenue,+Philadelphia,+PA+19135/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "description_is",
+    "Object": "Victory Outreach operates a Food Pantry to help meet the nutritional needs of individuals and families in Philadelphia.This program provides:- Food to meet basic nutritional needsPlease call to verify hours before attending."
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following cities: Philadelphia, PA."
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "zipcode_is",
+    "Object": 19135
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages', 'individuals', 'families'], ['Anyone can access this program.']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/vonorthphilly/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "coordinates_are",
+    "Object": "40.028763, -75.0429984"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_open_from",
+    "Object": "Closed, Closed, 9:00 AM - 12:00 PM  EST, Closed, Closed, Closed, Closed"
+  },
+  {
+    "Subject": "My SISTAS Resource Hub",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry', 'diapers & formula', 'personal care items', 'daily life skills', 'help find childcare', 'help find school']"
+  },
+  {
+    "Subject": "My SISTAS Resource Hub",
+    "Relationship": "other_services_are",
+    "Object": "['sexual and reproductive health', 'std/sti treatment & prevention']"
+  },
+  {
+    "Subject": "My SISTAS Resource Hub",
+    "Relationship": "website_is",
+    "Object": "https://www.sistatalkphl.org"
+  },
+  {
+    "Subject": "My SISTAS Resource Hub",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "My SISTAS Resource Hub",
+    "Relationship": "description_is",
+    "Object": "Mady's Hands provides a variety of services to assist individuals and families gain success and stability. This program offers support, direction, and success planning through free one-on one engagement.\n\nLocated at 1952 N 24th St, Philadelphia PA, 19121.\n\nOur services will be available for walk-in only, no appointment needed.\n\n Monday: 1pm-5pm\nTuesday: 1pm-5pm\nWednesday: 1pm-5pm\nThursday: By Appt. Only\n\nOur services include the following:\n\nFood Pantry\nNursery Pantry including Diapers, clothing and other baby items.\nHIV Testing Kits (Take Home)\nClothing Bank (availability varies-please call to see if we have your size, if not we have a referral for you)\n\nSee you soon!"
+  },
+  {
+    "Subject": "My SISTAS Resource Hub",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "My SISTAS Resource Hub",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "My SISTAS Resource Hub",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "My SISTAS Resource Hub",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following counties: Philadelphia County, PA."
+  },
+  {
+    "Subject": "My SISTAS Resource Hub",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "My SISTAS Resource Hub",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'adults', 'young adults', 'teens', 'seniors', 'unemployed', 'individuals', 'families', 'with children', 'home renters'], []"
+  },
+  {
+    "Subject": "My SISTAS Resource Hub",
+    "Relationship": "is_open_from",
+    "Object": "1:00 PM - 5:00 PM, 1:00 PM - 5:00 PM, 1:00 PM - 5:00 PM, Closed, Closed, Closed, Closed"
+  },
+  {
+    "Subject": "Helping Hands For The Hungry",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry', 'meals', 'clothing', 'spiritual support']"
+  },
+  {
+    "Subject": "Helping Hands For The Hungry",
+    "Relationship": "website_is",
+    "Object": "https://saintcyprianchurch.org/hope-ministries/"
+  },
+  {
+    "Subject": "Helping Hands For The Hungry",
+    "Relationship": "is_located_at",
+    "Object": "525 Cobbs Creek Parkway, Philadelphia, PA 19143"
+  },
+  {
+    "Subject": "Helping Hands For The Hungry",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=525+Cobbs+Creek+Parkway,+Philadelphia,+PA+19143/"
+  },
+  {
+    "Subject": "Helping Hands For The Hungry",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Helping Hands For The Hungry",
+    "Relationship": "description_is",
+    "Object": "Helping Hands for the Hungry is a ministry that serves the needy on the last Saturday of each month. Our volunteers provide a delicious hot meal, food bags, clothing, but most importantly prayer and God’s Word.This program provides:- Meals- Food pantry- Clothing"
+  },
+  {
+    "Subject": "Helping Hands For The Hungry",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Helping Hands For The Hungry",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Helping Hands For The Hungry",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Helping Hands For The Hungry",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following counties: Philadelphia County, PA."
+  },
+  {
+    "Subject": "Helping Hands For The Hungry",
+    "Relationship": "zipcode_is",
+    "Object": 19143
+  },
+  {
+    "Subject": "Helping Hands For The Hungry",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Helping Hands For The Hungry",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages', 'individuals', 'families'], ['Anyone can access this program.']"
+  },
+  {
+    "Subject": "Helping Hands For The Hungry",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/StCyprianPhilly/, https://www.twitter.com/@StCyprianPhilly"
+  },
+  {
+    "Subject": "Helping Hands For The Hungry",
+    "Relationship": "coordinates_are",
+    "Object": "39.9539798, -75.2483409"
+  },
+  {
+    "Subject": "Helping Hands For The Hungry",
+    "Relationship": "is_open_from",
+    "Object": "9:30 AM - 11:15 AM  EST, Closed, 9:30 AM - 11:15 AM  EST, Closed, Closed, Closed, Closed"
+  },
+  {
+    "Subject": "Food Drive Give Away",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry']"
+  },
+  {
+    "Subject": "Food Drive Give Away",
+    "Relationship": "other_services_are",
+    "Object": "['help pay for transit', 'transportation']"
+  },
+  {
+    "Subject": "Food Drive Give Away",
+    "Relationship": "phone_number_is",
+    "Object": "215-235-9110"
+  },
+  {
+    "Subject": "Food Drive Give Away",
+    "Relationship": "website_is",
+    "Object": "https://idaay.org/events/pick-up-a-free-box-of-fresh-food-every-saturday-bi-weekly"
+  },
+  {
+    "Subject": "Food Drive Give Away",
+    "Relationship": "is_located_at",
+    "Object": "2305 North Broad Street, Philadelphia, PA 19132"
+  },
+  {
+    "Subject": "Food Drive Give Away",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=2305+North+Broad+Street,+Philadelphia,+PA+19132/"
+  },
+  {
+    "Subject": "Food Drive Give Away",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Food Drive Give Away",
+    "Relationship": "description_is",
+    "Object": "Institute for the Development of African-American Youth, Inc. (IDAAY) provides a Food Drive Give Away for individuals experiencing food insecurity who are living in Philadelphia, PAThis program provides:- Food to meet nutritional needsFood is distributed on a first come, first serve basis."
+  },
+  {
+    "Subject": "Food Drive Give Away",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Food Drive Give Away",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Food Drive Give Away",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Food Drive Give Away",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following cities: Philadelphia, PA."
+  },
+  {
+    "Subject": "Food Drive Give Away",
+    "Relationship": "zipcode_is",
+    "Object": 19132
+  },
+  {
+    "Subject": "Food Drive Give Away",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Food Drive Give Away",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages', 'individuals', 'families'], ['Must live in Philadelphia.']"
+  },
+  {
+    "Subject": "Food Drive Give Away",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/idaayinc, https://www.twitter.com/@idaayinc"
+  },
+  {
+    "Subject": "Food Drive Give Away",
+    "Relationship": "coordinates_are",
+    "Object": "39.9880215, -75.155124"
+  },
+  {
+    "Subject": "Food Drive Give Away",
+    "Relationship": "is_open_from",
+    "Object": "Closed, Closed, Closed, Closed, Closed, 10:00 AM - 12:00 PM  EST, Closed"
+  },
+  {
+    "Subject": "Nutrition Lunch & Learn",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry', 'nutrition education']"
+  },
+  {
+    "Subject": "Nutrition Lunch & Learn",
+    "Relationship": "website_is",
+    "Object": "https://www.frazierfamilycoalition.org/community-programs/nutrition-lunch/"
+  },
+  {
+    "Subject": "Nutrition Lunch & Learn",
+    "Relationship": "is_located_at",
+    "Object": "1300 West Lehigh Avenue, Philadelphia, PA 19132"
+  },
+  {
+    "Subject": "Nutrition Lunch & Learn",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=1300+West+Lehigh+Avenue,+Philadelphia,+PA+19132/"
+  },
+  {
+    "Subject": "Nutrition Lunch & Learn",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Nutrition Lunch & Learn",
+    "Relationship": "description_is",
+    "Object": "The Frazier Family Coalition for Stroke Education and Prevention provides healthy nutrition topics and food demonstrations. Participants are also able to take home a free box of fresh produce.This program provides:- Nutrition education- Fresh produce"
+  },
+  {
+    "Subject": "Nutrition Lunch & Learn",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Nutrition Lunch & Learn",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Nutrition Lunch & Learn",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Nutrition Lunch & Learn",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following counties: Philadelphia County, PA."
+  },
+  {
+    "Subject": "Nutrition Lunch & Learn",
+    "Relationship": "zipcode_is",
+    "Object": 19132
+  },
+  {
+    "Subject": "Nutrition Lunch & Learn",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Nutrition Lunch & Learn",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages', 'individuals', 'families'], ['Anyone in need can access this program.']"
+  },
+  {
+    "Subject": "Nutrition Lunch & Learn",
+    "Relationship": "coordinates_are",
+    "Object": "39.9928236, -75.1535804"
+  },
+  {
+    "Subject": "Nutrition Lunch & Learn",
+    "Relationship": "is_open_from",
+    "Object": "Closed, Closed, Closed, 12:00 PM - 1:00 PM  EST, Closed, Closed, Closed"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "website_is",
+    "Object": "https://www.thecommonplacephilly.org/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_located_at",
+    "Object": "5736 Chester Avenue, Philadelphia, PA 19143"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=5736+Chester+Avenue,+Philadelphia,+PA+19143/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "description_is",
+    "Object": "The Common Place's food pantry provides quality food items to households experiencing food insecurity. This program supplies critical nutrition to hungry individuals and families. This program provides:- Food to meet basic nutritional needs"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following cities: Philadelphia, PA."
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "zipcode_is",
+    "Object": 19143
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages'], ['Anyone can access this program.']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/tcpphilly/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "coordinates_are",
+    "Object": "39.9356486, -75.2279442"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_open_from",
+    "Object": "Closed, Closed, Closed, Closed, Closed, 10:00 AM - 1:00 PM  EST, Closed"
+  },
+  {
+    "Subject": "Vivian's Cupboard Food Bank",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry']"
+  },
+  {
+    "Subject": "Vivian's Cupboard Food Bank",
+    "Relationship": "phone_number_is",
+    "Object": "215-563-0652221"
+  },
+  {
+    "Subject": "Vivian's Cupboard Food Bank",
+    "Relationship": "website_is",
+    "Object": "https://www.mazzonicenter.org/hiv-prevention-care/hiv-care/vivian%E2%80%99s-cupboard-food-bank"
+  },
+  {
+    "Subject": "Vivian's Cupboard Food Bank",
+    "Relationship": "is_located_at",
+    "Object": "1348 Bainbridge Street, Philadelphia, PA 19147"
+  },
+  {
+    "Subject": "Vivian's Cupboard Food Bank",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=1348+Bainbridge+Street,+Philadelphia,+PA+19147/"
+  },
+  {
+    "Subject": "Vivian's Cupboard Food Bank",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Vivian's Cupboard Food Bank",
+    "Relationship": "description_is",
+    "Object": "The Mazzoni Center provides the Vivian’s Cupboard Food Bank for low-income, HIV-positive Philadelphians who are facing food insecurity. The food bank aims to help clients and patients maintain optimal health and improve the efficacy of treatment regimens by providing them with a consistent, nutritious supply of food. This program provides:- Nutritious food The food bank allows clients to select packaged food items in a pantry-style setting. Clients are provided with additional resources such as information on other local/neighborhood food cupboards and information on accessing SNAP (food stamps).Referred individuals may access the food bank two times per month and receive the equivalent of four meals for each member of their household at each visit. Due to the COVID-19 pandemic, the Mazzoni Center has suspended the requirement that individuals need to be referred by a case manager or medical provider and have opened the food bank up to anyone in the community struggling with food insecurity."
+  },
+  {
+    "Subject": "Vivian's Cupboard Food Bank",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Vivian's Cupboard Food Bank",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Vivian's Cupboard Food Bank",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Vivian's Cupboard Food Bank",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following cities: Philadelphia, PA."
+  },
+  {
+    "Subject": "Vivian's Cupboard Food Bank",
+    "Relationship": "zipcode_is",
+    "Object": 19147
+  },
+  {
+    "Subject": "Vivian's Cupboard Food Bank",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Vivian's Cupboard Food Bank",
+    "Relationship": "serves",
+    "Object": "['all ages', 'hiv/aids', 'individuals', 'families', 'dependents'], ['Must meet income requirements.', 'This program serves HIV-positive individuals and their dependent members of their household.', 'Must be Ryan White certified.', 'Must have referral from HIV case manager or medical provider.', 'Must live in Philadelphia, Delaware, Chester or Bucks counties in PA.']"
+  },
+  {
+    "Subject": "Vivian's Cupboard Food Bank",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/MazzoniCenter, https://www.twitter.com/@MazzoniCenter"
+  },
+  {
+    "Subject": "Vivian's Cupboard Food Bank",
+    "Relationship": "coordinates_are",
+    "Object": "39.9426271, -75.1650829"
+  },
+  {
+    "Subject": "Vivian's Cupboard Food Bank",
+    "Relationship": "is_open_from",
+    "Object": "9:30 AM - 4:30 PM  EST, 12:00 AM - 12:00 AM  EST, 9:30 AM - 4:30 PM  EST, 9:30 AM - 4:30 PM  EST, 9:30 AM - 4:30 PM  EST, Closed, Closed"
+  },
+  {
+    "Subject": "Grab and Go Meals",
+    "Relationship": "main_services_are",
+    "Object": "['emergency food', 'food pantry']"
+  },
+  {
+    "Subject": "Grab and Go Meals",
+    "Relationship": "phone_number_is",
+    "Object": "215-627-2493"
+  },
+  {
+    "Subject": "Grab and Go Meals",
+    "Relationship": "website_is",
+    "Object": "https://oldpinecommunitycenter.org/programs-services/#food"
+  },
+  {
+    "Subject": "Grab and Go Meals",
+    "Relationship": "is_located_at",
+    "Object": "401 Lombard Street, Philadelphia, PA 19147"
+  },
+  {
+    "Subject": "Grab and Go Meals",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=401+Lombard+Street,+Philadelphia,+PA+19147/"
+  },
+  {
+    "Subject": "Grab and Go Meals",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Grab and Go Meals",
+    "Relationship": "description_is",
+    "Object": "The Old Pine Community Center provides Grab and Go Meals to those who need them. They supply critical nutrition to hungry individuals.This program provides:- Meals to meet basic nutritional needs"
+  },
+  {
+    "Subject": "Grab and Go Meals",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Grab and Go Meals",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Grab and Go Meals",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Grab and Go Meals",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following cities: Philadelphia, PA."
+  },
+  {
+    "Subject": "Grab and Go Meals",
+    "Relationship": "zipcode_is",
+    "Object": 19147
+  },
+  {
+    "Subject": "Grab and Go Meals",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Grab and Go Meals",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages', 'individuals', 'families'], ['Anyone can access this service.']"
+  },
+  {
+    "Subject": "Grab and Go Meals",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/OldPineCommunityCenter/"
+  },
+  {
+    "Subject": "Grab and Go Meals",
+    "Relationship": "coordinates_are",
+    "Object": "39.9430393, -75.1495234"
+  },
+  {
+    "Subject": "Grab and Go Meals",
+    "Relationship": "is_open_from",
+    "Object": "Closed, Closed, Closed, Closed, Closed, 10:00 AM - 12:00 PM  EST, 10:00 AM - 12:00 PM  EST"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "main_services_are",
+    "Object": "['emergency food', 'food pantry', 'clothing', 'navigating the system', 'spiritual support']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "other_services_are",
+    "Object": "['help find housing', 'addiction & recovery']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "phone_number_is",
+    "Object": "215-739-3927"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "website_is",
+    "Object": "https://www.therockphilly.org/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_located_at",
+    "Object": "2755 Kensington Avenue, Philadelphia, PA 19134"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=2755+Kensington+Avenue,+Philadelphia,+PA+19134/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "description_is",
+    "Object": "Rock Ministries of Philadelphia offers their food pantry and community outreach services to supply food, clothing, and resources to all people in need.This program provides:- Food distribution- Clothing- Help finding treatment options, such as detox- Help finding shelter- Faith based supportAnyone in need of emergency food or clothing can call to request assistance. Those in need of non-emergency food or clothing can visit the church after service on Sunday to sign up. After signing up, individuals can pick up the items on the following Wednesday."
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following cities: Philadelphia, PA."
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "zipcode_is",
+    "Object": 19134
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages', 'individuals', 'families', 'homeless', 'substance dependency', 'alcohol dependency'], ['Anyone can access this program.']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/therockministry"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "coordinates_are",
+    "Object": "39.9907975, -75.1232852"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_open_from",
+    "Object": "Closed, Closed, 8:00 AM - 5:00 PM  EST, Closed, Closed, Closed, 11:00 AM - 1:00 PM  EST"
+  },
+  {
+    "Subject": "Drive To End Hunger Ministry",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry']"
+  },
+  {
+    "Subject": "Drive To End Hunger Ministry",
+    "Relationship": "phone_number_is",
+    "Object": "215-878-2742"
+  },
+  {
+    "Subject": "Drive To End Hunger Ministry",
+    "Relationship": "website_is",
+    "Object": "https://www.pinnmemorialbc.org/"
+  },
+  {
+    "Subject": "Drive To End Hunger Ministry",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Drive To End Hunger Ministry",
+    "Relationship": "description_is",
+    "Object": "Pinn Memorial Baptist Church helps alleviate hunger in the community in an environment of respect, care and hospitality.This program provides:- Foods to meet basic nutritional needsFood is distributed every Wednesday from 10am - 2pm."
+  },
+  {
+    "Subject": "Drive To End Hunger Ministry",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Drive To End Hunger Ministry",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Drive To End Hunger Ministry",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Drive To End Hunger Ministry",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following counties: Philadelphia County, PA."
+  },
+  {
+    "Subject": "Drive To End Hunger Ministry",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Drive To End Hunger Ministry",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages'], ['Anyone can access this program.']"
+  },
+  {
+    "Subject": "Drive To End Hunger Ministry",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/pages/Pinn-Memorial-Baptist-Church/157825504244890"
+  },
+  {
+    "Subject": "Drive To End Hunger Ministry",
+    "Relationship": "is_open_from",
+    "Object": "Closed, Closed, 10:00 AM - 12:00 PM  EST, Closed, Closed, Closed, Closed"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "phone_number_is",
+    "Object": "215-877-1198"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "website_is",
+    "Object": "http://www.parksideassociation.org"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_located_at",
+    "Object": "5070 Parkside Avenue, Philadelphia, PA 19131"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=5070+Parkside+Avenue,+Philadelphia,+PA+19131/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "description_is",
+    "Object": "Parkside Association of Philadelphia hosts a food pantry within their office for anyone in need throughout the community to visit. This program provides:- Food to meet basic nutritional needs"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following cities: Philadelphia, PA."
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "zipcode_is",
+    "Object": 19131
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages', 'individuals', 'families'], []"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "coordinates_are",
+    "Object": "39.9796583, -75.2212417"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_open_from",
+    "Object": "8:30 AM - 4:00 PM, 8:30 AM - 4:00 PM, 8:30 AM - 4:00 PM, 8:30 AM - 4:00 PM, 8:30 AM - 1:00 PM, Closed, Closed"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "main_services_are",
+    "Object": "['emergency food', 'food pantry']"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "website_is",
+    "Object": "https://gpca-phila.org/"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "is_located_at",
+    "Object": "2029 South 8th Street, Philadelphia, PA 19148"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=2029+South+8th+Street,+Philadelphia,+PA+19148/"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "description_is",
+    "Object": "We are currently signing up seniors who are 60 years+ for FREE SENIOR FOOD BOXES from our Houston Center location - 2029 S 8th St. Please reach out to us to sign up!\n\nHouston Center \n2029 S 8th St \n215-468-1645\n\nSOUTH PHILLY FOOD DISTRIBUTION SITES \nSEAMAAC - 1711 S Broad St - Mondays and Tuesdays 10-2pm - 215-467-0690\n\nSouth Philadelphia High School - 2101 Broad St - Fridays 2-3:30pm - 215-847 -5154\n\nChurch of Pentecost - 2530 Wharton St - Wednesdays through Fridays 11am-2pm - 215-372-7307\n\nYoung Chances Foundation - 2703 Tasker St - Thursdays 11am-4pm - 267-585-2923\n\nMighty Writers El Futuro - 1025 S 9th St - Mondays through Fridays 11:30am-1pm - 215-602-0236\n\nMacaroni Older Adult Program (60 or older must reserve ahead) - 2433 S 15th St - 215-765-9040\n\nSouth Philly Older Adult Center (55 or older, no reservation necessary) - 1430 E Passyunk Ave - 215-685-1697\n\nPhiladelphia Senior Center Avenue of the Arts - 509 S Broad St (60 or older) - 509 S Broad St - 215-546-5879\n\nSt Edmonds Senior Community Center (60 or older) - 2130 S 21st St - 215-790-9530"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "speaks",
+    "Object": "['American Sign Language', 'English', 'Khmer', 'Spanish', 'Vietnamese']"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following cities: Philadelphia, PA."
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "zipcode_is",
+    "Object": 19148
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages', 'low-income'], []"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/UCSEP, https://www.twitter.com/@UCPhilly"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "coordinates_are",
+    "Object": "39.923234, -75.1595316"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "is_open_from",
+    "Object": "8:30 AM - 6:00 PM  EST, 8:30 AM - 6:00 PM  EST, 8:30 AM - 6:00 PM  EST, 8:30 AM - 6:00 PM  EST, 8:30 AM - 6:00 PM  EST, Closed, Closed"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "website_is",
+    "Object": "https://www.freedomcbf.org/?fbclid=IwAR2yiqJ1PiUJeuPwFzKenOqcae1Woy-UaDlgPOe83CzgPcr7PQEdPgq9Ma0"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_located_at",
+    "Object": "6100 West Columbia Avenue, Philadelphia, PA 19151"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=6100+West+Columbia+Avenue,+Philadelphia,+PA+19151/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "description_is",
+    "Object": "The food pantry provides quality food items to households experiencing food insecurity. This program supplies critical nutrition to hungry individuals and families. This program provides:- Food to meet basic nutritional needs"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following counties: Philadelphia County, PA."
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "zipcode_is",
+    "Object": 19151
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages', 'individuals', 'families'], ['Anyone can access this program.']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/FCBFChurch?ref=br_tf"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "coordinates_are",
+    "Object": "39.9806481, -75.243076"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_open_from",
+    "Object": "Closed, 11:00 AM - 1:00 PM  EST, Closed, Closed, Closed, Closed, Closed"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry', 'diapers & formula', 'books', 'personal care items']"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "phone_number_is",
+    "Object": "267-239-0899"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "website_is",
+    "Object": "https://mightywriters.org/food-distribution/"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "is_located_at",
+    "Object": "761 North 47th Street, Philadelphia, PA 19131"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=761+North+47th+Street,+Philadelphia,+PA+19131/"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "description_is",
+    "Object": "Mighty Writers' response to the coronavirus, Mighty Writers will bolster and expand the recently launched food-literacy distribution. Each meal box will come with writing worksheets for kids in both English and Spanish. In addition, novels and children's books will be distributed weekly.This program provides:- Food to meet nutritional needs- Books"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following cities: Atlantic City, NJ, Camden, NJ, Philadelphia, PA and Toughkenamon, PA."
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "zipcode_is",
+    "Object": 19131
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages', 'families'], ['Anyone can access this program.']"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/MightyWriters/, https://www.twitter.com/@MightyWriters"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "coordinates_are",
+    "Object": "39.9658267, -75.2150602"
+  },
+  {
+    "Subject": "Food Distribution",
+    "Relationship": "is_open_from",
+    "Object": "Closed, 2:00 PM - 3:00 PM  EST, 2:00 PM - 3:00 PM  EST, Closed, Closed, Closed, Closed"
+  },
+  {
+    "Subject": "Food and Clothing Pantry",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry', 'clothing']"
+  },
+  {
+    "Subject": "Food and Clothing Pantry",
+    "Relationship": "website_is",
+    "Object": "https://calvaryphilly.org/"
+  },
+  {
+    "Subject": "Food and Clothing Pantry",
+    "Relationship": "is_located_at",
+    "Object": "6122 Haverford Avenue, Philadelphia, PA 19151"
+  },
+  {
+    "Subject": "Food and Clothing Pantry",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=6122+Haverford+Avenue,+Philadelphia,+PA+19151/"
+  },
+  {
+    "Subject": "Food and Clothing Pantry",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Food and Clothing Pantry",
+    "Relationship": "description_is",
+    "Object": "The food and clothing pantry serves everyone from low income families, single parents, senior citizens, unemployed individuals, disabled veterans, working poor, and anyone else that comes to the pantry.This program provides:- Food to meet basic nutritional needs- ClothingFood and clothing are distributed on Mondays and Wednesdays from 10am - 12pm."
+  },
+  {
+    "Subject": "Food and Clothing Pantry",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Food and Clothing Pantry",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Food and Clothing Pantry",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Food and Clothing Pantry",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following cities: Philadelphia, PA."
+  },
+  {
+    "Subject": "Food and Clothing Pantry",
+    "Relationship": "zipcode_is",
+    "Object": 19151
+  },
+  {
+    "Subject": "Food and Clothing Pantry",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Food and Clothing Pantry",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages'], ['Anyone can access this program.']"
+  },
+  {
+    "Subject": "Food and Clothing Pantry",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/CalvaryPhilly/, https://www.twitter.com/@CalvaryPhilly"
+  },
+  {
+    "Subject": "Food and Clothing Pantry",
+    "Relationship": "coordinates_are",
+    "Object": "39.9710263, -75.2416848"
+  },
+  {
+    "Subject": "Food and Clothing Pantry",
+    "Relationship": "is_open_from",
+    "Object": "10:00 AM - 12:00 PM  EST, Closed, 10:00 AM - 12:00 PM  EST, Closed, Closed, Closed, Closed"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "main_services_are",
+    "Object": "['emergency food', 'food pantry']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "website_is",
+    "Object": "https://ecsphilly.org/st-barnabas/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_located_at",
+    "Object": "6006 West Girard Avenue, Philadelphia, PA 19151"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=6006+West+Girard+Avenue,+Philadelphia,+PA+19151/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "description_is",
+    "Object": "Episcopal Community Services (ECS) offers a open choice food pantry to families and individuals who simply have fallen on hard times or recently unemployed and need assistance to make ends meet. Families receive bags of dry, canned, and jarred goods.This program provides:- Food to meet basic nutritional needsBecause supplies are limited, families can utilize the cupboard only once per month."
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following cities: Philadelphia, PA."
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "zipcode_is",
+    "Object": 19151
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages', 'individuals', 'families'], ['Must reside in the Carroll Park West Philadelphia neighborhood.']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/ECSPhilly/, https://www.twitter.com/@ECSPhilly"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "coordinates_are",
+    "Object": "39.9696013, -75.23993"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_open_from",
+    "Object": "Closed, 10:00 AM - 11:30 AM  EST, 10:00 AM - 11:30 AM  EST, 10:00 AM - 11:30 AM  EST, Closed, Closed, Closed"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "phone_number_is",
+    "Object": "215-908-5286"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "website_is",
+    "Object": "https://wwiv-sc.com/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_located_at",
+    "Object": "2441 North 29th Street, Philadelphia, PA 19132"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=2441+North+29th+Street,+Philadelphia,+PA+19132/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "description_is",
+    "Object": "The food pantry provides quality food items to households experiencing food insecurity. This program supplies critical nutrition to hungry individuals and families. This program provides:- Food to meet basic nutritional needs"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following cities: Philadelphia, PA."
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "zipcode_is",
+    "Object": 19132
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages', 'individuals', 'families'], ['Anyone can access this program.']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "coordinates_are",
+    "Object": "39.9933572, -75.1791848"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_open_from",
+    "Object": "Closed, 9:00 AM - 11:00 AM  EST, Closed, Closed, Closed, Closed, Closed"
+  },
+  {
+    "Subject": "The Welcome Table",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry', 'maintenance & repairs', 'health & safety', 'nutrition education', 'skills & training', 'computer class']"
+  },
+  {
+    "Subject": "The Welcome Table",
+    "Relationship": "other_services_are",
+    "Object": "['financial assistance', 'financial education']"
+  },
+  {
+    "Subject": "The Welcome Table",
+    "Relationship": "phone_number_is",
+    "Object": "215-226-1276126"
+  },
+  {
+    "Subject": "The Welcome Table",
+    "Relationship": "website_is",
+    "Object": "https://stjamesphila.org/welcome-table/"
+  },
+  {
+    "Subject": "The Welcome Table",
+    "Relationship": "is_located_at",
+    "Object": "3217 West Clearfield Street, Philadelphia, PA 19132"
+  },
+  {
+    "Subject": "The Welcome Table",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=3217+West+Clearfield+Street,+Philadelphia,+PA+19132/"
+  },
+  {
+    "Subject": "The Welcome Table",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "The Welcome Table",
+    "Relationship": "description_is",
+    "Object": "The Welcome Table is a community resource center that provides essential items, for the thriving of an individual, family or community. \n\nWe  program provides:\n\n- Food\n- Financial education\n- Legal services\n- Low/no interest microloans\n- Low/no cost home repairs"
+  },
+  {
+    "Subject": "The Welcome Table",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "The Welcome Table",
+    "Relationship": "costs",
+    "Object": "Reduced Cost"
+  },
+  {
+    "Subject": "The Welcome Table",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "The Welcome Table",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following cities: Philadelphia, PA."
+  },
+  {
+    "Subject": "The Welcome Table",
+    "Relationship": "zipcode_is",
+    "Object": 19132
+  },
+  {
+    "Subject": "The Welcome Table",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "The Welcome Table",
+    "Relationship": "serves",
+    "Object": "['teens', 'children', 'students', 'families', 'low-income'], ['Eligibility requirement: Prior participation (a minimum of at least 30 days involvement) in Welcome Table programming is required to apply for a loan.']"
+  },
+  {
+    "Subject": "The Welcome Table",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/stjamesphila"
+  },
+  {
+    "Subject": "The Welcome Table",
+    "Relationship": "coordinates_are",
+    "Object": "40.0042445, -75.1826501"
+  },
+  {
+    "Subject": "The Welcome Table",
+    "Relationship": "is_open_from",
+    "Object": "8:00 AM - 6:00 PM, 8:00 AM - 6:00 PM, 8:00 AM - 6:00 PM, 8:00 AM - 6:00 PM, 8:00 AM - 6:00 PM, 9:00 AM - 1:00 PM, Closed"
+  },
+  {
+    "Subject": "Soup Kitchen and Food Pantry",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry', 'meals']"
+  },
+  {
+    "Subject": "Soup Kitchen and Food Pantry",
+    "Relationship": "phone_number_is",
+    "Object": "215-748-1203"
+  },
+  {
+    "Subject": "Soup Kitchen and Food Pantry",
+    "Relationship": "website_is",
+    "Object": "https://m.facebook.com/login.php?next=https%3A%2F%2Fm.facebook.com%2FZion-African-Methodist-Episcopal-Church-213354072130438%2F&refsrc=deprecated&_rdr"
+  },
+  {
+    "Subject": "Soup Kitchen and Food Pantry",
+    "Relationship": "is_located_at",
+    "Object": "5301 Spruce Street, Philadelphia, PA 19139"
+  },
+  {
+    "Subject": "Soup Kitchen and Food Pantry",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=5301+Spruce+Street,+Philadelphia,+PA+19139/"
+  },
+  {
+    "Subject": "Soup Kitchen and Food Pantry",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Soup Kitchen and Food Pantry",
+    "Relationship": "description_is",
+    "Object": "Zion Hill Baptist Church's soup kitchen and food pantry help alleviate hunger in the community in an environment of respect, care and hospitality. This program provides:- Food to meet basic nutritional needs- Hot mealsPlease call for more information."
+  },
+  {
+    "Subject": "Soup Kitchen and Food Pantry",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Soup Kitchen and Food Pantry",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Soup Kitchen and Food Pantry",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Soup Kitchen and Food Pantry",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following cities: Philadelphia, PA."
+  },
+  {
+    "Subject": "Soup Kitchen and Food Pantry",
+    "Relationship": "zipcode_is",
+    "Object": 19139
+  },
+  {
+    "Subject": "Soup Kitchen and Food Pantry",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Soup Kitchen and Food Pantry",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages'], []"
+  },
+  {
+    "Subject": "Soup Kitchen and Food Pantry",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/Zion-Hill-Baptist-Church-Philadelphia-PA-841768162520512/?eid=ARCkxui_8LIvGbZQ6UhXbm2KS0Fj10lgl2CY2g0bI_Ca8yxY2DXbcLOd3VEXfSKLAWEU_e-13ZlKQ-Y1food"
+  },
+  {
+    "Subject": "Soup Kitchen and Food Pantry",
+    "Relationship": "coordinates_are",
+    "Object": "39.9552482, -75.2286747"
+  },
+  {
+    "Subject": "Soup Kitchen and Food Pantry",
+    "Relationship": "is_open_from",
+    "Object": "Closed, 9:00 AM - 11:30 AM  EST, Closed, Closed, Closed, Closed, Closed"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "website_is",
+    "Object": "https://www.holyinnocentsrc.org/joanofarc"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_located_at",
+    "Object": "2025 East Atlantic Street, Philadelphia, PA 19134"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=2025+East+Atlantic+Street,+Philadelphia,+PA+19134/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "description_is",
+    "Object": "The food pantry provides quality food items to households experiencing food insecurity. This program supplies critical nutrition to hungry individuals and families. This program provides:- Food to meet basic nutritional needs"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following counties: Philadelphia County, PA."
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "zipcode_is",
+    "Object": 19134
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages', 'individuals', 'families'], ['Anyone can access this program.']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/HolyInnocentsParish"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "coordinates_are",
+    "Object": "39.9979138, -75.1026556"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_open_from",
+    "Object": "10:00 AM - 12:00 PM  EST, Closed, Closed, 10:00 AM - 12:00 PM  EST, Closed, Closed, Closed"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "main_services_are",
+    "Object": "['emergency food', 'food pantry']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "website_is",
+    "Object": "https://www.communityofcompassioncdc.com/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_located_at",
+    "Object": "6150 Cedar Avenue, Philadelphia, PA 19143"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=6150+Cedar+Avenue,+Philadelphia,+PA+19143/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "description_is",
+    "Object": "The Community of Compassion CDC Food Pantry provides quality food items to households experiencing food insecurity. This program supplies critical nutrition to hungry individuals and families. This program provides:- Food to meet basic nutritional needs"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following cities: Philadelphia, PA."
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "zipcode_is",
+    "Object": 19143
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages', 'individuals', 'families'], ['Anyone can access this program.']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/communityofcompassioncdc"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "coordinates_are",
+    "Object": "39.9527118, -75.2465913"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_open_from",
+    "Object": "8:00 AM - 11:00 AM  EST, Closed, 8:00 AM - 11:00 AM  EST, Closed, Closed, Closed, Closed"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry', 'clothing', 'personal care items', 'supplies for school']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "website_is",
+    "Object": "https://www.poyserwaycog.com/community-outreach"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_located_at",
+    "Object": "935 South 53rd Street, Philadelphia, PA 19143"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=935+South+53rd+Street,+Philadelphia,+PA+19143/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "description_is",
+    "Object": "The Community Outreach Mission provides basic items to families with children from our surrounding areas. Some of our focus areas are senior citizens, pregnant mothers, school age children, youths, individuals with disabilities, and underprivileged families as a whole.This program provides:- Food to meet basic nutritional needs - School supplies- Clothing- Toiletries- Additional services as neededThe food pantry is open every Saturday at 12pm and on Sundays post-service."
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following counties: Delaware County, PA and Philadelphia County, PA."
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "zipcode_is",
+    "Object": 19143
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages', 'individuals', 'families'], ['Anyone can access this program.']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "coordinates_are",
+    "Object": "39.9456921, -75.2271919"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_open_from",
+    "Object": "Closed, Closed, Closed, Closed, Closed, 12:00 PM - 2:00 PM  EST, 12:00 PM - 2:00 PM  EST"
+  },
+  {
+    "Subject": "Food Bag Distribution",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry', 'meals', 'clothing']"
+  },
+  {
+    "Subject": "Food Bag Distribution",
+    "Relationship": "phone_number_is",
+    "Object": "215-228-0328"
+  },
+  {
+    "Subject": "Food Bag Distribution",
+    "Relationship": "website_is",
+    "Object": "https://www.bethelpresbyterian.site/our-ministries"
+  },
+  {
+    "Subject": "Food Bag Distribution",
+    "Relationship": "is_located_at",
+    "Object": "1900 West York Street, Philadelphia, PA 19132"
+  },
+  {
+    "Subject": "Food Bag Distribution",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=1900+West+York+Street,+Philadelphia,+PA+19132/"
+  },
+  {
+    "Subject": "Food Bag Distribution",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Food Bag Distribution",
+    "Relationship": "description_is",
+    "Object": "Bethel Presbyterian Church offers a weekly Food Bag Distribution to support people in the community who are in need of food, clothing and other resources.Services include:- Food to meet basic nutritional needs- ClothingFood bags will be distributed on Thursdays from 12 - 2pm."
+  },
+  {
+    "Subject": "Food Bag Distribution",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Food Bag Distribution",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Food Bag Distribution",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Food Bag Distribution",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following counties: Philadelphia County, PA."
+  },
+  {
+    "Subject": "Food Bag Distribution",
+    "Relationship": "zipcode_is",
+    "Object": 19132
+  },
+  {
+    "Subject": "Food Bag Distribution",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Food Bag Distribution",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages', 'individuals', 'families'], ['Anyone can access this program.']"
+  },
+  {
+    "Subject": "Food Bag Distribution",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/Bethelscommunitymission"
+  },
+  {
+    "Subject": "Food Bag Distribution",
+    "Relationship": "coordinates_are",
+    "Object": "39.99029, -75.1639321"
+  },
+  {
+    "Subject": "Food Bag Distribution",
+    "Relationship": "is_open_from",
+    "Object": "Closed, Closed, Closed, 12:00 PM - 2:00 PM  EST, Closed, Closed, Closed"
+  },
+  {
+    "Subject": "Grocery, Clothing, and Book Give A Way",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry', 'clothing', 'books']"
+  },
+  {
+    "Subject": "Grocery, Clothing, and Book Give A Way",
+    "Relationship": "phone_number_is",
+    "Object": "267-761-4944"
+  },
+  {
+    "Subject": "Grocery, Clothing, and Book Give A Way",
+    "Relationship": "website_is",
+    "Object": "http://www.ujimafriends.org/food-give-away-2022/"
+  },
+  {
+    "Subject": "Grocery, Clothing, and Book Give A Way",
+    "Relationship": "is_located_at",
+    "Object": "1701 West Lehigh Avenue, Philadelphia, PA 19132"
+  },
+  {
+    "Subject": "Grocery, Clothing, and Book Give A Way",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=1701+West+Lehigh+Avenue,+Philadelphia,+PA+19132/"
+  },
+  {
+    "Subject": "Grocery, Clothing, and Book Give A Way",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Grocery, Clothing, and Book Give A Way",
+    "Relationship": "description_is",
+    "Object": "Ujima Friends Peace Center hosts a give-away event twice a month to provide free groceries, clothing, and books to the community.This program provides:- Groceries- Clothing- BooksThe program is held on the second and last Saturdays of each month. Tables will be set up to distribute items in the Peace Center parking lot and on the sidewalk."
+  },
+  {
+    "Subject": "Grocery, Clothing, and Book Give A Way",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Grocery, Clothing, and Book Give A Way",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Grocery, Clothing, and Book Give A Way",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Grocery, Clothing, and Book Give A Way",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following cities: Philadelphia, PA."
+  },
+  {
+    "Subject": "Grocery, Clothing, and Book Give A Way",
+    "Relationship": "zipcode_is",
+    "Object": 19132
+  },
+  {
+    "Subject": "Grocery, Clothing, and Book Give A Way",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Grocery, Clothing, and Book Give A Way",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages'], ['Anyone can access this program.']"
+  },
+  {
+    "Subject": "Grocery, Clothing, and Book Give A Way",
+    "Relationship": "coordinates_are",
+    "Object": "39.9948466, -75.1600627"
+  },
+  {
+    "Subject": "Grocery, Clothing, and Book Give A Way",
+    "Relationship": "is_open_from",
+    "Object": "Closed, Closed, Closed, Closed, Closed, 12:00 PM - 2:00 PM  EST, Closed"
+  },
+  {
+    "Subject": "Mobile Food Pantry",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry']"
+  },
+  {
+    "Subject": "Mobile Food Pantry",
+    "Relationship": "phone_number_is",
+    "Object": "215-869-4753"
+  },
+  {
+    "Subject": "Mobile Food Pantry",
+    "Relationship": "website_is",
+    "Object": "https://www.poorpeoplesarmy.org/about-1"
+  },
+  {
+    "Subject": "Mobile Food Pantry",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Mobile Food Pantry",
+    "Relationship": "description_is",
+    "Object": "Poor People's Economic Human Rights Campaign strives to alleviate hunger in food insecure communities by providing food assistance to individuals and families in need, This program provides:- Food to meet basic nutritional needs"
+  },
+  {
+    "Subject": "Mobile Food Pantry",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Mobile Food Pantry",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Mobile Food Pantry",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Mobile Food Pantry",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following cities: Philadelphia, PA."
+  },
+  {
+    "Subject": "Mobile Food Pantry",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Mobile Food Pantry",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages', 'covid19', 'low-income'], ['Anyone can access this program.']"
+  },
+  {
+    "Subject": "Mobile Food Pantry",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/groups/1093846127618163/, https://www.twitter.com/@PPEHRCorg"
+  },
+  {
+    "Subject": "Mobile Food Pantry",
+    "Relationship": "is_open_from",
+    "Object": "8:00 AM - 5:00 PM  EST, 8:00 AM - 5:00 PM  EST, 8:00 AM - 5:00 PM  EST, 8:00 AM - 5:00 PM  EST, 8:00 AM - 5:00 PM  EST, Closed, Closed"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "phone_number_is",
+    "Object": "215-276-7200"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "website_is",
+    "Object": "https://enontab.org/updates/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_located_at",
+    "Object": "226 West Coulter Street, Philadelphia, PA 19144"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=226+West+Coulter+Street,+Philadelphia,+PA+19144/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "description_is",
+    "Object": "Enon Tabernacle Baptist Church offers a Food Pantry for those in need. Clients may visit once a month.This program provides: - Food to meet basic nutritional needsPlease call to schedule a pick-up or if you have any questions about the service."
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following counties: Philadelphia County, PA."
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "zipcode_is",
+    "Object": 19144
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages', 'individuals', 'families'], ['Anyone can access this program.']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/enontab, https://www.twitter.com/@EnonTab"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "coordinates_are",
+    "Object": "40.028436, -75.174988"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_open_from",
+    "Object": "10:00 AM - 12:00 PM  EST, 10:00 AM - 12:00 PM  EST, 10:00 AM - 12:00 PM  EST, 10:00 AM - 12:00 PM  EST, Closed, Closed, Closed"
+  },
+  {
+    "Subject": "Breaking Bread on Broad",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry', 'diapers & formula', 'personal care items']"
+  },
+  {
+    "Subject": "Breaking Bread on Broad",
+    "Relationship": "website_is",
+    "Object": "https://rodephshalom.org/breakingbreadonbroad/"
+  },
+  {
+    "Subject": "Breaking Bread on Broad",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Breaking Bread on Broad",
+    "Relationship": "description_is",
+    "Object": "Congregation Rodeph Shalo offers food, diapers, and feminine hygiene supplies to up to 170 families in need each Wednesday morning outside.This program provides:- Food- Diapers- Feminie supplies"
+  },
+  {
+    "Subject": "Breaking Bread on Broad",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Breaking Bread on Broad",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Breaking Bread on Broad",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Breaking Bread on Broad",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following counties: Philadelphia County, PA."
+  },
+  {
+    "Subject": "Breaking Bread on Broad",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Breaking Bread on Broad",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages', 'female', 'mothers'], []"
+  },
+  {
+    "Subject": "Breaking Bread on Broad",
+    "Relationship": "is_open_from",
+    "Object": "Closed, Closed, 9:00 AM - 11:00 AM, Closed, Closed, Closed, Closed"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry', 'clothing']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "phone_number_is",
+    "Object": "215-236-0304"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "website_is",
+    "Object": "https://www.epaumc.org/ministry/mission-outreach/umns/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_located_at",
+    "Object": "1209 West Lehigh Avenue, Philadelphia, PA 19133"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=1209+West+Lehigh+Avenue,+Philadelphia,+PA+19133/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "description_is",
+    "Object": "United Methodist Neighborhood Services's Food Pantry provides quality food items to households experiencing food insecurity. This program supplies critical nutrition to hungry individuals and families. This program provides:- Food to meet basic nutritional needs- Clothing"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following cities: Philadelphia, PA."
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "zipcode_is",
+    "Object": 19133
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages', 'individuals', 'families'], ['Anyone can access this program.']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/United-Methodist-Neighborhood-Services-155010847871753/?hc_ref=ARQ4i8R02aQZmDNl6gunqWkKjrel99ecf4-NJMCSh7nW77GyS4M3dY35eSwlS176X_g&fref=nf, https://www.twitter.com/@epaumc"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "coordinates_are",
+    "Object": "39.9937545, -75.1511944"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_open_from",
+    "Object": "10:00 AM - 12:00 PM, Closed, 10:00 AM - 12:00 PM, Closed, Closed, Closed, Closed"
+  },
+  {
+    "Subject": "Food Pantry and Clothing Ministry Program",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry', 'clothing']"
+  },
+  {
+    "Subject": "Food Pantry and Clothing Ministry Program",
+    "Relationship": "phone_number_is",
+    "Object": "215-463-2434"
+  },
+  {
+    "Subject": "Food Pantry and Clothing Ministry Program",
+    "Relationship": "website_is",
+    "Object": "http://www.phillylighthouse.org/home.html"
+  },
+  {
+    "Subject": "Food Pantry and Clothing Ministry Program",
+    "Relationship": "is_located_at",
+    "Object": "2945 Wharton Street, Philadelphia, PA 19146"
+  },
+  {
+    "Subject": "Food Pantry and Clothing Ministry Program",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=2945+Wharton+Street,+Philadelphia,+PA+19146/"
+  },
+  {
+    "Subject": "Food Pantry and Clothing Ministry Program",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Food Pantry and Clothing Ministry Program",
+    "Relationship": "description_is",
+    "Object": "Lighthouse Christian Center offers free food, clothing and a message from God to anyone who needs assistance.This program provides: - Food- ClothingServices are available on Tuesdays from 11 a.m. to 1 p.m."
+  },
+  {
+    "Subject": "Food Pantry and Clothing Ministry Program",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Food Pantry and Clothing Ministry Program",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Food Pantry and Clothing Ministry Program",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Food Pantry and Clothing Ministry Program",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following counties: Philadelphia County, PA."
+  },
+  {
+    "Subject": "Food Pantry and Clothing Ministry Program",
+    "Relationship": "zipcode_is",
+    "Object": 19146
+  },
+  {
+    "Subject": "Food Pantry and Clothing Ministry Program",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Food Pantry and Clothing Ministry Program",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages', 'individuals', 'families'], ['Anyone can access this program.']"
+  },
+  {
+    "Subject": "Food Pantry and Clothing Ministry Program",
+    "Relationship": "coordinates_are",
+    "Object": "39.9376206, -75.1934672"
+  },
+  {
+    "Subject": "Food Pantry and Clothing Ministry Program",
+    "Relationship": "is_open_from",
+    "Object": "Closed, 12:00 PM - 1:00 PM  EST, Closed, Closed, Closed, Closed, Closed"
+  },
+  {
+    "Subject": "Zion Cares",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry', 'meals', 'clothing', 'medical care', 'spiritual support']"
+  },
+  {
+    "Subject": "Zion Cares",
+    "Relationship": "phone_number_is",
+    "Object": "215-223-5460"
+  },
+  {
+    "Subject": "Zion Cares",
+    "Relationship": "website_is",
+    "Object": "https://www.zionbaptphilly.org/"
+  },
+  {
+    "Subject": "Zion Cares",
+    "Relationship": "is_located_at",
+    "Object": "3600 North Broad Street, Philadelphia, PA 19140"
+  },
+  {
+    "Subject": "Zion Cares",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=3600+North+Broad+Street,+Philadelphia,+PA+19140/"
+  },
+  {
+    "Subject": "Zion Cares",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Zion Cares",
+    "Relationship": "description_is",
+    "Object": "Zion Cares is a community care outreach that provides fresh vegetables, fresh fruit, non-perishables items and clothing to anyone need support on Sundays. In addition, a substantial meal, clothing and health care resources are offered.This program provides:- Food to meet basic nutritional needs- Meals- Clothing- Health care"
+  },
+  {
+    "Subject": "Zion Cares",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Zion Cares",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Zion Cares",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Zion Cares",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following counties: Philadelphia County, PA."
+  },
+  {
+    "Subject": "Zion Cares",
+    "Relationship": "zipcode_is",
+    "Object": 19140
+  },
+  {
+    "Subject": "Zion Cares",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Zion Cares",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages', 'individuals', 'families', 'low-income'], ['Anyone can access this program.']"
+  },
+  {
+    "Subject": "Zion Cares",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/ZionBaptPhilly/, https://www.twitter.com/@ZionBaptPhilly"
+  },
+  {
+    "Subject": "Zion Cares",
+    "Relationship": "coordinates_are",
+    "Object": "40.0080438, -75.1520755"
+  },
+  {
+    "Subject": "Zion Cares",
+    "Relationship": "is_open_from",
+    "Object": "Closed, Closed, Closed, Closed, Closed, Closed, 12:00 PM - 2:00 PM  EST"
+  },
+  {
+    "Subject": "Food Cupboard",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry']"
+  },
+  {
+    "Subject": "Food Cupboard",
+    "Relationship": "phone_number_is",
+    "Object": "215-463-4060"
+  },
+  {
+    "Subject": "Food Cupboard",
+    "Relationship": "website_is",
+    "Object": "https://stgabes.org/food-cupboard"
+  },
+  {
+    "Subject": "Food Cupboard",
+    "Relationship": "is_located_at",
+    "Object": "2917 Dickinson Street, Philadelphia, PA 19146"
+  },
+  {
+    "Subject": "Food Cupboard",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=2917+Dickinson+Street,+Philadelphia,+PA+19146/"
+  },
+  {
+    "Subject": "Food Cupboard",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Food Cupboard",
+    "Relationship": "description_is",
+    "Object": "Saint Gabriel Catholic Church provides quality food items to households experiencing food insecurity. This program supplies critical nutrition to hungry individuals and families. This program provides:- Food to meet basic nutritional needsFood is distributed every Tuesday, Wednesday, and Friday from 9:30am - 11am."
+  },
+  {
+    "Subject": "Food Cupboard",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Food Cupboard",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Food Cupboard",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Food Cupboard",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following cities: Philadelphia, PA."
+  },
+  {
+    "Subject": "Food Cupboard",
+    "Relationship": "zipcode_is",
+    "Object": 19146
+  },
+  {
+    "Subject": "Food Cupboard",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Food Cupboard",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages', 'individuals', 'families'], ['Anyone can access this program.']"
+  },
+  {
+    "Subject": "Food Cupboard",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/stgabesphilly"
+  },
+  {
+    "Subject": "Food Cupboard",
+    "Relationship": "coordinates_are",
+    "Object": "39.9352463, -75.1937065"
+  },
+  {
+    "Subject": "Food Cupboard",
+    "Relationship": "is_open_from",
+    "Object": "Closed, 9:30 AM - 11:00 AM  EST, 9:30 AM - 11:00 AM  EST, Closed, 9:30 AM - 11:00 AM  EST, Closed, Closed"
+  },
+  {
+    "Subject": "Community Fridges",
+    "Relationship": "main_services_are",
+    "Object": "['emergency food', 'food pantry', 'meals']"
+  },
+  {
+    "Subject": "Community Fridges",
+    "Relationship": "website_is",
+    "Object": "https://southphillyfridge.com/about"
+  },
+  {
+    "Subject": "Community Fridges",
+    "Relationship": "is_located_at",
+    "Object": "1100 South 22nd Street, Philadelphia, PA 19146"
+  },
+  {
+    "Subject": "Community Fridges",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=1100+South+22nd+Street,+Philadelphia,+PA+19146/"
+  },
+  {
+    "Subject": "Community Fridges",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Community Fridges",
+    "Relationship": "description_is",
+    "Object": "South Philadelphia Community Fridge is a volunteer-based organization dedicated to giving all Philadelphians access to fresh and healthy food, combatting food insecurity and inequality in our city through mutual aid. 6 community fridge and pantry locations are stocked with produce, pantry staples, and prepared foods. This program provides: - Food including produce, pantry staples and prepared foods. Please visit the website for the most up to date list of locations. Note some locations are pantries only and do not have refrigerated items. Pantry and fridge stock may vary."
+  },
+  {
+    "Subject": "Community Fridges",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Community Fridges",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Community Fridges",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Community Fridges",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following cities: Philadelphia, PA."
+  },
+  {
+    "Subject": "Community Fridges",
+    "Relationship": "zipcode_is",
+    "Object": 19146
+  },
+  {
+    "Subject": "Community Fridges",
+    "Relationship": "24hours_status_is",
+    "Object": "True"
+  },
+  {
+    "Subject": "Community Fridges",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages', 'undocumented'], ['Anyone can access this program.']"
+  },
+  {
+    "Subject": "Community Fridges",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/southphlcommunityfridge, https://www.twitter.com/https://twitter.com/SouthPHLFridge"
+  },
+  {
+    "Subject": "Community Fridges",
+    "Relationship": "coordinates_are",
+    "Object": "39.9389353, -75.1799534"
+  },
+  {
+    "Subject": "Food Cupboard",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry']"
+  },
+  {
+    "Subject": "Food Cupboard",
+    "Relationship": "website_is",
+    "Object": "https://cotrb.org/outreach-ministries/#FOOD"
+  },
+  {
+    "Subject": "Food Cupboard",
+    "Relationship": "is_located_at",
+    "Object": "1440 South 24th Street, Philadelphia, PA 19146"
+  },
+  {
+    "Subject": "Food Cupboard",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=1440+South+24th+Street,+Philadelphia,+PA+19146/"
+  },
+  {
+    "Subject": "Food Cupboard",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Food Cupboard",
+    "Relationship": "description_is",
+    "Object": "The purpose of the ministry is to respond to the need of the community by providing food and other assistance for those who are less fortunate than others.This program provides:- Food to meet basic nutritional needs"
+  },
+  {
+    "Subject": "Food Cupboard",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Food Cupboard",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Food Cupboard",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Food Cupboard",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following cities: Philadelphia, PA."
+  },
+  {
+    "Subject": "Food Cupboard",
+    "Relationship": "zipcode_is",
+    "Object": 19146
+  },
+  {
+    "Subject": "Food Cupboard",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Food Cupboard",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages', 'individuals', 'families'], ['Anyone can access this program.']"
+  },
+  {
+    "Subject": "Food Cupboard",
+    "Relationship": "coordinates_are",
+    "Object": "39.9340607, -75.1845913"
+  },
+  {
+    "Subject": "Food Cupboard",
+    "Relationship": "is_open_from",
+    "Object": "Closed, Closed, Closed, Closed, Closed, 7:30 AM - 9:30 AM  EST, Closed"
+  },
+  {
+    "Subject": "Food Pantries",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry']"
+  },
+  {
+    "Subject": "Food Pantries",
+    "Relationship": "other_services_are",
+    "Object": "['diapers & formula', 'parenting education']"
+  },
+  {
+    "Subject": "Food Pantries",
+    "Relationship": "website_is",
+    "Object": "https://cssphiladelphia.org/family-service-centers/"
+  },
+  {
+    "Subject": "Food Pantries",
+    "Relationship": "is_located_at",
+    "Object": "6214 Grays Avenue, Philadelphia, PA 19142"
+  },
+  {
+    "Subject": "Food Pantries",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=6214+Grays+Avenue,+Philadelphia,+PA+19142/"
+  },
+  {
+    "Subject": "Food Pantries",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Food Pantries",
+    "Relationship": "description_is",
+    "Object": "Catholic Social Services' Food Pantries provide quality food items to households experiencing food insecurity. This program supplies critical nutrition to hungry individuals and families. This program provides:- Food to meet basic nutritional needs"
+  },
+  {
+    "Subject": "Food Pantries",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Food Pantries",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Food Pantries",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Food Pantries",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following cities: Philadelphia, PA."
+  },
+  {
+    "Subject": "Food Pantries",
+    "Relationship": "zipcode_is",
+    "Object": 19142
+  },
+  {
+    "Subject": "Food Pantries",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Food Pantries",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages', 'individuals', 'families', 'low-income'], ['This program serves anyone in need.']"
+  },
+  {
+    "Subject": "Food Pantries",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/cssphiladelphia, https://www.twitter.com/@CSSPhiladelphia"
+  },
+  {
+    "Subject": "Food Pantries",
+    "Relationship": "coordinates_are",
+    "Object": "39.925611, -75.2282334"
+  },
+  {
+    "Subject": "Food Pantries",
+    "Relationship": "is_open_from",
+    "Object": "8:30 AM - 4:30 PM, 8:30 AM - 4:30 PM, 8:30 AM - 4:30 PM, 8:30 AM - 4:30 PM, 8:30 AM - 4:30 PM, Closed, Closed"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "website_is",
+    "Object": "https://turningpointsforchildren.phmc.org/programs/fawn"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_located_at",
+    "Object": "6601 Elmwood Avenue, Philadelphia, PA 19142"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=6601+Elmwood+Avenue,+Philadelphia,+PA+19142/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "description_is",
+    "Object": "Food and Wellness Network (FAWN) food pantry serves children, adults or senior citizens with limited or no income, who simply have fallen on hard times or recently unemployed and need assistance to make ends meet. Services provided to our community include:- Food to meet basic nutritional needs"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following counties: Philadelphia County, PA."
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "zipcode_is",
+    "Object": 19142
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages', 'individuals', 'families'], ['Anyone can access this program.']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/TurningPointsforChildren, https://www.twitter.com/@TP4C"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "coordinates_are",
+    "Object": "39.9215039, -75.232455"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_open_from",
+    "Object": "Closed, Closed, Closed, Closed, 10:00 AM - 2:00 PM, Closed, Closed"
+  },
+  {
+    "Subject": "Manna Pantry",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry']"
+  },
+  {
+    "Subject": "Manna Pantry",
+    "Relationship": "website_is",
+    "Object": "https://www.betheltemplechurch.net/mannapantry"
+  },
+  {
+    "Subject": "Manna Pantry",
+    "Relationship": "is_located_at",
+    "Object": "228 East Allegheny Avenue, Philadelphia, PA 19134"
+  },
+  {
+    "Subject": "Manna Pantry",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=228+East+Allegheny+Avenue,+Philadelphia,+PA+19134/"
+  },
+  {
+    "Subject": "Manna Pantry",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Manna Pantry",
+    "Relationship": "description_is",
+    "Object": "Manna Pantry serves the community by providing food and resources for those in need. This program supplies critical nutrition to hungry individuals and families. This program provides:- Food to meet basic nutritional needs"
+  },
+  {
+    "Subject": "Manna Pantry",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Manna Pantry",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Manna Pantry",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Manna Pantry",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following cities: Philadelphia, PA."
+  },
+  {
+    "Subject": "Manna Pantry",
+    "Relationship": "zipcode_is",
+    "Object": 19134
+  },
+  {
+    "Subject": "Manna Pantry",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Manna Pantry",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages', 'individuals', 'families'], ['Anyone can access this program.']"
+  },
+  {
+    "Subject": "Manna Pantry",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/betheltemplecbc/"
+  },
+  {
+    "Subject": "Manna Pantry",
+    "Relationship": "coordinates_are",
+    "Object": "39.9978125, -75.126307"
+  },
+  {
+    "Subject": "Manna Pantry",
+    "Relationship": "is_open_from",
+    "Object": "Closed, Closed, Closed, 5:00 PM - 6:00 PM  EST, Closed, Closed, Closed"
+  },
+  {
+    "Subject": "Small Things Market",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry', 'personal care items', 'community support services']"
+  },
+  {
+    "Subject": "Small Things Market",
+    "Relationship": "website_is",
+    "Object": "https://www.smallthingsphilly.org/programs"
+  },
+  {
+    "Subject": "Small Things Market",
+    "Relationship": "is_located_at",
+    "Object": "3510 A Street, Philadelphia, PA 19134"
+  },
+  {
+    "Subject": "Small Things Market",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=3510+A+Street,+Philadelphia,+PA+19134/"
+  },
+  {
+    "Subject": "Small Things Market",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Small Things Market",
+    "Relationship": "description_is",
+    "Object": "Small Things Market is a full-choice model \"free grocery store\" and community resource hub offering a varied selection of food and personal items at no cost, as well as connections to resources and services for their guests. This program provides:- Food- Personal care items- Community resources"
+  },
+  {
+    "Subject": "Small Things Market",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Small Things Market",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Small Things Market",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Small Things Market",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following counties: Philadelphia County, PA."
+  },
+  {
+    "Subject": "Small Things Market",
+    "Relationship": "zipcode_is",
+    "Object": 19134
+  },
+  {
+    "Subject": "Small Things Market",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Small Things Market",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages', 'individuals', 'families'], ['Anyone can access this program.']"
+  },
+  {
+    "Subject": "Small Things Market",
+    "Relationship": "socials_are",
+    "Object": "https://facebook.com/smallthingsphilly"
+  },
+  {
+    "Subject": "Small Things Market",
+    "Relationship": "coordinates_are",
+    "Object": "40.0033361, -75.126487"
+  },
+  {
+    "Subject": "Small Things Market",
+    "Relationship": "is_open_from",
+    "Object": "Closed, Closed, 11:00 AM - 3:00 PM  EST, Closed, 9:00 AM - 12:00 PM  EST, 10:00 AM - 1:00 PM  EST, Closed"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "phone_number_is",
+    "Object": "215-423-0792"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "website_is",
+    "Object": "https://www.ourlutherancommunity.org/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "description_is",
+    "Object": "St. Michael's Food Pantry Ministry is dedicated to stepping up efforts to address food insecurity.  This program provides:- Food distribution to meet basic nutritional needs.Please call for more details. St. Michael's Food Pantry serves 20-40 families each week."
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following cities: Philadelphia, PA."
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages', 'individuals', 'families'], ['Anyone in need can access this program.']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_open_from",
+    "Object": "Closed, Closed, Closed, 11:00 AM - 12:00 PM  EST, Closed, Closed, Closed"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "website_is",
+    "Object": "https://www.blessphiladelphia.com/programs/food-pantry"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_located_at",
+    "Object": "4610 Devereaux Street, Philadelphia, PA 19135"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=4610+Devereaux+Street,+Philadelphia,+PA+19135/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "description_is",
+    "Object": "Bless Philadelphia promotes the Peace, Prosperity, Health and Safety of Philadelphians through compassionate community engagement. The food pantry serves residents of Philadelphia who complete a TEFAP self-declaration of need form (available on site) once per calendar year.  No ID is requiredThis program provides:- Food to meet basic nutritional needs"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following cities: Philadelphia, PA."
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "zipcode_is",
+    "Object": 19135
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages', 'individuals', 'families'], ['Anyone in need can access this program.']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "coordinates_are",
+    "Object": "40.02015249999999, -75.0566656"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_open_from",
+    "Object": "Closed, Closed, Closed, Closed, Closed, Closed, 1:00 PM - 1:30 PM  EST"
+  },
+  {
+    "Subject": "Hunger Programs - Senior Citizen Boxes",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry']"
+  },
+  {
+    "Subject": "Hunger Programs - Senior Citizen Boxes",
+    "Relationship": "phone_number_is",
+    "Object": "215-268-3510"
+  },
+  {
+    "Subject": "Hunger Programs - Senior Citizen Boxes",
+    "Relationship": "website_is",
+    "Object": "http://www.feastofjustice.org"
+  },
+  {
+    "Subject": "Hunger Programs - Senior Citizen Boxes",
+    "Relationship": "is_located_at",
+    "Object": "3101 Tyson Avenue, Philadelphia, PA 19149"
+  },
+  {
+    "Subject": "Hunger Programs - Senior Citizen Boxes",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=3101+Tyson+Avenue,+Philadelphia,+PA+19149/"
+  },
+  {
+    "Subject": "Hunger Programs - Senior Citizen Boxes",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Hunger Programs - Senior Citizen Boxes",
+    "Relationship": "description_is",
+    "Object": "Senior Citizen Boxes program offers plentiful programs to combat hunger in the community.This program provides:- A community cupboard, which provides families with emergency, supplemental food every month.Once you apply, it takes 1 to 2 months for your name to appear on the list."
+  },
+  {
+    "Subject": "Hunger Programs - Senior Citizen Boxes",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Hunger Programs - Senior Citizen Boxes",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Hunger Programs - Senior Citizen Boxes",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Hunger Programs - Senior Citizen Boxes",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following counties: Bucks County, PA, Chester County, PA, Delaware County, PA, Montgomery County, PA and Philadelphia County, PA."
+  },
+  {
+    "Subject": "Hunger Programs - Senior Citizen Boxes",
+    "Relationship": "zipcode_is",
+    "Object": 19149
+  },
+  {
+    "Subject": "Hunger Programs - Senior Citizen Boxes",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Hunger Programs - Senior Citizen Boxes",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages'], ['This program serves individuals living in one of these zip codes: 19111, 19114, 19115, 19116, 19124, 19135, 19136, 19149, 19152, 19154']"
+  },
+  {
+    "Subject": "Hunger Programs - Senior Citizen Boxes",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/FeastOfJusticePhiladelphia/?view_public_for=170475529821804"
+  },
+  {
+    "Subject": "Hunger Programs - Senior Citizen Boxes",
+    "Relationship": "coordinates_are",
+    "Object": "40.0372113, -75.052399"
+  },
+  {
+    "Subject": "Hunger Programs - Senior Citizen Boxes",
+    "Relationship": "is_open_from",
+    "Object": "Closed, 9:00 AM - 12:00 PM  EST, 4:00 PM - 7:00 PM  EST, 10:00 AM - 12:00 PM  EST, Closed, 10:00 AM - 4:00 PM  EST, Closed"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "phone_number_is",
+    "Object": "215-224-1145"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "website_is",
+    "Object": "http://ww3.stmarksphila.org/?subid1=592539db-b3dc-11ef-a618-3e24fd789d0a"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_located_at",
+    "Object": "6344 North Broad Street, Philadelphia, PA 19141"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=6344+North+Broad+Street,+Philadelphia,+PA+19141/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "description_is",
+    "Object": "The food pantry provides quality food items to households experiencing food insecurity. This program supplies critical nutrition to hungry individuals and families. This program provides:- Food to meet nutritional needsPlease call the food pantry before visiting to verify hours of availability and any additional information."
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following cities: Philadelphia, PA."
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "zipcode_is",
+    "Object": 19141
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages', 'individuals', 'families'], ['Anyone can access this program.']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/StMarksPhila/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "coordinates_are",
+    "Object": "40.0502268, -75.1427263"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_open_from",
+    "Object": "Closed, 10:00 AM - 4:00 PM  EST, Closed, Closed, Closed, Closed, Closed"
+  },
+  {
+    "Subject": "Social Services Program",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry', 'meals', 'clothing', 'toys & gifts', 'parenting education', 'counseling', 'financial education', 'navigating the system', 'support network', 'spiritual support', 'skills & training', 'interview training', 'resume development', 'help find work']"
+  },
+  {
+    "Subject": "Social Services Program",
+    "Relationship": "phone_number_is",
+    "Object": "215-474-1010"
+  },
+  {
+    "Subject": "Social Services Program",
+    "Relationship": "website_is",
+    "Object": "https://easternusa.salvationarmy.org/"
+  },
+  {
+    "Subject": "Social Services Program",
+    "Relationship": "is_located_at",
+    "Object": "5501 Market Street, Philadelphia, PA 19139"
+  },
+  {
+    "Subject": "Social Services Program",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=5501+Market+Street,+Philadelphia,+PA+19139/"
+  },
+  {
+    "Subject": "Social Services Program",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Social Services Program",
+    "Relationship": "description_is",
+    "Object": "Salvation Army Eastern Pennsylvania & Delaware social workers provide social services to meet the needs of the community. This program provides:- Access to nutritious food- Counseling Services- Financial Education- Spiritual Support- Referrals- Help find work- Resume Building- Interview skills- Job placement- Toys & Gifts (Holiday season)- Clothing (all ages)- Men's and women's support groupsServices offered may change depending on location. Please contact the nearest office for more information."
+  },
+  {
+    "Subject": "Social Services Program",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Social Services Program",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Social Services Program",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Social Services Program",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following cities: Dover, DE, Seaford, DE, Wilmington, DE, Allentown, PA, Berwick, PA, Bethlehem, PA, Boyertown, PA, Carlisle, PA, Chambersburg, PA, Chester, PA, Coal Township, PA, Coatesville, PA, Darby, PA, East Stroudsburg, PA, Easton, PA, Harrisburg, PA, Hazleton, PA, Lancaster, PA, Lebanon, PA, Levittown, PA, Lewistown, PA, Lock Haven, PA, Milton, PA, Norristown, PA, Pen Argyl, PA, Philadelphia, PA, Pottstown, PA, Pottsville, PA, Reading, PA, Scranton, PA, State College, PA, Sunbury, PA, Tamaqua, PA, West Chester, PA, Wilkes Barre, PA, Williamsport, PA and York, PA."
+  },
+  {
+    "Subject": "Social Services Program",
+    "Relationship": "zipcode_is",
+    "Object": 19139
+  },
+  {
+    "Subject": "Social Services Program",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Social Services Program",
+    "Relationship": "serves",
+    "Object": "['all ages', 'individuals', 'families', 'homeless', 'near homeless', 'low-income'], ['This program serves residents of Pennsylvania.']"
+  },
+  {
+    "Subject": "Social Services Program",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/SalvationArmyPhiladelphia, https://www.twitter.com/@SalArmyPhilly"
+  },
+  {
+    "Subject": "Social Services Program",
+    "Relationship": "coordinates_are",
+    "Object": "39.9610016, -75.2312927"
+  },
+  {
+    "Subject": "Social Services Program",
+    "Relationship": "is_open_from",
+    "Object": "9:00 AM - 4:00 PM  EST, 9:00 AM - 4:00 PM  EST, 9:00 AM - 4:00 PM  EST, 9:00 AM - 4:00 PM  EST, 9:00 AM - 4:00 PM  EST, 9:00 AM - 4:00 PM  EST, 9:00 AM - 4:00 PM  EST"
+  },
+  {
+    "Subject": "Free Produce Markets",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry']"
+  },
+  {
+    "Subject": "Free Produce Markets",
+    "Relationship": "is_located_at",
+    "Object": "4865 Market Street, Philadelphia, PA 19139"
+  },
+  {
+    "Subject": "Free Produce Markets",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=4865+Market+Street,+Philadelphia,+PA+19139/"
+  },
+  {
+    "Subject": "Free Produce Markets",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Free Produce Markets",
+    "Relationship": "description_is",
+    "Object": "CHOP's free produce markets provides quality food items to households experiencing food insecurity. This program supplies critical nutrition to hungry individuals and families.This program provides:- Food to meet basic nutritional needsPlease bring your own bag when you visit. The market will be cancelled if it rains."
+  },
+  {
+    "Subject": "Free Produce Markets",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Free Produce Markets",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Free Produce Markets",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Free Produce Markets",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following cities: Philadelphia, PA."
+  },
+  {
+    "Subject": "Free Produce Markets",
+    "Relationship": "zipcode_is",
+    "Object": 19139
+  },
+  {
+    "Subject": "Free Produce Markets",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Free Produce Markets",
+    "Relationship": "serves",
+    "Object": "['all ages', 'individuals', 'families'], []"
+  },
+  {
+    "Subject": "Free Produce Markets",
+    "Relationship": "coordinates_are",
+    "Object": "39.9595846, -75.2176817"
+  },
+  {
+    "Subject": "Free Produce Markets",
+    "Relationship": "is_open_from",
+    "Object": "Closed, Closed, Closed, 9:30 AM - 10:30 AM  EST, Closed, Closed, Closed"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "website_is",
+    "Object": "https://www.starofhopebc.org/weekly-bulletin"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_located_at",
+    "Object": "7212 Keystone Street, Philadelphia, PA 19135"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=7212+Keystone+Street,+Philadelphia,+PA+19135/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "description_is",
+    "Object": "Star of Hope Baptist Church offers a food pantry which serves everyone from low income families, single parents, senior citizens, unemployed individuals, disabled veterans, working poor, and anyone else in need of assistance.This program provides: - Food to meet basic nutritional needs"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following cities: Philadelphia, PA."
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "zipcode_is",
+    "Object": 19135
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages', 'individuals', 'families'], ['Anyone can access this program.']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/Star-of-Hope-Baptist-Church-147516732074440/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "coordinates_are",
+    "Object": "40.0271939, -75.0340536"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_open_from",
+    "Object": "Closed, 11:00 AM - 1:00 PM  EST, Closed, Closed, Closed, Closed, Closed"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "phone_number_is",
+    "Object": "267-908-3287"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "website_is",
+    "Object": "https://www.hamphilly.org/copy-of-ministries"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_located_at",
+    "Object": "260 South 51st Street, Philadelphia, PA 19139"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=260+South+51st+Street,+Philadelphia,+PA+19139/"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "description_is",
+    "Object": "The Community Food Ministry distributes food monthly to community members in need. This program provides:- Food to meet basic nutritional needs"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following counties: Philadelphia County, PA."
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "zipcode_is",
+    "Object": 19139
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "serves",
+    "Object": "['all ages', 'individuals', 'families'], ['This program serves individuals and families who are facing food insecurity.']"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "coordinates_are",
+    "Object": "39.9548575, -75.2243414"
+  },
+  {
+    "Subject": "Food Pantry",
+    "Relationship": "is_open_from",
+    "Object": "Closed, Closed, 10:30 AM - 12:00 PM  EST, Closed, Closed, Closed, Closed"
+  },
+  {
+    "Subject": "2 Fish 5 Loaves",
+    "Relationship": "main_services_are",
+    "Object": "['food pantry']"
+  },
+  {
+    "Subject": "2 Fish 5 Loaves",
+    "Relationship": "phone_number_is",
+    "Object": "267-593-4989"
+  },
+  {
+    "Subject": "2 Fish 5 Loaves",
+    "Relationship": "website_is",
+    "Object": "https://urmbc.org/community-outreach/"
+  },
+  {
+    "Subject": "2 Fish 5 Loaves",
+    "Relationship": "is_located_at",
+    "Object": "7236 Ogontz Avenue, Philadelphia, PA 19138"
+  },
+  {
+    "Subject": "2 Fish 5 Loaves",
+    "Relationship": "url_is_located_at",
+    "Object": "https://www.google.com/maps/?q=7236+Ogontz+Avenue,+Philadelphia,+PA+19138/"
+  },
+  {
+    "Subject": "2 Fish 5 Loaves",
+    "Relationship": "has_an_availability_status_of",
+    "Object": "available"
+  },
+  {
+    "Subject": "2 Fish 5 Loaves",
+    "Relationship": "description_is",
+    "Object": "The Room hosts a free food pantry to serve the members of the community fight hunger. This program provides:- Food to meet basic nutritional needs"
+  },
+  {
+    "Subject": "2 Fish 5 Loaves",
+    "Relationship": "speaks",
+    "Object": "['English']"
+  },
+  {
+    "Subject": "2 Fish 5 Loaves",
+    "Relationship": "costs",
+    "Object": "Free"
+  },
+  {
+    "Subject": "2 Fish 5 Loaves",
+    "Relationship": "has_Google_Reviews",
+    "Object": "True"
+  },
+  {
+    "Subject": "2 Fish 5 Loaves",
+    "Relationship": "covers",
+    "Object": "This program covers residents of the following cities: Philadelphia, PA."
+  },
+  {
+    "Subject": "2 Fish 5 Loaves",
+    "Relationship": "zipcode_is",
+    "Object": 19138
+  },
+  {
+    "Subject": "2 Fish 5 Loaves",
+    "Relationship": "24hours_status_is",
+    "Object": "False"
+  },
+  {
+    "Subject": "2 Fish 5 Loaves",
+    "Relationship": "serves",
+    "Object": "['anyone in need', 'all ages'], ['Anyone can access this program.']"
+  },
+  {
+    "Subject": "2 Fish 5 Loaves",
+    "Relationship": "socials_are",
+    "Object": "https://www.facebook.com/groups/2460515280695286/"
+  },
+  {
+    "Subject": "2 Fish 5 Loaves",
+    "Relationship": "coordinates_are",
+    "Object": "40.064768, -75.1550397"
+  },
+  {
+    "Subject": "2 Fish 5 Loaves",
+    "Relationship": "is_open_from",
+    "Object": "10:00 AM - 12:00 PM  EST, 8:30 AM - 10:30 AM  EST, 8:30 AM - 10:30 AM  EST, 10:00 AM - 12:00 PM  EST, 8:30 AM - 10:30 AM  EST, Closed, Closed"
+  }
+]
