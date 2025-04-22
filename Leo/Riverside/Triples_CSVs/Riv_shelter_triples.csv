@@ -13,11 +13,11 @@ Disaster Relief And Recovery (American Red Cross Southern California Region),has
 Disaster Relief And Recovery (American Red Cross Southern California Region),covers,"This program covers residents of the following counties: Imperial County, CA, Orange County, CA, Riverside County, CA, San Bernardino County, CA and San Diego County, CA."
 Disaster Relief And Recovery (American Red Cross Southern California Region),zipcode_is,92507.0
 Disaster Relief And Recovery (American Red Cross Southern California Region),24hours_status_is,False
-Disaster Relief And Recovery (American Red Cross Southern California Region),Monday's_time_open,11:00AM - 8:00PM
-Disaster Relief And Recovery (American Red Cross Southern California Region),Tuesday's_time_open,11:00AM - 8:00PM
-Disaster Relief And Recovery (American Red Cross Southern California Region),Wednesday's_time_open,11:00AM - 8:00PM
-Disaster Relief And Recovery (American Red Cross Southern California Region),Thursday's_time_open,11:00AM - 8:00PM
-Disaster Relief And Recovery (American Red Cross Southern California Region),Friday's_time_open,11:00AM - 8:00PM
+Disaster Relief And Recovery (American Red Cross Southern California Region),Monday's_time_open,11:00AM - 20:00PM
+Disaster Relief And Recovery (American Red Cross Southern California Region),Tuesday's_time_open,11:00AM - 20:00PM
+Disaster Relief And Recovery (American Red Cross Southern California Region),Wednesday's_time_open,11:00AM - 20:00PM
+Disaster Relief And Recovery (American Red Cross Southern California Region),Thursday's_time_open,11:00AM - 20:00PM
+Disaster Relief And Recovery (American Red Cross Southern California Region),Friday's_time_open,11:00AM - 20:00PM
 Disaster Relief And Recovery (American Red Cross Southern California Region),Saturday's_time_open,Closed
 Disaster Relief And Recovery (American Red Cross Southern California Region),Sunday's_time_open,Closed
 Disaster Relief And Recovery (American Red Cross Southern California Region),has_a_Google_Rating_of,0
@@ -38,11 +38,11 @@ Cooling Center (Ysmael Villegas Community Center),has_Google_Reviews,False
 Cooling Center (Ysmael Villegas Community Center),covers,"This program covers residents of the following counties: Riverside County, CA."
 Cooling Center (Ysmael Villegas Community Center),zipcode_is,92504.0
 Cooling Center (Ysmael Villegas Community Center),24hours_status_is,False
-Cooling Center (Ysmael Villegas Community Center),Monday's_time_open,2:00PM - 8:00PM
-Cooling Center (Ysmael Villegas Community Center),Tuesday's_time_open,2:00PM - 8:00PM
-Cooling Center (Ysmael Villegas Community Center),Wednesday's_time_open,2:00PM - 8:00PM
-Cooling Center (Ysmael Villegas Community Center),Thursday's_time_open,2:00PM - 8:00PM
-Cooling Center (Ysmael Villegas Community Center),Friday's_time_open,2:00PM - 8:00PM
+Cooling Center (Ysmael Villegas Community Center),Monday's_time_open,14:00PM - 20:00PM
+Cooling Center (Ysmael Villegas Community Center),Tuesday's_time_open,14:00PM - 20:00PM
+Cooling Center (Ysmael Villegas Community Center),Wednesday's_time_open,14:00PM - 20:00PM
+Cooling Center (Ysmael Villegas Community Center),Thursday's_time_open,14:00PM - 20:00PM
+Cooling Center (Ysmael Villegas Community Center),Friday's_time_open,14:00PM - 20:00PM
 Cooling Center (Ysmael Villegas Community Center),Saturday's_time_open,Closed
 Cooling Center (Ysmael Villegas Community Center),Sunday's_time_open,Closed
 Cooling Center (Ysmael Villegas Community Center),has_a_Google_Rating_of,0
@@ -64,13 +64,13 @@ Emergency Shelters (Family Promise of Riverside),has_Google_Reviews,False
 Emergency Shelters (Family Promise of Riverside),covers,"This program covers residents of the following cities: Riverside, CA."
 Emergency Shelters (Family Promise of Riverside),zipcode_is,92504.0
 Emergency Shelters (Family Promise of Riverside),24hours_status_is,False
-Emergency Shelters (Family Promise of Riverside),Monday's_time_open,12:00PM - 8:00PM
-Emergency Shelters (Family Promise of Riverside),Tuesday's_time_open,12:00PM - 8:00PM
-Emergency Shelters (Family Promise of Riverside),Wednesday's_time_open,12:00PM - 8:00PM
-Emergency Shelters (Family Promise of Riverside),Thursday's_time_open,12:00PM - 8:00PM
-Emergency Shelters (Family Promise of Riverside),Friday's_time_open,12:00PM - 8:00PM
-Emergency Shelters (Family Promise of Riverside),Saturday's_time_open,12:00PM - 8:00PM
-Emergency Shelters (Family Promise of Riverside),Sunday's_time_open,12:00PM - 8:00PM
+Emergency Shelters (Family Promise of Riverside),Monday's_time_open,12:00PM - 20:00PM
+Emergency Shelters (Family Promise of Riverside),Tuesday's_time_open,12:00PM - 20:00PM
+Emergency Shelters (Family Promise of Riverside),Wednesday's_time_open,12:00PM - 20:00PM
+Emergency Shelters (Family Promise of Riverside),Thursday's_time_open,12:00PM - 20:00PM
+Emergency Shelters (Family Promise of Riverside),Friday's_time_open,12:00PM - 20:00PM
+Emergency Shelters (Family Promise of Riverside),Saturday's_time_open,12:00PM - 20:00PM
+Emergency Shelters (Family Promise of Riverside),Sunday's_time_open,12:00PM - 20:00PM
 Emergency Shelters (Family Promise of Riverside),has_a_Google_Rating_of,0
 Emergency Shelters (Family Promise of Riverside),offers,Shelter
 Emergency Shelters (Family Promise of Riverside),serves,"['all ages', 'families', 'with children', 'homeless'], ['Must care for children under the age of 18.']"
@@ -90,11 +90,11 @@ Access Center (City of Riverside),has_Google_Reviews,False
 Access Center (City of Riverside),covers,"This program covers residents of the following counties: Riverside County, CA."
 Access Center (City of Riverside),zipcode_is,92507.0
 Access Center (City of Riverside),24hours_status_is,False
-Access Center (City of Riverside),Monday's_time_open,11:00AM - 7:30PM
-Access Center (City of Riverside),Tuesday's_time_open,11:00AM - 7:30PM
-Access Center (City of Riverside),Wednesday's_time_open,11:00AM - 7:30PM
-Access Center (City of Riverside),Thursday's_time_open,11:00AM - 7:30PM
-Access Center (City of Riverside),Friday's_time_open,11:00AM - 7:30PM
+Access Center (City of Riverside),Monday's_time_open,11:00AM - 19:30PM
+Access Center (City of Riverside),Tuesday's_time_open,11:00AM - 19:30PM
+Access Center (City of Riverside),Wednesday's_time_open,11:00AM - 19:30PM
+Access Center (City of Riverside),Thursday's_time_open,11:00AM - 19:30PM
+Access Center (City of Riverside),Friday's_time_open,11:00AM - 19:30PM
 Access Center (City of Riverside),Saturday's_time_open,Closed
 Access Center (City of Riverside),Sunday's_time_open,Closed
 Access Center (City of Riverside),has_a_Google_Rating_of,0
@@ -133,11 +133,11 @@ Cooling Center (Arlanza Community Center),has_Google_Reviews,True
 Cooling Center (Arlanza Community Center),covers,"This program covers residents of the following cities: Riverside, CA."
 Cooling Center (Arlanza Community Center),zipcode_is,92503.0
 Cooling Center (Arlanza Community Center),24hours_status_is,False
-Cooling Center (Arlanza Community Center),Monday's_time_open,2:00PM - 8:00PM
-Cooling Center (Arlanza Community Center),Tuesday's_time_open,2:00PM - 8:00PM
-Cooling Center (Arlanza Community Center),Wednesday's_time_open,2:00PM - 8:00PM
-Cooling Center (Arlanza Community Center),Thursday's_time_open,2:00PM - 8:00PM
-Cooling Center (Arlanza Community Center),Friday's_time_open,2:00PM - 8:00PM
+Cooling Center (Arlanza Community Center),Monday's_time_open,14:00PM - 20:00PM
+Cooling Center (Arlanza Community Center),Tuesday's_time_open,14:00PM - 20:00PM
+Cooling Center (Arlanza Community Center),Wednesday's_time_open,14:00PM - 20:00PM
+Cooling Center (Arlanza Community Center),Thursday's_time_open,14:00PM - 20:00PM
+Cooling Center (Arlanza Community Center),Friday's_time_open,14:00PM - 20:00PM
 Cooling Center (Arlanza Community Center),Saturday's_time_open,Closed
 Cooling Center (Arlanza Community Center),Sunday's_time_open,Closed
 Cooling Center (Arlanza Community Center),has_a_Google_Rating_of,0
@@ -158,11 +158,11 @@ Cooling Center (Janet Goeske Foundation),has_Google_Reviews,False
 Cooling Center (Janet Goeske Foundation),covers,"This program covers residents of the following cities: Riverside, CA."
 Cooling Center (Janet Goeske Foundation),zipcode_is,92504.0
 Cooling Center (Janet Goeske Foundation),24hours_status_is,False
-Cooling Center (Janet Goeske Foundation),Monday's_time_open,2:00PM - 8:00PM
-Cooling Center (Janet Goeske Foundation),Tuesday's_time_open,2:00PM - 8:00PM
-Cooling Center (Janet Goeske Foundation),Wednesday's_time_open,2:00PM - 8:00PM
-Cooling Center (Janet Goeske Foundation),Thursday's_time_open,2:00PM - 8:00PM
-Cooling Center (Janet Goeske Foundation),Friday's_time_open,2:00PM - 8:00PM
+Cooling Center (Janet Goeske Foundation),Monday's_time_open,14:00PM - 20:00PM
+Cooling Center (Janet Goeske Foundation),Tuesday's_time_open,14:00PM - 20:00PM
+Cooling Center (Janet Goeske Foundation),Wednesday's_time_open,14:00PM - 20:00PM
+Cooling Center (Janet Goeske Foundation),Thursday's_time_open,14:00PM - 20:00PM
+Cooling Center (Janet Goeske Foundation),Friday's_time_open,14:00PM - 20:00PM
 Cooling Center (Janet Goeske Foundation),Saturday's_time_open,Closed
 Cooling Center (Janet Goeske Foundation),Sunday's_time_open,Closed
 Cooling Center (Janet Goeske Foundation),has_a_Google_Rating_of,0
@@ -183,11 +183,11 @@ Cooling Center (La Sierra Senior Center),has_Google_Reviews,False
 Cooling Center (La Sierra Senior Center),covers,"This program covers residents of the following counties: Riverside County, CA."
 Cooling Center (La Sierra Senior Center),zipcode_is,92505.0
 Cooling Center (La Sierra Senior Center),24hours_status_is,False
-Cooling Center (La Sierra Senior Center),Monday's_time_open,2:00PM - 8:00PM
-Cooling Center (La Sierra Senior Center),Tuesday's_time_open,2:00PM - 8:00PM
-Cooling Center (La Sierra Senior Center),Wednesday's_time_open,2:00PM - 8:00PM
-Cooling Center (La Sierra Senior Center),Thursday's_time_open,2:00PM - 8:00PM
-Cooling Center (La Sierra Senior Center),Friday's_time_open,2:00PM - 8:00PM
+Cooling Center (La Sierra Senior Center),Monday's_time_open,14:00PM - 20:00PM
+Cooling Center (La Sierra Senior Center),Tuesday's_time_open,14:00PM - 20:00PM
+Cooling Center (La Sierra Senior Center),Wednesday's_time_open,14:00PM - 20:00PM
+Cooling Center (La Sierra Senior Center),Thursday's_time_open,14:00PM - 20:00PM
+Cooling Center (La Sierra Senior Center),Friday's_time_open,14:00PM - 20:00PM
 Cooling Center (La Sierra Senior Center),Saturday's_time_open,Closed
 Cooling Center (La Sierra Senior Center),Sunday's_time_open,Closed
 Cooling Center (La Sierra Senior Center),has_a_Google_Rating_of,0
@@ -208,11 +208,11 @@ Cooling Center (La Sierra Community Center),has_Google_Reviews,False
 Cooling Center (La Sierra Community Center),covers,"This program covers residents of the following counties: Riverside County, CA."
 Cooling Center (La Sierra Community Center),zipcode_is,92505.0
 Cooling Center (La Sierra Community Center),24hours_status_is,False
-Cooling Center (La Sierra Community Center),Monday's_time_open,2:00PM - 8:00PM
-Cooling Center (La Sierra Community Center),Tuesday's_time_open,2:00PM - 8:00PM
-Cooling Center (La Sierra Community Center),Wednesday's_time_open,2:00PM - 8:00PM
-Cooling Center (La Sierra Community Center),Thursday's_time_open,2:00PM - 8:00PM
-Cooling Center (La Sierra Community Center),Friday's_time_open,2:00PM - 8:00PM
+Cooling Center (La Sierra Community Center),Monday's_time_open,14:00PM - 20:00PM
+Cooling Center (La Sierra Community Center),Tuesday's_time_open,14:00PM - 20:00PM
+Cooling Center (La Sierra Community Center),Wednesday's_time_open,14:00PM - 20:00PM
+Cooling Center (La Sierra Community Center),Thursday's_time_open,14:00PM - 20:00PM
+Cooling Center (La Sierra Community Center),Friday's_time_open,14:00PM - 20:00PM
 Cooling Center (La Sierra Community Center),Saturday's_time_open,Closed
 Cooling Center (La Sierra Community Center),Sunday's_time_open,Closed
 Cooling Center (La Sierra Community Center),has_a_Google_Rating_of,0
@@ -252,11 +252,11 @@ Cooling Center (Norton Younglove Community Center),has_Google_Reviews,True
 Cooling Center (Norton Younglove Community Center),covers,"This program covers residents of the following counties: Riverside County, CA."
 Cooling Center (Norton Younglove Community Center),zipcode_is,92507.0
 Cooling Center (Norton Younglove Community Center),24hours_status_is,False
-Cooling Center (Norton Younglove Community Center),Monday's_time_open,11:00AM - 7:00PM
-Cooling Center (Norton Younglove Community Center),Tuesday's_time_open,11:00AM - 7:00PM
-Cooling Center (Norton Younglove Community Center),Wednesday's_time_open,11:00AM - 7:00PM
-Cooling Center (Norton Younglove Community Center),Thursday's_time_open,11:00AM - 7:00PM
-Cooling Center (Norton Younglove Community Center),Friday's_time_open,11:00AM - 7:00PM
+Cooling Center (Norton Younglove Community Center),Monday's_time_open,11:00AM - 19:00PM
+Cooling Center (Norton Younglove Community Center),Tuesday's_time_open,11:00AM - 19:00PM
+Cooling Center (Norton Younglove Community Center),Wednesday's_time_open,11:00AM - 19:00PM
+Cooling Center (Norton Younglove Community Center),Thursday's_time_open,11:00AM - 19:00PM
+Cooling Center (Norton Younglove Community Center),Friday's_time_open,11:00AM - 19:00PM
 Cooling Center (Norton Younglove Community Center),Saturday's_time_open,Closed
 Cooling Center (Norton Younglove Community Center),Sunday's_time_open,Closed
 Cooling Center (Norton Younglove Community Center),has_a_Google_Rating_of,4.4
@@ -277,11 +277,11 @@ Safe Haven Welcome Centers (RI International - Riverside County),has_Google_Revi
 Safe Haven Welcome Centers (RI International - Riverside County),covers,"This program covers residents of the following counties: Riverside County, CA."
 Safe Haven Welcome Centers (RI International - Riverside County),zipcode_is,92507.0
 Safe Haven Welcome Centers (RI International - Riverside County),24hours_status_is,False
-Safe Haven Welcome Centers (RI International - Riverside County),Monday's_time_open,7:00 AM - 7:00 PM  PST
-Safe Haven Welcome Centers (RI International - Riverside County),Tuesday's_time_open,7:00 AM - 7:00 PM  PST
-Safe Haven Welcome Centers (RI International - Riverside County),Wednesday's_time_open,7:00 AM - 7:00 PM  PST
-Safe Haven Welcome Centers (RI International - Riverside County),Thursday's_time_open,7:00 AM - 7:00 PM  PST
-Safe Haven Welcome Centers (RI International - Riverside County),Friday's_time_open,7:00 AM - 7:00 PM  PST
+Safe Haven Welcome Centers (RI International - Riverside County),Monday's_time_open,10:00AM - 22:00PM
+Safe Haven Welcome Centers (RI International - Riverside County),Tuesday's_time_open,10:00AM - 22:00PM
+Safe Haven Welcome Centers (RI International - Riverside County),Wednesday's_time_open,10:00AM - 22:00PM
+Safe Haven Welcome Centers (RI International - Riverside County),Thursday's_time_open,10:00AM - 22:00PM
+Safe Haven Welcome Centers (RI International - Riverside County),Friday's_time_open,10:00AM - 22:00PM
 Safe Haven Welcome Centers (RI International - Riverside County),Saturday's_time_open,Closed
 Safe Haven Welcome Centers (RI International - Riverside County),Sunday's_time_open,Closed
 Safe Haven Welcome Centers (RI International - Riverside County),has_a_Google_Rating_of,0

@@ -8,11 +8,11 @@ National Perinatal Hotline (PPD MOMS),costs,Free
 National Perinatal Hotline (PPD MOMS),has_Google_Reviews,False
 National Perinatal Hotline (PPD MOMS),covers,This program covers residents of the following states: CA.
 National Perinatal Hotline (PPD MOMS),24hours_status_is,False
-National Perinatal Hotline (PPD MOMS),Monday's_time_open,8:00AM - 5:00PM
-National Perinatal Hotline (PPD MOMS),Tuesday's_time_open,8:00AM - 5:00PM
-National Perinatal Hotline (PPD MOMS),Wednesday's_time_open,8:00AM - 5:00PM
-National Perinatal Hotline (PPD MOMS),Thursday's_time_open,8:00AM - 5:00PM
-National Perinatal Hotline (PPD MOMS),Friday's_time_open,8:00AM - 5:00PM
+National Perinatal Hotline (PPD MOMS),Monday's_time_open,8:00AM - 17:00PM
+National Perinatal Hotline (PPD MOMS),Tuesday's_time_open,8:00AM - 17:00PM
+National Perinatal Hotline (PPD MOMS),Wednesday's_time_open,8:00AM - 17:00PM
+National Perinatal Hotline (PPD MOMS),Thursday's_time_open,8:00AM - 17:00PM
+National Perinatal Hotline (PPD MOMS),Friday's_time_open,8:00AM - 17:00PM
 National Perinatal Hotline (PPD MOMS),Saturday's_time_open,Closed
 National Perinatal Hotline (PPD MOMS),Sunday's_time_open,Closed
 National Perinatal Hotline (PPD MOMS),has_a_Google_Rating_of,0
@@ -30,7 +30,7 @@ Online Support Group (Mommies Enduring Neonatal Death),24hours_status_is,False
 Online Support Group (Mommies Enduring Neonatal Death),Monday's_time_open,Closed
 Online Support Group (Mommies Enduring Neonatal Death),Tuesday's_time_open,Closed
 Online Support Group (Mommies Enduring Neonatal Death),Wednesday's_time_open,Closed
-Online Support Group (Mommies Enduring Neonatal Death),Thursday's_time_open,10:00PM - 12:00PM
+Online Support Group (Mommies Enduring Neonatal Death),Thursday's_time_open,20:00PM - 0:00AM
 Online Support Group (Mommies Enduring Neonatal Death),Friday's_time_open,Closed
 Online Support Group (Mommies Enduring Neonatal Death),Saturday's_time_open,Closed
 Online Support Group (Mommies Enduring Neonatal Death),Sunday's_time_open,Closed
@@ -60,13 +60,13 @@ Support Groups (Return to Zero: HOPE),costs,Reduced Cost
 Support Groups (Return to Zero: HOPE),has_Google_Reviews,False
 Support Groups (Return to Zero: HOPE),covers,This program covers residents of All US states and territories.
 Support Groups (Return to Zero: HOPE),24hours_status_is,False
-Support Groups (Return to Zero: HOPE),Monday's_time_open,?
-Support Groups (Return to Zero: HOPE),Tuesday's_time_open,?
-Support Groups (Return to Zero: HOPE),Wednesday's_time_open,?
-Support Groups (Return to Zero: HOPE),Thursday's_time_open,?
-Support Groups (Return to Zero: HOPE),Friday's_time_open,?
-Support Groups (Return to Zero: HOPE),Saturday's_time_open,?
-Support Groups (Return to Zero: HOPE),Sunday's_time_open,?
+Support Groups (Return to Zero: HOPE),Monday's_time_open,Check Calendar
+Support Groups (Return to Zero: HOPE),Tuesday's_time_open,Check Calendar
+Support Groups (Return to Zero: HOPE),Wednesday's_time_open,Check Calendar
+Support Groups (Return to Zero: HOPE),Thursday's_time_open,Check Calendar
+Support Groups (Return to Zero: HOPE),Friday's_time_open,Check Calendar
+Support Groups (Return to Zero: HOPE),Saturday's_time_open,Check Calendar
+Support Groups (Return to Zero: HOPE),Sunday's_time_open,Check Calendar
 Support Groups (Return to Zero: HOPE),has_a_Google_Rating_of,0
 Support Groups (Return to Zero: HOPE),offers,Online Support Group
 Support Groups (Return to Zero: HOPE),serves,"['adults', 'young adults', 'teens', 'seniors', 'grieving', 'pregnant', 'families', 'with children', 'parents'], []"
@@ -84,11 +84,11 @@ Therapy Services (Dr. Bergin Family Counseling Services),has_Google_Reviews,Fals
 Therapy Services (Dr. Bergin Family Counseling Services),covers,"This program covers residents of the following counties: Riverside County, CA."
 Therapy Services (Dr. Bergin Family Counseling Services),zipcode_is,92504.0
 Therapy Services (Dr. Bergin Family Counseling Services),24hours_status_is,False
-Therapy Services (Dr. Bergin Family Counseling Services),Monday's_time_open,11:00AM - 8:00PM
-Therapy Services (Dr. Bergin Family Counseling Services),Tuesday's_time_open,11:00AM - 8:00PM
-Therapy Services (Dr. Bergin Family Counseling Services),Wednesday's_time_open,11:00AM - 8:00PM
-Therapy Services (Dr. Bergin Family Counseling Services),Thursday's_time_open,11:00AM - 8:00PM
-Therapy Services (Dr. Bergin Family Counseling Services),Friday's_time_open,11:00AM - 8:00PM
+Therapy Services (Dr. Bergin Family Counseling Services),Monday's_time_open,11:00AM - 20:00PM
+Therapy Services (Dr. Bergin Family Counseling Services),Tuesday's_time_open,11:00AM - 20:00PM
+Therapy Services (Dr. Bergin Family Counseling Services),Wednesday's_time_open,11:00AM - 20:00PM
+Therapy Services (Dr. Bergin Family Counseling Services),Thursday's_time_open,11:00AM - 20:00PM
+Therapy Services (Dr. Bergin Family Counseling Services),Friday's_time_open,11:00AM - 20:00PM
 Therapy Services (Dr. Bergin Family Counseling Services),Saturday's_time_open,Closed
 Therapy Services (Dr. Bergin Family Counseling Services),Sunday's_time_open,Closed
 Therapy Services (Dr. Bergin Family Counseling Services),has_a_Google_Rating_of,0
@@ -108,11 +108,11 @@ Family Support Services (California MENTOR - Riverside Intensive Outpatient Ment
 Family Support Services (California MENTOR - Riverside Intensive Outpatient Mental Health),covers,"This program covers residents of the following counties: Riverside County, CA."
 Family Support Services (California MENTOR - Riverside Intensive Outpatient Mental Health),zipcode_is,92506.0
 Family Support Services (California MENTOR - Riverside Intensive Outpatient Mental Health),24hours_status_is,False
-Family Support Services (California MENTOR - Riverside Intensive Outpatient Mental Health),Monday's_time_open,12:00PM - 8:00PM
-Family Support Services (California MENTOR - Riverside Intensive Outpatient Mental Health),Tuesday's_time_open,12:00PM - 8:00PM
-Family Support Services (California MENTOR - Riverside Intensive Outpatient Mental Health),Wednesday's_time_open,12:00PM - 8:00PM
-Family Support Services (California MENTOR - Riverside Intensive Outpatient Mental Health),Thursday's_time_open,12:00PM - 8:00PM
-Family Support Services (California MENTOR - Riverside Intensive Outpatient Mental Health),Friday's_time_open,12:00PM - 8:00PM
+Family Support Services (California MENTOR - Riverside Intensive Outpatient Mental Health),Monday's_time_open,12:00PM - 20:00PM
+Family Support Services (California MENTOR - Riverside Intensive Outpatient Mental Health),Tuesday's_time_open,12:00PM - 20:00PM
+Family Support Services (California MENTOR - Riverside Intensive Outpatient Mental Health),Wednesday's_time_open,12:00PM - 20:00PM
+Family Support Services (California MENTOR - Riverside Intensive Outpatient Mental Health),Thursday's_time_open,12:00PM - 20:00PM
+Family Support Services (California MENTOR - Riverside Intensive Outpatient Mental Health),Friday's_time_open,12:00PM - 20:00PM
 Family Support Services (California MENTOR - Riverside Intensive Outpatient Mental Health),Saturday's_time_open,Closed
 Family Support Services (California MENTOR - Riverside Intensive Outpatient Mental Health),Sunday's_time_open,Closed
 Family Support Services (California MENTOR - Riverside Intensive Outpatient Mental Health),has_a_Google_Rating_of,0
@@ -133,11 +133,11 @@ Set-4-School (Riverside University Health System - Behavioral Health),has_Google
 Set-4-School (Riverside University Health System - Behavioral Health),covers,"This program covers residents of the following counties: Riverside County, CA."
 Set-4-School (Riverside University Health System - Behavioral Health),zipcode_is,92503.0
 Set-4-School (Riverside University Health System - Behavioral Health),24hours_status_is,False
-Set-4-School (Riverside University Health System - Behavioral Health),Monday's_time_open,11:00AM - 7:30PM
-Set-4-School (Riverside University Health System - Behavioral Health),Tuesday's_time_open,11:00AM - 7:30PM
-Set-4-School (Riverside University Health System - Behavioral Health),Wednesday's_time_open,11:00AM - 7:30PM
-Set-4-School (Riverside University Health System - Behavioral Health),Thursday's_time_open,11:00AM - 7:30PM
-Set-4-School (Riverside University Health System - Behavioral Health),Friday's_time_open,11:00AM - 7:30PM
+Set-4-School (Riverside University Health System - Behavioral Health),Monday's_time_open,11:00AM - 19:30PM
+Set-4-School (Riverside University Health System - Behavioral Health),Tuesday's_time_open,11:00AM - 19:30PM
+Set-4-School (Riverside University Health System - Behavioral Health),Wednesday's_time_open,11:00AM - 19:30PM
+Set-4-School (Riverside University Health System - Behavioral Health),Thursday's_time_open,11:00AM - 19:30PM
+Set-4-School (Riverside University Health System - Behavioral Health),Friday's_time_open,11:00AM - 19:30PM
 Set-4-School (Riverside University Health System - Behavioral Health),Saturday's_time_open,Closed
 Set-4-School (Riverside University Health System - Behavioral Health),Sunday's_time_open,Closed
 Set-4-School (Riverside University Health System - Behavioral Health),has_a_Google_Rating_of,0
@@ -154,11 +154,11 @@ Veterans Crisis Line (Operation Red Wings Foundation),costs,Free
 Veterans Crisis Line (Operation Red Wings Foundation),has_Google_Reviews,False
 Veterans Crisis Line (Operation Red Wings Foundation),covers,"This program covers residents of the following states: AL, AK, AZ, AR, CA, CO, CT, DE, DC, FL, GA, HI, ID, IL, IN, IA, KS, KY, LA, ME, MD, MA, MI, MN, MS, MO, MT, NE, NV, NH, NJ, NM, NY, NC, ND, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VT, VA, WA, WV, WI and WY."
 Veterans Crisis Line (Operation Red Wings Foundation),24hours_status_is,False
-Veterans Crisis Line (Operation Red Wings Foundation),Monday's_time_open,8:00AM - 5:00PM
-Veterans Crisis Line (Operation Red Wings Foundation),Tuesday's_time_open,8:00AM - 5:00PM
-Veterans Crisis Line (Operation Red Wings Foundation),Wednesday's_time_open,8:00AM - 5:00PM
-Veterans Crisis Line (Operation Red Wings Foundation),Thursday's_time_open,8:00AM - 5:00PM
-Veterans Crisis Line (Operation Red Wings Foundation),Friday's_time_open,8:00AM - 5:00PM
+Veterans Crisis Line (Operation Red Wings Foundation),Monday's_time_open,8:00AM - 17:00PM
+Veterans Crisis Line (Operation Red Wings Foundation),Tuesday's_time_open,8:00AM - 17:00PM
+Veterans Crisis Line (Operation Red Wings Foundation),Wednesday's_time_open,8:00AM - 17:00PM
+Veterans Crisis Line (Operation Red Wings Foundation),Thursday's_time_open,8:00AM - 17:00PM
+Veterans Crisis Line (Operation Red Wings Foundation),Friday's_time_open,8:00AM - 17:00PM
 Veterans Crisis Line (Operation Red Wings Foundation),Saturday's_time_open,Closed
 Veterans Crisis Line (Operation Red Wings Foundation),Sunday's_time_open,Closed
 Veterans Crisis Line (Operation Red Wings Foundation),has_a_Google_Rating_of,0
@@ -175,11 +175,11 @@ Her Journey (Abuse Recovery Ministry & Services),costs,Free
 Her Journey (Abuse Recovery Ministry & Services),has_Google_Reviews,True
 Her Journey (Abuse Recovery Ministry & Services),covers,This program covers residents of All US states and territories.
 Her Journey (Abuse Recovery Ministry & Services),24hours_status_is,False
-Her Journey (Abuse Recovery Ministry & Services),Monday's_time_open,11:00AM - 8:00PM
-Her Journey (Abuse Recovery Ministry & Services),Tuesday's_time_open,11:00AM - 8:00PM
-Her Journey (Abuse Recovery Ministry & Services),Wednesday's_time_open,11:00AM - 8:00PM
-Her Journey (Abuse Recovery Ministry & Services),Thursday's_time_open,11:00AM - 8:00PM
-Her Journey (Abuse Recovery Ministry & Services),Friday's_time_open,11:00AM - 8:00PM
+Her Journey (Abuse Recovery Ministry & Services),Monday's_time_open,11:00AM - 20:00PM
+Her Journey (Abuse Recovery Ministry & Services),Tuesday's_time_open,11:00AM - 20:00PM
+Her Journey (Abuse Recovery Ministry & Services),Wednesday's_time_open,11:00AM - 20:00PM
+Her Journey (Abuse Recovery Ministry & Services),Thursday's_time_open,11:00AM - 20:00PM
+Her Journey (Abuse Recovery Ministry & Services),Friday's_time_open,11:00AM - 20:00PM
 Her Journey (Abuse Recovery Ministry & Services),Saturday's_time_open,Closed
 Her Journey (Abuse Recovery Ministry & Services),Sunday's_time_open,Closed
 Her Journey (Abuse Recovery Ministry & Services),has_a_Google_Rating_of,0
@@ -200,11 +200,11 @@ Counseling Center (California Baptist University),has_Google_Reviews,False
 Counseling Center (California Baptist University),covers,"This program covers residents of the following counties: Riverside County, CA."
 Counseling Center (California Baptist University),zipcode_is,92504.0
 Counseling Center (California Baptist University),24hours_status_is,False
-Counseling Center (California Baptist University),Monday's_time_open,11:00AM - 8:00PM
-Counseling Center (California Baptist University),Tuesday's_time_open,11:00AM - 8:00PM
-Counseling Center (California Baptist University),Wednesday's_time_open,11:00AM - 8:00PM
-Counseling Center (California Baptist University),Thursday's_time_open,11:00AM - 8:00PM
-Counseling Center (California Baptist University),Friday's_time_open,11:00AM - 8:00PM
+Counseling Center (California Baptist University),Monday's_time_open,11:00AM - 20:00PM
+Counseling Center (California Baptist University),Tuesday's_time_open,11:00AM - 20:00PM
+Counseling Center (California Baptist University),Wednesday's_time_open,11:00AM - 20:00PM
+Counseling Center (California Baptist University),Thursday's_time_open,11:00AM - 20:00PM
+Counseling Center (California Baptist University),Friday's_time_open,11:00AM - 20:00PM
 Counseling Center (California Baptist University),Saturday's_time_open,Closed
 Counseling Center (California Baptist University),Sunday's_time_open,Closed
 Counseling Center (California Baptist University),has_a_Google_Rating_of,0
@@ -237,11 +237,11 @@ Our House Youth Shelter Domestic Violence Hotline (Family Assistance Program),so
 23V Recon (23rd Veteran),has_Google_Reviews,False
 23V Recon (23rd Veteran),covers,This program covers residents of the following states: CA and MN.
 23V Recon (23rd Veteran),24hours_status_is,False
-23V Recon (23rd Veteran),Monday's_time_open,9:00AM - 5:00PM
-23V Recon (23rd Veteran),Tuesday's_time_open,9:00AM - 5:00PM
-23V Recon (23rd Veteran),Wednesday's_time_open,9:00AM - 5:00PM
-23V Recon (23rd Veteran),Thursday's_time_open,9:00AM - 5:00PM
-23V Recon (23rd Veteran),Friday's_time_open,9:00AM - 5:00PM
+23V Recon (23rd Veteran),Monday's_time_open,9:00AM - 17:00PM
+23V Recon (23rd Veteran),Tuesday's_time_open,9:00AM - 17:00PM
+23V Recon (23rd Veteran),Wednesday's_time_open,9:00AM - 17:00PM
+23V Recon (23rd Veteran),Thursday's_time_open,9:00AM - 17:00PM
+23V Recon (23rd Veteran),Friday's_time_open,9:00AM - 17:00PM
 23V Recon (23rd Veteran),Saturday's_time_open,Closed
 23V Recon (23rd Veteran),Sunday's_time_open,Closed
 23V Recon (23rd Veteran),has_a_Google_Rating_of,0
@@ -308,11 +308,11 @@ Counseling (Cure Childhood Cancer),costs,Reduced Cost
 Counseling (Cure Childhood Cancer),has_Google_Reviews,False
 Counseling (Cure Childhood Cancer),covers,"This program covers residents of the following states: AL, AK, AZ, AR, CA, CO, CT, DE, DC, FL, GA, HI, ID, IL, IN, IA, KS, KY, LA, ME, MD, MA, MI, MN, MS, MO, MT, NE, NV, NH, NJ, NM, NY, NC, ND, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VT, VA, WA, WV, WI and WY."
 Counseling (Cure Childhood Cancer),24hours_status_is,False
-Counseling (Cure Childhood Cancer),Monday's_time_open,8:00AM - 5:00PM
-Counseling (Cure Childhood Cancer),Tuesday's_time_open,8:00AM - 5:00PM
-Counseling (Cure Childhood Cancer),Wednesday's_time_open,8:00AM - 5:00PM
-Counseling (Cure Childhood Cancer),Thursday's_time_open,8:00AM - 5:00PM
-Counseling (Cure Childhood Cancer),Friday's_time_open,8:00AM - 5:00PM
+Counseling (Cure Childhood Cancer),Monday's_time_open,8:00AM - 17:00PM
+Counseling (Cure Childhood Cancer),Tuesday's_time_open,8:00AM - 17:00PM
+Counseling (Cure Childhood Cancer),Wednesday's_time_open,8:00AM - 17:00PM
+Counseling (Cure Childhood Cancer),Thursday's_time_open,8:00AM - 17:00PM
+Counseling (Cure Childhood Cancer),Friday's_time_open,8:00AM - 17:00PM
 Counseling (Cure Childhood Cancer),Saturday's_time_open,Closed
 Counseling (Cure Childhood Cancer),Sunday's_time_open,Closed
 Counseling (Cure Childhood Cancer),has_a_Google_Rating_of,0
@@ -331,11 +331,11 @@ SKY Resilience Training (Project Welcome Home Troops),covers,"This program cover
 SKY Resilience Training (Project Welcome Home Troops),24hours_status_is,False
 SKY Resilience Training (Project Welcome Home Troops),Monday's_time_open,Closed
 SKY Resilience Training (Project Welcome Home Troops),Tuesday's_time_open,Closed
-SKY Resilience Training (Project Welcome Home Troops),Wednesday's_time_open,9:30PM - 12:00AM
-SKY Resilience Training (Project Welcome Home Troops),Thursday's_time_open,9:30PM - 12:00AM
-SKY Resilience Training (Project Welcome Home Troops),Friday's_time_open,9:30PM - 12:00AM
-SKY Resilience Training (Project Welcome Home Troops),Saturday's_time_open,1:00PM - 4:00PM
-SKY Resilience Training (Project Welcome Home Troops),Sunday's_time_open,1:00PM - 4:00PM
+SKY Resilience Training (Project Welcome Home Troops),Wednesday's_time_open,21:30PM - 0:00AM
+SKY Resilience Training (Project Welcome Home Troops),Thursday's_time_open,21:30PM - 0:00AM
+SKY Resilience Training (Project Welcome Home Troops),Friday's_time_open,21:30PM - 0:00AM
+SKY Resilience Training (Project Welcome Home Troops),Saturday's_time_open,13:00PM - 16:00PM
+SKY Resilience Training (Project Welcome Home Troops),Sunday's_time_open,13:00PM - 16:00PM
 SKY Resilience Training (Project Welcome Home Troops),has_a_Google_Rating_of,0
 SKY Resilience Training (Project Welcome Home Troops),offers,Program
 SKY Resilience Training (Project Welcome Home Troops),serves,"['adults 18+', 'active duty', 'national guard', 'veterans', 'individuals', 'families'], ['This program serves veterans, active duty military members, first responders and their immediate family.', 'This program helps people who are older than 17 years old.']"
@@ -350,13 +350,13 @@ Amala Hopeline (Muslim American Society - Social Services Foundation),costs,Free
 Amala Hopeline (Muslim American Society - Social Services Foundation),has_Google_Reviews,False
 Amala Hopeline (Muslim American Society - Social Services Foundation),covers,This program covers residents of the following states: CA.
 Amala Hopeline (Muslim American Society - Social Services Foundation),24hours_status_is,False
-Amala Hopeline (Muslim American Society - Social Services Foundation),Monday's_time_open,9:00PM - 1:00AM
+Amala Hopeline (Muslim American Society - Social Services Foundation),Monday's_time_open,21:00PM - 1:00AM
 Amala Hopeline (Muslim American Society - Social Services Foundation),Tuesday's_time_open,Closed
-Amala Hopeline (Muslim American Society - Social Services Foundation),Wednesday's_time_open,9:00PM - 1:00AM
+Amala Hopeline (Muslim American Society - Social Services Foundation),Wednesday's_time_open,21:00PM - 1:00AM
 Amala Hopeline (Muslim American Society - Social Services Foundation),Thursday's_time_open,Closed
-Amala Hopeline (Muslim American Society - Social Services Foundation),Friday's_time_open,9:00PM - 1:00AM
-Amala Hopeline (Muslim American Society - Social Services Foundation),Saturday's_time_open,9:00PM - 1:00AM
-Amala Hopeline (Muslim American Society - Social Services Foundation),Sunday's_time_open,9:00PM - 1:00AM
+Amala Hopeline (Muslim American Society - Social Services Foundation),Friday's_time_open,21:00PM - 1:00AM
+Amala Hopeline (Muslim American Society - Social Services Foundation),Saturday's_time_open,21:00PM - 1:00AM
+Amala Hopeline (Muslim American Society - Social Services Foundation),Sunday's_time_open,21:00PM - 1:00AM
 Amala Hopeline (Muslim American Society - Social Services Foundation),has_a_Google_Rating_of,0
 Amala Hopeline (Muslim American Society - Social Services Foundation),offers,Hotline
 Amala Hopeline (Muslim American Society - Social Services Foundation),serves,"['young adults', 'teens', 'children', 'all mental health'], ['This program serves Muslim youth.']"
@@ -371,11 +371,11 @@ HOPE Mentor (MISS Foundation),costs,Free
 HOPE Mentor (MISS Foundation),has_Google_Reviews,False
 HOPE Mentor (MISS Foundation),covers,"This program covers residents of the following states: WA, WI, WV, FL, WY, NH, NJ, NM, NC, ND, NE, NY, RI, NV, CO, CA, GA, CT, OK, OH, KS, SC, KY, OR, SD, DE, DC, HI, TX, LA, TN, PA, VA, AK, AL, AR, VT, IL, IN, IA, AZ, ID, ME, MD, MA, UT, MO, MN, MI, MT and MS."
 HOPE Mentor (MISS Foundation),24hours_status_is,False
-HOPE Mentor (MISS Foundation),Monday's_time_open,9:00AM - 6:00PM
-HOPE Mentor (MISS Foundation),Tuesday's_time_open,9:00AM - 6:00PM
-HOPE Mentor (MISS Foundation),Wednesday's_time_open,9:00AM - 6:00PM
-HOPE Mentor (MISS Foundation),Thursday's_time_open,9:00AM - 6:00PM
-HOPE Mentor (MISS Foundation),Friday's_time_open,9:00AM - 6:00PM
+HOPE Mentor (MISS Foundation),Monday's_time_open,9:00AM - 18:00PM
+HOPE Mentor (MISS Foundation),Tuesday's_time_open,9:00AM - 18:00PM
+HOPE Mentor (MISS Foundation),Wednesday's_time_open,9:00AM - 18:00PM
+HOPE Mentor (MISS Foundation),Thursday's_time_open,9:00AM - 18:00PM
+HOPE Mentor (MISS Foundation),Friday's_time_open,9:00AM - 18:00PM
 HOPE Mentor (MISS Foundation),Saturday's_time_open,Closed
 HOPE Mentor (MISS Foundation),Sunday's_time_open,Closed
 HOPE Mentor (MISS Foundation),has_a_Google_Rating_of,0
@@ -421,12 +421,12 @@ BeWellLine (Alter Health Group),socials_are,https://www.facebook.com/callbewelll
 "Telehealth Therapy (Epiphany Counseling, Consulting & Treatment Services)",has_Google_Reviews,False
 "Telehealth Therapy (Epiphany Counseling, Consulting & Treatment Services)",covers,This program covers residents of the following states: CA and TX.
 "Telehealth Therapy (Epiphany Counseling, Consulting & Treatment Services)",24hours_status_is,False
-"Telehealth Therapy (Epiphany Counseling, Consulting & Treatment Services)",Monday's_time_open,12:00PM - 10:30PM
-"Telehealth Therapy (Epiphany Counseling, Consulting & Treatment Services)",Tuesday's_time_open,12:00PM - 10:30PM
-"Telehealth Therapy (Epiphany Counseling, Consulting & Treatment Services)",Wednesday's_time_open,12:00PM - 10:30PM
-"Telehealth Therapy (Epiphany Counseling, Consulting & Treatment Services)",Thursday's_time_open,12:00PM - 10:30PM
-"Telehealth Therapy (Epiphany Counseling, Consulting & Treatment Services)",Friday's_time_open,12:00PM - 10:30PM
-"Telehealth Therapy (Epiphany Counseling, Consulting & Treatment Services)",Saturday's_time_open,12:00PM - 10:30PM
+"Telehealth Therapy (Epiphany Counseling, Consulting & Treatment Services)",Monday's_time_open,12:00PM - 22:30PM
+"Telehealth Therapy (Epiphany Counseling, Consulting & Treatment Services)",Tuesday's_time_open,12:00PM - 22:30PM
+"Telehealth Therapy (Epiphany Counseling, Consulting & Treatment Services)",Wednesday's_time_open,12:00PM - 22:30PM
+"Telehealth Therapy (Epiphany Counseling, Consulting & Treatment Services)",Thursday's_time_open,12:00PM - 22:30PM
+"Telehealth Therapy (Epiphany Counseling, Consulting & Treatment Services)",Friday's_time_open,12:00PM - 22:30PM
+"Telehealth Therapy (Epiphany Counseling, Consulting & Treatment Services)",Saturday's_time_open,12:00PM - 22:30PM
 "Telehealth Therapy (Epiphany Counseling, Consulting & Treatment Services)",Sunday's_time_open,Closed
 "Telehealth Therapy (Epiphany Counseling, Consulting & Treatment Services)",has_a_Google_Rating_of,0
 "Telehealth Therapy (Epiphany Counseling, Consulting & Treatment Services)",offers,Therapy
@@ -445,11 +445,11 @@ Outpatient Substance Abuse Treatment (MFI Recovery Center),has_Google_Reviews,Tr
 Outpatient Substance Abuse Treatment (MFI Recovery Center),covers,"This program covers residents of the following cities: Banning, CA, Hemet, CA, Murrieta, CA and Riverside, CA."
 Outpatient Substance Abuse Treatment (MFI Recovery Center),zipcode_is,92504.0
 Outpatient Substance Abuse Treatment (MFI Recovery Center),24hours_status_is,False
-Outpatient Substance Abuse Treatment (MFI Recovery Center),Monday's_time_open,11:00AM - 12:00AM
-Outpatient Substance Abuse Treatment (MFI Recovery Center),Tuesday's_time_open,11:00AM - 12:00AM
-Outpatient Substance Abuse Treatment (MFI Recovery Center),Wednesday's_time_open,11:00AM - 12:00AM
-Outpatient Substance Abuse Treatment (MFI Recovery Center),Thursday's_time_open,11:00AM - 12:00AM
-Outpatient Substance Abuse Treatment (MFI Recovery Center),Friday's_time_open,11:00AM - 12:00AM
+Outpatient Substance Abuse Treatment (MFI Recovery Center),Monday's_time_open,11:00AM - 0:00AM
+Outpatient Substance Abuse Treatment (MFI Recovery Center),Tuesday's_time_open,11:00AM - 0:00AM
+Outpatient Substance Abuse Treatment (MFI Recovery Center),Wednesday's_time_open,11:00AM - 0:00AM
+Outpatient Substance Abuse Treatment (MFI Recovery Center),Thursday's_time_open,11:00AM - 0:00AM
+Outpatient Substance Abuse Treatment (MFI Recovery Center),Friday's_time_open,11:00AM - 0:00AM
 Outpatient Substance Abuse Treatment (MFI Recovery Center),Saturday's_time_open,Closed
 Outpatient Substance Abuse Treatment (MFI Recovery Center),Sunday's_time_open,Closed
 Outpatient Substance Abuse Treatment (MFI Recovery Center),has_a_Google_Rating_of,4.6
@@ -488,11 +488,11 @@ Victim Services (SAFE Family Justice Center),has_Google_Reviews,True
 Victim Services (SAFE Family Justice Center),covers,"This program covers residents of the following counties: Riverside County, CA."
 Victim Services (SAFE Family Justice Center),zipcode_is,92501.0
 Victim Services (SAFE Family Justice Center),24hours_status_is,False
-Victim Services (SAFE Family Justice Center),Monday's_time_open,12:00PM - 7:00 PM
-Victim Services (SAFE Family Justice Center),Tuesday's_time_open,12:00PM - 7:00 PM
-Victim Services (SAFE Family Justice Center),Wednesday's_time_open,12:00PM - 7:00 PM
-Victim Services (SAFE Family Justice Center),Thursday's_time_open,12:00PM - 7:00 PM
-Victim Services (SAFE Family Justice Center),Friday's_time_open,12:00PM - 7:00 PM
+Victim Services (SAFE Family Justice Center),Monday's_time_open,12:00PM - 19:00 PM
+Victim Services (SAFE Family Justice Center),Tuesday's_time_open,12:00PM - 19:00 PM
+Victim Services (SAFE Family Justice Center),Wednesday's_time_open,12:00PM - 19:00 PM
+Victim Services (SAFE Family Justice Center),Thursday's_time_open,12:00PM - 19:00 PM
+Victim Services (SAFE Family Justice Center),Friday's_time_open,12:00PM - 19:00 PM
 Victim Services (SAFE Family Justice Center),Saturday's_time_open,Closed
 Victim Services (SAFE Family Justice Center),Sunday's_time_open,Closed
 Victim Services (SAFE Family Justice Center),has_a_Google_Rating_of,4.4
@@ -512,11 +512,11 @@ Support Services (TruEvolution Inc.),has_Google_Reviews,True
 Support Services (TruEvolution Inc.),covers,"This program covers residents of the following counties: Riverside County, CA and San Bernardino County, CA."
 Support Services (TruEvolution Inc.),zipcode_is,92501.0
 Support Services (TruEvolution Inc.),24hours_status_is,False
-Support Services (TruEvolution Inc.),Monday's_time_open,12:00PM - 8:00PM
-Support Services (TruEvolution Inc.),Tuesday's_time_open,12:00PM - 8:00PM
-Support Services (TruEvolution Inc.),Wednesday's_time_open,12:00PM - 8:00PM
-Support Services (TruEvolution Inc.),Thursday's_time_open,12:00PM - 8:00PM
-Support Services (TruEvolution Inc.),Friday's_time_open,11:00AM - 7:00PM
+Support Services (TruEvolution Inc.),Monday's_time_open,12:00PM - 20:00PM
+Support Services (TruEvolution Inc.),Tuesday's_time_open,12:00PM - 20:00PM
+Support Services (TruEvolution Inc.),Wednesday's_time_open,12:00PM - 20:00PM
+Support Services (TruEvolution Inc.),Thursday's_time_open,12:00PM - 20:00PM
+Support Services (TruEvolution Inc.),Friday's_time_open,11:00AM - 19:00PM
 Support Services (TruEvolution Inc.),Saturday's_time_open,Closed
 Support Services (TruEvolution Inc.),Sunday's_time_open,Closed
 Support Services (TruEvolution Inc.),has_a_Google_Rating_of,4.5
@@ -574,11 +574,11 @@ Sudden Infant Death Syndrome Program (Riverside County Department of Public Heal
 Sudden Infant Death Syndrome Program (Riverside County Department of Public Health - Public Health Nursing),covers,"This program covers residents of the following counties: Riverside County, CA."
 Sudden Infant Death Syndrome Program (Riverside County Department of Public Health - Public Health Nursing),zipcode_is,92503.0
 Sudden Infant Death Syndrome Program (Riverside County Department of Public Health - Public Health Nursing),24hours_status_is,False
-Sudden Infant Death Syndrome Program (Riverside County Department of Public Health - Public Health Nursing),Monday's_time_open,11:00AM - 8:00PM
-Sudden Infant Death Syndrome Program (Riverside County Department of Public Health - Public Health Nursing),Tuesday's_time_open,11:00AM - 8:00PM
-Sudden Infant Death Syndrome Program (Riverside County Department of Public Health - Public Health Nursing),Wednesday's_time_open,11:00AM - 8:00PM
-Sudden Infant Death Syndrome Program (Riverside County Department of Public Health - Public Health Nursing),Thursday's_time_open,11:00AM - 8:00PM
-Sudden Infant Death Syndrome Program (Riverside County Department of Public Health - Public Health Nursing),Friday's_time_open,11:00AM - 8:00PM
+Sudden Infant Death Syndrome Program (Riverside County Department of Public Health - Public Health Nursing),Monday's_time_open,11:00AM - 20:00PM
+Sudden Infant Death Syndrome Program (Riverside County Department of Public Health - Public Health Nursing),Tuesday's_time_open,11:00AM - 20:00PM
+Sudden Infant Death Syndrome Program (Riverside County Department of Public Health - Public Health Nursing),Wednesday's_time_open,11:00AM - 20:00PM
+Sudden Infant Death Syndrome Program (Riverside County Department of Public Health - Public Health Nursing),Thursday's_time_open,11:00AM - 20:00PM
+Sudden Infant Death Syndrome Program (Riverside County Department of Public Health - Public Health Nursing),Friday's_time_open,11:00AM - 20:00PM
 Sudden Infant Death Syndrome Program (Riverside County Department of Public Health - Public Health Nursing),Saturday's_time_open,Closed
 Sudden Infant Death Syndrome Program (Riverside County Department of Public Health - Public Health Nursing),Sunday's_time_open,Closed
 Sudden Infant Death Syndrome Program (Riverside County Department of Public Health - Public Health Nursing),has_a_Google_Rating_of,0
@@ -616,11 +616,11 @@ Mental Health Services (Angel of Faith),has_Google_Reviews,True
 Mental Health Services (Angel of Faith),covers,"This program covers residents of the following counties: Riverside County, CA."
 Mental Health Services (Angel of Faith),zipcode_is,92505.0
 Mental Health Services (Angel of Faith),24hours_status_is,False
-Mental Health Services (Angel of Faith),Monday's_time_open,11:00AM - 11:00PM
-Mental Health Services (Angel of Faith),Tuesday's_time_open,11:00AM - 11:00PM
-Mental Health Services (Angel of Faith),Wednesday's_time_open,11:00AM - 11:00PM
-Mental Health Services (Angel of Faith),Thursday's_time_open,11:00AM - 11:00PM
-Mental Health Services (Angel of Faith),Friday's_time_open,11:00AM - 11:00PM
+Mental Health Services (Angel of Faith),Monday's_time_open,11:00AM - 23:00PM
+Mental Health Services (Angel of Faith),Tuesday's_time_open,11:00AM - 23:00PM
+Mental Health Services (Angel of Faith),Wednesday's_time_open,11:00AM - 23:00PM
+Mental Health Services (Angel of Faith),Thursday's_time_open,11:00AM - 23:00PM
+Mental Health Services (Angel of Faith),Friday's_time_open,11:00AM - 23:00PM
 Mental Health Services (Angel of Faith),Saturday's_time_open,Closed
 Mental Health Services (Angel of Faith),Sunday's_time_open,Closed
 Mental Health Services (Angel of Faith),has_a_Google_Rating_of,3.8
@@ -640,10 +640,10 @@ Mental Health Services and Counseling (United Connections Foster Family Agency I
 Mental Health Services and Counseling (United Connections Foster Family Agency Inc.),covers,"This program covers residents of the following cities: Riverside, CA."
 Mental Health Services and Counseling (United Connections Foster Family Agency Inc.),zipcode_is,92503.0
 Mental Health Services and Counseling (United Connections Foster Family Agency Inc.),24hours_status_is,False
-Mental Health Services and Counseling (United Connections Foster Family Agency Inc.),Monday's_time_open,1:00PM - 7:00PM
-Mental Health Services and Counseling (United Connections Foster Family Agency Inc.),Tuesday's_time_open,1:00PM - 7:00PM
-Mental Health Services and Counseling (United Connections Foster Family Agency Inc.),Wednesday's_time_open,1:00PM - 7:00PM
-Mental Health Services and Counseling (United Connections Foster Family Agency Inc.),Thursday's_time_open,1:00PM - 7:00PM
+Mental Health Services and Counseling (United Connections Foster Family Agency Inc.),Monday's_time_open,13:00PM - 19:00PM
+Mental Health Services and Counseling (United Connections Foster Family Agency Inc.),Tuesday's_time_open,13:00PM - 19:00PM
+Mental Health Services and Counseling (United Connections Foster Family Agency Inc.),Wednesday's_time_open,13:00PM - 19:00PM
+Mental Health Services and Counseling (United Connections Foster Family Agency Inc.),Thursday's_time_open,13:00PM - 19:00PM
 Mental Health Services and Counseling (United Connections Foster Family Agency Inc.),Friday's_time_open,Closed
 Mental Health Services and Counseling (United Connections Foster Family Agency Inc.),Saturday's_time_open,Closed
 Mental Health Services and Counseling (United Connections Foster Family Agency Inc.),Sunday's_time_open,Closed
@@ -665,11 +665,11 @@ Residential Treatment (Teen Challenge of Southern California),has_Google_Reviews
 Residential Treatment (Teen Challenge of Southern California),covers,"This program covers residents of the following counties: Riverside County, CA and San Bernardino County, CA."
 Residential Treatment (Teen Challenge of Southern California),zipcode_is,92507.0
 Residential Treatment (Teen Challenge of Southern California),24hours_status_is,False
-Residential Treatment (Teen Challenge of Southern California),Monday's_time_open,11:30AM - 8:00PM
-Residential Treatment (Teen Challenge of Southern California),Tuesday's_time_open,11:30AM - 8:00PM
-Residential Treatment (Teen Challenge of Southern California),Wednesday's_time_open,11:30AM - 8:00PM
-Residential Treatment (Teen Challenge of Southern California),Thursday's_time_open,11:30AM - 8:00PM
-Residential Treatment (Teen Challenge of Southern California),Friday's_time_open,11:30AM - 8:00PM
+Residential Treatment (Teen Challenge of Southern California),Monday's_time_open,11:30AM - 20:00PM
+Residential Treatment (Teen Challenge of Southern California),Tuesday's_time_open,11:30AM - 20:00PM
+Residential Treatment (Teen Challenge of Southern California),Wednesday's_time_open,11:30AM - 20:00PM
+Residential Treatment (Teen Challenge of Southern California),Thursday's_time_open,11:30AM - 20:00PM
+Residential Treatment (Teen Challenge of Southern California),Friday's_time_open,11:30AM - 20:00PM
 Residential Treatment (Teen Challenge of Southern California),Saturday's_time_open,Closed
 Residential Treatment (Teen Challenge of Southern California),Sunday's_time_open,Closed
 Residential Treatment (Teen Challenge of Southern California),has_a_Google_Rating_of,4.6
@@ -689,11 +689,11 @@ Mental Healthcare (Renewing Hope Family Counseling Center Inc.),has_Google_Revie
 Mental Healthcare (Renewing Hope Family Counseling Center Inc.),covers,"This program covers residents of the following cities: Hemet, CA, Murrieta, CA, Riverside, CA and Yucaipa, CA."
 Mental Healthcare (Renewing Hope Family Counseling Center Inc.),zipcode_is,92507.0
 Mental Healthcare (Renewing Hope Family Counseling Center Inc.),24hours_status_is,False
-Mental Healthcare (Renewing Hope Family Counseling Center Inc.),Monday's_time_open,11:00AM - 8:00PM
-Mental Healthcare (Renewing Hope Family Counseling Center Inc.),Tuesday's_time_open,11:00AM - 8:00PM
-Mental Healthcare (Renewing Hope Family Counseling Center Inc.),Wednesday's_time_open,11:00AM - 8:00PM
-Mental Healthcare (Renewing Hope Family Counseling Center Inc.),Thursday's_time_open,11:00AM - 8:00PM
-Mental Healthcare (Renewing Hope Family Counseling Center Inc.),Friday's_time_open,11:00AM - 8:00PM
+Mental Healthcare (Renewing Hope Family Counseling Center Inc.),Monday's_time_open,11:00AM - 20:00PM
+Mental Healthcare (Renewing Hope Family Counseling Center Inc.),Tuesday's_time_open,11:00AM - 20:00PM
+Mental Healthcare (Renewing Hope Family Counseling Center Inc.),Wednesday's_time_open,11:00AM - 20:00PM
+Mental Healthcare (Renewing Hope Family Counseling Center Inc.),Thursday's_time_open,11:00AM - 20:00PM
+Mental Healthcare (Renewing Hope Family Counseling Center Inc.),Friday's_time_open,11:00AM - 20:00PM
 Mental Healthcare (Renewing Hope Family Counseling Center Inc.),Saturday's_time_open,Closed
 Mental Healthcare (Renewing Hope Family Counseling Center Inc.),Sunday's_time_open,Closed
 Mental Healthcare (Renewing Hope Family Counseling Center Inc.),has_a_Google_Rating_of,3.8
@@ -714,11 +714,11 @@ Mental Health Services (Psychological Services of Riverside),has_Google_Reviews,
 Mental Health Services (Psychological Services of Riverside),covers,This program covers residents of the following states: CA.
 Mental Health Services (Psychological Services of Riverside),zipcode_is,92504.0
 Mental Health Services (Psychological Services of Riverside),24hours_status_is,False
-Mental Health Services (Psychological Services of Riverside),Monday's_time_open,11:00AM - 8:00PM
-Mental Health Services (Psychological Services of Riverside),Tuesday's_time_open,1:00PM - 10:00PM
-Mental Health Services (Psychological Services of Riverside),Wednesday's_time_open,11:00AM - 8:00PM
-Mental Health Services (Psychological Services of Riverside),Thursday's_time_open,1:00PM - 10:00PM
-Mental Health Services (Psychological Services of Riverside),Friday's_time_open,11:00AM - 8:00PM
+Mental Health Services (Psychological Services of Riverside),Monday's_time_open,11:00AM - 20:00PM
+Mental Health Services (Psychological Services of Riverside),Tuesday's_time_open,13:00PM - 22:00PM
+Mental Health Services (Psychological Services of Riverside),Wednesday's_time_open,11:00AM - 20:00PM
+Mental Health Services (Psychological Services of Riverside),Thursday's_time_open,13:00PM - 22:00PM
+Mental Health Services (Psychological Services of Riverside),Friday's_time_open,11:00AM - 20:00PM
 Mental Health Services (Psychological Services of Riverside),Saturday's_time_open,Closed
 Mental Health Services (Psychological Services of Riverside),Sunday's_time_open,Closed
 Mental Health Services (Psychological Services of Riverside),has_a_Google_Rating_of,3.7
@@ -762,13 +762,13 @@ Therapeutic Interventions (Hope for the Warriors),costs,Free
 Therapeutic Interventions (Hope for the Warriors),has_Google_Reviews,False
 Therapeutic Interventions (Hope for the Warriors),covers,This program covers residents of All 50 states.
 Therapeutic Interventions (Hope for the Warriors),24hours_status_is,False
-Therapeutic Interventions (Hope for the Warriors),Monday's_time_open,?
-Therapeutic Interventions (Hope for the Warriors),Tuesday's_time_open,?
-Therapeutic Interventions (Hope for the Warriors),Wednesday's_time_open,?
-Therapeutic Interventions (Hope for the Warriors),Thursday's_time_open,?
-Therapeutic Interventions (Hope for the Warriors),Friday's_time_open,?
-Therapeutic Interventions (Hope for the Warriors),Saturday's_time_open,?
-Therapeutic Interventions (Hope for the Warriors),Sunday's_time_open,?
+Therapeutic Interventions (Hope for the Warriors),Monday's_time_open,Apply
+Therapeutic Interventions (Hope for the Warriors),Tuesday's_time_open,Apply
+Therapeutic Interventions (Hope for the Warriors),Wednesday's_time_open,Apply
+Therapeutic Interventions (Hope for the Warriors),Thursday's_time_open,Apply
+Therapeutic Interventions (Hope for the Warriors),Friday's_time_open,Apply
+Therapeutic Interventions (Hope for the Warriors),Saturday's_time_open,Apply
+Therapeutic Interventions (Hope for the Warriors),Sunday's_time_open,Apply
 Therapeutic Interventions (Hope for the Warriors),has_a_Google_Rating_of,0
 Therapeutic Interventions (Hope for the Warriors),offers,Interventions
 Therapeutic Interventions (Hope for the Warriors),serves,"['adults 18+', 'active duty', 'veterans', 'individuals', 'families', 'caregivers', 'ptsd', 'all mental health'], ['Must be a post-9/11 combat injured service member, veteran or caregiver.']"
@@ -783,13 +783,13 @@ One-Day Virtual Family Program (Hazelden Betty Ford Foundation),costs,Free
 One-Day Virtual Family Program (Hazelden Betty Ford Foundation),has_Google_Reviews,False
 One-Day Virtual Family Program (Hazelden Betty Ford Foundation),covers,"This program covers residents of the following states: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV and WY."
 One-Day Virtual Family Program (Hazelden Betty Ford Foundation),24hours_status_is,False
-One-Day Virtual Family Program (Hazelden Betty Ford Foundation),Monday's_time_open,?
-One-Day Virtual Family Program (Hazelden Betty Ford Foundation),Tuesday's_time_open,?
-One-Day Virtual Family Program (Hazelden Betty Ford Foundation),Wednesday's_time_open,?
-One-Day Virtual Family Program (Hazelden Betty Ford Foundation),Thursday's_time_open,?
-One-Day Virtual Family Program (Hazelden Betty Ford Foundation),Friday's_time_open,?
-One-Day Virtual Family Program (Hazelden Betty Ford Foundation),Saturday's_time_open,?
-One-Day Virtual Family Program (Hazelden Betty Ford Foundation),Sunday's_time_open,?
+One-Day Virtual Family Program (Hazelden Betty Ford Foundation),Monday's_time_open,Request
+One-Day Virtual Family Program (Hazelden Betty Ford Foundation),Tuesday's_time_open,Request
+One-Day Virtual Family Program (Hazelden Betty Ford Foundation),Wednesday's_time_open,Request
+One-Day Virtual Family Program (Hazelden Betty Ford Foundation),Thursday's_time_open,Request
+One-Day Virtual Family Program (Hazelden Betty Ford Foundation),Friday's_time_open,Request
+One-Day Virtual Family Program (Hazelden Betty Ford Foundation),Saturday's_time_open,Request
+One-Day Virtual Family Program (Hazelden Betty Ford Foundation),Sunday's_time_open,Request
 One-Day Virtual Family Program (Hazelden Betty Ford Foundation),has_a_Google_Rating_of,0
 One-Day Virtual Family Program (Hazelden Betty Ford Foundation),offers,Program
 One-Day Virtual Family Program (Hazelden Betty Ford Foundation),serves,"['adults', 'young adults', 'teens', 'seniors', 'families', 'limited english', 'substance dependency'], ['This program serves families who have been impacted by substance abuse.']"
@@ -804,13 +804,13 @@ Counseling Services (Adventures of the Heart and Mind),costs,Sliding Scale
 Counseling Services (Adventures of the Heart and Mind),has_Google_Reviews,False
 Counseling Services (Adventures of the Heart and Mind),covers,This program covers residents of the following states: CA.
 Counseling Services (Adventures of the Heart and Mind),24hours_status_is,False
-Counseling Services (Adventures of the Heart and Mind),Monday's_time_open,?
-Counseling Services (Adventures of the Heart and Mind),Tuesday's_time_open,?
-Counseling Services (Adventures of the Heart and Mind),Wednesday's_time_open,?
-Counseling Services (Adventures of the Heart and Mind),Thursday's_time_open,?
-Counseling Services (Adventures of the Heart and Mind),Friday's_time_open,?
-Counseling Services (Adventures of the Heart and Mind),Saturday's_time_open,?
-Counseling Services (Adventures of the Heart and Mind),Sunday's_time_open,?
+Counseling Services (Adventures of the Heart and Mind),Monday's_time_open,Appointment
+Counseling Services (Adventures of the Heart and Mind),Tuesday's_time_open,Appointment
+Counseling Services (Adventures of the Heart and Mind),Wednesday's_time_open,Appointment
+Counseling Services (Adventures of the Heart and Mind),Thursday's_time_open,Appointment
+Counseling Services (Adventures of the Heart and Mind),Friday's_time_open,Appointment
+Counseling Services (Adventures of the Heart and Mind),Saturday's_time_open,Appointment
+Counseling Services (Adventures of the Heart and Mind),Sunday's_time_open,Appointment
 Counseling Services (Adventures of the Heart and Mind),has_a_Google_Rating_of,0
 Counseling Services (Adventures of the Heart and Mind),offers,Counseling
 Counseling Services (Adventures of the Heart and Mind),serves,"['adults', 'young adults', 'teens', 'children', 'grieving', 'lgbtqia+', 'individuals', 'families', 'with children', 'low-income', 'spouses', 'parents', 'depression', 'anxiety', 'all mental health', 'substance dependency'], ['This program serves individuals, married individuals, and families.']"
@@ -870,13 +870,13 @@ Counseling Services (The Grove Community Church),has_Google_Reviews,False
 Counseling Services (The Grove Community Church),covers,"This program covers residents of the following counties: Riverside County, CA."
 Counseling Services (The Grove Community Church),zipcode_is,92508.0
 Counseling Services (The Grove Community Church),24hours_status_is,False
-Counseling Services (The Grove Community Church),Monday's_time_open,?
-Counseling Services (The Grove Community Church),Tuesday's_time_open,?
-Counseling Services (The Grove Community Church),Wednesday's_time_open,?
-Counseling Services (The Grove Community Church),Thursday's_time_open,?
-Counseling Services (The Grove Community Church),Friday's_time_open,?
-Counseling Services (The Grove Community Church),Saturday's_time_open,?
-Counseling Services (The Grove Community Church),Sunday's_time_open,?
+Counseling Services (The Grove Community Church),Monday's_time_open,Appointment
+Counseling Services (The Grove Community Church),Tuesday's_time_open,Appointment
+Counseling Services (The Grove Community Church),Wednesday's_time_open,Appointment
+Counseling Services (The Grove Community Church),Thursday's_time_open,Appointment
+Counseling Services (The Grove Community Church),Friday's_time_open,Appointment
+Counseling Services (The Grove Community Church),Saturday's_time_open,Appointment
+Counseling Services (The Grove Community Church),Sunday's_time_open,Appointment
 Counseling Services (The Grove Community Church),has_a_Google_Rating_of,0
 Counseling Services (The Grove Community Church),offers,Counseling
 Counseling Services (The Grove Community Church),serves,"['adults', 'young adults', 'teens', 'children', 'seniors', 'individuals', 'families', 'low-income', 'all mental health'], ['This program serves individuals (adults and children), couples, and families.']"
@@ -892,13 +892,13 @@ Telebehavioral Health Clinic (USC),costs,Free
 Telebehavioral Health Clinic (USC),has_Google_Reviews,False
 Telebehavioral Health Clinic (USC),covers,This program covers residents of the following states: CA.
 Telebehavioral Health Clinic (USC),24hours_status_is,False
-Telebehavioral Health Clinic (USC),Monday's_time_open,?
-Telebehavioral Health Clinic (USC),Tuesday's_time_open,?
-Telebehavioral Health Clinic (USC),Wednesday's_time_open,?
-Telebehavioral Health Clinic (USC),Thursday's_time_open,?
-Telebehavioral Health Clinic (USC),Friday's_time_open,?
-Telebehavioral Health Clinic (USC),Saturday's_time_open,?
-Telebehavioral Health Clinic (USC),Sunday's_time_open,?
+Telebehavioral Health Clinic (USC),Monday's_time_open,Appointment
+Telebehavioral Health Clinic (USC),Tuesday's_time_open,Appointment
+Telebehavioral Health Clinic (USC),Wednesday's_time_open,Appointment
+Telebehavioral Health Clinic (USC),Thursday's_time_open,Appointment
+Telebehavioral Health Clinic (USC),Friday's_time_open,Appointment
+Telebehavioral Health Clinic (USC),Saturday's_time_open,Appointment
+Telebehavioral Health Clinic (USC),Sunday's_time_open,Appointment
 Telebehavioral Health Clinic (USC),has_a_Google_Rating_of,0
 Telebehavioral Health Clinic (USC),offers,Virtual Counseling
 Telebehavioral Health Clinic (USC),serves,"['adults', 'young adults', 'teens', 'children', 'seniors', 'grieving', 'individuals', 'caregivers', 'parents'], ['No eligibility required.', 'No documents required.', 'This program helps people who are older than 11 years old.']"
@@ -912,11 +912,11 @@ NAMI HelpLine (National Alliance on Mental Illness),costs,Free
 NAMI HelpLine (National Alliance on Mental Illness),has_Google_Reviews,False
 NAMI HelpLine (National Alliance on Mental Illness),covers,"This program covers residents of the following states: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV and WY."
 NAMI HelpLine (National Alliance on Mental Illness),24hours_status_is,False
-NAMI HelpLine (National Alliance on Mental Illness),Monday's_time_open,1:00PM - 1:00AM
-NAMI HelpLine (National Alliance on Mental Illness),Tuesday's_time_open,1:00PM - 1:00AM
-NAMI HelpLine (National Alliance on Mental Illness),Wednesday's_time_open,1:00PM - 1:00AM
-NAMI HelpLine (National Alliance on Mental Illness),Thursday's_time_open,1:00PM - 1:00AM
-NAMI HelpLine (National Alliance on Mental Illness),Friday's_time_open,1:00PM - 1:00AM
+NAMI HelpLine (National Alliance on Mental Illness),Monday's_time_open,13:00PM - 1:00AM
+NAMI HelpLine (National Alliance on Mental Illness),Tuesday's_time_open,13:00PM - 1:00AM
+NAMI HelpLine (National Alliance on Mental Illness),Wednesday's_time_open,13:00PM - 1:00AM
+NAMI HelpLine (National Alliance on Mental Illness),Thursday's_time_open,13:00PM - 1:00AM
+NAMI HelpLine (National Alliance on Mental Illness),Friday's_time_open,13:00PM - 1:00AM
 NAMI HelpLine (National Alliance on Mental Illness),Saturday's_time_open,Closed
 NAMI HelpLine (National Alliance on Mental Illness),Sunday's_time_open,Closed
 NAMI HelpLine (National Alliance on Mental Illness),has_a_Google_Rating_of,0
@@ -932,13 +932,13 @@ Online Support Groups (Star Legacy Foundation),costs,Free
 Online Support Groups (Star Legacy Foundation),has_Google_Reviews,False
 Online Support Groups (Star Legacy Foundation),covers,This program covers residents of All US states and territories.
 Online Support Groups (Star Legacy Foundation),24hours_status_is,False
-Online Support Groups (Star Legacy Foundation),Monday's_time_open,?
-Online Support Groups (Star Legacy Foundation),Tuesday's_time_open,?
-Online Support Groups (Star Legacy Foundation),Wednesday's_time_open,?
-Online Support Groups (Star Legacy Foundation),Thursday's_time_open,?
-Online Support Groups (Star Legacy Foundation),Friday's_time_open,?
-Online Support Groups (Star Legacy Foundation),Saturday's_time_open,?
-Online Support Groups (Star Legacy Foundation),Sunday's_time_open,?
+Online Support Groups (Star Legacy Foundation),Monday's_time_open,Register
+Online Support Groups (Star Legacy Foundation),Tuesday's_time_open,Register
+Online Support Groups (Star Legacy Foundation),Wednesday's_time_open,Register
+Online Support Groups (Star Legacy Foundation),Thursday's_time_open,Register
+Online Support Groups (Star Legacy Foundation),Friday's_time_open,Register
+Online Support Groups (Star Legacy Foundation),Saturday's_time_open,Register
+Online Support Groups (Star Legacy Foundation),Sunday's_time_open,Register
 Online Support Groups (Star Legacy Foundation),has_a_Google_Rating_of,0
 Online Support Groups (Star Legacy Foundation),offers,Online Support Group
 Online Support Groups (Star Legacy Foundation),serves,"['adults', 'young adults', 'teens', 'seniors', 'grieving', 'pregnant', 'families', 'caregivers', 'fathers', 'mothers', 'parents'], ['If you or a loved one,  have lost an infant through miscarriage, stillbirth, or infant death']"
@@ -952,13 +952,13 @@ Counseling Services (James Orrell Psychotherapy Individual and Family),costs,Sli
 Counseling Services (James Orrell Psychotherapy Individual and Family),has_Google_Reviews,False
 Counseling Services (James Orrell Psychotherapy Individual and Family),covers,"This program covers residents of the following counties: Riverside County, CA."
 Counseling Services (James Orrell Psychotherapy Individual and Family),24hours_status_is,False
-Counseling Services (James Orrell Psychotherapy Individual and Family),Monday's_time_open,?
-Counseling Services (James Orrell Psychotherapy Individual and Family),Tuesday's_time_open,?
-Counseling Services (James Orrell Psychotherapy Individual and Family),Wednesday's_time_open,?
-Counseling Services (James Orrell Psychotherapy Individual and Family),Thursday's_time_open,?
-Counseling Services (James Orrell Psychotherapy Individual and Family),Friday's_time_open,?
-Counseling Services (James Orrell Psychotherapy Individual and Family),Saturday's_time_open,?
-Counseling Services (James Orrell Psychotherapy Individual and Family),Sunday's_time_open,?
+Counseling Services (James Orrell Psychotherapy Individual and Family),Monday's_time_open,Appointment
+Counseling Services (James Orrell Psychotherapy Individual and Family),Tuesday's_time_open,Appointment
+Counseling Services (James Orrell Psychotherapy Individual and Family),Wednesday's_time_open,Appointment
+Counseling Services (James Orrell Psychotherapy Individual and Family),Thursday's_time_open,Appointment
+Counseling Services (James Orrell Psychotherapy Individual and Family),Friday's_time_open,Appointment
+Counseling Services (James Orrell Psychotherapy Individual and Family),Saturday's_time_open,Appointment
+Counseling Services (James Orrell Psychotherapy Individual and Family),Sunday's_time_open,Appointment
 Counseling Services (James Orrell Psychotherapy Individual and Family),has_a_Google_Rating_of,0
 Counseling Services (James Orrell Psychotherapy Individual and Family),offers,Counseling
 Counseling Services (James Orrell Psychotherapy Individual and Family),serves,"['adults', 'young adults', 'teens', 'seniors', 'individuals', 'families', 'low-income', 'uninsured', 'trauma survivors', 'depression', 'anxiety', 'ptsd', 'all mental health'], ['This program helps people who are older than 13 years old.', 'Must meet income guidelines for sliding scale fee.']"
@@ -972,7 +972,7 @@ Pet Bereavement Support Groups (Veterinary Chaplaincy Services),has_Google_Revie
 Pet Bereavement Support Groups (Veterinary Chaplaincy Services),covers,"This program covers residents of the following states: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV and WY."
 Pet Bereavement Support Groups (Veterinary Chaplaincy Services),24hours_status_is,False
 Pet Bereavement Support Groups (Veterinary Chaplaincy Services),Monday's_time_open,Closed
-Pet Bereavement Support Groups (Veterinary Chaplaincy Services),Tuesday's_time_open,10:00PM - 11:15PM
+Pet Bereavement Support Groups (Veterinary Chaplaincy Services),Tuesday's_time_open,22:00PM - 23:15PM
 Pet Bereavement Support Groups (Veterinary Chaplaincy Services),Wednesday's_time_open,Closed
 Pet Bereavement Support Groups (Veterinary Chaplaincy Services),Thursday's_time_open,Closed
 Pet Bereavement Support Groups (Veterinary Chaplaincy Services),Friday's_time_open,Closed
@@ -991,7 +991,7 @@ Fatherhood After Loss Sessions (Sad Dads Club),has_Google_Reviews,False
 Fatherhood After Loss Sessions (Sad Dads Club),covers,"This program covers residents of the following states: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV and WY."
 Fatherhood After Loss Sessions (Sad Dads Club),24hours_status_is,False
 Fatherhood After Loss Sessions (Sad Dads Club),Monday's_time_open,Closed
-Fatherhood After Loss Sessions (Sad Dads Club),Tuesday's_time_open,8:30PM - 9:30PM
+Fatherhood After Loss Sessions (Sad Dads Club),Tuesday's_time_open,20:30PM - 21:30PM
 Fatherhood After Loss Sessions (Sad Dads Club),Wednesday's_time_open,Closed
 Fatherhood After Loss Sessions (Sad Dads Club),Thursday's_time_open,Closed
 Fatherhood After Loss Sessions (Sad Dads Club),Friday's_time_open,Closed
@@ -1014,7 +1014,7 @@ Hold Onto Hope Webinar (Honor Connor),24hours_status_is,False
 Hold Onto Hope Webinar (Honor Connor),Monday's_time_open,Closed
 Hold Onto Hope Webinar (Honor Connor),Tuesday's_time_open,Closed
 Hold Onto Hope Webinar (Honor Connor),Wednesday's_time_open,Closed
-Hold Onto Hope Webinar (Honor Connor),Thursday's_time_open,7:00PM - 8:00PM
+Hold Onto Hope Webinar (Honor Connor),Thursday's_time_open,19:00PM - 20:00PM
 Hold Onto Hope Webinar (Honor Connor),Friday's_time_open,Closed
 Hold Onto Hope Webinar (Honor Connor),Saturday's_time_open,Closed
 Hold Onto Hope Webinar (Honor Connor),Sunday's_time_open,Closed
@@ -1031,13 +1031,13 @@ Gender Affirming Voice Training (Harmonic Speech Therapy),costs,Sliding Scale
 Gender Affirming Voice Training (Harmonic Speech Therapy),has_Google_Reviews,False
 Gender Affirming Voice Training (Harmonic Speech Therapy),covers,"This program covers residents of the following states: CA, KS, MI, NY and TX."
 Gender Affirming Voice Training (Harmonic Speech Therapy),24hours_status_is,False
-Gender Affirming Voice Training (Harmonic Speech Therapy),Monday's_time_open,?
-Gender Affirming Voice Training (Harmonic Speech Therapy),Tuesday's_time_open,?
-Gender Affirming Voice Training (Harmonic Speech Therapy),Wednesday's_time_open,?
-Gender Affirming Voice Training (Harmonic Speech Therapy),Thursday's_time_open,?
-Gender Affirming Voice Training (Harmonic Speech Therapy),Friday's_time_open,?
-Gender Affirming Voice Training (Harmonic Speech Therapy),Saturday's_time_open,?
-Gender Affirming Voice Training (Harmonic Speech Therapy),Sunday's_time_open,?
+Gender Affirming Voice Training (Harmonic Speech Therapy),Monday's_time_open,Appointment
+Gender Affirming Voice Training (Harmonic Speech Therapy),Tuesday's_time_open,Appointment
+Gender Affirming Voice Training (Harmonic Speech Therapy),Wednesday's_time_open,Appointment
+Gender Affirming Voice Training (Harmonic Speech Therapy),Thursday's_time_open,Appointment
+Gender Affirming Voice Training (Harmonic Speech Therapy),Friday's_time_open,Appointment
+Gender Affirming Voice Training (Harmonic Speech Therapy),Saturday's_time_open,Appointment
+Gender Affirming Voice Training (Harmonic Speech Therapy),Sunday's_time_open,Appointment
 Gender Affirming Voice Training (Harmonic Speech Therapy),has_a_Google_Rating_of,0
 Gender Affirming Voice Training (Harmonic Speech Therapy),offers,Therapy
 Gender Affirming Voice Training (Harmonic Speech Therapy),serves,"['anyone in need', 'adults', 'young adults', 'teens', 'seniors', 'female', 'lgbtqia+', 'male', 'transgender or non-binary', 'autism', 'individuals', 'homeless', 'near homeless', 'low-income', 'limited english', 'african american', 'asian', 'latino', 'native american'], ['This program serves all people seeking speech, voice, and swallowing therapy.', 'This program serves LGBTQ+ individuals seeking voice training.']"
@@ -1078,13 +1078,13 @@ Peer-to-Peer Support Network (Mommy Interrupted),costs,Free
 Peer-to-Peer Support Network (Mommy Interrupted),has_Google_Reviews,False
 Peer-to-Peer Support Network (Mommy Interrupted),covers,This program covers residents of All 50 states.
 Peer-to-Peer Support Network (Mommy Interrupted),24hours_status_is,False
-Peer-to-Peer Support Network (Mommy Interrupted),Monday's_time_open,?
-Peer-to-Peer Support Network (Mommy Interrupted),Tuesday's_time_open,?
-Peer-to-Peer Support Network (Mommy Interrupted),Wednesday's_time_open,?
-Peer-to-Peer Support Network (Mommy Interrupted),Thursday's_time_open,?
-Peer-to-Peer Support Network (Mommy Interrupted),Friday's_time_open,?
-Peer-to-Peer Support Network (Mommy Interrupted),Saturday's_time_open,?
-Peer-to-Peer Support Network (Mommy Interrupted),Sunday's_time_open,?
+Peer-to-Peer Support Network (Mommy Interrupted),Monday's_time_open,Sign Up
+Peer-to-Peer Support Network (Mommy Interrupted),Tuesday's_time_open,Sign Up
+Peer-to-Peer Support Network (Mommy Interrupted),Wednesday's_time_open,Sign Up
+Peer-to-Peer Support Network (Mommy Interrupted),Thursday's_time_open,Sign Up
+Peer-to-Peer Support Network (Mommy Interrupted),Friday's_time_open,Sign Up
+Peer-to-Peer Support Network (Mommy Interrupted),Saturday's_time_open,Sign Up
+Peer-to-Peer Support Network (Mommy Interrupted),Sunday's_time_open,Sign Up
 Peer-to-Peer Support Network (Mommy Interrupted),has_a_Google_Rating_of,0
 Peer-to-Peer Support Network (Mommy Interrupted),offers,Online Peer Support
 Peer-to-Peer Support Network (Mommy Interrupted),serves,"['adults', 'young adults', 'teens', 'seniors', 'grieving', 'female', 'families', 'mothers'], []"
@@ -1139,13 +1139,13 @@ Loss Advisors (Baby Loss Family Advisors),costs,Free
 Loss Advisors (Baby Loss Family Advisors),has_Google_Reviews,False
 Loss Advisors (Baby Loss Family Advisors),covers,This program covers residents of All US states and territories.
 Loss Advisors (Baby Loss Family Advisors),24hours_status_is,False
-Loss Advisors (Baby Loss Family Advisors),Monday's_time_open,?
-Loss Advisors (Baby Loss Family Advisors),Tuesday's_time_open,?
-Loss Advisors (Baby Loss Family Advisors),Wednesday's_time_open,?
-Loss Advisors (Baby Loss Family Advisors),Thursday's_time_open,?
-Loss Advisors (Baby Loss Family Advisors),Friday's_time_open,?
-Loss Advisors (Baby Loss Family Advisors),Saturday's_time_open,?
-Loss Advisors (Baby Loss Family Advisors),Sunday's_time_open,?
+Loss Advisors (Baby Loss Family Advisors),Monday's_time_open,Register
+Loss Advisors (Baby Loss Family Advisors),Tuesday's_time_open,Register
+Loss Advisors (Baby Loss Family Advisors),Wednesday's_time_open,Register
+Loss Advisors (Baby Loss Family Advisors),Thursday's_time_open,Register
+Loss Advisors (Baby Loss Family Advisors),Friday's_time_open,Register
+Loss Advisors (Baby Loss Family Advisors),Saturday's_time_open,Register
+Loss Advisors (Baby Loss Family Advisors),Sunday's_time_open,Register
 Loss Advisors (Baby Loss Family Advisors),has_a_Google_Rating_of,0
 Loss Advisors (Baby Loss Family Advisors),offers,Advising
 Loss Advisors (Baby Loss Family Advisors),serves,"['adults', 'young adults', 'teens', 'seniors', 'grieving', 'female', 'individuals', 'families', 'mothers'], []"
@@ -1173,11 +1173,11 @@ Hotline (A Better Way Victor Valley Domestic Violence),costs,Free
 Hotline (A Better Way Victor Valley Domestic Violence),has_Google_Reviews,False
 Hotline (A Better Way Victor Valley Domestic Violence),covers,"This program covers residents of the following counties: Riverside County, CA and San Bernardino County, CA."
 Hotline (A Better Way Victor Valley Domestic Violence),24hours_status_is,False
-Hotline (A Better Way Victor Valley Domestic Violence),Monday's_time_open,11:00AM - 7:00PM
-Hotline (A Better Way Victor Valley Domestic Violence),Tuesday's_time_open,11:00AM - 7:00PM
-Hotline (A Better Way Victor Valley Domestic Violence),Wednesday's_time_open,11:00AM - 7:00PM
-Hotline (A Better Way Victor Valley Domestic Violence),Thursday's_time_open,11:00AM - 7:00PM
-Hotline (A Better Way Victor Valley Domestic Violence),Friday's_time_open,11:00AM - 7:00PM
+Hotline (A Better Way Victor Valley Domestic Violence),Monday's_time_open,11:00AM - 19:00PM
+Hotline (A Better Way Victor Valley Domestic Violence),Tuesday's_time_open,11:00AM - 19:00PM
+Hotline (A Better Way Victor Valley Domestic Violence),Wednesday's_time_open,11:00AM - 19:00PM
+Hotline (A Better Way Victor Valley Domestic Violence),Thursday's_time_open,11:00AM - 19:00PM
+Hotline (A Better Way Victor Valley Domestic Violence),Friday's_time_open,11:00AM - 19:00PM
 Hotline (A Better Way Victor Valley Domestic Violence),Saturday's_time_open,Closed
 Hotline (A Better Way Victor Valley Domestic Violence),Sunday's_time_open,Closed
 Hotline (A Better Way Victor Valley Domestic Violence),has_a_Google_Rating_of,0
@@ -1210,11 +1210,11 @@ Quit Smoking Hotline (National Cancer Institute),costs,Free
 Quit Smoking Hotline (National Cancer Institute),has_Google_Reviews,False
 Quit Smoking Hotline (National Cancer Institute),covers,This program covers residents of All US states and territories.
 Quit Smoking Hotline (National Cancer Institute),24hours_status_is,False
-Quit Smoking Hotline (National Cancer Institute),Monday's_time_open,9:00AM - 9:00PM
-Quit Smoking Hotline (National Cancer Institute),Tuesday's_time_open,9:00AM - 9:00PM
-Quit Smoking Hotline (National Cancer Institute),Wednesday's_time_open,9:00AM - 9:00PM
-Quit Smoking Hotline (National Cancer Institute),Thursday's_time_open,9:00AM - 5:00PM
-Quit Smoking Hotline (National Cancer Institute),Friday's_time_open,9:00AM - 9:00PM
+Quit Smoking Hotline (National Cancer Institute),Monday's_time_open,9:00AM - 21:00PM
+Quit Smoking Hotline (National Cancer Institute),Tuesday's_time_open,9:00AM - 21:00PM
+Quit Smoking Hotline (National Cancer Institute),Wednesday's_time_open,9:00AM - 21:00PM
+Quit Smoking Hotline (National Cancer Institute),Thursday's_time_open,9:00AM - 17:00PM
+Quit Smoking Hotline (National Cancer Institute),Friday's_time_open,9:00AM - 21:00PM
 Quit Smoking Hotline (National Cancer Institute),Saturday's_time_open,Closed
 Quit Smoking Hotline (National Cancer Institute),Sunday's_time_open,Closed
 Quit Smoking Hotline (National Cancer Institute),has_a_Google_Rating_of,0
@@ -1231,11 +1231,11 @@ Women Vets On Point (U.S. VETS - United States Veterans Initiative),costs,Free
 Women Vets On Point (U.S. VETS - United States Veterans Initiative),has_Google_Reviews,False
 Women Vets On Point (U.S. VETS - United States Veterans Initiative),covers,This program covers residents of All US states and territories.
 Women Vets On Point (U.S. VETS - United States Veterans Initiative),24hours_status_is,False
-Women Vets On Point (U.S. VETS - United States Veterans Initiative),Monday's_time_open,11:00AM - 7:00PM
-Women Vets On Point (U.S. VETS - United States Veterans Initiative),Tuesday's_time_open,11:00AM - 7:00PM
-Women Vets On Point (U.S. VETS - United States Veterans Initiative),Wednesday's_time_open,11:00AM - 7:00PM
-Women Vets On Point (U.S. VETS - United States Veterans Initiative),Thursday's_time_open,11:00AM - 7:00PM
-Women Vets On Point (U.S. VETS - United States Veterans Initiative),Friday's_time_open,11:00AM - 7:00PM
+Women Vets On Point (U.S. VETS - United States Veterans Initiative),Monday's_time_open,11:00AM - 19:00PM
+Women Vets On Point (U.S. VETS - United States Veterans Initiative),Tuesday's_time_open,11:00AM - 19:00PM
+Women Vets On Point (U.S. VETS - United States Veterans Initiative),Wednesday's_time_open,11:00AM - 19:00PM
+Women Vets On Point (U.S. VETS - United States Veterans Initiative),Thursday's_time_open,11:00AM - 19:00PM
+Women Vets On Point (U.S. VETS - United States Veterans Initiative),Friday's_time_open,11:00AM - 19:00PM
 Women Vets On Point (U.S. VETS - United States Veterans Initiative),Saturday's_time_open,Closed
 Women Vets On Point (U.S. VETS - United States Veterans Initiative),Sunday's_time_open,Closed
 Women Vets On Point (U.S. VETS - United States Veterans Initiative),has_a_Google_Rating_of,0
@@ -1253,11 +1253,11 @@ Lung Cancer HELPLine (LUNGevity),costs,Free
 Lung Cancer HELPLine (LUNGevity),has_Google_Reviews,False
 Lung Cancer HELPLine (LUNGevity),covers,This program covers residents of All US states and territories.
 Lung Cancer HELPLine (LUNGevity),24hours_status_is,False
-Lung Cancer HELPLine (LUNGevity),Monday's_time_open,9:00AM - 5:00PM
-Lung Cancer HELPLine (LUNGevity),Tuesday's_time_open,9:00AM - 5:00PM
-Lung Cancer HELPLine (LUNGevity),Wednesday's_time_open,9:00AM - 5:00PM
-Lung Cancer HELPLine (LUNGevity),Thursday's_time_open,9:00AM - 5:00PM
-Lung Cancer HELPLine (LUNGevity),Friday's_time_open,9:00AM - 5:00PM
+Lung Cancer HELPLine (LUNGevity),Monday's_time_open,9:00AM - 17:00PM
+Lung Cancer HELPLine (LUNGevity),Tuesday's_time_open,9:00AM - 17:00PM
+Lung Cancer HELPLine (LUNGevity),Wednesday's_time_open,9:00AM - 17:00PM
+Lung Cancer HELPLine (LUNGevity),Thursday's_time_open,9:00AM - 17:00PM
+Lung Cancer HELPLine (LUNGevity),Friday's_time_open,9:00AM - 17:00PM
 Lung Cancer HELPLine (LUNGevity),Saturday's_time_open,Closed
 Lung Cancer HELPLine (LUNGevity),Sunday's_time_open,Closed
 Lung Cancer HELPLine (LUNGevity),has_a_Google_Rating_of,0
@@ -1279,7 +1279,7 @@ Counseling Support (Riverside Free Clinic),zipcode_is,92501.0
 Counseling Support (Riverside Free Clinic),24hours_status_is,False
 Counseling Support (Riverside Free Clinic),Monday's_time_open,Closed
 Counseling Support (Riverside Free Clinic),Tuesday's_time_open,Closed
-Counseling Support (Riverside Free Clinic),Wednesday's_time_open,8:30PM - 10:00PM
+Counseling Support (Riverside Free Clinic),Wednesday's_time_open,20:30PM - 22:00PM
 Counseling Support (Riverside Free Clinic),Thursday's_time_open,Closed
 Counseling Support (Riverside Free Clinic),Friday's_time_open,Closed
 Counseling Support (Riverside Free Clinic),Saturday's_time_open,Closed
@@ -1302,10 +1302,10 @@ The Pink Ribbon Place (Riverside Community Health Foundation),has_Google_Reviews
 The Pink Ribbon Place (Riverside Community Health Foundation),covers,"This program covers residents of the following counties: Riverside County, CA and San Bernardino County, CA."
 The Pink Ribbon Place (Riverside Community Health Foundation),zipcode_is,92501.0
 The Pink Ribbon Place (Riverside Community Health Foundation),24hours_status_is,False
-The Pink Ribbon Place (Riverside Community Health Foundation),Monday's_time_open,11:00AM - 7:30PM
-The Pink Ribbon Place (Riverside Community Health Foundation),Tuesday's_time_open,11:00AM - 7:30PM
-The Pink Ribbon Place (Riverside Community Health Foundation),Wednesday's_time_open,11:00AM - 7:30PM
-The Pink Ribbon Place (Riverside Community Health Foundation),Thursday's_time_open,11:00AM - 7:30PM
+The Pink Ribbon Place (Riverside Community Health Foundation),Monday's_time_open,11:00AM - 19:30PM
+The Pink Ribbon Place (Riverside Community Health Foundation),Tuesday's_time_open,11:00AM - 19:30PM
+The Pink Ribbon Place (Riverside Community Health Foundation),Wednesday's_time_open,11:00AM - 19:30PM
+The Pink Ribbon Place (Riverside Community Health Foundation),Thursday's_time_open,11:00AM - 19:30PM
 The Pink Ribbon Place (Riverside Community Health Foundation),Friday's_time_open,Closed
 The Pink Ribbon Place (Riverside Community Health Foundation),Saturday's_time_open,Closed
 The Pink Ribbon Place (Riverside Community Health Foundation),Sunday's_time_open,Closed
@@ -1327,12 +1327,12 @@ Individual Counseling (High Desert Psychological Services),has_Google_Reviews,Tr
 Individual Counseling (High Desert Psychological Services),covers,"This program covers residents of the following counties: Riverside County, CA, San Bernardino County, CA and Clark County, NV."
 Individual Counseling (High Desert Psychological Services),zipcode_is,92506.0
 Individual Counseling (High Desert Psychological Services),24hours_status_is,False
-Individual Counseling (High Desert Psychological Services),Monday's_time_open,11:00AM - 11:00PM
-Individual Counseling (High Desert Psychological Services),Tuesday's_time_open,11:00AM - 11:00PM
-Individual Counseling (High Desert Psychological Services),Wednesday's_time_open,11:00AM - 11:00PM
-Individual Counseling (High Desert Psychological Services),Thursday's_time_open,11:00AM - 11:00PM
-Individual Counseling (High Desert Psychological Services),Friday's_time_open,11:00AM - 11:00PM
-Individual Counseling (High Desert Psychological Services),Saturday's_time_open,11:00AM - 11:00PM
+Individual Counseling (High Desert Psychological Services),Monday's_time_open,11:00AM - 23:00PM
+Individual Counseling (High Desert Psychological Services),Tuesday's_time_open,11:00AM - 23:00PM
+Individual Counseling (High Desert Psychological Services),Wednesday's_time_open,11:00AM - 23:00PM
+Individual Counseling (High Desert Psychological Services),Thursday's_time_open,11:00AM - 23:00PM
+Individual Counseling (High Desert Psychological Services),Friday's_time_open,11:00AM - 23:00PM
+Individual Counseling (High Desert Psychological Services),Saturday's_time_open,11:00AM - 23:00PM
 Individual Counseling (High Desert Psychological Services),Sunday's_time_open,Closed
 Individual Counseling (High Desert Psychological Services),has_a_Google_Rating_of,4.8
 Individual Counseling (High Desert Psychological Services),offers,Counseling
@@ -1363,13 +1363,13 @@ Hotline (Blackline),costs,Free
 Hotline (Blackline),has_Google_Reviews,False
 Hotline (Blackline),covers,"This program covers residents of the following states: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV and WY."
 Hotline (Blackline),24hours_status_is,False
-Hotline (Blackline),Monday's_time_open,7:00AM - 3:00PM
-Hotline (Blackline),Tuesday's_time_open,7:00AM - 3:00PM
-Hotline (Blackline),Wednesday's_time_open,7:00AM - 3:00PM
-Hotline (Blackline),Thursday's_time_open,7:00AM - 3:00PM
-Hotline (Blackline),Friday's_time_open,7:00AM - 3:00PM
-Hotline (Blackline),Saturday's_time_open,12:00PM - 3:00PM
-Hotline (Blackline),Sunday's_time_open,12:00PM - 3:00PM
+Hotline (Blackline),Monday's_time_open,7:00AM - 15:00PM
+Hotline (Blackline),Tuesday's_time_open,7:00AM - 15:00PM
+Hotline (Blackline),Wednesday's_time_open,7:00AM - 15:00PM
+Hotline (Blackline),Thursday's_time_open,7:00AM - 15:00PM
+Hotline (Blackline),Friday's_time_open,7:00AM - 15:00PM
+Hotline (Blackline),Saturday's_time_open,12:00PM - 15:00PM
+Hotline (Blackline),Sunday's_time_open,12:00PM - 15:00PM
 Hotline (Blackline),has_a_Google_Rating_of,0
 Hotline (Blackline),offers,Hotline
 Hotline (Blackline),serves,"['anyone in need', 'all ages', 'lgbtqia+', 'transgender or non-binary', 'african american', 'latino', 'native american', 'in crisis'], ['Anyone can access this program.']"
@@ -1384,13 +1384,13 @@ Virtual Peer Coaching (Face It TOGETHER),costs,Free
 Virtual Peer Coaching (Face It TOGETHER),has_Google_Reviews,False
 Virtual Peer Coaching (Face It TOGETHER),covers,This program covers residents of All US states and territories.
 Virtual Peer Coaching (Face It TOGETHER),24hours_status_is,False
-Virtual Peer Coaching (Face It TOGETHER),Monday's_time_open,?
-Virtual Peer Coaching (Face It TOGETHER),Tuesday's_time_open,?
-Virtual Peer Coaching (Face It TOGETHER),Wednesday's_time_open,?
-Virtual Peer Coaching (Face It TOGETHER),Thursday's_time_open,?
-Virtual Peer Coaching (Face It TOGETHER),Friday's_time_open,?
-Virtual Peer Coaching (Face It TOGETHER),Saturday's_time_open,?
-Virtual Peer Coaching (Face It TOGETHER),Sunday's_time_open,?
+Virtual Peer Coaching (Face It TOGETHER),Monday's_time_open,Register
+Virtual Peer Coaching (Face It TOGETHER),Tuesday's_time_open,Register
+Virtual Peer Coaching (Face It TOGETHER),Wednesday's_time_open,Register
+Virtual Peer Coaching (Face It TOGETHER),Thursday's_time_open,Register
+Virtual Peer Coaching (Face It TOGETHER),Friday's_time_open,Register
+Virtual Peer Coaching (Face It TOGETHER),Saturday's_time_open,Register
+Virtual Peer Coaching (Face It TOGETHER),Sunday's_time_open,Register
 Virtual Peer Coaching (Face It TOGETHER),has_a_Google_Rating_of,0
 Virtual Peer Coaching (Face It TOGETHER),offers,Virtual Peer Coaching
 Virtual Peer Coaching (Face It TOGETHER),serves,"['adults', 'young adults', 'teens', 'seniors', 'substance dependency'], ['This program helps people who are older than 17 years old']"
@@ -1419,13 +1419,13 @@ Post Traumatic Stress Retreats (National Veterans Wellness & Healing Center In A
 Post Traumatic Stress Retreats (National Veterans Wellness & Healing Center In Angel Fire),has_Google_Reviews,False
 Post Traumatic Stress Retreats (National Veterans Wellness & Healing Center In Angel Fire),covers,This program covers residents of All US states and territories.
 Post Traumatic Stress Retreats (National Veterans Wellness & Healing Center In Angel Fire),24hours_status_is,False
-Post Traumatic Stress Retreats (National Veterans Wellness & Healing Center In Angel Fire),Monday's_time_open,?
-Post Traumatic Stress Retreats (National Veterans Wellness & Healing Center In Angel Fire),Tuesday's_time_open,?
-Post Traumatic Stress Retreats (National Veterans Wellness & Healing Center In Angel Fire),Wednesday's_time_open,?
-Post Traumatic Stress Retreats (National Veterans Wellness & Healing Center In Angel Fire),Thursday's_time_open,?
-Post Traumatic Stress Retreats (National Veterans Wellness & Healing Center In Angel Fire),Friday's_time_open,?
-Post Traumatic Stress Retreats (National Veterans Wellness & Healing Center In Angel Fire),Saturday's_time_open,?
-Post Traumatic Stress Retreats (National Veterans Wellness & Healing Center In Angel Fire),Sunday's_time_open,?
+Post Traumatic Stress Retreats (National Veterans Wellness & Healing Center In Angel Fire),Monday's_time_open,Apply
+Post Traumatic Stress Retreats (National Veterans Wellness & Healing Center In Angel Fire),Tuesday's_time_open,Apply
+Post Traumatic Stress Retreats (National Veterans Wellness & Healing Center In Angel Fire),Wednesday's_time_open,Apply
+Post Traumatic Stress Retreats (National Veterans Wellness & Healing Center In Angel Fire),Thursday's_time_open,Apply
+Post Traumatic Stress Retreats (National Veterans Wellness & Healing Center In Angel Fire),Friday's_time_open,Apply
+Post Traumatic Stress Retreats (National Veterans Wellness & Healing Center In Angel Fire),Saturday's_time_open,Apply
+Post Traumatic Stress Retreats (National Veterans Wellness & Healing Center In Angel Fire),Sunday's_time_open,Apply
 Post Traumatic Stress Retreats (National Veterans Wellness & Healing Center In Angel Fire),has_a_Google_Rating_of,0
 Post Traumatic Stress Retreats (National Veterans Wellness & Healing Center In Angel Fire),offers,Healing Retreats
 Post Traumatic Stress Retreats (National Veterans Wellness & Healing Center In Angel Fire),serves,"['adults 18+', 'active duty', 'national guard', 'veterans', 'individuals', 'spouses', 'ptsd'], ['Veteran must have been diagnosed with Post Traumatic Stress (indicate date and by whom/where diagnosed in application).', 'Veteran must attend with partner or support person (spouse, boyfriend/girlfriend, sibling, close friend, fellow vet from PTS support group, or similar existing and continuing close relationship).  Contact the Center if you have unusual circumstances regarding a partner.', 'All attendees must commit to the full seven and a half days.', 'Participants must be free from any alcohol/drug addictions for at least 12 months prior to attending the retreat.']"
@@ -1439,13 +1439,13 @@ Online Widow Support Community (Modern Widows Club),costs,Free
 Online Widow Support Community (Modern Widows Club),has_Google_Reviews,False
 Online Widow Support Community (Modern Widows Club),covers,"This program covers residents of the following states: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV and WY."
 Online Widow Support Community (Modern Widows Club),24hours_status_is,False
-Online Widow Support Community (Modern Widows Club),Monday's_time_open,?
-Online Widow Support Community (Modern Widows Club),Tuesday's_time_open,?
-Online Widow Support Community (Modern Widows Club),Wednesday's_time_open,?
-Online Widow Support Community (Modern Widows Club),Thursday's_time_open,?
-Online Widow Support Community (Modern Widows Club),Friday's_time_open,?
-Online Widow Support Community (Modern Widows Club),Saturday's_time_open,?
-Online Widow Support Community (Modern Widows Club),Sunday's_time_open,?
+Online Widow Support Community (Modern Widows Club),Monday's_time_open,Register
+Online Widow Support Community (Modern Widows Club),Tuesday's_time_open,Register
+Online Widow Support Community (Modern Widows Club),Wednesday's_time_open,Register
+Online Widow Support Community (Modern Widows Club),Thursday's_time_open,Register
+Online Widow Support Community (Modern Widows Club),Friday's_time_open,Register
+Online Widow Support Community (Modern Widows Club),Saturday's_time_open,Register
+Online Widow Support Community (Modern Widows Club),Sunday's_time_open,Register
 Online Widow Support Community (Modern Widows Club),has_a_Google_Rating_of,0
 Online Widow Support Community (Modern Widows Club),offers,Online Support Community
 Online Widow Support Community (Modern Widows Club),serves,"['adults 18+', 'grieving', 'female', 'lgbtqia+', 'transgender or non-binary', 'individuals', 'limited english', 'caregivers', 'spouses'], ['This program serves widows.']"
@@ -1460,13 +1460,13 @@ Family Empowerment Program (United Cerebral Palsy of the Inland Empire),costs,Fr
 Family Empowerment Program (United Cerebral Palsy of the Inland Empire),has_Google_Reviews,False
 Family Empowerment Program (United Cerebral Palsy of the Inland Empire),covers,"This program covers residents of the following counties: Riverside County, CA and San Bernardino County, CA."
 Family Empowerment Program (United Cerebral Palsy of the Inland Empire),24hours_status_is,False
-Family Empowerment Program (United Cerebral Palsy of the Inland Empire),Monday's_time_open,?
-Family Empowerment Program (United Cerebral Palsy of the Inland Empire),Tuesday's_time_open,?
-Family Empowerment Program (United Cerebral Palsy of the Inland Empire),Wednesday's_time_open,?
-Family Empowerment Program (United Cerebral Palsy of the Inland Empire),Thursday's_time_open,?
-Family Empowerment Program (United Cerebral Palsy of the Inland Empire),Friday's_time_open,?
-Family Empowerment Program (United Cerebral Palsy of the Inland Empire),Saturday's_time_open,?
-Family Empowerment Program (United Cerebral Palsy of the Inland Empire),Sunday's_time_open,?
+Family Empowerment Program (United Cerebral Palsy of the Inland Empire),Monday's_time_open,Apply
+Family Empowerment Program (United Cerebral Palsy of the Inland Empire),Tuesday's_time_open,Apply
+Family Empowerment Program (United Cerebral Palsy of the Inland Empire),Wednesday's_time_open,Apply
+Family Empowerment Program (United Cerebral Palsy of the Inland Empire),Thursday's_time_open,Apply
+Family Empowerment Program (United Cerebral Palsy of the Inland Empire),Friday's_time_open,Apply
+Family Empowerment Program (United Cerebral Palsy of the Inland Empire),Saturday's_time_open,Apply
+Family Empowerment Program (United Cerebral Palsy of the Inland Empire),Sunday's_time_open,Apply
 Family Empowerment Program (United Cerebral Palsy of the Inland Empire),has_a_Google_Rating_of,0
 Family Empowerment Program (United Cerebral Palsy of the Inland Empire),offers,Program
 Family Empowerment Program (United Cerebral Palsy of the Inland Empire),serves,"['adults', 'young adults', 'teens', 'children', 'developmental disability', 'intellectual disability', 'families', 'with children', 'parents'], ['This program serves children and adults with special needs.']"
@@ -1480,13 +1480,13 @@ Individual Coaching (Suicide Is Different),costs,Sliding Scale
 Individual Coaching (Suicide Is Different),has_Google_Reviews,False
 Individual Coaching (Suicide Is Different),covers,"This program covers residents of the following states: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV and WY."
 Individual Coaching (Suicide Is Different),24hours_status_is,False
-Individual Coaching (Suicide Is Different),Monday's_time_open,?
-Individual Coaching (Suicide Is Different),Tuesday's_time_open,?
-Individual Coaching (Suicide Is Different),Wednesday's_time_open,?
-Individual Coaching (Suicide Is Different),Thursday's_time_open,?
-Individual Coaching (Suicide Is Different),Friday's_time_open,?
-Individual Coaching (Suicide Is Different),Saturday's_time_open,?
-Individual Coaching (Suicide Is Different),Sunday's_time_open,?
+Individual Coaching (Suicide Is Different),Monday's_time_open,Schedule
+Individual Coaching (Suicide Is Different),Tuesday's_time_open,Schedule
+Individual Coaching (Suicide Is Different),Wednesday's_time_open,Schedule
+Individual Coaching (Suicide Is Different),Thursday's_time_open,Schedule
+Individual Coaching (Suicide Is Different),Friday's_time_open,Schedule
+Individual Coaching (Suicide Is Different),Saturday's_time_open,Schedule
+Individual Coaching (Suicide Is Different),Sunday's_time_open,Schedule
 Individual Coaching (Suicide Is Different),has_a_Google_Rating_of,0
 Individual Coaching (Suicide Is Different),offers,Individual Coaching
 Individual Coaching (Suicide Is Different),serves,"['adults 18+', 'individuals', 'caregivers', 'suicidal thoughts'], ['This program serves caregivers of people struggling with suicide tendencies.', 'Prospective clients need to specify need for sliding scale fees during their initial consult appointment, no further documentation is required.']"
@@ -1515,11 +1515,11 @@ One-on-One Peer Counseling (Support Connection),costs,Free
 One-on-One Peer Counseling (Support Connection),has_Google_Reviews,False
 One-on-One Peer Counseling (Support Connection),covers,"This program covers residents of the following states: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV and WY."
 One-on-One Peer Counseling (Support Connection),24hours_status_is,False
-One-on-One Peer Counseling (Support Connection),Monday's_time_open,9:00AM - 5:00PM
-One-on-One Peer Counseling (Support Connection),Tuesday's_time_open,9:00AM - 5:00PM
-One-on-One Peer Counseling (Support Connection),Wednesday's_time_open,9:00AM - 5:00PM
-One-on-One Peer Counseling (Support Connection),Thursday's_time_open,9:00AM - 5:00PM
-One-on-One Peer Counseling (Support Connection),Friday's_time_open,9:00AM - 5:00PM
+One-on-One Peer Counseling (Support Connection),Monday's_time_open,9:00AM - 17:00PM
+One-on-One Peer Counseling (Support Connection),Tuesday's_time_open,9:00AM - 17:00PM
+One-on-One Peer Counseling (Support Connection),Wednesday's_time_open,9:00AM - 17:00PM
+One-on-One Peer Counseling (Support Connection),Thursday's_time_open,9:00AM - 17:00PM
+One-on-One Peer Counseling (Support Connection),Friday's_time_open,9:00AM - 17:00PM
 One-on-One Peer Counseling (Support Connection),Saturday's_time_open,Closed
 One-on-One Peer Counseling (Support Connection),Sunday's_time_open,Closed
 One-on-One Peer Counseling (Support Connection),has_a_Google_Rating_of,0
@@ -1539,11 +1539,11 @@ General Services (CODIE),has_Google_Reviews,True
 General Services (CODIE),covers,"This program covers residents of the following counties: Riverside County, CA and San Bernardino County, CA."
 General Services (CODIE),zipcode_is,92507.0
 General Services (CODIE),24hours_status_is,False
-General Services (CODIE),Monday's_time_open,11:30AM - 3:00PM & 4:00PM - 8:00PM
-General Services (CODIE),Tuesday's_time_open,11:30AM - 3:00PM & 4:00PM - 8:00PM
-General Services (CODIE),Wednesday's_time_open,11:30AM - 3:00PM & 4:00PM - 8:00PM
-General Services (CODIE),Thursday's_time_open,11:30AM - 3:00PM & 4:00PM - 8:00PM
-General Services (CODIE),Friday's_time_open,11:30AM - 3:00PM & 4:00PM - 8:00PM
+General Services (CODIE),Monday's_time_open,11:30AM - 15:00PM & 16:00PM - 20:00PM
+General Services (CODIE),Tuesday's_time_open,11:30AM - 15:00PM & 16:00PM - 20:00PM
+General Services (CODIE),Wednesday's_time_open,11:30AM - 15:00PM & 16:00PM - 20:00PM
+General Services (CODIE),Thursday's_time_open,11:30AM - 15:00PM & 16:00PM - 20:00PM
+General Services (CODIE),Friday's_time_open,11:30AM - 15:00PM & 16:00PM - 20:00PM
 General Services (CODIE),Saturday's_time_open,Closed
 General Services (CODIE),Sunday's_time_open,Closed
 General Services (CODIE),has_a_Google_Rating_of,4.5
@@ -1574,10 +1574,10 @@ Move With Hope (Renewing Hope Strategies),costs,Reduced Cost
 Move With Hope (Renewing Hope Strategies),has_Google_Reviews,False
 Move With Hope (Renewing Hope Strategies),covers,"This program covers residents of the following counties: Riverside County, CA."
 Move With Hope (Renewing Hope Strategies),24hours_status_is,False
-Move With Hope (Renewing Hope Strategies),Monday's_time_open,11:30AM - 7:30PM
-Move With Hope (Renewing Hope Strategies),Tuesday's_time_open,11:30AM - 7:30PM
-Move With Hope (Renewing Hope Strategies),Wednesday's_time_open,11:30AM - 7:30PM
-Move With Hope (Renewing Hope Strategies),Thursday's_time_open,11:30AM - 7:30PM
+Move With Hope (Renewing Hope Strategies),Monday's_time_open,11:30AM - 19:30PM
+Move With Hope (Renewing Hope Strategies),Tuesday's_time_open,11:30AM - 19:30PM
+Move With Hope (Renewing Hope Strategies),Wednesday's_time_open,11:30AM - 19:30PM
+Move With Hope (Renewing Hope Strategies),Thursday's_time_open,11:30AM - 19:30PM
 Move With Hope (Renewing Hope Strategies),Friday's_time_open,Closed
 Move With Hope (Renewing Hope Strategies),Saturday's_time_open,Closed
 Move With Hope (Renewing Hope Strategies),Sunday's_time_open,Closed
@@ -1594,13 +1594,13 @@ Mental Health Resources (Muslim Family Foundation),costs,Free
 Mental Health Resources (Muslim Family Foundation),has_Google_Reviews,False
 Mental Health Resources (Muslim Family Foundation),covers,"This program covers residents of the following counties: Riverside County, CA and San Bernardino County, CA."
 Mental Health Resources (Muslim Family Foundation),24hours_status_is,False
-Mental Health Resources (Muslim Family Foundation),Monday's_time_open,?
-Mental Health Resources (Muslim Family Foundation),Tuesday's_time_open,?
-Mental Health Resources (Muslim Family Foundation),Wednesday's_time_open,?
-Mental Health Resources (Muslim Family Foundation),Thursday's_time_open,?
-Mental Health Resources (Muslim Family Foundation),Friday's_time_open,?
-Mental Health Resources (Muslim Family Foundation),Saturday's_time_open,?
-Mental Health Resources (Muslim Family Foundation),Sunday's_time_open,?
+Mental Health Resources (Muslim Family Foundation),Monday's_time_open,Register
+Mental Health Resources (Muslim Family Foundation),Tuesday's_time_open,Register
+Mental Health Resources (Muslim Family Foundation),Wednesday's_time_open,Register
+Mental Health Resources (Muslim Family Foundation),Thursday's_time_open,Register
+Mental Health Resources (Muslim Family Foundation),Friday's_time_open,Register
+Mental Health Resources (Muslim Family Foundation),Saturday's_time_open,Register
+Mental Health Resources (Muslim Family Foundation),Sunday's_time_open,Register
 Mental Health Resources (Muslim Family Foundation),has_a_Google_Rating_of,0
 Mental Health Resources (Muslim Family Foundation),offers,Mental Health
 Mental Health Resources (Muslim Family Foundation),serves,"['anyone in need', 'adults', 'young adults', 'teens', 'seniors', 'individuals', 'families', 'with children', 'all mental health'], ['This program focuses on serving individuals and families in the muslim community in the Inland Empire region.']"
@@ -1619,11 +1619,11 @@ Behavioral Health (University Community Health Center),has_Google_Reviews,True
 Behavioral Health (University Community Health Center),covers,"This program covers residents of the following counties: Riverside County, CA, San Bernardino County, CA and San Diego County, CA."
 Behavioral Health (University Community Health Center),zipcode_is,92507.0
 Behavioral Health (University Community Health Center),24hours_status_is,False
-Behavioral Health (University Community Health Center),Monday's_time_open,11:00AM - 8:30PM
-Behavioral Health (University Community Health Center),Tuesday's_time_open,11:00AM - 8:30PM
-Behavioral Health (University Community Health Center),Wednesday's_time_open,11:00AM - 8:30PM
-Behavioral Health (University Community Health Center),Thursday's_time_open,11:00AM - 8:30PM
-Behavioral Health (University Community Health Center),Friday's_time_open,11:00AM - 8:30PM
+Behavioral Health (University Community Health Center),Monday's_time_open,11:00AM - 20:30PM
+Behavioral Health (University Community Health Center),Tuesday's_time_open,11:00AM - 20:30PM
+Behavioral Health (University Community Health Center),Wednesday's_time_open,11:00AM - 20:30PM
+Behavioral Health (University Community Health Center),Thursday's_time_open,11:00AM - 20:30PM
+Behavioral Health (University Community Health Center),Friday's_time_open,11:00AM - 20:30PM
 Behavioral Health (University Community Health Center),Saturday's_time_open,Closed
 Behavioral Health (University Community Health Center),Sunday's_time_open,Closed
 Behavioral Health (University Community Health Center),has_a_Google_Rating_of,3.5
@@ -1641,13 +1641,13 @@ Behavioral Health (University Community Health Center),coordinates_are,"33.97785
 "Prostate Cancer Treatment (Improving Access, Counseling & Treatment for Californians with Prostate Cancer)",has_Google_Reviews,False
 "Prostate Cancer Treatment (Improving Access, Counseling & Treatment for Californians with Prostate Cancer)",covers,This program covers residents of the following states: CA.
 "Prostate Cancer Treatment (Improving Access, Counseling & Treatment for Californians with Prostate Cancer)",24hours_status_is,False
-"Prostate Cancer Treatment (Improving Access, Counseling & Treatment for Californians with Prostate Cancer)",Monday's_time_open,?
-"Prostate Cancer Treatment (Improving Access, Counseling & Treatment for Californians with Prostate Cancer)",Tuesday's_time_open,?
-"Prostate Cancer Treatment (Improving Access, Counseling & Treatment for Californians with Prostate Cancer)",Wednesday's_time_open,?
-"Prostate Cancer Treatment (Improving Access, Counseling & Treatment for Californians with Prostate Cancer)",Thursday's_time_open,?
-"Prostate Cancer Treatment (Improving Access, Counseling & Treatment for Californians with Prostate Cancer)",Friday's_time_open,?
-"Prostate Cancer Treatment (Improving Access, Counseling & Treatment for Californians with Prostate Cancer)",Saturday's_time_open,?
-"Prostate Cancer Treatment (Improving Access, Counseling & Treatment for Californians with Prostate Cancer)",Sunday's_time_open,?
+"Prostate Cancer Treatment (Improving Access, Counseling & Treatment for Californians with Prostate Cancer)",Monday's_time_open,Enroll
+"Prostate Cancer Treatment (Improving Access, Counseling & Treatment for Californians with Prostate Cancer)",Tuesday's_time_open,Enroll
+"Prostate Cancer Treatment (Improving Access, Counseling & Treatment for Californians with Prostate Cancer)",Wednesday's_time_open,Enroll
+"Prostate Cancer Treatment (Improving Access, Counseling & Treatment for Californians with Prostate Cancer)",Thursday's_time_open,Enroll
+"Prostate Cancer Treatment (Improving Access, Counseling & Treatment for Californians with Prostate Cancer)",Friday's_time_open,Enroll
+"Prostate Cancer Treatment (Improving Access, Counseling & Treatment for Californians with Prostate Cancer)",Saturday's_time_open,Enroll
+"Prostate Cancer Treatment (Improving Access, Counseling & Treatment for Californians with Prostate Cancer)",Sunday's_time_open,Enroll
 "Prostate Cancer Treatment (Improving Access, Counseling & Treatment for Californians with Prostate Cancer)",has_a_Google_Rating_of,0
 "Prostate Cancer Treatment (Improving Access, Counseling & Treatment for Californians with Prostate Cancer)",offers,Treatment
 "Prostate Cancer Treatment (Improving Access, Counseling & Treatment for Californians with Prostate Cancer)",serves,"['adults 18+', 'male', 'cancer', 'low-income', 'uninsured', 'underinsured'], ['This program helps people who are older than 17 years old.', 'This program helps people with income at or below 200% of federal poverty guidelines.', 'Must be a California resident.', 'Must have little or no health insurance.', 'Must have had an abnormal DRE or elevated PSA.', 'This program serves those with a prostate cancer diagnosis.']"
@@ -1695,13 +1695,13 @@ NAMI Basics (National Alliance on Mental Health California),costs,Free
 NAMI Basics (National Alliance on Mental Health California),has_Google_Reviews,False
 NAMI Basics (National Alliance on Mental Health California),covers,This program covers residents of the following states: CA.
 NAMI Basics (National Alliance on Mental Health California),24hours_status_is,False
-NAMI Basics (National Alliance on Mental Health California),Monday's_time_open,?
-NAMI Basics (National Alliance on Mental Health California),Tuesday's_time_open,?
-NAMI Basics (National Alliance on Mental Health California),Wednesday's_time_open,?
-NAMI Basics (National Alliance on Mental Health California),Thursday's_time_open,?
-NAMI Basics (National Alliance on Mental Health California),Friday's_time_open,?
-NAMI Basics (National Alliance on Mental Health California),Saturday's_time_open,?
-NAMI Basics (National Alliance on Mental Health California),Sunday's_time_open,?
+NAMI Basics (National Alliance on Mental Health California),Monday's_time_open,Unknown
+NAMI Basics (National Alliance on Mental Health California),Tuesday's_time_open,Unknown
+NAMI Basics (National Alliance on Mental Health California),Wednesday's_time_open,Unknown
+NAMI Basics (National Alliance on Mental Health California),Thursday's_time_open,Unknown
+NAMI Basics (National Alliance on Mental Health California),Friday's_time_open,Unknown
+NAMI Basics (National Alliance on Mental Health California),Saturday's_time_open,Unknown
+NAMI Basics (National Alliance on Mental Health California),Sunday's_time_open,Unknown
 NAMI Basics (National Alliance on Mental Health California),has_a_Google_Rating_of,0
 NAMI Basics (National Alliance on Mental Health California),offers,Support Group
 NAMI Basics (National Alliance on Mental Health California),serves,"['adults 18+', 'all mental health'], ['This program serves adults living with mental health challenges.']"
@@ -1718,13 +1718,13 @@ Substance Abuse Residential Treatment (Riverside University Health System - Beha
 Substance Abuse Residential Treatment (Riverside University Health System - Behavioral Health),covers,"This program covers residents of the following counties: Riverside County, CA."
 Substance Abuse Residential Treatment (Riverside University Health System - Behavioral Health),zipcode_is,92507.0
 Substance Abuse Residential Treatment (Riverside University Health System - Behavioral Health),24hours_status_is,False
-Substance Abuse Residential Treatment (Riverside University Health System - Behavioral Health),Monday's_time_open,?
-Substance Abuse Residential Treatment (Riverside University Health System - Behavioral Health),Tuesday's_time_open,?
-Substance Abuse Residential Treatment (Riverside University Health System - Behavioral Health),Wednesday's_time_open,?
-Substance Abuse Residential Treatment (Riverside University Health System - Behavioral Health),Thursday's_time_open,?
-Substance Abuse Residential Treatment (Riverside University Health System - Behavioral Health),Friday's_time_open,?
-Substance Abuse Residential Treatment (Riverside University Health System - Behavioral Health),Saturday's_time_open,?
-Substance Abuse Residential Treatment (Riverside University Health System - Behavioral Health),Sunday's_time_open,?
+Substance Abuse Residential Treatment (Riverside University Health System - Behavioral Health),Monday's_time_open,Appointment
+Substance Abuse Residential Treatment (Riverside University Health System - Behavioral Health),Tuesday's_time_open,Appointment
+Substance Abuse Residential Treatment (Riverside University Health System - Behavioral Health),Wednesday's_time_open,Appointment
+Substance Abuse Residential Treatment (Riverside University Health System - Behavioral Health),Thursday's_time_open,Appointment
+Substance Abuse Residential Treatment (Riverside University Health System - Behavioral Health),Friday's_time_open,Appointment
+Substance Abuse Residential Treatment (Riverside University Health System - Behavioral Health),Saturday's_time_open,Appointment
+Substance Abuse Residential Treatment (Riverside University Health System - Behavioral Health),Sunday's_time_open,Appointment
 Substance Abuse Residential Treatment (Riverside University Health System - Behavioral Health),has_a_Google_Rating_of,0
 Substance Abuse Residential Treatment (Riverside University Health System - Behavioral Health),offers,Residential Treatment
 Substance Abuse Residential Treatment (Riverside University Health System - Behavioral Health),serves,"['adults 18+', 'pregnant', 'individuals', 'uninsured', 'limited english', 'all mental health', 'substance dependency'], ['This program serves individuals with substance dependency.']"
@@ -1743,10 +1743,10 @@ Prison 2 Employment (Goodwill Southern California),has_Google_Reviews,False
 Prison 2 Employment (Goodwill Southern California),covers,"This program covers residents of the following counties: Los Angeles County, CA, Riverside County, CA and San Bernardino County, CA."
 Prison 2 Employment (Goodwill Southern California),zipcode_is,92507.0
 Prison 2 Employment (Goodwill Southern California),24hours_status_is,False
-Prison 2 Employment (Goodwill Southern California),Monday's_time_open,12:00PM - 7:00PM
-Prison 2 Employment (Goodwill Southern California),Tuesday's_time_open,12:00PM - 7:00PM
-Prison 2 Employment (Goodwill Southern California),Wednesday's_time_open,12:00PM - 7:00PM
-Prison 2 Employment (Goodwill Southern California),Thursday's_time_open,12:00PM - 7:00PM
+Prison 2 Employment (Goodwill Southern California),Monday's_time_open,12:00PM - 19:00PM
+Prison 2 Employment (Goodwill Southern California),Tuesday's_time_open,12:00PM - 19:00PM
+Prison 2 Employment (Goodwill Southern California),Wednesday's_time_open,12:00PM - 19:00PM
+Prison 2 Employment (Goodwill Southern California),Thursday's_time_open,12:00PM - 19:00PM
 Prison 2 Employment (Goodwill Southern California),Friday's_time_open,Closed
 Prison 2 Employment (Goodwill Southern California),Saturday's_time_open,Closed
 Prison 2 Employment (Goodwill Southern California),Sunday's_time_open,Closed
@@ -1778,13 +1778,13 @@ Telehealth Services (Array Behavioral Care),costs,Reduced Cost
 Telehealth Services (Array Behavioral Care),has_Google_Reviews,False
 Telehealth Services (Array Behavioral Care),covers,"This program covers residents of the following states: CA, CO, DC, DE, FL, IL, MO, NJ, PA, TN, TX and VA."
 Telehealth Services (Array Behavioral Care),24hours_status_is,False
-Telehealth Services (Array Behavioral Care),Monday's_time_open,?
-Telehealth Services (Array Behavioral Care),Tuesday's_time_open,?
-Telehealth Services (Array Behavioral Care),Wednesday's_time_open,?
-Telehealth Services (Array Behavioral Care),Thursday's_time_open,?
-Telehealth Services (Array Behavioral Care),Friday's_time_open,?
-Telehealth Services (Array Behavioral Care),Saturday's_time_open,?
-Telehealth Services (Array Behavioral Care),Sunday's_time_open,?
+Telehealth Services (Array Behavioral Care),Monday's_time_open,Appointment
+Telehealth Services (Array Behavioral Care),Tuesday's_time_open,Appointment
+Telehealth Services (Array Behavioral Care),Wednesday's_time_open,Appointment
+Telehealth Services (Array Behavioral Care),Thursday's_time_open,Appointment
+Telehealth Services (Array Behavioral Care),Friday's_time_open,Appointment
+Telehealth Services (Array Behavioral Care),Saturday's_time_open,Appointment
+Telehealth Services (Array Behavioral Care),Sunday's_time_open,Appointment
 Telehealth Services (Array Behavioral Care),has_a_Google_Rating_of,0
 Telehealth Services (Array Behavioral Care),offers,Telehealth Services
 Telehealth Services (Array Behavioral Care),serves,"['adults', 'young adults', 'teens', 'children', 'seniors', 'benefit recipients', 'depression', 'bipolar', 'suicidal thoughts', 'anxiety', 'eating disorder', 'ptsd', 'all mental health'], ['Must have Medicare.']"
@@ -1798,13 +1798,13 @@ Academy of Healing (Warriors' Ascent),costs,Free
 Academy of Healing (Warriors' Ascent),has_Google_Reviews,False
 Academy of Healing (Warriors' Ascent),covers,This program covers residents of All US states and territories.
 Academy of Healing (Warriors' Ascent),24hours_status_is,False
-Academy of Healing (Warriors' Ascent),Monday's_time_open,?
-Academy of Healing (Warriors' Ascent),Tuesday's_time_open,?
-Academy of Healing (Warriors' Ascent),Wednesday's_time_open,?
-Academy of Healing (Warriors' Ascent),Thursday's_time_open,?
-Academy of Healing (Warriors' Ascent),Friday's_time_open,?
-Academy of Healing (Warriors' Ascent),Saturday's_time_open,?
-Academy of Healing (Warriors' Ascent),Sunday's_time_open,?
+Academy of Healing (Warriors' Ascent),Monday's_time_open,Apply
+Academy of Healing (Warriors' Ascent),Tuesday's_time_open,Apply
+Academy of Healing (Warriors' Ascent),Wednesday's_time_open,Apply
+Academy of Healing (Warriors' Ascent),Thursday's_time_open,Apply
+Academy of Healing (Warriors' Ascent),Friday's_time_open,Apply
+Academy of Healing (Warriors' Ascent),Saturday's_time_open,Apply
+Academy of Healing (Warriors' Ascent),Sunday's_time_open,Apply
 Academy of Healing (Warriors' Ascent),has_a_Google_Rating_of,0
 Academy of Healing (Warriors' Ascent),offers,Program
 Academy of Healing (Warriors' Ascent),serves,"['adults 18+', 'veterans', 'trauma survivors', 'ptsd'], ['Serves Veterans and First Responders.']"
@@ -1819,13 +1819,13 @@ Health and Wellness Coaching (Stand Beside Them),costs,Free
 Health and Wellness Coaching (Stand Beside Them),has_Google_Reviews,False
 Health and Wellness Coaching (Stand Beside Them),covers,"This program covers residents of the following states: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV and WY."
 Health and Wellness Coaching (Stand Beside Them),24hours_status_is,False
-Health and Wellness Coaching (Stand Beside Them),Monday's_time_open,?
-Health and Wellness Coaching (Stand Beside Them),Tuesday's_time_open,?
-Health and Wellness Coaching (Stand Beside Them),Wednesday's_time_open,?
-Health and Wellness Coaching (Stand Beside Them),Thursday's_time_open,?
-Health and Wellness Coaching (Stand Beside Them),Friday's_time_open,?
-Health and Wellness Coaching (Stand Beside Them),Saturday's_time_open,?
-Health and Wellness Coaching (Stand Beside Them),Sunday's_time_open,?
+Health and Wellness Coaching (Stand Beside Them),Monday's_time_open,Apply
+Health and Wellness Coaching (Stand Beside Them),Tuesday's_time_open,Apply
+Health and Wellness Coaching (Stand Beside Them),Wednesday's_time_open,Apply
+Health and Wellness Coaching (Stand Beside Them),Thursday's_time_open,Apply
+Health and Wellness Coaching (Stand Beside Them),Friday's_time_open,Apply
+Health and Wellness Coaching (Stand Beside Them),Saturday's_time_open,Apply
+Health and Wellness Coaching (Stand Beside Them),Sunday's_time_open,Apply
 Health and Wellness Coaching (Stand Beside Them),has_a_Google_Rating_of,0
 Health and Wellness Coaching (Stand Beside Them),offers,Coaching
 Health and Wellness Coaching (Stand Beside Them),serves,"['adults 18+', 'veterans', 'add/adhd', 'grieving', 'families', 'caregivers', 'anxiety', 'ptsd'], ['This program helps veterans from Iraq/Afghanistan (post 9/11; OEF, OND, OIF) and their family members and/or caregivers.']"
@@ -1841,13 +1841,13 @@ Applied Behavior Analysis / Behavioral Therapy Center Based (360 Behavioral Heal
 Applied Behavior Analysis / Behavioral Therapy Center Based (360 Behavioral Health Services),has_Google_Reviews,False
 Applied Behavior Analysis / Behavioral Therapy Center Based (360 Behavioral Health Services),covers,"This program covers residents of the following counties: Kern County, CA, Los Angeles County, CA, Orange County, CA, Riverside County, CA and Santa Barbara County, CA."
 Applied Behavior Analysis / Behavioral Therapy Center Based (360 Behavioral Health Services),24hours_status_is,False
-Applied Behavior Analysis / Behavioral Therapy Center Based (360 Behavioral Health Services),Monday's_time_open,?
-Applied Behavior Analysis / Behavioral Therapy Center Based (360 Behavioral Health Services),Tuesday's_time_open,?
-Applied Behavior Analysis / Behavioral Therapy Center Based (360 Behavioral Health Services),Wednesday's_time_open,?
-Applied Behavior Analysis / Behavioral Therapy Center Based (360 Behavioral Health Services),Thursday's_time_open,?
-Applied Behavior Analysis / Behavioral Therapy Center Based (360 Behavioral Health Services),Friday's_time_open,?
-Applied Behavior Analysis / Behavioral Therapy Center Based (360 Behavioral Health Services),Saturday's_time_open,?
-Applied Behavior Analysis / Behavioral Therapy Center Based (360 Behavioral Health Services),Sunday's_time_open,?
+Applied Behavior Analysis / Behavioral Therapy Center Based (360 Behavioral Health Services),Monday's_time_open,Request
+Applied Behavior Analysis / Behavioral Therapy Center Based (360 Behavioral Health Services),Tuesday's_time_open,Request
+Applied Behavior Analysis / Behavioral Therapy Center Based (360 Behavioral Health Services),Wednesday's_time_open,Request
+Applied Behavior Analysis / Behavioral Therapy Center Based (360 Behavioral Health Services),Thursday's_time_open,Request
+Applied Behavior Analysis / Behavioral Therapy Center Based (360 Behavioral Health Services),Friday's_time_open,Request
+Applied Behavior Analysis / Behavioral Therapy Center Based (360 Behavioral Health Services),Saturday's_time_open,Request
+Applied Behavior Analysis / Behavioral Therapy Center Based (360 Behavioral Health Services),Sunday's_time_open,Request
 Applied Behavior Analysis / Behavioral Therapy Center Based (360 Behavioral Health Services),has_a_Google_Rating_of,0
 Applied Behavior Analysis / Behavioral Therapy Center Based (360 Behavioral Health Services),offers,Therapy
 Applied Behavior Analysis / Behavioral Therapy Center Based (360 Behavioral Health Services),serves,"['all ages', 'autism', 'benefit recipients'], ['Must have Medicare or Medicaid.']"
@@ -1866,11 +1866,11 @@ Adult Mental Health Care (Blaine Street Adult Clinic),has_Google_Reviews,True
 Adult Mental Health Care (Blaine Street Adult Clinic),covers,"This program covers residents of the following counties: Riverside County, CA."
 Adult Mental Health Care (Blaine Street Adult Clinic),zipcode_is,92507.0
 Adult Mental Health Care (Blaine Street Adult Clinic),24hours_status_is,False
-Adult Mental Health Care (Blaine Street Adult Clinic),Monday's_time_open,11:00AM - 8:30PM
-Adult Mental Health Care (Blaine Street Adult Clinic),Tuesday's_time_open,11:00AM - 8:30PM
-Adult Mental Health Care (Blaine Street Adult Clinic),Wednesday's_time_open,11:00AM - 8:30PM
-Adult Mental Health Care (Blaine Street Adult Clinic),Thursday's_time_open,11:00AM - 8:30PM
-Adult Mental Health Care (Blaine Street Adult Clinic),Friday's_time_open,11:00AM - 8:30PM
+Adult Mental Health Care (Blaine Street Adult Clinic),Monday's_time_open,11:00AM - 20:30PM
+Adult Mental Health Care (Blaine Street Adult Clinic),Tuesday's_time_open,11:00AM - 20:30PM
+Adult Mental Health Care (Blaine Street Adult Clinic),Wednesday's_time_open,11:00AM - 20:30PM
+Adult Mental Health Care (Blaine Street Adult Clinic),Thursday's_time_open,11:00AM - 20:30PM
+Adult Mental Health Care (Blaine Street Adult Clinic),Friday's_time_open,11:00AM - 20:30PM
 Adult Mental Health Care (Blaine Street Adult Clinic),Saturday's_time_open,Closed
 Adult Mental Health Care (Blaine Street Adult Clinic),Sunday's_time_open,Closed
 Adult Mental Health Care (Blaine Street Adult Clinic),has_a_Google_Rating_of,3.2
@@ -1891,11 +1891,11 @@ New Life Mental Health Clinic (Riverside University Health System - Behavioral H
 New Life Mental Health Clinic (Riverside University Health System - Behavioral Health),covers,"This program covers residents of the following counties: Riverside County, CA."
 New Life Mental Health Clinic (Riverside University Health System - Behavioral Health),zipcode_is,92507.0
 New Life Mental Health Clinic (Riverside University Health System - Behavioral Health),24hours_status_is,False
-New Life Mental Health Clinic (Riverside University Health System - Behavioral Health),Monday's_time_open,10:30AM - 8:00PM
-New Life Mental Health Clinic (Riverside University Health System - Behavioral Health),Tuesday's_time_open,10:30AM - 8:00PM
-New Life Mental Health Clinic (Riverside University Health System - Behavioral Health),Wednesday's_time_open,10:30AM - 8:00PM
-New Life Mental Health Clinic (Riverside University Health System - Behavioral Health),Thursday's_time_open,10:30AM - 8:00PM
-New Life Mental Health Clinic (Riverside University Health System - Behavioral Health),Friday's_time_open,10:30AM - 8:00PM
+New Life Mental Health Clinic (Riverside University Health System - Behavioral Health),Monday's_time_open,10:30AM - 20:00PM
+New Life Mental Health Clinic (Riverside University Health System - Behavioral Health),Tuesday's_time_open,10:30AM - 20:00PM
+New Life Mental Health Clinic (Riverside University Health System - Behavioral Health),Wednesday's_time_open,10:30AM - 20:00PM
+New Life Mental Health Clinic (Riverside University Health System - Behavioral Health),Thursday's_time_open,10:30AM - 20:00PM
+New Life Mental Health Clinic (Riverside University Health System - Behavioral Health),Friday's_time_open,10:30AM - 20:00PM
 New Life Mental Health Clinic (Riverside University Health System - Behavioral Health),Saturday's_time_open,Closed
 New Life Mental Health Clinic (Riverside University Health System - Behavioral Health),Sunday's_time_open,Closed
 New Life Mental Health Clinic (Riverside University Health System - Behavioral Health),has_a_Google_Rating_of,0
@@ -1916,11 +1916,11 @@ Psychiatric Services (Kaiser Permanente Thrive - Riverside),has_Google_Reviews,T
 Psychiatric Services (Kaiser Permanente Thrive - Riverside),covers,"This program covers residents of the following counties: Riverside County, CA."
 Psychiatric Services (Kaiser Permanente Thrive - Riverside),zipcode_is,92507.0
 Psychiatric Services (Kaiser Permanente Thrive - Riverside),24hours_status_is,False
-Psychiatric Services (Kaiser Permanente Thrive - Riverside),Monday's_time_open,10:00AM - 10:00PM
-Psychiatric Services (Kaiser Permanente Thrive - Riverside),Tuesday's_time_open,10:00AM - 10:00PM
-Psychiatric Services (Kaiser Permanente Thrive - Riverside),Wednesday's_time_open,10:00AM - 10:00PM
-Psychiatric Services (Kaiser Permanente Thrive - Riverside),Thursday's_time_open,10:00AM - 10:00PM
-Psychiatric Services (Kaiser Permanente Thrive - Riverside),Friday's_time_open,10:00AM - 10:00PM
+Psychiatric Services (Kaiser Permanente Thrive - Riverside),Monday's_time_open,10:00AM - 22:00PM
+Psychiatric Services (Kaiser Permanente Thrive - Riverside),Tuesday's_time_open,10:00AM - 22:00PM
+Psychiatric Services (Kaiser Permanente Thrive - Riverside),Wednesday's_time_open,10:00AM - 22:00PM
+Psychiatric Services (Kaiser Permanente Thrive - Riverside),Thursday's_time_open,10:00AM - 22:00PM
+Psychiatric Services (Kaiser Permanente Thrive - Riverside),Friday's_time_open,10:00AM - 22:00PM
 Psychiatric Services (Kaiser Permanente Thrive - Riverside),Saturday's_time_open,Closed
 Psychiatric Services (Kaiser Permanente Thrive - Riverside),Sunday's_time_open,Closed
 Psychiatric Services (Kaiser Permanente Thrive - Riverside),has_a_Google_Rating_of,3.0
@@ -1928,27 +1928,6 @@ Psychiatric Services (Kaiser Permanente Thrive - Riverside),offers,Mental Health
 Psychiatric Services (Kaiser Permanente Thrive - Riverside),serves,"['all ages', 'individuals', 'families', 'with children', 'benefit recipients', 'low-income', 'all mental health'], ['Must have Medicaid/MediCal.', 'Must have Medicare.', 'Must be a member of Kaiser Health Services.']"
 Psychiatric Services (Kaiser Permanente Thrive - Riverside),socials_are,"https://www.facebook.com/kpthrive, https://www.twitter.com/@kpgreatersac"
 Psychiatric Services (Kaiser Permanente Thrive - Riverside),coordinates_are,"33.9564166, -117.3312868"
-Veterans Healing through Connection Workshop (Caron Treatment Centers),main_services_are,"['counseling', 'group therapy', 'individual counseling', 'overnight camp']"
-Veterans Healing through Connection Workshop (Caron Treatment Centers),phone_number_is,800-213-7834
-Veterans Healing through Connection Workshop (Caron Treatment Centers),website_is,https://www.caron.org/our-programs/breakthrough-at-caron/specialized-programming/veterans-healing-through-connection
-Veterans Healing through Connection Workshop (Caron Treatment Centers),has_an_availability_status_of,available
-Veterans Healing through Connection Workshop (Caron Treatment Centers),description_is,"Veterans Healing Through Connection is a 3-day therapeutic couples counseling workshop for current and former service members and their significant others.Workshop topics include:- Individual and group couples counselingDuring individual and group couples counseling, participants will practice connecting, communicating and understanding relationship dynamics. Ultimately, participating couples develop strong foundations for loving, productive, collaborative relationships. Veterans Healing Through Connection is free for qualifying couples and previous attendees are not eligible. Veterans Healing Through Connection are held in various locations across the country, please visit our website for upcoming workshops."
-Veterans Healing through Connection Workshop (Caron Treatment Centers),speaks,['English']
-Veterans Healing through Connection Workshop (Caron Treatment Centers),costs,Free
-Veterans Healing through Connection Workshop (Caron Treatment Centers),has_Google_Reviews,False
-Veterans Healing through Connection Workshop (Caron Treatment Centers),covers,"This program covers residents of the following states: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV and WY."
-Veterans Healing through Connection Workshop (Caron Treatment Centers),24hours_status_is,False
-Veterans Healing through Connection Workshop (Caron Treatment Centers),Monday's_time_open,?
-Veterans Healing through Connection Workshop (Caron Treatment Centers),Tuesday's_time_open,?
-Veterans Healing through Connection Workshop (Caron Treatment Centers),Wednesday's_time_open,?
-Veterans Healing through Connection Workshop (Caron Treatment Centers),Thursday's_time_open,?
-Veterans Healing through Connection Workshop (Caron Treatment Centers),Friday's_time_open,?
-Veterans Healing through Connection Workshop (Caron Treatment Centers),Saturday's_time_open,?
-Veterans Healing through Connection Workshop (Caron Treatment Centers),Sunday's_time_open,?
-Veterans Healing through Connection Workshop (Caron Treatment Centers),has_a_Google_Rating_of,0
-Veterans Healing through Connection Workshop (Caron Treatment Centers),offers,Counseling
-Veterans Healing through Connection Workshop (Caron Treatment Centers),serves,"['adults 18+', 'active duty', 'veterans', 'spouses'], ['Serves active service members, veterans and their significant others.']"
-Veterans Healing through Connection Workshop (Caron Treatment Centers),socials_are,"https://www.facebook.com/caron, https://www.twitter.com/@CaronTreatment"
 California Family Urgent Response System Hotline (California Department of Social Services),main_services_are,"['navigating the system', 'support network', 'counseling', 'help hotlines', 'peer support']"
 California Family Urgent Response System Hotline (California Department of Social Services),phone_number_is,833-939-3877
 California Family Urgent Response System Hotline (California Department of Social Services),website_is,https://www.cal-furs.org/
@@ -1973,13 +1952,13 @@ Breastfeeding Support (Nursing Mothers Counsel),costs,Free
 Breastfeeding Support (Nursing Mothers Counsel),has_Google_Reviews,False
 Breastfeeding Support (Nursing Mothers Counsel),covers,This program covers residents of the following states: CA.
 Breastfeeding Support (Nursing Mothers Counsel),24hours_status_is,False
-Breastfeeding Support (Nursing Mothers Counsel),Monday's_time_open,?
-Breastfeeding Support (Nursing Mothers Counsel),Tuesday's_time_open,?
-Breastfeeding Support (Nursing Mothers Counsel),Wednesday's_time_open,?
-Breastfeeding Support (Nursing Mothers Counsel),Thursday's_time_open,?
-Breastfeeding Support (Nursing Mothers Counsel),Friday's_time_open,?
-Breastfeeding Support (Nursing Mothers Counsel),Saturday's_time_open,?
-Breastfeeding Support (Nursing Mothers Counsel),Sunday's_time_open,?
+Breastfeeding Support (Nursing Mothers Counsel),Monday's_time_open,Request
+Breastfeeding Support (Nursing Mothers Counsel),Tuesday's_time_open,Request
+Breastfeeding Support (Nursing Mothers Counsel),Wednesday's_time_open,Request
+Breastfeeding Support (Nursing Mothers Counsel),Thursday's_time_open,Request
+Breastfeeding Support (Nursing Mothers Counsel),Friday's_time_open,Request
+Breastfeeding Support (Nursing Mothers Counsel),Saturday's_time_open,Request
+Breastfeeding Support (Nursing Mothers Counsel),Sunday's_time_open,Request
 Breastfeeding Support (Nursing Mothers Counsel),has_a_Google_Rating_of,0
 Breastfeeding Support (Nursing Mothers Counsel),offers,Online Support
 Breastfeeding Support (Nursing Mothers Counsel),serves,"['adults', 'young adults', 'teens', 'female', 'lgbtqia+', 'transgender or non-binary', 'with children', 'mothers'], ['This program serves families who want breastfeeding or chestfeeding education and support.']"
@@ -1994,13 +1973,13 @@ Support Resources for Homecomings (American Red Cross),costs,Not specified
 Support Resources for Homecomings (American Red Cross),has_Google_Reviews,False
 Support Resources for Homecomings (American Red Cross),covers,This program covers residents of All US states and territories.
 Support Resources for Homecomings (American Red Cross),24hours_status_is,False
-Support Resources for Homecomings (American Red Cross),Monday's_time_open,?
-Support Resources for Homecomings (American Red Cross),Tuesday's_time_open,?
-Support Resources for Homecomings (American Red Cross),Wednesday's_time_open,?
-Support Resources for Homecomings (American Red Cross),Thursday's_time_open,?
-Support Resources for Homecomings (American Red Cross),Friday's_time_open,?
-Support Resources for Homecomings (American Red Cross),Saturday's_time_open,?
-Support Resources for Homecomings (American Red Cross),Sunday's_time_open,?
+Support Resources for Homecomings (American Red Cross),Monday's_time_open,Register
+Support Resources for Homecomings (American Red Cross),Tuesday's_time_open,Register
+Support Resources for Homecomings (American Red Cross),Wednesday's_time_open,Register
+Support Resources for Homecomings (American Red Cross),Thursday's_time_open,Register
+Support Resources for Homecomings (American Red Cross),Friday's_time_open,Register
+Support Resources for Homecomings (American Red Cross),Saturday's_time_open,Register
+Support Resources for Homecomings (American Red Cross),Sunday's_time_open,Register
 Support Resources for Homecomings (American Red Cross),has_a_Google_Rating_of,0
 Support Resources for Homecomings (American Red Cross),offers,Workshops
 Support Resources for Homecomings (American Red Cross),serves,"['adults 18+', 'active duty', 'national guard', 'veterans', 'families'], []"
@@ -2029,11 +2008,11 @@ Outpatient Treatment Program (Clare/Matrix),costs,Free
 Outpatient Treatment Program (Clare/Matrix),has_Google_Reviews,False
 Outpatient Treatment Program (Clare/Matrix),covers,"This program covers residents of the following counties: Los Angeles County, CA, Orange County, CA, Riverside County, CA, San Bernardino County, CA and Ventura County, CA."
 Outpatient Treatment Program (Clare/Matrix),24hours_status_is,False
-Outpatient Treatment Program (Clare/Matrix),Monday's_time_open,12:00PM - 8:00PM
-Outpatient Treatment Program (Clare/Matrix),Tuesday's_time_open,12:00PM - 8:00PM
-Outpatient Treatment Program (Clare/Matrix),Wednesday's_time_open,12:00PM - 8:00PM
-Outpatient Treatment Program (Clare/Matrix),Thursday's_time_open,12:00PM - 8:00PM
-Outpatient Treatment Program (Clare/Matrix),Friday's_time_open,12:00PM - 8:00PM
+Outpatient Treatment Program (Clare/Matrix),Monday's_time_open,12:00PM - 20:00PM
+Outpatient Treatment Program (Clare/Matrix),Tuesday's_time_open,12:00PM - 20:00PM
+Outpatient Treatment Program (Clare/Matrix),Wednesday's_time_open,12:00PM - 20:00PM
+Outpatient Treatment Program (Clare/Matrix),Thursday's_time_open,12:00PM - 20:00PM
+Outpatient Treatment Program (Clare/Matrix),Friday's_time_open,12:00PM - 20:00PM
 Outpatient Treatment Program (Clare/Matrix),Saturday's_time_open,Closed
 Outpatient Treatment Program (Clare/Matrix),Sunday's_time_open,Closed
 Outpatient Treatment Program (Clare/Matrix),has_a_Google_Rating_of,0
@@ -2064,11 +2043,11 @@ Adolescent and Young Adult Program (80 Cancer Care),costs,Free
 Adolescent and Young Adult Program (80 Cancer Care),has_Google_Reviews,False
 Adolescent and Young Adult Program (80 Cancer Care),covers,This program covers residents of All US states and territories.
 Adolescent and Young Adult Program (80 Cancer Care),24hours_status_is,False
-Adolescent and Young Adult Program (80 Cancer Care),Monday's_time_open,9:00AM - 7:00PM
-Adolescent and Young Adult Program (80 Cancer Care),Tuesday's_time_open,9:00AM - 7:00PM
-Adolescent and Young Adult Program (80 Cancer Care),Wednesday's_time_open,9:00AM - 7:00PM
-Adolescent and Young Adult Program (80 Cancer Care),Thursday's_time_open,9:00AM - 7:00PM
-Adolescent and Young Adult Program (80 Cancer Care),Friday's_time_open,9:00AM - 5:00PM
+Adolescent and Young Adult Program (80 Cancer Care),Monday's_time_open,9:00AM - 19:00PM
+Adolescent and Young Adult Program (80 Cancer Care),Tuesday's_time_open,9:00AM - 19:00PM
+Adolescent and Young Adult Program (80 Cancer Care),Wednesday's_time_open,9:00AM - 19:00PM
+Adolescent and Young Adult Program (80 Cancer Care),Thursday's_time_open,9:00AM - 19:00PM
+Adolescent and Young Adult Program (80 Cancer Care),Friday's_time_open,9:00AM - 17:00PM
 Adolescent and Young Adult Program (80 Cancer Care),Saturday's_time_open,Closed
 Adolescent and Young Adult Program (80 Cancer Care),Sunday's_time_open,Closed
 Adolescent and Young Adult Program (80 Cancer Care),has_a_Google_Rating_of,0
@@ -2084,11 +2063,11 @@ Online Support Groups (80 Cancer Care),costs,Free
 Online Support Groups (80 Cancer Care),has_Google_Reviews,False
 Online Support Groups (80 Cancer Care),covers,"This program covers residents of the following states: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV and WY."
 Online Support Groups (80 Cancer Care),24hours_status_is,False
-Online Support Groups (80 Cancer Care),Monday's_time_open,8:00AM - 5:00PM
-Online Support Groups (80 Cancer Care),Tuesday's_time_open,8:00AM - 5:00PM
-Online Support Groups (80 Cancer Care),Wednesday's_time_open,8:00AM - 5:00PM
-Online Support Groups (80 Cancer Care),Thursday's_time_open,8:00AM - 5:00PM
-Online Support Groups (80 Cancer Care),Friday's_time_open,8:00AM - 5:00PM
+Online Support Groups (80 Cancer Care),Monday's_time_open,8:00AM - 17:00PM
+Online Support Groups (80 Cancer Care),Tuesday's_time_open,8:00AM - 17:00PM
+Online Support Groups (80 Cancer Care),Wednesday's_time_open,8:00AM - 17:00PM
+Online Support Groups (80 Cancer Care),Thursday's_time_open,8:00AM - 17:00PM
+Online Support Groups (80 Cancer Care),Friday's_time_open,8:00AM - 17:00PM
 Online Support Groups (80 Cancer Care),Saturday's_time_open,Closed
 Online Support Groups (80 Cancer Care),Sunday's_time_open,Closed
 Online Support Groups (80 Cancer Care),has_a_Google_Rating_of,0
@@ -2119,13 +2098,13 @@ WWP Talk (Wounded Warrior Project),costs,Free
 WWP Talk (Wounded Warrior Project),has_Google_Reviews,False
 WWP Talk (Wounded Warrior Project),covers,This program covers residents of All US states and territories.
 WWP Talk (Wounded Warrior Project),24hours_status_is,False
-WWP Talk (Wounded Warrior Project),Monday's_time_open,?
-WWP Talk (Wounded Warrior Project),Tuesday's_time_open,?
-WWP Talk (Wounded Warrior Project),Wednesday's_time_open,?
-WWP Talk (Wounded Warrior Project),Thursday's_time_open,?
-WWP Talk (Wounded Warrior Project),Friday's_time_open,?
-WWP Talk (Wounded Warrior Project),Saturday's_time_open,?
-WWP Talk (Wounded Warrior Project),Sunday's_time_open,?
+WWP Talk (Wounded Warrior Project),Monday's_time_open,Register
+WWP Talk (Wounded Warrior Project),Tuesday's_time_open,Register
+WWP Talk (Wounded Warrior Project),Wednesday's_time_open,Register
+WWP Talk (Wounded Warrior Project),Thursday's_time_open,Register
+WWP Talk (Wounded Warrior Project),Friday's_time_open,Register
+WWP Talk (Wounded Warrior Project),Saturday's_time_open,Register
+WWP Talk (Wounded Warrior Project),Sunday's_time_open,Register
 WWP Talk (Wounded Warrior Project),has_a_Google_Rating_of,0
 WWP Talk (Wounded Warrior Project),offers,Support
 WWP Talk (Wounded Warrior Project),serves,"['active duty', 'national guard', 'veterans'], ['Must have suffered a physical or mental injury, wound, or illness during your military service on or after September 11, 2001, or be a registered family service member and/or caregiver to an individual that has.', 'WWP Talk is available to all warriors, family members, and caregivers registered with WWP. It’s most appropriate for those who are not experiencing a crisis and who are ready to discuss emotional issues and set goals leading to improved mental health.', 'WWP Talk provides nonclinical emotional support and isn’t meant to take the place of any clinical treatment, therapy, or counseling you may be receiving.']"
@@ -2140,11 +2119,11 @@ Insights Mental Health Program (Independence At Home),costs,Free
 Insights Mental Health Program (Independence At Home),has_Google_Reviews,False
 Insights Mental Health Program (Independence At Home),covers,"This program covers residents of the following counties: Los Angeles County, CA, Orange County, CA and Riverside County, CA."
 Insights Mental Health Program (Independence At Home),24hours_status_is,False
-Insights Mental Health Program (Independence At Home),Monday's_time_open,11:00AM - 8:00PM
-Insights Mental Health Program (Independence At Home),Tuesday's_time_open,11:00AM - 8:00PM
-Insights Mental Health Program (Independence At Home),Wednesday's_time_open,11:00AM - 8:00PM
-Insights Mental Health Program (Independence At Home),Thursday's_time_open,11:00AM - 8:00PM
-Insights Mental Health Program (Independence At Home),Friday's_time_open,11:00AM - 8:00PM
+Insights Mental Health Program (Independence At Home),Monday's_time_open,11:00AM - 20:00PM
+Insights Mental Health Program (Independence At Home),Tuesday's_time_open,11:00AM - 20:00PM
+Insights Mental Health Program (Independence At Home),Wednesday's_time_open,11:00AM - 20:00PM
+Insights Mental Health Program (Independence At Home),Thursday's_time_open,11:00AM - 20:00PM
+Insights Mental Health Program (Independence At Home),Friday's_time_open,11:00AM - 20:00PM
 Insights Mental Health Program (Independence At Home),Saturday's_time_open,Closed
 Insights Mental Health Program (Independence At Home),Sunday's_time_open,Closed
 Insights Mental Health Program (Independence At Home),has_a_Google_Rating_of,0
@@ -2160,13 +2139,13 @@ Insights Mental Health Program (Independence At Home),socials_are,https://www.fa
 "Anonymous Mental Health Support for Veterans, Service Members, and Intelligence Officers (Sound Off)",has_Google_Reviews,False
 "Anonymous Mental Health Support for Veterans, Service Members, and Intelligence Officers (Sound Off)",covers,"This program covers residents of the following states: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV and WY."
 "Anonymous Mental Health Support for Veterans, Service Members, and Intelligence Officers (Sound Off)",24hours_status_is,False
-"Anonymous Mental Health Support for Veterans, Service Members, and Intelligence Officers (Sound Off)",Monday's_time_open,?
-"Anonymous Mental Health Support for Veterans, Service Members, and Intelligence Officers (Sound Off)",Tuesday's_time_open,?
-"Anonymous Mental Health Support for Veterans, Service Members, and Intelligence Officers (Sound Off)",Wednesday's_time_open,?
-"Anonymous Mental Health Support for Veterans, Service Members, and Intelligence Officers (Sound Off)",Thursday's_time_open,?
-"Anonymous Mental Health Support for Veterans, Service Members, and Intelligence Officers (Sound Off)",Friday's_time_open,?
-"Anonymous Mental Health Support for Veterans, Service Members, and Intelligence Officers (Sound Off)",Saturday's_time_open,?
-"Anonymous Mental Health Support for Veterans, Service Members, and Intelligence Officers (Sound Off)",Sunday's_time_open,?
+"Anonymous Mental Health Support for Veterans, Service Members, and Intelligence Officers (Sound Off)",Monday's_time_open,App
+"Anonymous Mental Health Support for Veterans, Service Members, and Intelligence Officers (Sound Off)",Tuesday's_time_open,App
+"Anonymous Mental Health Support for Veterans, Service Members, and Intelligence Officers (Sound Off)",Wednesday's_time_open,App
+"Anonymous Mental Health Support for Veterans, Service Members, and Intelligence Officers (Sound Off)",Thursday's_time_open,App
+"Anonymous Mental Health Support for Veterans, Service Members, and Intelligence Officers (Sound Off)",Friday's_time_open,App
+"Anonymous Mental Health Support for Veterans, Service Members, and Intelligence Officers (Sound Off)",Saturday's_time_open,App
+"Anonymous Mental Health Support for Veterans, Service Members, and Intelligence Officers (Sound Off)",Sunday's_time_open,App
 "Anonymous Mental Health Support for Veterans, Service Members, and Intelligence Officers (Sound Off)",has_a_Google_Rating_of,0
 "Anonymous Mental Health Support for Veterans, Service Members, and Intelligence Officers (Sound Off)",offers,"Counseling, Peer Support"
 "Anonymous Mental Health Support for Veterans, Service Members, and Intelligence Officers (Sound Off)",serves,"['adults 18+', 'active duty', 'national guard', 'veterans', 'individuals', 'all mental health'], ['This program serves veterans, service members, and intelligence officers seeking mental health services.']"
@@ -2195,13 +2174,13 @@ CAREspace - Mental Health Services (Riverside County Office of Education),costs,
 CAREspace - Mental Health Services (Riverside County Office of Education),has_Google_Reviews,False
 CAREspace - Mental Health Services (Riverside County Office of Education),covers,"This program covers residents of the following counties: Riverside County, CA."
 CAREspace - Mental Health Services (Riverside County Office of Education),24hours_status_is,False
-CAREspace - Mental Health Services (Riverside County Office of Education),Monday's_time_open,?
-CAREspace - Mental Health Services (Riverside County Office of Education),Tuesday's_time_open,?
-CAREspace - Mental Health Services (Riverside County Office of Education),Wednesday's_time_open,?
-CAREspace - Mental Health Services (Riverside County Office of Education),Thursday's_time_open,?
-CAREspace - Mental Health Services (Riverside County Office of Education),Friday's_time_open,?
-CAREspace - Mental Health Services (Riverside County Office of Education),Saturday's_time_open,?
-CAREspace - Mental Health Services (Riverside County Office of Education),Sunday's_time_open,?
+CAREspace - Mental Health Services (Riverside County Office of Education),Monday's_time_open,Referral form
+CAREspace - Mental Health Services (Riverside County Office of Education),Tuesday's_time_open,Referral form
+CAREspace - Mental Health Services (Riverside County Office of Education),Wednesday's_time_open,Referral form
+CAREspace - Mental Health Services (Riverside County Office of Education),Thursday's_time_open,Referral form
+CAREspace - Mental Health Services (Riverside County Office of Education),Friday's_time_open,Referral form
+CAREspace - Mental Health Services (Riverside County Office of Education),Saturday's_time_open,Referral form
+CAREspace - Mental Health Services (Riverside County Office of Education),Sunday's_time_open,Referral form
 CAREspace - Mental Health Services (Riverside County Office of Education),has_a_Google_Rating_of,0
 CAREspace - Mental Health Services (Riverside County Office of Education),offers,Counseling
 CAREspace - Mental Health Services (Riverside County Office of Education),serves,"['anyone in need', 'young adults', 'teens', 'children', 'students', 'families', 'low-income', 'parents', 'all mental health'], ['Students, families, schools, and the community of Riverside County can access this program.']"
@@ -2219,11 +2198,11 @@ Behavioral Health (Neighborhood Healthcare),has_Google_Reviews,True
 Behavioral Health (Neighborhood Healthcare),covers,"This program covers residents of the following counties: Riverside County, CA and San Bernardino County, CA."
 Behavioral Health (Neighborhood Healthcare),zipcode_is,92501.0
 Behavioral Health (Neighborhood Healthcare),24hours_status_is,False
-Behavioral Health (Neighborhood Healthcare),Monday's_time_open,11:00AM - 3:00PM & 4:00PM - 8:00PM
-Behavioral Health (Neighborhood Healthcare),Tuesday's_time_open,11:00AM - 3:00PM & 4:00PM - 8:00PM
-Behavioral Health (Neighborhood Healthcare),Wednesday's_time_open,11:00AM - 3:00PM & 4:00PM - 8:00PM
-Behavioral Health (Neighborhood Healthcare),Thursday's_time_open,11:00AM - 3:00PM & 4:00PM - 8:00PM
-Behavioral Health (Neighborhood Healthcare),Friday's_time_open,11:00AM - 3:00PM & 4:00PM - 8:00PM
+Behavioral Health (Neighborhood Healthcare),Monday's_time_open,11:00AM - 15:00PM & 16:00PM - 20:00PM
+Behavioral Health (Neighborhood Healthcare),Tuesday's_time_open,11:00AM - 15:00PM & 16:00PM - 20:00PM
+Behavioral Health (Neighborhood Healthcare),Wednesday's_time_open,11:00AM - 15:00PM & 16:00PM - 20:00PM
+Behavioral Health (Neighborhood Healthcare),Thursday's_time_open,11:00AM - 15:00PM & 16:00PM - 20:00PM
+Behavioral Health (Neighborhood Healthcare),Friday's_time_open,11:00AM - 15:00PM & 16:00PM - 20:00PM
 Behavioral Health (Neighborhood Healthcare),Saturday's_time_open,Closed
 Behavioral Health (Neighborhood Healthcare),Sunday's_time_open,Closed
 Behavioral Health (Neighborhood Healthcare),has_a_Google_Rating_of,4.5
@@ -2254,13 +2233,13 @@ Counseling Support to Nationwide CF Community (Cystic Fibrosis Research Institut
 Counseling Support to Nationwide CF Community (Cystic Fibrosis Research Institute),has_Google_Reviews,False
 Counseling Support to Nationwide CF Community (Cystic Fibrosis Research Institute),covers,This program covers residents of All US states and territories.
 Counseling Support to Nationwide CF Community (Cystic Fibrosis Research Institute),24hours_status_is,False
-Counseling Support to Nationwide CF Community (Cystic Fibrosis Research Institute),Monday's_time_open,?
-Counseling Support to Nationwide CF Community (Cystic Fibrosis Research Institute),Tuesday's_time_open,?
-Counseling Support to Nationwide CF Community (Cystic Fibrosis Research Institute),Wednesday's_time_open,?
-Counseling Support to Nationwide CF Community (Cystic Fibrosis Research Institute),Thursday's_time_open,?
-Counseling Support to Nationwide CF Community (Cystic Fibrosis Research Institute),Friday's_time_open,?
-Counseling Support to Nationwide CF Community (Cystic Fibrosis Research Institute),Saturday's_time_open,?
-Counseling Support to Nationwide CF Community (Cystic Fibrosis Research Institute),Sunday's_time_open,?
+Counseling Support to Nationwide CF Community (Cystic Fibrosis Research Institute),Monday's_time_open,Register
+Counseling Support to Nationwide CF Community (Cystic Fibrosis Research Institute),Tuesday's_time_open,Register
+Counseling Support to Nationwide CF Community (Cystic Fibrosis Research Institute),Wednesday's_time_open,Register
+Counseling Support to Nationwide CF Community (Cystic Fibrosis Research Institute),Thursday's_time_open,Register
+Counseling Support to Nationwide CF Community (Cystic Fibrosis Research Institute),Friday's_time_open,Register
+Counseling Support to Nationwide CF Community (Cystic Fibrosis Research Institute),Saturday's_time_open,Register
+Counseling Support to Nationwide CF Community (Cystic Fibrosis Research Institute),Sunday's_time_open,Register
 Counseling Support to Nationwide CF Community (Cystic Fibrosis Research Institute),has_a_Google_Rating_of,0
 Counseling Support to Nationwide CF Community (Cystic Fibrosis Research Institute),offers,Counseling
 Counseling Support to Nationwide CF Community (Cystic Fibrosis Research Institute),serves,"['adults', 'young adults', 'teens', 'children', 'seniors', 'chronic illness', 'individuals', 'low-income', 'uninsured', 'underinsured', 'caregivers'], ['This program serves individuals diagnosed with cystic fibrosis, or caregivers that support individuals such as family members with cystic fibrosis.', 'This program serves individuals and families that currently reside in the United States.']"
@@ -2274,38 +2253,16 @@ Pechanga Child and Family Services (Pechanga Band of Luiseño Indians),costs,Fre
 Pechanga Child and Family Services (Pechanga Band of Luiseño Indians),has_Google_Reviews,False
 Pechanga Child and Family Services (Pechanga Band of Luiseño Indians),covers,"This program covers residents of the following counties: Riverside County, CA."
 Pechanga Child and Family Services (Pechanga Band of Luiseño Indians),24hours_status_is,False
-Pechanga Child and Family Services (Pechanga Band of Luiseño Indians),Monday's_time_open,11:00AM - 8:00PM
-Pechanga Child and Family Services (Pechanga Band of Luiseño Indians),Tuesday's_time_open,11:00AM - 8:00PM
-Pechanga Child and Family Services (Pechanga Band of Luiseño Indians),Wednesday's_time_open,11:00AM - 8:00PM
-Pechanga Child and Family Services (Pechanga Band of Luiseño Indians),Thursday's_time_open,11:00AM - 8:00PM
-Pechanga Child and Family Services (Pechanga Band of Luiseño Indians),Friday's_time_open,11:00AM - 8:00PM
+Pechanga Child and Family Services (Pechanga Band of Luiseño Indians),Monday's_time_open,11:00AM - 20:00PM
+Pechanga Child and Family Services (Pechanga Band of Luiseño Indians),Tuesday's_time_open,11:00AM - 20:00PM
+Pechanga Child and Family Services (Pechanga Band of Luiseño Indians),Wednesday's_time_open,11:00AM - 20:00PM
+Pechanga Child and Family Services (Pechanga Band of Luiseño Indians),Thursday's_time_open,11:00AM - 20:00PM
+Pechanga Child and Family Services (Pechanga Band of Luiseño Indians),Friday's_time_open,11:00AM - 20:00PM
 Pechanga Child and Family Services (Pechanga Band of Luiseño Indians),Saturday's_time_open,Closed
 Pechanga Child and Family Services (Pechanga Band of Luiseño Indians),Sunday's_time_open,Closed
 Pechanga Child and Family Services (Pechanga Band of Luiseño Indians),has_a_Google_Rating_of,0
 Pechanga Child and Family Services (Pechanga Band of Luiseño Indians),offers,Intervention
 Pechanga Child and Family Services (Pechanga Band of Luiseño Indians),serves,"['all ages', 'families', 'with children', 'single parent', 'low-income', 'native american', 'caregivers', 'parents', 'in crisis'], ['Must live on the Pechanga Indian Reservation or in the Orange County service area.', 'This program serves enrolled Pechanga Tribal Members, members of federally recognized tribes, AI/AN members of the California Judgment Roll, their families and descendants.']"
-Counseling Services (Angelman Syndrome Foundation),main_services_are,"['support network', 'counseling']"
-Counseling Services (Angelman Syndrome Foundation),other_services_are,['support network']
-Counseling Services (Angelman Syndrome Foundation),phone_number_is,773-259-4200
-Counseling Services (Angelman Syndrome Foundation),website_is,https://www.angelman.org/resources-education/counseling-services/
-Counseling Services (Angelman Syndrome Foundation),has_an_availability_status_of,available
-Counseling Services (Angelman Syndrome Foundation),description_is,ASF is proud to offer counseling services at no charge to Angelman families in the United States. These services help caregivers and loved ones to cope with the challenge that living with Angelman Syndrome can offer. This program provides:- Counseling Areas of specialty include:- Caregiver stress- Support with marital problems- Substance abuse issues - Self-esteem concerns - Stress management This service is not meant to replace a traditional counseling program. Your information is completely confidential and only shared between yourself and the counselor.
-Counseling Services (Angelman Syndrome Foundation),speaks,['English']
-Counseling Services (Angelman Syndrome Foundation),costs,Free
-Counseling Services (Angelman Syndrome Foundation),has_Google_Reviews,False
-Counseling Services (Angelman Syndrome Foundation),covers,"This program covers residents of the following states: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV and WY."
-Counseling Services (Angelman Syndrome Foundation),24hours_status_is,False
-Counseling Services (Angelman Syndrome Foundation),Monday's_time_open,?
-Counseling Services (Angelman Syndrome Foundation),Tuesday's_time_open,?
-Counseling Services (Angelman Syndrome Foundation),Wednesday's_time_open,?
-Counseling Services (Angelman Syndrome Foundation),Thursday's_time_open,?
-Counseling Services (Angelman Syndrome Foundation),Friday's_time_open,?
-Counseling Services (Angelman Syndrome Foundation),Saturday's_time_open,?
-Counseling Services (Angelman Syndrome Foundation),Sunday's_time_open,?
-Counseling Services (Angelman Syndrome Foundation),has_a_Google_Rating_of,0
-Counseling Services (Angelman Syndrome Foundation),offers,Counseling
-Counseling Services (Angelman Syndrome Foundation),serves,"['all ages', 'genetic disorder', 'individuals', 'families', 'caregivers', 'parents'], ['This program serves individuals, caregivers and families of people with Angelman Syndrome']"
-Counseling Services (Angelman Syndrome Foundation),socials_are,"https://www.facebook.com/AngelmanSyndromeFoundation/, https://www.twitter.com/@angelman"
 Self-Care Mondays - Anxiety Group for Women (Tanyanika Ajayi),main_services_are,"['understand mental health', 'support groups', 'virtual support']"
 Self-Care Mondays - Anxiety Group for Women (Tanyanika Ajayi),phone_number_is,626-354-4615
 Self-Care Mondays - Anxiety Group for Women (Tanyanika Ajayi),website_is,https://balancelife.my.canva.site/
@@ -2316,7 +2273,7 @@ Self-Care Mondays - Anxiety Group for Women (Tanyanika Ajayi),costs,Reduced Cost
 Self-Care Mondays - Anxiety Group for Women (Tanyanika Ajayi),has_Google_Reviews,False
 Self-Care Mondays - Anxiety Group for Women (Tanyanika Ajayi),covers,This program covers residents of the following states: CA.
 Self-Care Mondays - Anxiety Group for Women (Tanyanika Ajayi),24hours_status_is,False
-Self-Care Mondays - Anxiety Group for Women (Tanyanika Ajayi),Monday's_time_open,11:00AM - 8:00PM
+Self-Care Mondays - Anxiety Group for Women (Tanyanika Ajayi),Monday's_time_open,11:00AM - 20:00PM
 Self-Care Mondays - Anxiety Group for Women (Tanyanika Ajayi),Tuesday's_time_open,Closed
 Self-Care Mondays - Anxiety Group for Women (Tanyanika Ajayi),Wednesday's_time_open,Closed
 Self-Care Mondays - Anxiety Group for Women (Tanyanika Ajayi),Thursday's_time_open,Closed
@@ -2337,13 +2294,13 @@ Intensive Outpatient Therapy (Stepstone Connect),costs,Sliding Scale
 Intensive Outpatient Therapy (Stepstone Connect),has_Google_Reviews,False
 Intensive Outpatient Therapy (Stepstone Connect),covers,"This program covers residents of the following states: CA, CO, ID, MT, NV, OK, TX, UT, WA and WY."
 Intensive Outpatient Therapy (Stepstone Connect),24hours_status_is,False
-Intensive Outpatient Therapy (Stepstone Connect),Monday's_time_open,?
-Intensive Outpatient Therapy (Stepstone Connect),Tuesday's_time_open,?
-Intensive Outpatient Therapy (Stepstone Connect),Wednesday's_time_open,?
-Intensive Outpatient Therapy (Stepstone Connect),Thursday's_time_open,?
-Intensive Outpatient Therapy (Stepstone Connect),Friday's_time_open,?
-Intensive Outpatient Therapy (Stepstone Connect),Saturday's_time_open,?
-Intensive Outpatient Therapy (Stepstone Connect),Sunday's_time_open,?
+Intensive Outpatient Therapy (Stepstone Connect),Monday's_time_open,Form
+Intensive Outpatient Therapy (Stepstone Connect),Tuesday's_time_open,Form
+Intensive Outpatient Therapy (Stepstone Connect),Wednesday's_time_open,Form
+Intensive Outpatient Therapy (Stepstone Connect),Thursday's_time_open,Form
+Intensive Outpatient Therapy (Stepstone Connect),Friday's_time_open,Form
+Intensive Outpatient Therapy (Stepstone Connect),Saturday's_time_open,Form
+Intensive Outpatient Therapy (Stepstone Connect),Sunday's_time_open,Form
 Intensive Outpatient Therapy (Stepstone Connect),has_a_Google_Rating_of,0
 Intensive Outpatient Therapy (Stepstone Connect),offers,"Counseling, Therapy"
 Intensive Outpatient Therapy (Stepstone Connect),serves,"['adults 18+', 'substance dependency'], ['This program serves anyone suffering from substance abuse and trauma.', 'Must qualify for financial assistance.']"
@@ -2358,38 +2315,17 @@ Parent Support-Virtual Support Groups (Hand to Hold),costs,Free
 Parent Support-Virtual Support Groups (Hand to Hold),has_Google_Reviews,False
 Parent Support-Virtual Support Groups (Hand to Hold),covers,This program covers residents of All US states and territories.
 Parent Support-Virtual Support Groups (Hand to Hold),24hours_status_is,False
-Parent Support-Virtual Support Groups (Hand to Hold),Monday's_time_open,?
-Parent Support-Virtual Support Groups (Hand to Hold),Tuesday's_time_open,?
-Parent Support-Virtual Support Groups (Hand to Hold),Wednesday's_time_open,?
-Parent Support-Virtual Support Groups (Hand to Hold),Thursday's_time_open,?
-Parent Support-Virtual Support Groups (Hand to Hold),Friday's_time_open,?
-Parent Support-Virtual Support Groups (Hand to Hold),Saturday's_time_open,?
-Parent Support-Virtual Support Groups (Hand to Hold),Sunday's_time_open,?
+Parent Support-Virtual Support Groups (Hand to Hold),Monday's_time_open,Check Calendar
+Parent Support-Virtual Support Groups (Hand to Hold),Tuesday's_time_open,Check Calendar
+Parent Support-Virtual Support Groups (Hand to Hold),Wednesday's_time_open,Check Calendar
+Parent Support-Virtual Support Groups (Hand to Hold),Thursday's_time_open,Check Calendar
+Parent Support-Virtual Support Groups (Hand to Hold),Friday's_time_open,Check Calendar
+Parent Support-Virtual Support Groups (Hand to Hold),Saturday's_time_open,Check Calendar
+Parent Support-Virtual Support Groups (Hand to Hold),Sunday's_time_open,Check Calendar
 Parent Support-Virtual Support Groups (Hand to Hold),has_a_Google_Rating_of,0
 Parent Support-Virtual Support Groups (Hand to Hold),offers,Support Group
 Parent Support-Virtual Support Groups (Hand to Hold),serves,"['adults', 'adults 18+', 'grieving', 'parents'], ['This program serves individuals and families, who meet ONE of the following criteria: are affected by a stay in the Neonatal Intensive Care Unit (NICU), OR have a high-risk pregnancy, OR experience preterm birth, OR have babies with special healthcare needs, OR have experienced the loss of a preterm infant or a pregnancy.']"
 Parent Support-Virtual Support Groups (Hand to Hold),socials_are,"https://www.facebook.com/HANDtoHOLD, https://www.twitter.com/@atx_handtohold"
-Camp Spero (The Elizabeth Hospice),main_services_are,"['bereavement', 'alternative medicine', 'overnight camp']"
-Camp Spero (The Elizabeth Hospice),phone_number_is,760-223-7337
-Camp Spero (The Elizabeth Hospice),website_is,https://elizabethhospice.org/grief-support/children/camp-spero/
-Camp Spero (The Elizabeth Hospice),has_an_availability_status_of,available
-Camp Spero (The Elizabeth Hospice),description_is,"Camp Spero is a place of healing for children to honor and memorialize their loved one while making friends with others who are facing similar circumstances. Services offered: Weekend camp, Grief counseling, and Recreational camp activities"
-Camp Spero (The Elizabeth Hospice),speaks,['English']
-Camp Spero (The Elizabeth Hospice),costs,Free
-Camp Spero (The Elizabeth Hospice),has_Google_Reviews,False
-Camp Spero (The Elizabeth Hospice),covers,"This program covers residents of the following counties: Riverside County, CA and San Diego County, CA."
-Camp Spero (The Elizabeth Hospice),24hours_status_is,False
-Camp Spero (The Elizabeth Hospice),Monday's_time_open,?
-Camp Spero (The Elizabeth Hospice),Tuesday's_time_open,?
-Camp Spero (The Elizabeth Hospice),Wednesday's_time_open,?
-Camp Spero (The Elizabeth Hospice),Thursday's_time_open,?
-Camp Spero (The Elizabeth Hospice),Friday's_time_open,?
-Camp Spero (The Elizabeth Hospice),Saturday's_time_open,?
-Camp Spero (The Elizabeth Hospice),Sunday's_time_open,?
-Camp Spero (The Elizabeth Hospice),has_a_Google_Rating_of,0
-Camp Spero (The Elizabeth Hospice),offers,Counseling
-Camp Spero (The Elizabeth Hospice),serves,"['teens', 'children', 'grieving'], ['This program helps people who are 7 to 17 years old.']"
-Camp Spero (The Elizabeth Hospice),socials_are,"https://www.facebook.com/TheElizabethHospice, https://www.twitter.com/@thelizabethhosp"
 Mental Health Services (American Living Organ Donor Fund),main_services_are,"['mental health care', 'virtual support']"
 Mental Health Services (American Living Organ Donor Fund),phone_number_is,215-601-6530
 Mental Health Services (American Living Organ Donor Fund),website_is,https://www.helplivingdonorssavelives.org/services/
@@ -2400,13 +2336,13 @@ Mental Health Services (American Living Organ Donor Fund),costs,Free
 Mental Health Services (American Living Organ Donor Fund),has_Google_Reviews,False
 Mental Health Services (American Living Organ Donor Fund),covers,This program covers residents of All US states and territories.
 Mental Health Services (American Living Organ Donor Fund),24hours_status_is,False
-Mental Health Services (American Living Organ Donor Fund),Monday's_time_open,?
-Mental Health Services (American Living Organ Donor Fund),Tuesday's_time_open,?
-Mental Health Services (American Living Organ Donor Fund),Wednesday's_time_open,?
-Mental Health Services (American Living Organ Donor Fund),Thursday's_time_open,?
-Mental Health Services (American Living Organ Donor Fund),Friday's_time_open,?
-Mental Health Services (American Living Organ Donor Fund),Saturday's_time_open,?
-Mental Health Services (American Living Organ Donor Fund),Sunday's_time_open,?
+Mental Health Services (American Living Organ Donor Fund),Monday's_time_open,Apply
+Mental Health Services (American Living Organ Donor Fund),Tuesday's_time_open,Apply
+Mental Health Services (American Living Organ Donor Fund),Wednesday's_time_open,Apply
+Mental Health Services (American Living Organ Donor Fund),Thursday's_time_open,Apply
+Mental Health Services (American Living Organ Donor Fund),Friday's_time_open,Apply
+Mental Health Services (American Living Organ Donor Fund),Saturday's_time_open,Apply
+Mental Health Services (American Living Organ Donor Fund),Sunday's_time_open,Apply
 Mental Health Services (American Living Organ Donor Fund),has_a_Google_Rating_of,0
 Mental Health Services (American Living Organ Donor Fund),offers,Mental Health
 Mental Health Services (American Living Organ Donor Fund),serves,"['all ages', 'all care phases', 'individuals', 'families', 'caregivers'], ['This program helps living organ donors.', 'Must be a US citizen.']"
@@ -2423,7 +2359,7 @@ Share and Support Group (Mental Health Strong),24hours_status_is,False
 Share and Support Group (Mental Health Strong),Monday's_time_open,Closed
 Share and Support Group (Mental Health Strong),Tuesday's_time_open,Closed
 Share and Support Group (Mental Health Strong),Wednesday's_time_open,Closed
-Share and Support Group (Mental Health Strong),Thursday's_time_open,7:30PM - 9:00PM
+Share and Support Group (Mental Health Strong),Thursday's_time_open,19:30PM - 21:00PM
 Share and Support Group (Mental Health Strong),Friday's_time_open,Closed
 Share and Support Group (Mental Health Strong),Saturday's_time_open,Closed
 Share and Support Group (Mental Health Strong),Sunday's_time_open,Closed
@@ -2455,13 +2391,13 @@ Cancer Counseling (Fran’s Place – Center for Cancer Counseling),costs,Free
 Cancer Counseling (Fran’s Place – Center for Cancer Counseling),has_Google_Reviews,False
 Cancer Counseling (Fran’s Place – Center for Cancer Counseling),covers,This program covers residents of the following states: CA.
 Cancer Counseling (Fran’s Place – Center for Cancer Counseling),24hours_status_is,False
-Cancer Counseling (Fran’s Place – Center for Cancer Counseling),Monday's_time_open,?
-Cancer Counseling (Fran’s Place – Center for Cancer Counseling),Tuesday's_time_open,?
-Cancer Counseling (Fran’s Place – Center for Cancer Counseling),Wednesday's_time_open,?
-Cancer Counseling (Fran’s Place – Center for Cancer Counseling),Thursday's_time_open,?
-Cancer Counseling (Fran’s Place – Center for Cancer Counseling),Friday's_time_open,?
-Cancer Counseling (Fran’s Place – Center for Cancer Counseling),Saturday's_time_open,?
-Cancer Counseling (Fran’s Place – Center for Cancer Counseling),Sunday's_time_open,?
+Cancer Counseling (Fran’s Place – Center for Cancer Counseling),Monday's_time_open,Appointment
+Cancer Counseling (Fran’s Place – Center for Cancer Counseling),Tuesday's_time_open,Appointment
+Cancer Counseling (Fran’s Place – Center for Cancer Counseling),Wednesday's_time_open,Appointment
+Cancer Counseling (Fran’s Place – Center for Cancer Counseling),Thursday's_time_open,Appointment
+Cancer Counseling (Fran’s Place – Center for Cancer Counseling),Friday's_time_open,Appointment
+Cancer Counseling (Fran’s Place – Center for Cancer Counseling),Saturday's_time_open,Appointment
+Cancer Counseling (Fran’s Place – Center for Cancer Counseling),Sunday's_time_open,Appointment
 Cancer Counseling (Fran’s Place – Center for Cancer Counseling),has_a_Google_Rating_of,0
 Cancer Counseling (Fran’s Place – Center for Cancer Counseling),offers,Counseling
 Cancer Counseling (Fran’s Place – Center for Cancer Counseling),serves,"['all ages', 'cancer', 'all cancer types', 'individuals', 'families', 'caregivers', 'spouses'], ['This program works in communities in Southern California, providing services in English and Spanish, and via telehealth across all of California.']"
@@ -2494,11 +2430,11 @@ Magnolia Community Health Center (Community Health Systems Inc),has_Google_Revie
 Magnolia Community Health Center (Community Health Systems Inc),covers,"This program covers residents of the following counties: Riverside County, CA."
 Magnolia Community Health Center (Community Health Systems Inc),zipcode_is,92503.0
 Magnolia Community Health Center (Community Health Systems Inc),24hours_status_is,False
-Magnolia Community Health Center (Community Health Systems Inc),Monday's_time_open,11:00AM - 8:30PM
-Magnolia Community Health Center (Community Health Systems Inc),Tuesday's_time_open,11:00AM - 8:30PM
-Magnolia Community Health Center (Community Health Systems Inc),Wednesday's_time_open,11:00AM - 8:30PM
-Magnolia Community Health Center (Community Health Systems Inc),Thursday's_time_open,11:00AM - 8:30PM
-Magnolia Community Health Center (Community Health Systems Inc),Friday's_time_open,11:00AM - 8:30PM
+Magnolia Community Health Center (Community Health Systems Inc),Monday's_time_open,11:00AM - 20:30PM
+Magnolia Community Health Center (Community Health Systems Inc),Tuesday's_time_open,11:00AM - 20:30PM
+Magnolia Community Health Center (Community Health Systems Inc),Wednesday's_time_open,11:00AM - 20:30PM
+Magnolia Community Health Center (Community Health Systems Inc),Thursday's_time_open,11:00AM - 20:30PM
+Magnolia Community Health Center (Community Health Systems Inc),Friday's_time_open,11:00AM - 20:30PM
 Magnolia Community Health Center (Community Health Systems Inc),Saturday's_time_open,Closed
 Magnolia Community Health Center (Community Health Systems Inc),Sunday's_time_open,Closed
 Magnolia Community Health Center (Community Health Systems Inc),has_a_Google_Rating_of,3.4
@@ -2519,12 +2455,12 @@ Counseling Services (Central Counseling Services Education & Wellness),has_Googl
 Counseling Services (Central Counseling Services Education & Wellness),covers,"This program covers residents of the following counties: Riverside County, CA."
 Counseling Services (Central Counseling Services Education & Wellness),zipcode_is,92506.0
 Counseling Services (Central Counseling Services Education & Wellness),24hours_status_is,False
-Counseling Services (Central Counseling Services Education & Wellness),Monday's_time_open,12:00PM - 10:00PM
-Counseling Services (Central Counseling Services Education & Wellness),Tuesday's_time_open,12:00PM - 10:00PM
-Counseling Services (Central Counseling Services Education & Wellness),Wednesday's_time_open,12:00PM - 10:00PM
-Counseling Services (Central Counseling Services Education & Wellness),Thursday's_time_open,12:00PM - 10:00PM
-Counseling Services (Central Counseling Services Education & Wellness),Friday's_time_open,12:00PM - 9:00PM
-Counseling Services (Central Counseling Services Education & Wellness),Saturday's_time_open,1:00PM - 7:00PM
+Counseling Services (Central Counseling Services Education & Wellness),Monday's_time_open,12:00PM - 22:00PM
+Counseling Services (Central Counseling Services Education & Wellness),Tuesday's_time_open,12:00PM - 22:00PM
+Counseling Services (Central Counseling Services Education & Wellness),Wednesday's_time_open,12:00PM - 22:00PM
+Counseling Services (Central Counseling Services Education & Wellness),Thursday's_time_open,12:00PM - 22:00PM
+Counseling Services (Central Counseling Services Education & Wellness),Friday's_time_open,12:00PM - 21:00PM
+Counseling Services (Central Counseling Services Education & Wellness),Saturday's_time_open,13:00PM - 19:00PM
 Counseling Services (Central Counseling Services Education & Wellness),Sunday's_time_open,Closed
 Counseling Services (Central Counseling Services Education & Wellness),has_a_Google_Rating_of,0
 Counseling Services (Central Counseling Services Education & Wellness),offers,Counseling
@@ -2544,11 +2480,11 @@ Interactive Counseling Program (Solid Ground Wellness),has_Google_Reviews,True
 Interactive Counseling Program (Solid Ground Wellness),covers,"This program covers residents of the following cities: Riverside, CA."
 Interactive Counseling Program (Solid Ground Wellness),zipcode_is,92506.0
 Interactive Counseling Program (Solid Ground Wellness),24hours_status_is,False
-Interactive Counseling Program (Solid Ground Wellness),Monday's_time_open,12:00PM - 9:00PM
-Interactive Counseling Program (Solid Ground Wellness),Tuesday's_time_open,12:00PM - 11:00PM
-Interactive Counseling Program (Solid Ground Wellness),Wednesday's_time_open,12:00PM - 11:00PM
-Interactive Counseling Program (Solid Ground Wellness),Thursday's_time_open,12:00PM - 11:00PM
-Interactive Counseling Program (Solid Ground Wellness),Friday's_time_open,12:00PM - 9:00PM
+Interactive Counseling Program (Solid Ground Wellness),Monday's_time_open,12:00PM - 21:00PM
+Interactive Counseling Program (Solid Ground Wellness),Tuesday's_time_open,12:00PM - 23:00PM
+Interactive Counseling Program (Solid Ground Wellness),Wednesday's_time_open,12:00PM - 23:00PM
+Interactive Counseling Program (Solid Ground Wellness),Thursday's_time_open,12:00PM - 23:00PM
+Interactive Counseling Program (Solid Ground Wellness),Friday's_time_open,12:00PM - 21:00PM
 Interactive Counseling Program (Solid Ground Wellness),Saturday's_time_open,Closed
 Interactive Counseling Program (Solid Ground Wellness),Sunday's_time_open,Closed
 Interactive Counseling Program (Solid Ground Wellness),has_a_Google_Rating_of,5.0
@@ -2567,13 +2503,13 @@ Counseling (Life Source Solutions),costs,Sliding Scale
 Counseling (Life Source Solutions),has_Google_Reviews,False
 Counseling (Life Source Solutions),covers,"This program covers residents of the following counties: Riverside County, CA."
 Counseling (Life Source Solutions),24hours_status_is,False
-Counseling (Life Source Solutions),Monday's_time_open,11:00AM - 11:00PM
-Counseling (Life Source Solutions),Tuesday's_time_open,11:00AM - 11:00PM
-Counseling (Life Source Solutions),Wednesday's_time_open,11:00AM - 11:00PM
-Counseling (Life Source Solutions),Thursday's_time_open,11:00AM - 11:00PM
-Counseling (Life Source Solutions),Friday's_time_open,11:00AM - 11:00PM
-Counseling (Life Source Solutions),Saturday's_time_open,11:00AM - 11:00PM
-Counseling (Life Source Solutions),Sunday's_time_open,11:00AM - 11:00PM
+Counseling (Life Source Solutions),Monday's_time_open,11:00AM - 23:00PM
+Counseling (Life Source Solutions),Tuesday's_time_open,11:00AM - 23:00PM
+Counseling (Life Source Solutions),Wednesday's_time_open,11:00AM - 23:00PM
+Counseling (Life Source Solutions),Thursday's_time_open,11:00AM - 23:00PM
+Counseling (Life Source Solutions),Friday's_time_open,11:00AM - 23:00PM
+Counseling (Life Source Solutions),Saturday's_time_open,11:00AM - 23:00PM
+Counseling (Life Source Solutions),Sunday's_time_open,11:00AM - 23:00PM
 Counseling (Life Source Solutions),has_a_Google_Rating_of,0
 Counseling (Life Source Solutions),offers,Counseling
 Counseling (Life Source Solutions),serves,"['anyone in need', 'adults', 'young adults', 'teens', 'infants', 'children', 'seniors', 'low-income', 'uninsured', 'all mental health'], ['Anyone can access this program.']"
@@ -2588,13 +2524,13 @@ Brightlife Kids program by Brightline (BrightLife Kids),costs,Free
 Brightlife Kids program by Brightline (BrightLife Kids),has_Google_Reviews,False
 Brightlife Kids program by Brightline (BrightLife Kids),covers,This program covers residents of the following states: CA.
 Brightlife Kids program by Brightline (BrightLife Kids),24hours_status_is,False
-Brightlife Kids program by Brightline (BrightLife Kids),Monday's_time_open,?
-Brightlife Kids program by Brightline (BrightLife Kids),Tuesday's_time_open,?
-Brightlife Kids program by Brightline (BrightLife Kids),Wednesday's_time_open,?
-Brightlife Kids program by Brightline (BrightLife Kids),Thursday's_time_open,?
-Brightlife Kids program by Brightline (BrightLife Kids),Friday's_time_open,?
-Brightlife Kids program by Brightline (BrightLife Kids),Saturday's_time_open,?
-Brightlife Kids program by Brightline (BrightLife Kids),Sunday's_time_open,?
+Brightlife Kids program by Brightline (BrightLife Kids),Monday's_time_open,Sign Up
+Brightlife Kids program by Brightline (BrightLife Kids),Tuesday's_time_open,Sign Up
+Brightlife Kids program by Brightline (BrightLife Kids),Wednesday's_time_open,Sign Up
+Brightlife Kids program by Brightline (BrightLife Kids),Thursday's_time_open,Sign Up
+Brightlife Kids program by Brightline (BrightLife Kids),Friday's_time_open,Sign Up
+Brightlife Kids program by Brightline (BrightLife Kids),Saturday's_time_open,Sign Up
+Brightlife Kids program by Brightline (BrightLife Kids),Sunday's_time_open,Sign Up
 Brightlife Kids program by Brightline (BrightLife Kids),has_a_Google_Rating_of,0
 Brightlife Kids program by Brightline (BrightLife Kids),offers,Behavioral Health
 Brightlife Kids program by Brightline (BrightLife Kids),serves,"['lgbtqia+', 'families', 'with children', 'limited english', 'african american', 'asian', 'latino', 'native american', 'caregivers', 'parents', 'all mental health'], ['This program helps people who are 0 to 12 years old', 'This program serves families residing in the state of California.']"
@@ -2650,13 +2586,13 @@ Online Grief Support (The Compassionate Friends),costs,Free
 Online Grief Support (The Compassionate Friends),has_Google_Reviews,False
 Online Grief Support (The Compassionate Friends),covers,"This program covers residents of the following states: AK, AL, AR, AS, AZ, CA, CO, CT, DC, DE, FL, GA, GU, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MP, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, PR, RI, SC, SD, TN, TX, UT, VA, VI, VT, WA, WI, WV and WY."
 Online Grief Support (The Compassionate Friends),24hours_status_is,False
-Online Grief Support (The Compassionate Friends),Monday's_time_open,?
-Online Grief Support (The Compassionate Friends),Tuesday's_time_open,?
-Online Grief Support (The Compassionate Friends),Wednesday's_time_open,?
-Online Grief Support (The Compassionate Friends),Thursday's_time_open,?
-Online Grief Support (The Compassionate Friends),Friday's_time_open,?
-Online Grief Support (The Compassionate Friends),Saturday's_time_open,?
-Online Grief Support (The Compassionate Friends),Sunday's_time_open,?
+Online Grief Support (The Compassionate Friends),Monday's_time_open,Check Calendar
+Online Grief Support (The Compassionate Friends),Tuesday's_time_open,Check Calendar
+Online Grief Support (The Compassionate Friends),Wednesday's_time_open,Check Calendar
+Online Grief Support (The Compassionate Friends),Thursday's_time_open,Check Calendar
+Online Grief Support (The Compassionate Friends),Friday's_time_open,Check Calendar
+Online Grief Support (The Compassionate Friends),Saturday's_time_open,Check Calendar
+Online Grief Support (The Compassionate Friends),Sunday's_time_open,Check Calendar
 Online Grief Support (The Compassionate Friends),has_a_Google_Rating_of,0
 Online Grief Support (The Compassionate Friends),offers,Virtual Support Group
 Online Grief Support (The Compassionate Friends),serves,"['adults 18+', 'grieving', 'families', 'with children', 'caregivers', 'fathers', 'mothers', 'parents'], ['This program is available to grieving parents, grandparents, and siblings over the age of 18.']"
@@ -2676,26 +2612,6 @@ California Youth Crisis Line (California Coalition for Youth),has_a_Google_Ratin
 California Youth Crisis Line (California Coalition for Youth),offers,Hotline
 California Youth Crisis Line (California Coalition for Youth),serves,"['young adults', 'teens', 'children', 'families', 'limited english', 'trauma survivors', 'abuse or neglect survivors', 'domestic violence survivors', 'human trafficking survivors', 'sexual assault survivors', 'in crisis', 'emergency', 'depression', 'all mental health'], ['This program helps people who are 12 to 24 years old.']"
 California Youth Crisis Line (California Coalition for Youth),socials_are,"https://www.facebook.com/pages/California-Coalition-For-Youth/12569596997, https://www.twitter.com/@calyouth"
-Transgender Support Group (Embrace Counseling),main_services_are,"['mental health care', 'support groups']"
-Transgender Support Group (Embrace Counseling),phone_number_is,714-504-8840
-Transgender Support Group (Embrace Counseling),website_is,https://www.embracecounseling.org/services
-Transgender Support Group (Embrace Counseling),has_an_availability_status_of,temporarily closed
-Transgender Support Group (Embrace Counseling),description_is,"Dr. Justin Lutz offers a weekly support group for transgender individuals and their families. This group provides a safe space to explore hardships and celebrate wins in a group of peers.This program provides: - Transgender support groupCOVID-19 Update: this program is currently closed, however, the provider expects it to return in Zoom format soon. Please call for updates."
-Transgender Support Group (Embrace Counseling),speaks,['English']
-Transgender Support Group (Embrace Counseling),costs,Free
-Transgender Support Group (Embrace Counseling),has_Google_Reviews,False
-Transgender Support Group (Embrace Counseling),covers,This program covers residents of the following states: CA.
-Transgender Support Group (Embrace Counseling),24hours_status_is,False
-Transgender Support Group (Embrace Counseling),Monday's_time_open,?
-Transgender Support Group (Embrace Counseling),Tuesday's_time_open,?
-Transgender Support Group (Embrace Counseling),Wednesday's_time_open,?
-Transgender Support Group (Embrace Counseling),Thursday's_time_open,?
-Transgender Support Group (Embrace Counseling),Friday's_time_open,?
-Transgender Support Group (Embrace Counseling),Saturday's_time_open,?
-Transgender Support Group (Embrace Counseling),Sunday's_time_open,?
-Transgender Support Group (Embrace Counseling),has_a_Google_Rating_of,0
-Transgender Support Group (Embrace Counseling),offers,Counseling
-Transgender Support Group (Embrace Counseling),serves,"['anyone in need', 'all ages', 'lgbtqia+', 'transgender or non-binary', 'individuals', 'families', 'all mental health'], ['The group is open to the public and everyone is welcome.']"
 Helpline (New Creation Treatment),main_services_are,"['addiction & recovery', 'outpatient treatment', 'medical care']"
 Helpline (New Creation Treatment),phone_number_is,877-868-5730
 Helpline (New Creation Treatment),website_is,https://newcreationtreatment.com/
@@ -2746,13 +2662,13 @@ Support Groups (Grief Share),costs,Reduced Cost
 Support Groups (Grief Share),has_Google_Reviews,False
 Support Groups (Grief Share),covers,"This program covers residents of the following states: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, GU, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV and WY."
 Support Groups (Grief Share),24hours_status_is,False
-Support Groups (Grief Share),Monday's_time_open,?
-Support Groups (Grief Share),Tuesday's_time_open,?
-Support Groups (Grief Share),Wednesday's_time_open,?
-Support Groups (Grief Share),Thursday's_time_open,?
-Support Groups (Grief Share),Friday's_time_open,?
-Support Groups (Grief Share),Saturday's_time_open,?
-Support Groups (Grief Share),Sunday's_time_open,?
+Support Groups (Grief Share),Monday's_time_open,Check Calendar
+Support Groups (Grief Share),Tuesday's_time_open,Check Calendar
+Support Groups (Grief Share),Wednesday's_time_open,Check Calendar
+Support Groups (Grief Share),Thursday's_time_open,Check Calendar
+Support Groups (Grief Share),Friday's_time_open,Check Calendar
+Support Groups (Grief Share),Saturday's_time_open,Check Calendar
+Support Groups (Grief Share),Sunday's_time_open,Check Calendar
 Support Groups (Grief Share),has_a_Google_Rating_of,0
 Support Groups (Grief Share),offers,Support Group
 Support Groups (Grief Share),serves,"['adults', 'young adults', 'teens', 'seniors', 'grieving', 'individuals'], ['This program serves individuals and families who are grieving the death of a family member or friend.']"
@@ -2766,13 +2682,13 @@ Support Group (Overeaters Anonymous),costs,Free
 Support Group (Overeaters Anonymous),has_Google_Reviews,False
 Support Group (Overeaters Anonymous),covers,This program covers residents of the following states: CA.
 Support Group (Overeaters Anonymous),24hours_status_is,False
-Support Group (Overeaters Anonymous),Monday's_time_open,?
-Support Group (Overeaters Anonymous),Tuesday's_time_open,?
-Support Group (Overeaters Anonymous),Wednesday's_time_open,?
-Support Group (Overeaters Anonymous),Thursday's_time_open,?
-Support Group (Overeaters Anonymous),Friday's_time_open,?
-Support Group (Overeaters Anonymous),Saturday's_time_open,?
-Support Group (Overeaters Anonymous),Sunday's_time_open,?
+Support Group (Overeaters Anonymous),Monday's_time_open,Check Calendar
+Support Group (Overeaters Anonymous),Tuesday's_time_open,Check Calendar
+Support Group (Overeaters Anonymous),Wednesday's_time_open,Check Calendar
+Support Group (Overeaters Anonymous),Thursday's_time_open,Check Calendar
+Support Group (Overeaters Anonymous),Friday's_time_open,Check Calendar
+Support Group (Overeaters Anonymous),Saturday's_time_open,Check Calendar
+Support Group (Overeaters Anonymous),Sunday's_time_open,Check Calendar
 Support Group (Overeaters Anonymous),has_a_Google_Rating_of,0
 Support Group (Overeaters Anonymous),offers,"Online Meetings, Hotline"
 Support Group (Overeaters Anonymous),serves,"['adults 18+', 'eating disorder'], ['This program serves individuals who have been impacted by compulsive eating.']"
@@ -2786,13 +2702,13 @@ Caregiver Teleconnection (WellMed Charitable Foundation),costs,Free
 Caregiver Teleconnection (WellMed Charitable Foundation),has_Google_Reviews,False
 Caregiver Teleconnection (WellMed Charitable Foundation),covers,This program covers residents of All US states and territories.
 Caregiver Teleconnection (WellMed Charitable Foundation),24hours_status_is,False
-Caregiver Teleconnection (WellMed Charitable Foundation),Monday's_time_open,?
-Caregiver Teleconnection (WellMed Charitable Foundation),Tuesday's_time_open,?
-Caregiver Teleconnection (WellMed Charitable Foundation),Wednesday's_time_open,?
-Caregiver Teleconnection (WellMed Charitable Foundation),Thursday's_time_open,?
-Caregiver Teleconnection (WellMed Charitable Foundation),Friday's_time_open,?
-Caregiver Teleconnection (WellMed Charitable Foundation),Saturday's_time_open,?
-Caregiver Teleconnection (WellMed Charitable Foundation),Sunday's_time_open,?
+Caregiver Teleconnection (WellMed Charitable Foundation),Monday's_time_open,Check Calendar
+Caregiver Teleconnection (WellMed Charitable Foundation),Tuesday's_time_open,Check Calendar
+Caregiver Teleconnection (WellMed Charitable Foundation),Wednesday's_time_open,Check Calendar
+Caregiver Teleconnection (WellMed Charitable Foundation),Thursday's_time_open,Check Calendar
+Caregiver Teleconnection (WellMed Charitable Foundation),Friday's_time_open,Check Calendar
+Caregiver Teleconnection (WellMed Charitable Foundation),Saturday's_time_open,Check Calendar
+Caregiver Teleconnection (WellMed Charitable Foundation),Sunday's_time_open,Check Calendar
 Caregiver Teleconnection (WellMed Charitable Foundation),has_a_Google_Rating_of,0
 Caregiver Teleconnection (WellMed Charitable Foundation),offers,Support
 Caregiver Teleconnection (WellMed Charitable Foundation),serves,"['adults 18+', 'alzheimers', 'caregivers'], ['This program serves caregivers.']"
@@ -2821,13 +2737,13 @@ Eating Disorder Navigation and Assistance (Project Heal),costs,Free
 Eating Disorder Navigation and Assistance (Project Heal),has_Google_Reviews,False
 Eating Disorder Navigation and Assistance (Project Heal),covers,"This program covers residents of the following states: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV and WY."
 Eating Disorder Navigation and Assistance (Project Heal),24hours_status_is,False
-Eating Disorder Navigation and Assistance (Project Heal),Monday's_time_open,?
-Eating Disorder Navigation and Assistance (Project Heal),Tuesday's_time_open,?
-Eating Disorder Navigation and Assistance (Project Heal),Wednesday's_time_open,?
-Eating Disorder Navigation and Assistance (Project Heal),Thursday's_time_open,?
-Eating Disorder Navigation and Assistance (Project Heal),Friday's_time_open,?
-Eating Disorder Navigation and Assistance (Project Heal),Saturday's_time_open,?
-Eating Disorder Navigation and Assistance (Project Heal),Sunday's_time_open,?
+Eating Disorder Navigation and Assistance (Project Heal),Monday's_time_open,Apply
+Eating Disorder Navigation and Assistance (Project Heal),Tuesday's_time_open,Apply
+Eating Disorder Navigation and Assistance (Project Heal),Wednesday's_time_open,Apply
+Eating Disorder Navigation and Assistance (Project Heal),Thursday's_time_open,Apply
+Eating Disorder Navigation and Assistance (Project Heal),Friday's_time_open,Apply
+Eating Disorder Navigation and Assistance (Project Heal),Saturday's_time_open,Apply
+Eating Disorder Navigation and Assistance (Project Heal),Sunday's_time_open,Apply
 Eating Disorder Navigation and Assistance (Project Heal),has_a_Google_Rating_of,0
 Eating Disorder Navigation and Assistance (Project Heal),offers,Navigation
 Eating Disorder Navigation and Assistance (Project Heal),serves,"['adults', 'young adults', 'teens', 'children', 'seniors', 'lgbtqia+', 'transgender or non-binary', 'with children', 'uninsured', 'underinsured', 'african american', 'asian', 'latino', 'native american', 'parents', 'eating disorder', 'all mental health', 'dual diagnosis'], ['This program serves individuals with eating disorders including shared marginalized identities (including but not limited to, identities based on: Race, Gender, Sexuality, Ability, Age, and Religion).']"
@@ -2842,13 +2758,13 @@ Virtual Counseling (Family Assessment Counseling & Education Services),costs,Sli
 Virtual Counseling (Family Assessment Counseling & Education Services),has_Google_Reviews,False
 Virtual Counseling (Family Assessment Counseling & Education Services),covers,This program covers residents of the following states: CA.
 Virtual Counseling (Family Assessment Counseling & Education Services),24hours_status_is,False
-Virtual Counseling (Family Assessment Counseling & Education Services),Monday's_time_open,?
-Virtual Counseling (Family Assessment Counseling & Education Services),Tuesday's_time_open,?
-Virtual Counseling (Family Assessment Counseling & Education Services),Wednesday's_time_open,?
-Virtual Counseling (Family Assessment Counseling & Education Services),Thursday's_time_open,?
-Virtual Counseling (Family Assessment Counseling & Education Services),Friday's_time_open,?
-Virtual Counseling (Family Assessment Counseling & Education Services),Saturday's_time_open,?
-Virtual Counseling (Family Assessment Counseling & Education Services),Sunday's_time_open,?
+Virtual Counseling (Family Assessment Counseling & Education Services),Monday's_time_open,Sign Up
+Virtual Counseling (Family Assessment Counseling & Education Services),Tuesday's_time_open,Sign Up
+Virtual Counseling (Family Assessment Counseling & Education Services),Wednesday's_time_open,Sign Up
+Virtual Counseling (Family Assessment Counseling & Education Services),Thursday's_time_open,Sign Up
+Virtual Counseling (Family Assessment Counseling & Education Services),Friday's_time_open,Sign Up
+Virtual Counseling (Family Assessment Counseling & Education Services),Saturday's_time_open,Sign Up
+Virtual Counseling (Family Assessment Counseling & Education Services),Sunday's_time_open,Sign Up
 Virtual Counseling (Family Assessment Counseling & Education Services),has_a_Google_Rating_of,0
 Virtual Counseling (Family Assessment Counseling & Education Services),offers,Virtual Counseling
 Virtual Counseling (Family Assessment Counseling & Education Services),serves,"['adults', 'young adults', 'teens', 'school-aged children', 'preschoolers', 'toddlers', 'seniors', 'individuals', 'families', 'low-income', 'uninsured', 'all mental health'], ['Must meet income requirements for sliding scale fees.']"
@@ -2863,13 +2779,13 @@ Deaf Counseling Services (Deaf Counseling Center),costs,Sliding Scale
 Deaf Counseling Services (Deaf Counseling Center),has_Google_Reviews,False
 Deaf Counseling Services (Deaf Counseling Center),covers,"This program covers residents of the following states: WA, WI, WV, FL, WY, NH, NJ, NM, NC, ND, NE, NY, RI, NV, CO, CA, GA, CT, OK, OH, KS, SC, KY, OR, SD, DE, DC, HI, TX, LA, TN, PA, VA, AK, AL, AR, VT, IL, IN, IA, AZ, ID, ME, MD, MA, UT, MO, MN, MI, MT and MS."
 Deaf Counseling Services (Deaf Counseling Center),24hours_status_is,False
-Deaf Counseling Services (Deaf Counseling Center),Monday's_time_open,?
-Deaf Counseling Services (Deaf Counseling Center),Tuesday's_time_open,?
-Deaf Counseling Services (Deaf Counseling Center),Wednesday's_time_open,?
-Deaf Counseling Services (Deaf Counseling Center),Thursday's_time_open,?
-Deaf Counseling Services (Deaf Counseling Center),Friday's_time_open,?
-Deaf Counseling Services (Deaf Counseling Center),Saturday's_time_open,?
-Deaf Counseling Services (Deaf Counseling Center),Sunday's_time_open,?
+Deaf Counseling Services (Deaf Counseling Center),Monday's_time_open,Message
+Deaf Counseling Services (Deaf Counseling Center),Tuesday's_time_open,Message
+Deaf Counseling Services (Deaf Counseling Center),Wednesday's_time_open,Message
+Deaf Counseling Services (Deaf Counseling Center),Thursday's_time_open,Message
+Deaf Counseling Services (Deaf Counseling Center),Friday's_time_open,Message
+Deaf Counseling Services (Deaf Counseling Center),Saturday's_time_open,Message
+Deaf Counseling Services (Deaf Counseling Center),Sunday's_time_open,Message
 Deaf Counseling Services (Deaf Counseling Center),has_a_Google_Rating_of,0
 Deaf Counseling Services (Deaf Counseling Center),offers,Counseling
 Deaf Counseling Services (Deaf Counseling Center),serves,"['adults', 'young adults', 'teens', 'children', 'seniors', 'deaf or hard of hearing', 'grieving', 'individuals', 'families', 'low-income', 'spouses', 'depression', 'anxiety', 'all mental health', 'substance dependency'], ['This program serves Deaf people and their families.', 'Must meet income guidelines.']"
@@ -2884,11 +2800,11 @@ Prison Ministry (Touch of Love/New Beginnings),costs,Free
 Prison Ministry (Touch of Love/New Beginnings),has_Google_Reviews,False
 Prison Ministry (Touch of Love/New Beginnings),covers,This program covers residents of the following states: CA.
 Prison Ministry (Touch of Love/New Beginnings),24hours_status_is,False
-Prison Ministry (Touch of Love/New Beginnings),Monday's_time_open,12:00PM - 9:00PM
-Prison Ministry (Touch of Love/New Beginnings),Tuesday's_time_open,12:00PM - 9:00PM
-Prison Ministry (Touch of Love/New Beginnings),Wednesday's_time_open,12:00PM - 9:00PM
-Prison Ministry (Touch of Love/New Beginnings),Thursday's_time_open,12:00PM - 9:00PM
-Prison Ministry (Touch of Love/New Beginnings),Friday's_time_open,12:00PM - 9:00PM
+Prison Ministry (Touch of Love/New Beginnings),Monday's_time_open,12:00PM - 21:00PM
+Prison Ministry (Touch of Love/New Beginnings),Tuesday's_time_open,12:00PM - 21:00PM
+Prison Ministry (Touch of Love/New Beginnings),Wednesday's_time_open,12:00PM - 21:00PM
+Prison Ministry (Touch of Love/New Beginnings),Thursday's_time_open,12:00PM - 21:00PM
+Prison Ministry (Touch of Love/New Beginnings),Friday's_time_open,12:00PM - 21:00PM
 Prison Ministry (Touch of Love/New Beginnings),Saturday's_time_open,Closed
 Prison Ministry (Touch of Love/New Beginnings),Sunday's_time_open,Closed
 Prison Ministry (Touch of Love/New Beginnings),has_a_Google_Rating_of,0
@@ -2991,14 +2907,7 @@ Remaining Hopeful (National Coalition for Cancer Survivorship),speaks,['English'
 Remaining Hopeful (National Coalition for Cancer Survivorship),costs,Free
 Remaining Hopeful (National Coalition for Cancer Survivorship),has_Google_Reviews,False
 Remaining Hopeful (National Coalition for Cancer Survivorship),covers,This program covers residents of All US states and territories.
-Remaining Hopeful (National Coalition for Cancer Survivorship),24hours_status_is,False
-Remaining Hopeful (National Coalition for Cancer Survivorship),Monday's_time_open,?
-Remaining Hopeful (National Coalition for Cancer Survivorship),Tuesday's_time_open,?
-Remaining Hopeful (National Coalition for Cancer Survivorship),Wednesday's_time_open,?
-Remaining Hopeful (National Coalition for Cancer Survivorship),Thursday's_time_open,?
-Remaining Hopeful (National Coalition for Cancer Survivorship),Friday's_time_open,?
-Remaining Hopeful (National Coalition for Cancer Survivorship),Saturday's_time_open,?
-Remaining Hopeful (National Coalition for Cancer Survivorship),Sunday's_time_open,?
+Remaining Hopeful (National Coalition for Cancer Survivorship),24hours_status_is,True
 Remaining Hopeful (National Coalition for Cancer Survivorship),has_a_Google_Rating_of,0
 Remaining Hopeful (National Coalition for Cancer Survivorship),offers,Publication
 Remaining Hopeful (National Coalition for Cancer Survivorship),serves,"['all ages', 'all care phases', 'recently diagnosed', 'on-treatment', 'cancer', 'individuals', 'families'], []"
@@ -3013,13 +2922,13 @@ Stanford Children's Health Teen Van (Stanford Children's Health),costs,Free
 Stanford Children's Health Teen Van (Stanford Children's Health),has_Google_Reviews,False
 Stanford Children's Health Teen Van (Stanford Children's Health),covers,This program covers residents of the following states: CA.
 Stanford Children's Health Teen Van (Stanford Children's Health),24hours_status_is,False
-Stanford Children's Health Teen Van (Stanford Children's Health),Monday's_time_open,?
-Stanford Children's Health Teen Van (Stanford Children's Health),Tuesday's_time_open,?
-Stanford Children's Health Teen Van (Stanford Children's Health),Wednesday's_time_open,?
-Stanford Children's Health Teen Van (Stanford Children's Health),Thursday's_time_open,?
-Stanford Children's Health Teen Van (Stanford Children's Health),Friday's_time_open,?
-Stanford Children's Health Teen Van (Stanford Children's Health),Saturday's_time_open,?
-Stanford Children's Health Teen Van (Stanford Children's Health),Sunday's_time_open,?
+Stanford Children's Health Teen Van (Stanford Children's Health),Monday's_time_open,Check Calendar
+Stanford Children's Health Teen Van (Stanford Children's Health),Tuesday's_time_open,Check Calendar
+Stanford Children's Health Teen Van (Stanford Children's Health),Wednesday's_time_open,Check Calendar
+Stanford Children's Health Teen Van (Stanford Children's Health),Thursday's_time_open,Check Calendar
+Stanford Children's Health Teen Van (Stanford Children's Health),Friday's_time_open,Check Calendar
+Stanford Children's Health Teen Van (Stanford Children's Health),Saturday's_time_open,Check Calendar
+Stanford Children's Health Teen Van (Stanford Children's Health),Sunday's_time_open,Check Calendar
 Stanford Children's Health Teen Van (Stanford Children's Health),has_a_Google_Rating_of,0
 Stanford Children's Health Teen Van (Stanford Children's Health),offers,Clinic
 Stanford Children's Health Teen Van (Stanford Children's Health),serves,"['young adults', 'teens', 'students', 'low-income', 'uninsured', 'underinsured'], ['This program helps people who are 12-25 years old.']"
@@ -3053,13 +2962,13 @@ Support Groups (TruEvolution Inc.),has_Google_Reviews,True
 Support Groups (TruEvolution Inc.),covers,"This program covers residents of the following counties: Riverside County, CA and San Bernardino County, CA."
 Support Groups (TruEvolution Inc.),zipcode_is,92501.0
 Support Groups (TruEvolution Inc.),24hours_status_is,False
-Support Groups (TruEvolution Inc.),Monday's_time_open,?
-Support Groups (TruEvolution Inc.),Tuesday's_time_open,?
-Support Groups (TruEvolution Inc.),Wednesday's_time_open,?
-Support Groups (TruEvolution Inc.),Thursday's_time_open,?
-Support Groups (TruEvolution Inc.),Friday's_time_open,?
-Support Groups (TruEvolution Inc.),Saturday's_time_open,?
-Support Groups (TruEvolution Inc.),Sunday's_time_open,?
+Support Groups (TruEvolution Inc.),Monday's_time_open,Check Calendar
+Support Groups (TruEvolution Inc.),Tuesday's_time_open,Check Calendar
+Support Groups (TruEvolution Inc.),Wednesday's_time_open,Check Calendar
+Support Groups (TruEvolution Inc.),Thursday's_time_open,Check Calendar
+Support Groups (TruEvolution Inc.),Friday's_time_open,Check Calendar
+Support Groups (TruEvolution Inc.),Saturday's_time_open,Check Calendar
+Support Groups (TruEvolution Inc.),Sunday's_time_open,Check Calendar
 Support Groups (TruEvolution Inc.),has_a_Google_Rating_of,4.5
 Support Groups (TruEvolution Inc.),offers,Support Group
 Support Groups (TruEvolution Inc.),serves,"['adults', 'young adults', 'teens', 'seniors', 'lgbtqia+', 'infectious disease', 'hiv/aids', 'limited english'], ['This program serves LGBTQ+, and HIV/AIDS positive persons. See the specific details for each group.']"

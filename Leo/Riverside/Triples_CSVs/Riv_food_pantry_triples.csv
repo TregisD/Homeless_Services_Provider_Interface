@@ -12,10 +12,10 @@ Food Pantry (Elevate Life Church),covers,"This program covers residents of the f
 Food Pantry (Elevate Life Church),zipcode_is,92505.0
 Food Pantry (Elevate Life Church),24hours_status_is,False
 Food Pantry (Elevate Life Church),Monday's_time_open,Closed
-Food Pantry (Elevate Life Church),Tuesday's_time_open,12:00PM - 2:00PM
+Food Pantry (Elevate Life Church),Tuesday's_time_open,12:00PM - 14:00PM
 Food Pantry (Elevate Life Church),Wednesday's_time_open,Closed
 Food Pantry (Elevate Life Church),Thursday's_time_open,Closed
-Food Pantry (Elevate Life Church),Friday's_time_open,12:00PM - 2:00PM
+Food Pantry (Elevate Life Church),Friday's_time_open,12:00PM - 14:00PM
 Food Pantry (Elevate Life Church),Saturday's_time_open,Closed
 Food Pantry (Elevate Life Church),Sunday's_time_open,Closed
 Food Pantry (Elevate Life Church),has_a_Google_Rating_of,0
@@ -40,7 +40,7 @@ Food Bank (Lake Hills Christian Center),Monday's_time_open,Closed
 Food Bank (Lake Hills Christian Center),Tuesday's_time_open,Closed
 Food Bank (Lake Hills Christian Center),Wednesday's_time_open,Closed
 Food Bank (Lake Hills Christian Center),Thursday's_time_open,Closed
-Food Bank (Lake Hills Christian Center),Friday's_time_open,2:00 PM - 4:00 PM
+Food Bank (Lake Hills Christian Center),Friday's_time_open,14:00 PM - 16:00 PM
 Food Bank (Lake Hills Christian Center),Saturday's_time_open,Closed
 Food Bank (Lake Hills Christian Center),Sunday's_time_open,Closed
 Food Bank (Lake Hills Christian Center),has_a_Google_Rating_of,4.9
@@ -61,11 +61,11 @@ Blessing Bag of Food (Trinity Lutheran Church),has_Google_Reviews,False
 Blessing Bag of Food (Trinity Lutheran Church),covers,"This program covers residents of the following cities: Riverside, CA."
 Blessing Bag of Food (Trinity Lutheran Church),zipcode_is,92506.0
 Blessing Bag of Food (Trinity Lutheran Church),24hours_status_is,False
-Blessing Bag of Food (Trinity Lutheran Church),Monday's_time_open,12:00PM - 4:00PM
-Blessing Bag of Food (Trinity Lutheran Church),Tuesday's_time_open,12:00PM - 4:00PM
-Blessing Bag of Food (Trinity Lutheran Church),Wednesday's_time_open,12:00PM - 4:00PM
-Blessing Bag of Food (Trinity Lutheran Church),Thursday's_time_open,12:00PM - 4:00PM
-Blessing Bag of Food (Trinity Lutheran Church),Friday's_time_open,12:00PM - 4:00PM
+Blessing Bag of Food (Trinity Lutheran Church),Monday's_time_open,12:00PM - 16:00PM
+Blessing Bag of Food (Trinity Lutheran Church),Tuesday's_time_open,12:00PM - 16:00PM
+Blessing Bag of Food (Trinity Lutheran Church),Wednesday's_time_open,12:00PM - 16:00PM
+Blessing Bag of Food (Trinity Lutheran Church),Thursday's_time_open,12:00PM - 16:00PM
+Blessing Bag of Food (Trinity Lutheran Church),Friday's_time_open,12:00PM - 16:00PM
 Blessing Bag of Food (Trinity Lutheran Church),Saturday's_time_open,Closed
 Blessing Bag of Food (Trinity Lutheran Church),Sunday's_time_open,Closed
 Blessing Bag of Food (Trinity Lutheran Church),has_a_Google_Rating_of,0
@@ -86,10 +86,10 @@ Grocery and Clothing Assistance (Arlington Temporary Assistance),has_Google_Revi
 Grocery and Clothing Assistance (Arlington Temporary Assistance),covers,"This program covers residents of the following cities: Riverside, CA."
 Grocery and Clothing Assistance (Arlington Temporary Assistance),zipcode_is,92505.0
 Grocery and Clothing Assistance (Arlington Temporary Assistance),24hours_status_is,False
-Grocery and Clothing Assistance (Arlington Temporary Assistance),Monday's_time_open,1:00PM - 6:00PM
-Grocery and Clothing Assistance (Arlington Temporary Assistance),Tuesday's_time_open,1:00PM - 4:00PM
-Grocery and Clothing Assistance (Arlington Temporary Assistance),Wednesday's_time_open,1:00PM - 6:00PM
-Grocery and Clothing Assistance (Arlington Temporary Assistance),Thursday's_time_open,1:00PM - 4:00PM
+Grocery and Clothing Assistance (Arlington Temporary Assistance),Monday's_time_open,13:00PM - 18:00PM
+Grocery and Clothing Assistance (Arlington Temporary Assistance),Tuesday's_time_open,13:00PM - 16:00PM
+Grocery and Clothing Assistance (Arlington Temporary Assistance),Wednesday's_time_open,13:00PM - 18:00PM
+Grocery and Clothing Assistance (Arlington Temporary Assistance),Thursday's_time_open,13:00PM - 16:00PM
 Grocery and Clothing Assistance (Arlington Temporary Assistance),Friday's_time_open,Closed
 Grocery and Clothing Assistance (Arlington Temporary Assistance),Saturday's_time_open,Closed
 Grocery and Clothing Assistance (Arlington Temporary Assistance),Sunday's_time_open,Closed
@@ -114,7 +114,7 @@ Food Pantry (Queen of Angels),24hours_status_is,False
 Food Pantry (Queen of Angels),Monday's_time_open,Closed
 Food Pantry (Queen of Angels),Tuesday's_time_open,Closed
 Food Pantry (Queen of Angels),Wednesday's_time_open,Closed
-Food Pantry (Queen of Angels),Thursday's_time_open,12:00PM - 1:00PM  PST
+Food Pantry (Queen of Angels),Thursday's_time_open,12:00PM - 13:00PM  PST
 Food Pantry (Queen of Angels),Friday's_time_open,Closed
 Food Pantry (Queen of Angels),Saturday's_time_open,Closed
 Food Pantry (Queen of Angels),Sunday's_time_open,Closed
@@ -135,13 +135,13 @@ Emergency Food Assistance Program (Bright Path Center),has_Google_Reviews,False
 Emergency Food Assistance Program (Bright Path Center),covers,"This program covers residents of the following counties: Riverside County, CA and San Bernardino County, CA."
 Emergency Food Assistance Program (Bright Path Center),zipcode_is,92501.0
 Emergency Food Assistance Program (Bright Path Center),24hours_status_is,False
-Emergency Food Assistance Program (Bright Path Center),Monday's_time_open,12:00PM - 8:00PM
-Emergency Food Assistance Program (Bright Path Center),Tuesday's_time_open,12:00PM - 8:00PM
-Emergency Food Assistance Program (Bright Path Center),Wednesday's_time_open,12:00PM - 8:00PM
-Emergency Food Assistance Program (Bright Path Center),Thursday's_time_open,12:00PM - 8:00PM
-Emergency Food Assistance Program (Bright Path Center),Friday's_time_open,12:00PM - 8:00PM
+Emergency Food Assistance Program (Bright Path Center),Monday's_time_open,12:00PM - 20:00PM
+Emergency Food Assistance Program (Bright Path Center),Tuesday's_time_open,12:00PM - 20:00PM
+Emergency Food Assistance Program (Bright Path Center),Wednesday's_time_open,12:00PM - 20:00PM
+Emergency Food Assistance Program (Bright Path Center),Thursday's_time_open,12:00PM - 20:00PM
+Emergency Food Assistance Program (Bright Path Center),Friday's_time_open,12:00PM - 20:00PM
 Emergency Food Assistance Program (Bright Path Center),Saturday's_time_open,Closed
-Emergency Food Assistance Program (Bright Path Center),Sunday's_time_open,5:00PM - 8:00PM
+Emergency Food Assistance Program (Bright Path Center),Sunday's_time_open,17:00PM - 20:00PM
 Emergency Food Assistance Program (Bright Path Center),has_a_Google_Rating_of,0
 Emergency Food Assistance Program (Bright Path Center),offers,Food
 Emergency Food Assistance Program (Bright Path Center),serves,"['anyone in need', 'all ages', 'unemployed', 'individuals', 'families', 'homeless', 'near homeless', 'low-income'], ['This program serves anyone in need.']"
@@ -160,9 +160,9 @@ Food Pantry (Community Settlement Association),has_Google_Reviews,True
 Food Pantry (Community Settlement Association),covers,"This program covers residents of the following cities: Riverside, CA."
 Food Pantry (Community Settlement Association),zipcode_is,92507.0
 Food Pantry (Community Settlement Association),24hours_status_is,False
-Food Pantry (Community Settlement Association),Monday's_time_open,2:00PM - 3:00PM
+Food Pantry (Community Settlement Association),Monday's_time_open,14:00PM - 15:00PM
 Food Pantry (Community Settlement Association),Tuesday's_time_open,Closed
-Food Pantry (Community Settlement Association),Wednesday's_time_open,2:00PM - 3:00PM
+Food Pantry (Community Settlement Association),Wednesday's_time_open,14:00PM - 15:00PM
 Food Pantry (Community Settlement Association),Thursday's_time_open,Closed
 Food Pantry (Community Settlement Association),Friday's_time_open,Closed
 Food Pantry (Community Settlement Association),Saturday's_time_open,Closed
@@ -185,13 +185,13 @@ Support Services - Homeless Outreach (Bright Path Center),has_Google_Reviews,Fal
 Support Services - Homeless Outreach (Bright Path Center),covers,"This program covers residents of the following counties: Riverside County, CA and San Bernardino County, CA."
 Support Services - Homeless Outreach (Bright Path Center),zipcode_is,92501.0
 Support Services - Homeless Outreach (Bright Path Center),24hours_status_is,False
-Support Services - Homeless Outreach (Bright Path Center),Monday's_time_open,12:00PM - 8:00PM
-Support Services - Homeless Outreach (Bright Path Center),Tuesday's_time_open,12:00PM - 8:00PM
-Support Services - Homeless Outreach (Bright Path Center),Wednesday's_time_open,12:00PM - 8:00PM
-Support Services - Homeless Outreach (Bright Path Center),Thursday's_time_open,12:00PM - 8:00PM
-Support Services - Homeless Outreach (Bright Path Center),Friday's_time_open,12:00PM - 8:00PM
+Support Services - Homeless Outreach (Bright Path Center),Monday's_time_open,12:00PM - 20:00PM
+Support Services - Homeless Outreach (Bright Path Center),Tuesday's_time_open,12:00PM - 20:00PM
+Support Services - Homeless Outreach (Bright Path Center),Wednesday's_time_open,12:00PM - 20:00PM
+Support Services - Homeless Outreach (Bright Path Center),Thursday's_time_open,12:00PM - 20:00PM
+Support Services - Homeless Outreach (Bright Path Center),Friday's_time_open,12:00PM - 20:00PM
 Support Services - Homeless Outreach (Bright Path Center),Saturday's_time_open,Closed
-Support Services - Homeless Outreach (Bright Path Center),Sunday's_time_open,5:00PM - 8:00PM
+Support Services - Homeless Outreach (Bright Path Center),Sunday's_time_open,17:00PM - 20:00PM
 Support Services - Homeless Outreach (Bright Path Center),has_a_Google_Rating_of,0
 Support Services - Homeless Outreach (Bright Path Center),offers,Food
 Support Services - Homeless Outreach (Bright Path Center),serves,"['anyone in need', 'all ages', 'unemployed', 'individuals', 'families', 'homeless', 'near homeless', 'low-income'], ['This program serves anyone in need.']"
@@ -213,7 +213,7 @@ Food Pantry (Riverside Spanish SDA Church),Monday's_time_open,Closed
 Food Pantry (Riverside Spanish SDA Church),Tuesday's_time_open,Closed
 Food Pantry (Riverside Spanish SDA Church),Wednesday's_time_open,Closed
 Food Pantry (Riverside Spanish SDA Church),Thursday's_time_open,Closed
-Food Pantry (Riverside Spanish SDA Church),Friday's_time_open,12:00PM - 2:00PM
+Food Pantry (Riverside Spanish SDA Church),Friday's_time_open,12:00PM - 14:00PM
 Food Pantry (Riverside Spanish SDA Church),Saturday's_time_open,Closed
 Food Pantry (Riverside Spanish SDA Church),Sunday's_time_open,Closed
 Food Pantry (Riverside Spanish SDA Church),has_a_Google_Rating_of,4.4
@@ -235,7 +235,7 @@ Community Food Pantry (MT. Rubidoux Seventh-Day Adventist Church),covers,"This p
 Community Food Pantry (MT. Rubidoux Seventh-Day Adventist Church),zipcode_is,92506.0
 Community Food Pantry (MT. Rubidoux Seventh-Day Adventist Church),24hours_status_is,False
 Community Food Pantry (MT. Rubidoux Seventh-Day Adventist Church),Monday's_time_open,Closed
-Community Food Pantry (MT. Rubidoux Seventh-Day Adventist Church),Tuesday's_time_open,1:00PM - 3:00PM
+Community Food Pantry (MT. Rubidoux Seventh-Day Adventist Church),Tuesday's_time_open,13:00PM - 15:00PM
 Community Food Pantry (MT. Rubidoux Seventh-Day Adventist Church),Wednesday's_time_open,Closed
 Community Food Pantry (MT. Rubidoux Seventh-Day Adventist Church),Thursday's_time_open,Closed
 Community Food Pantry (MT. Rubidoux Seventh-Day Adventist Church),Friday's_time_open,Closed
@@ -262,7 +262,7 @@ Food Share (All Saint's Episcopal Church),24hours_status_is,False
 Food Share (All Saint's Episcopal Church),Monday's_time_open,Closed
 Food Share (All Saint's Episcopal Church),Tuesday's_time_open,Closed
 Food Share (All Saint's Episcopal Church),Wednesday's_time_open,Closed
-Food Share (All Saint's Episcopal Church),Thursday's_time_open,1:00PM - 2:00PM
+Food Share (All Saint's Episcopal Church),Thursday's_time_open,13:00PM - 14:00PM
 Food Share (All Saint's Episcopal Church),Friday's_time_open,Closed
 Food Share (All Saint's Episcopal Church),Saturday's_time_open,Closed
 Food Share (All Saint's Episcopal Church),Sunday's_time_open,Closed
@@ -289,7 +289,7 @@ Food For Life (Starting Over Inc.),Tuesday's_time_open,Closed
 Food For Life (Starting Over Inc.),Wednesday's_time_open,Closed
 Food For Life (Starting Over Inc.),Thursday's_time_open,Closed
 Food For Life (Starting Over Inc.),Friday's_time_open,Closed
-Food For Life (Starting Over Inc.),Saturday's_time_open,11:00AM - 3:00PM
+Food For Life (Starting Over Inc.),Saturday's_time_open,11:00AM - 15:00PM
 Food For Life (Starting Over Inc.),Sunday's_time_open,Closed
 Food For Life (Starting Over Inc.),has_a_Google_Rating_of,5
 Food For Life (Starting Over Inc.),offers,Food
@@ -309,11 +309,11 @@ Food Pantry (Lutheran Social Services Southern California),has_Google_Reviews,Fa
 Food Pantry (Lutheran Social Services Southern California),covers,"This program covers residents of the following counties: Los Angeles County, CA, Orange County, CA, Riverside County, CA, San Bernardino County, CA, San Diego County, CA and Ventura County, CA."
 Food Pantry (Lutheran Social Services Southern California),zipcode_is,92506.0
 Food Pantry (Lutheran Social Services Southern California),24hours_status_is,False
-Food Pantry (Lutheran Social Services Southern California),Monday's_time_open,12:00PM - 7:30PM
-Food Pantry (Lutheran Social Services Southern California),Tuesday's_time_open,12:00PM - 7:30PM
-Food Pantry (Lutheran Social Services Southern California),Wednesday's_time_open,12:00PM - 7:30PM
-Food Pantry (Lutheran Social Services Southern California),Thursday's_time_open,12:00PM - 7:30PM
-Food Pantry (Lutheran Social Services Southern California),Friday's_time_open,12:00PM - 7:30PM
+Food Pantry (Lutheran Social Services Southern California),Monday's_time_open,12:00PM - 19:30PM
+Food Pantry (Lutheran Social Services Southern California),Tuesday's_time_open,12:00PM - 19:30PM
+Food Pantry (Lutheran Social Services Southern California),Wednesday's_time_open,12:00PM - 19:30PM
+Food Pantry (Lutheran Social Services Southern California),Thursday's_time_open,12:00PM - 19:30PM
+Food Pantry (Lutheran Social Services Southern California),Friday's_time_open,12:00PM - 19:30PM
 Food Pantry (Lutheran Social Services Southern California),Saturday's_time_open,Closed
 Food Pantry (Lutheran Social Services Southern California),Sunday's_time_open,Closed
 Food Pantry (Lutheran Social Services Southern California),has_a_Google_Rating_of,0
@@ -333,11 +333,11 @@ R'Pantry (University of California - Riverside),has_Google_Reviews,False
 R'Pantry (University of California - Riverside),covers,"This program covers residents of the following cities: Riverside, CA."
 R'Pantry (University of California - Riverside),zipcode_is,92521.0
 R'Pantry (University of California - Riverside),24hours_status_is,False
-R'Pantry (University of California - Riverside),Monday's_time_open,2:00PM - 7:00PM
-R'Pantry (University of California - Riverside),Tuesday's_time_open,4:00PM - 7:30PM
+R'Pantry (University of California - Riverside),Monday's_time_open,14:00PM - 19:00PM
+R'Pantry (University of California - Riverside),Tuesday's_time_open,16:00PM - 19:30PM
 R'Pantry (University of California - Riverside),Wednesday's_time_open,Closed
-R'Pantry (University of California - Riverside),Thursday's_time_open,4:00PM - 7:30PM
-R'Pantry (University of California - Riverside),Friday's_time_open,2:00PM - 7:00PM
+R'Pantry (University of California - Riverside),Thursday's_time_open,16:00PM - 19:30PM
+R'Pantry (University of California - Riverside),Friday's_time_open,14:00PM - 19:00PM
 R'Pantry (University of California - Riverside),Saturday's_time_open,Closed
 R'Pantry (University of California - Riverside),Sunday's_time_open,Closed
 R'Pantry (University of California - Riverside),has_a_Google_Rating_of,0
@@ -358,11 +358,11 @@ Emergency Food Pantry (Casa Blanca Home of Neighborly Service),has_Google_Review
 Emergency Food Pantry (Casa Blanca Home of Neighborly Service),covers,"This program covers residents of the following cities: Riverside, CA."
 Emergency Food Pantry (Casa Blanca Home of Neighborly Service),zipcode_is,92504.0
 Emergency Food Pantry (Casa Blanca Home of Neighborly Service),24hours_status_is,False
-Emergency Food Pantry (Casa Blanca Home of Neighborly Service),Monday's_time_open,12:00PM - 7:00PM
-Emergency Food Pantry (Casa Blanca Home of Neighborly Service),Tuesday's_time_open,12:00PM - 7:00PM
+Emergency Food Pantry (Casa Blanca Home of Neighborly Service),Monday's_time_open,12:00PM - 19:00PM
+Emergency Food Pantry (Casa Blanca Home of Neighborly Service),Tuesday's_time_open,12:00PM - 19:00PM
 Emergency Food Pantry (Casa Blanca Home of Neighborly Service),Wednesday's_time_open,Closed
-Emergency Food Pantry (Casa Blanca Home of Neighborly Service),Thursday's_time_open,12:00PM - 7:00PM
-Emergency Food Pantry (Casa Blanca Home of Neighborly Service),Friday's_time_open,12:00PM - 7:00PM
+Emergency Food Pantry (Casa Blanca Home of Neighborly Service),Thursday's_time_open,12:00PM - 19:00PM
+Emergency Food Pantry (Casa Blanca Home of Neighborly Service),Friday's_time_open,12:00PM - 19:00PM
 Emergency Food Pantry (Casa Blanca Home of Neighborly Service),Saturday's_time_open,Closed
 Emergency Food Pantry (Casa Blanca Home of Neighborly Service),Sunday's_time_open,Closed
 Emergency Food Pantry (Casa Blanca Home of Neighborly Service),has_a_Google_Rating_of,4.3
@@ -385,7 +385,7 @@ Drive Thru Food Distribution (Casa Blanca Home of Neighborly Service),zipcode_is
 Drive Thru Food Distribution (Casa Blanca Home of Neighborly Service),24hours_status_is,False
 Drive Thru Food Distribution (Casa Blanca Home of Neighborly Service),Monday's_time_open,Closed
 Drive Thru Food Distribution (Casa Blanca Home of Neighborly Service),Tuesday's_time_open,Closed
-Drive Thru Food Distribution (Casa Blanca Home of Neighborly Service),Wednesday's_time_open,12:00PM - 1:00PM
+Drive Thru Food Distribution (Casa Blanca Home of Neighborly Service),Wednesday's_time_open,12:00PM - 13:00PM
 Drive Thru Food Distribution (Casa Blanca Home of Neighborly Service),Thursday's_time_open,Closed
 Drive Thru Food Distribution (Casa Blanca Home of Neighborly Service),Friday's_time_open,Closed
 Drive Thru Food Distribution (Casa Blanca Home of Neighborly Service),Saturday's_time_open,Closed
@@ -407,11 +407,11 @@ Hot Meals (Casa Blanca Home of Neighborly Service),has_Google_Reviews,True
 Hot Meals (Casa Blanca Home of Neighborly Service),covers,"This program covers residents of the following cities: Riverside, CA."
 Hot Meals (Casa Blanca Home of Neighborly Service),zipcode_is,92504.0
 Hot Meals (Casa Blanca Home of Neighborly Service),24hours_status_is,False
-Hot Meals (Casa Blanca Home of Neighborly Service),Monday's_time_open,12:00PM - 7:00PM
-Hot Meals (Casa Blanca Home of Neighborly Service),Tuesday's_time_open,12:00PM - 7:00PM
-Hot Meals (Casa Blanca Home of Neighborly Service),Wednesday's_time_open,12:00PM - 7:00PM
-Hot Meals (Casa Blanca Home of Neighborly Service),Thursday's_time_open,12:00PM - 7:00PM
-Hot Meals (Casa Blanca Home of Neighborly Service),Friday's_time_open,12:00PM - 7:00PM
+Hot Meals (Casa Blanca Home of Neighborly Service),Monday's_time_open,12:00PM - 19:00PM
+Hot Meals (Casa Blanca Home of Neighborly Service),Tuesday's_time_open,12:00PM - 19:00PM
+Hot Meals (Casa Blanca Home of Neighborly Service),Wednesday's_time_open,12:00PM - 19:00PM
+Hot Meals (Casa Blanca Home of Neighborly Service),Thursday's_time_open,12:00PM - 19:00PM
+Hot Meals (Casa Blanca Home of Neighborly Service),Friday's_time_open,12:00PM - 19:00PM
 Hot Meals (Casa Blanca Home of Neighborly Service),Saturday's_time_open,Closed
 Hot Meals (Casa Blanca Home of Neighborly Service),Sunday's_time_open,Closed
 Hot Meals (Casa Blanca Home of Neighborly Service),has_a_Google_Rating_of,4.3
@@ -433,10 +433,10 @@ Food Pantry (Our Lady of Perpetual Help Church),covers,"This program covers resi
 Food Pantry (Our Lady of Perpetual Help Church),zipcode_is,92504.0
 Food Pantry (Our Lady of Perpetual Help Church),24hours_status_is,False
 Food Pantry (Our Lady of Perpetual Help Church),Monday's_time_open,Closed
-Food Pantry (Our Lady of Perpetual Help Church),Tuesday's_time_open,1:00PM - 3:00PM
+Food Pantry (Our Lady of Perpetual Help Church),Tuesday's_time_open,13:00PM - 15:00PM
 Food Pantry (Our Lady of Perpetual Help Church),Wednesday's_time_open,Closed
-Food Pantry (Our Lady of Perpetual Help Church),Thursday's_time_open,1:00PM - 3:00PM
-Food Pantry (Our Lady of Perpetual Help Church),Friday's_time_open,1:00PM - 3:00PM
+Food Pantry (Our Lady of Perpetual Help Church),Thursday's_time_open,13:00PM - 15:00PM
+Food Pantry (Our Lady of Perpetual Help Church),Friday's_time_open,13:00PM - 15:00PM
 Food Pantry (Our Lady of Perpetual Help Church),Saturday's_time_open,Closed
 Food Pantry (Our Lady of Perpetual Help Church),Sunday's_time_open,Closed
 Food Pantry (Our Lady of Perpetual Help Church),has_a_Google_Rating_of,4.6
@@ -461,7 +461,7 @@ Food Pantry (Magnolia Center Church of Christ),Wednesday's_time_open,Closed
 Food Pantry (Magnolia Center Church of Christ),Thursday's_time_open,Closed
 Food Pantry (Magnolia Center Church of Christ),Friday's_time_open,Closed
 Food Pantry (Magnolia Center Church of Christ),Saturday's_time_open,Closed
-Food Pantry (Magnolia Center Church of Christ),Sunday's_time_open,2:00PM - 2:30PM
+Food Pantry (Magnolia Center Church of Christ),Sunday's_time_open,14:00PM - 14:30PM
 Food Pantry (Magnolia Center Church of Christ),has_a_Google_Rating_of,4.7
 Food Pantry (Magnolia Center Church of Christ),offers,Food
 Food Pantry (Magnolia Center Church of Christ),serves,"['all ages', 'individuals', 'families'], []"
@@ -505,11 +505,11 @@ Food Pantry (Lighthouse of Hope Foundation),has_Google_Reviews,True
 Food Pantry (Lighthouse of Hope Foundation),covers,"This program covers residents of the following counties: Riverside County, CA."
 Food Pantry (Lighthouse of Hope Foundation),zipcode_is,92503.0
 Food Pantry (Lighthouse of Hope Foundation),24hours_status_is,False
-Food Pantry (Lighthouse of Hope Foundation),Monday's_time_open,2:00PM - 3:30PM
+Food Pantry (Lighthouse of Hope Foundation),Monday's_time_open,14:00PM - 15:30PM
 Food Pantry (Lighthouse of Hope Foundation),Tuesday's_time_open,Closed
-Food Pantry (Lighthouse of Hope Foundation),Wednesday's_time_open,2:00PM - 4:00PM
+Food Pantry (Lighthouse of Hope Foundation),Wednesday's_time_open,14:00PM - 16:00PM
 Food Pantry (Lighthouse of Hope Foundation),Thursday's_time_open,Closed
-Food Pantry (Lighthouse of Hope Foundation),Friday's_time_open,2:00PM - 4:00PM
+Food Pantry (Lighthouse of Hope Foundation),Friday's_time_open,14:00PM - 16:00PM
 Food Pantry (Lighthouse of Hope Foundation),Saturday's_time_open,Closed
 Food Pantry (Lighthouse of Hope Foundation),Sunday's_time_open,Closed
 Food Pantry (Lighthouse of Hope Foundation),has_a_Google_Rating_of,5
@@ -559,7 +559,7 @@ Food Pantry (Wesley United Methodist Church),Monday's_time_open,Closed
 Food Pantry (Wesley United Methodist Church),Tuesday's_time_open,Closed
 Food Pantry (Wesley United Methodist Church),Wednesday's_time_open,Closed
 Food Pantry (Wesley United Methodist Church),Thursday's_time_open,Closed
-Food Pantry (Wesley United Methodist Church),Friday's_time_open,12:30PM - 1:30PM
+Food Pantry (Wesley United Methodist Church),Friday's_time_open,12:30PM - 13:30PM
 Food Pantry (Wesley United Methodist Church),Saturday's_time_open,Closed
 Food Pantry (Wesley United Methodist Church),Sunday's_time_open,Closed
 Food Pantry (Wesley United Methodist Church),has_a_Google_Rating_of,4.5
@@ -584,7 +584,7 @@ Magnolia Pantry (Magnolia Church),Tuesday's_time_open,Closed
 Magnolia Pantry (Magnolia Church),Wednesday's_time_open,Closed
 Magnolia Pantry (Magnolia Church),Thursday's_time_open,Closed
 Magnolia Pantry (Magnolia Church),Friday's_time_open,Closed
-Magnolia Pantry (Magnolia Church),Saturday's_time_open,11:30AM - 2:30PM
+Magnolia Pantry (Magnolia Church),Saturday's_time_open,11:30AM - 14:30PM
 Magnolia Pantry (Magnolia Church),Sunday's_time_open,Closed
 Magnolia Pantry (Magnolia Church),has_a_Google_Rating_of,4.6
 Magnolia Pantry (Magnolia Church),offers,Food
@@ -604,7 +604,7 @@ Food Bank (LifeSpring Assembly of God),has_Google_Reviews,True
 Food Bank (LifeSpring Assembly of God),covers,"This program covers residents of the following cities: Riverside, CA."
 Food Bank (LifeSpring Assembly of God),zipcode_is,92501.0
 Food Bank (LifeSpring Assembly of God),24hours_status_is,False
-Food Bank (LifeSpring Assembly of God),Monday's_time_open,12:00PM - 1:00PM
+Food Bank (LifeSpring Assembly of God),Monday's_time_open,12:00PM - 13:00PM
 Food Bank (LifeSpring Assembly of God),Tuesday's_time_open,Closed
 Food Bank (LifeSpring Assembly of God),Wednesday's_time_open,Closed
 Food Bank (LifeSpring Assembly of God),Thursday's_time_open,Closed
@@ -627,11 +627,11 @@ Food Pantry (Riverside City College),has_Google_Reviews,False
 Food Pantry (Riverside City College),covers,"This program covers residents of the following cities: Riverside, CA."
 Food Pantry (Riverside City College),zipcode_is,92506.0
 Food Pantry (Riverside City College),24hours_status_is,False
-Food Pantry (Riverside City College),Monday's_time_open,11:00AM - 3:00PM
-Food Pantry (Riverside City College),Tuesday's_time_open,11:00AM - 9:00PM
-Food Pantry (Riverside City College),Wednesday's_time_open,11:00AM - 8:00PM
-Food Pantry (Riverside City College),Thursday's_time_open,11:00AM - 8:00PM
-Food Pantry (Riverside City College),Friday's_time_open,11:00AM - 3:00PM
+Food Pantry (Riverside City College),Monday's_time_open,11:00AM - 15:00PM
+Food Pantry (Riverside City College),Tuesday's_time_open,11:00AM - 21:00PM
+Food Pantry (Riverside City College),Wednesday's_time_open,11:00AM - 20:00PM
+Food Pantry (Riverside City College),Thursday's_time_open,11:00AM - 20:00PM
+Food Pantry (Riverside City College),Friday's_time_open,11:00AM - 15:00PM
 Food Pantry (Riverside City College),Saturday's_time_open,Closed
 Food Pantry (Riverside City College),Sunday's_time_open,Closed
 Food Pantry (Riverside City College),has_a_Google_Rating_of,0
