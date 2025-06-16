@@ -4,6 +4,34 @@ import re
 import os 
 import pandas as pd
 import glob
+from datetime import datetime, timedelta
+
+def convert_time_to_est_ampm(time_range):
+    """Convert '9:00 AM – 5:00 PM PST' to '12:00PM – 8:00PM'."""
+    try:
+        # Remove 'PST' (case-insensitive) using regex
+        time_range = re.sub(r'\s*PST\s*', '', time_range, flags=re.IGNORECASE)
+
+        # Normalize to use en dash
+        time_range = re.sub(r'\s*[-–—]\s*', '–', time_range)  # handles hyphen, en dash, em dash
+
+        start_str, end_str = [t.strip() for t in time_range.split('–')]
+
+        # Parse times
+        start_time = datetime.strptime(start_str, "%I:%M %p")
+        end_time = datetime.strptime(end_str, "%I:%M %p")
+
+        # Add 3 hours to convert from PST to EST
+        start_time += timedelta(hours=3)
+        end_time += timedelta(hours=3)
+
+        # Return in 12-hour AM/PM format (no leading zeros)
+        return f"{start_time.strftime('%-I:%M%p')} – {end_time.strftime('%-I:%M%p')}"
+    
+    except Exception as e:
+        print(f"Time parsing error for '{time_range}': {e}")
+        return time_range.strip()  # fallback
+
 
 data = []
 
@@ -34,8 +62,17 @@ for filename in os.listdir(folder_path):
 
             # Find the program heading 
             program_heading_element = li_soup.find('div', {'class': 'card-heading'})
+            Service_org = program_heading_element.find('a', {'class': 'activity-log click-cookie'}).text 
             Service_name = program_heading_element.find('a', {'class': 'activity-log ph-flyout-click cwdc-flyout-click click-cookie'}).text
-            print('Service name: ', Service_name)
+
+            # Combine them
+            full_service = f"{Service_name} ({Service_org})"
+
+            # Clean extra whitespace
+            full_service = re.sub(r'\s+', ' ', full_service).strip()
+            full_service = re.sub(r'\( ', '(', full_service)
+            full_service = re.sub(r' \)', ')', full_service)
+            print('Full service: ', full_service)
     
             # Extract program URL
             program_url_element = program_heading_element.find('a', {'class': 'activity-log ph-flyout-click cwdc-flyout-click click-cookie'})
@@ -193,7 +230,9 @@ for filename in os.listdir(folder_path):
                                 hours_info[full_day] = 'Closed'
                             else:
                                 # Extract hours for non-closed days
-                                hours_info[full_day] = hours_span.text.strip()
+                                original_time = hours_span.text.strip()
+                                converted_time = convert_time_to_est_ampm(original_time)
+                                hours_info[full_day] = converted_time
                 else:
                     print("Unexpected hours format. Ensure that each day has corresponding hours.")
 
@@ -286,7 +325,7 @@ for filename in os.listdir(folder_path):
             # Initialize latitude and longitude as None by default
             latitude = None
             longitude = None
-            zipcode = None
+            zipcode = ""
 
             # Find the element with class "office-hour-address"
             location_element = Extra_element.find('div', {'class': 'office-hours-address _js_address address notranslate'})
@@ -303,11 +342,13 @@ for filename in os.listdir(folder_path):
 
                 # Use regular expression to search for the ZIP code pattern anywhere in the text
                 zip_matches = re.findall(r'(?<!\d)(\b\d{5}\b)(?!\d)', address_text)
-                zipcode = int(zip_matches[-1]) if zip_matches else None
+                zipcode = zip_matches[-1] if zip_matches else ""
                 print("ZIP Code:", zipcode)
                 
             Google_Reviews = None
-            Service_Type = None
+
+            # Change based on what the service is
+            Service_Type = "Food"
 
             # Print or use the extracted values as needed
             print("Availability:", availability)
@@ -319,7 +360,7 @@ for filename in os.listdir(folder_path):
             print("Coverage Area:", coverage)
 
             data.append([
-            Service_name,
+            full_service,
             Service_url,
             main_s,
             other_s,
