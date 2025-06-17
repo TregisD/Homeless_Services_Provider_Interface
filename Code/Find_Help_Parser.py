@@ -9,13 +9,13 @@ from datetime import datetime, timedelta
 def convert_time_to_est_ampm(time_range):
     """Convert '9:00 AM – 5:00 PM PST' to '12:00PM – 8:00PM'."""
     try:
-        # Remove 'PST' (case-insensitive) using regex
-        time_range = re.sub(r'\s*PST\s*', '', time_range, flags=re.IGNORECASE)
+        # Remove common time zone labels: PST, PDT, PT (case insensitive)
+        time_range = re.sub(r'\s*(PST|PDT|PT)\s*', '', time_range, flags=re.IGNORECASE)
 
         # Normalize to use en dash
-        time_range = re.sub(r'\s*[-–—]\s*', '–', time_range)  # handles hyphen, en dash, em dash
+        time_range = re.sub(r'\s*[-–—]\s*', ' – ', time_range)  # handles hyphen, en dash, em dash
 
-        start_str, end_str = [t.strip() for t in time_range.split('–')]
+        start_str, end_str = [t.strip() for t in time_range.split(' – ')]
 
         # Parse times
         start_time = datetime.strptime(start_str, "%I:%M %p")
