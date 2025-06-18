@@ -7,7 +7,7 @@ import glob
 from datetime import datetime, timedelta
 
 def convert_time_to_est_ampm(time_range):
-    """Convert '9:00 AM – 5:00 PM PST' to '12:00PM – 8:00PM'."""
+    """Convert '9:00 AM – 5:00 PM PST' to '12:00PM – 20:00PM'."""
     try:
         # Remove common time zone labels: PST, PDT, PT (case insensitive)
         time_range = re.sub(r'\s*(PST|PDT|PT)\s*', '', time_range, flags=re.IGNORECASE)
@@ -17,21 +17,22 @@ def convert_time_to_est_ampm(time_range):
 
         start_str, end_str = [t.strip() for t in time_range.split(' – ')]
 
-        # Parse times
-        start_time = datetime.strptime(start_str, "%I:%M %p")
-        end_time = datetime.strptime(end_str, "%I:%M %p")
+        # Parse times and convert to EST
+        start_time = datetime.strptime(start_str, "%I:%M %p") + timedelta(hours=3)
+        end_time = datetime.strptime(end_str, "%I:%M %p") + timedelta(hours=3)
 
-        # Add 3 hours to convert from PST to EST
-        start_time += timedelta(hours=3)
-        end_time += timedelta(hours=3)
+# Manually create "HH:MMAM/PM" with 24-hour hour
+        start_suffix = start_time.strftime('%p')
+        end_suffix = end_time.strftime('%p')
 
-        # Return in 12-hour AM/PM format (no leading zeros)
-        return f"{start_time.strftime('%-I:%M%p')} – {end_time.strftime('%-I:%M%p')}"
+        start_time = f"{start_time.strftime('%H:%M')}{start_suffix}"
+        end_time = f"{end_time.strftime('%H:%M')}{end_suffix}"
+
+        return f"{start_time} – {end_time}"
     
     except Exception as e:
         print(f"Time parsing error for '{time_range}': {e}")
         return time_range.strip()  # fallback
-
 
 data = []
 
