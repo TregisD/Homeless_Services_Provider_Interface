@@ -38,7 +38,7 @@ data = []
 
 # reading html files from folder
 # make sure to change the folder path to the one you want to read
-folder_path = '../Leo/LA/LA_Food_Pantry_HTML_Files'
+folder_path = '../Leo/LA/LA_Shelter_HTML_Files'
 
 # Loop through each file in the folder
 for filename in os.listdir(folder_path):
@@ -396,7 +396,7 @@ for filename in os.listdir(folder_path):
 
 # Save to CSV file 
 # Make sure to change the filename to the one you want otherwise you'll create mutliple files
-csv_filename = "FindHelp_extracted_data_la_food_pantry.csv"
+csv_filename = "FindHelp_extracted_data_la_shelter.csv"
 
 with open(csv_filename, 'w', newline='', encoding='utf-8') as csv_file:
     csv_writer = csv.writer(csv_file)
@@ -449,7 +449,7 @@ target_place = "LA County"
 zipcodes_list = zipcodes_df[target_place].dropna().astype(int).tolist()
 
 # Load the main data
-df = pd.read_csv("FindHelp_extracted_data_la_food_pantry.csv")
+df = pd.read_csv("FindHelp_extracted_data_la_shelter.csv")
 
 # Filter by ZIP codes or missing location
 filtered_df = df[df['Zipcode'].isin(zipcodes_list) | (df['Location_Address'].isna() & df['Longitude'].isna() & df['Latitude'].isna())]
@@ -457,6 +457,6 @@ filtered_df = df[df['Zipcode'].isin(zipcodes_list) | (df['Location_Address'].isn
 # Drop duplicates
 filtered_df = filtered_df.drop_duplicates(subset=['Website', 'Service_name'])
 
-filtered_df.to_csv("FindHelp_extracted_data_la_food_pantry.csv", index=False, encoding='utf-8')
+filtered_df.to_csv("FindHelp_extracted_data_la_shelter.csv", index=False, encoding='utf-8')
 
 filtered_df
