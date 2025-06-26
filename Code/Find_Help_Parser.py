@@ -349,7 +349,7 @@ for filename in os.listdir(folder_path):
             Google_Reviews = None
 
             # Change based on what the service is
-            Service_Type = "Food"
+            Service_Type = "Shelter"
 
             # Print or use the extracted values as needed
             print("Availability:", availability)
