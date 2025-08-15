@@ -12,6 +12,9 @@ ssl_context = ssl.create_default_context(cafile=certifi.where())
 
 page_url = "https://opendataphilly.org/datasets/crime-incidents/"
 
+current_year = datetime.now().year
+dataset_title = f"Crime Incidents from {current_year} (CSV)"
+
 response = requests.get(page_url)
 response.raise_for_status()
 
@@ -20,7 +23,7 @@ soup = BeautifulSoup(response.text, "html.parser")
 csv_link = None
 for a_tag in soup.find_all("a"):
     span = a_tag.find("span", {"property": "dct:title"})
-    if span and span.text.strip() == "Crime Incidents from 2025 (CSV)":
+    if span and span.text.strip() == dataset_title:
         csv_link = a_tag.get("href")
         break
 
