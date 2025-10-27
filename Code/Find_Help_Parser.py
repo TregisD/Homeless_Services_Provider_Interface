@@ -38,7 +38,7 @@ data = []
 
 # reading html files from folder
 # make sure to change the folder path to the one you want to read
-folder_path = "..\Chenzi\Irvine\Irvine_Mental_Health_HTML_Files"
+folder_path = "../Chenzi/Irvine/Irvine_Food_Pantry_HTML_Files"
 
 # Loop through each file in the folder
 for filename in os.listdir(folder_path):
@@ -349,7 +349,7 @@ for filename in os.listdir(folder_path):
             Google_Reviews = None
 
             # Change based on what the service is
-            Service_Type = "Shelter"
+            Service_Type = "Food Pantry"
 
             # Print or use the extracted values as needed
             print("Availability:", availability)
@@ -396,7 +396,7 @@ for filename in os.listdir(folder_path):
 
 # Save to CSV file 
 # Make sure to change the filename to the one you want otherwise you'll create mutliple files
-csv_filename = "FindHelp_extracted_data_irvine_mental_health.csv"
+csv_filename = "FindHelp_extracted_data_irvine_food_pantry.csv"
 
 with open(csv_filename, 'w', newline='', encoding='utf-8') as csv_file:
     csv_writer = csv.writer(csv_file)
@@ -443,13 +443,13 @@ with open(csv_filename, 'w', newline='', encoding='utf-8') as csv_file:
 zipcodes_df = pd.read_csv("../Misc/Zipcodes.csv")
 
 # Choose the target place/column
-target_place = "LA County"
+target_place = "Irvine"
 
 # Get ZIP codes for that place (drop NaNs, convert to list of ints)
 zipcodes_list = zipcodes_df[target_place].dropna().astype(int).tolist()
 
 # Load the main data
-df = pd.read_csv("FindHelp_extracted_data_irvine_mental_health.csv")
+df = pd.read_csv("FindHelp_extracted_data_irvine_food_pantry.csv")
 
 # Filter by ZIP codes or missing location
 filtered_df = df[df['Zipcode'].isin(zipcodes_list) | (df['Location_Address'].isna() & df['Longitude'].isna() & df['Latitude'].isna())]
@@ -457,6 +457,6 @@ filtered_df = df[df['Zipcode'].isin(zipcodes_list) | (df['Location_Address'].isn
 # Drop duplicates
 filtered_df = filtered_df.drop_duplicates(subset=['Website', 'Service_name'])
 
-filtered_df.to_csv("FindHelp_extracted_data_irvine_mental_health.csv", index=False, encoding='utf-8')
+filtered_df.to_csv("FindHelp_extracted_data_irvine_food_pantry.csv", index=False, encoding='utf-8')
 
 filtered_df
