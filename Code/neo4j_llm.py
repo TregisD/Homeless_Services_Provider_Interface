@@ -2,6 +2,10 @@ import ollama
 import json
 from neo4j import GraphDatabase
 import re
+import os
+from dotenv import load_dotenv
+
+load_dotenv('../Misc/.env')
 
 STOPWORDS = {
     "nearest", "near", "closest", "find", "where",
@@ -108,10 +112,12 @@ def build_cypher(intent):
 
     return cypher, params
 
+NEO4J_USER = os.getenv("NEO4J_USER")
+NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD")
 
 driver = GraphDatabase.driver(
     "bolt://localhost:7687",
-    auth=("neo4j", "honorskg")
+    auth=(NEO4J_USER, NEO4J_PASSWORD)
 )
 
 def run_query(cypher, params):
