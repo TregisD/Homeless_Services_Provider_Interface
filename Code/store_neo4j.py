@@ -21,7 +21,7 @@ def store_triples_into_neo4j(csv_file, first_flag):
     if not file_path.exists():
         raise ValueError(f'Triples file {file_path} does not exist')
     
-    graph = Graph("bolt://localhost:7687", auth=("neo4j", "put_db_password_here"))
+    graph = Graph("bolt://localhost:7687", auth=("neo4j", "Hope0903!"))
     
     if first_flag:
         graph.delete_all()

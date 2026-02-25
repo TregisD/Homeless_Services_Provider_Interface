@@ -147,14 +147,13 @@ multi_value_columns = [
 if __name__ == "__main__":
     # List all your CSV files here
     csv_files = [
-        '../Leo/Riverside/FindHelp_extracted_data_riv_mental_health.csv',
-        '../Leo/Riverside/FindHelp_extracted_data_riv_shelter.csv',
-        '../Leo/Riverside/FindHelp_extracted_data_riv_food_pantry.csv',
-        '../Leo/LA/FindHelp_extracted_data_la_mental_health.csv',
-        '../Leo/LA/FindHelp_extracted_data_la_shelter.csv',
-        '../Leo/LA/FindHelp_extracted_data_la_food_pantry.csv'
+        r"C:\Users\wish0\OneDrive\Documents\Capstone Project\Homeless_Services_Provider_Interface\Leo\Riverside\FindHelp_extracted_data_riv_mental_health.csv",
+    r"C:\Users\wish0\OneDrive\Documents\Capstone Project\Homeless_Services_Provider_Interface\Leo\Riverside\FindHelp_extracted_data_riv_shelter.csv",
+    r"C:\Users\wish0\OneDrive\Documents\Capstone Project\Homeless_Services_Provider_Interface\Leo\Riverside\FindHelp_extracted_data_riv_food_pantry.csv",
+    r"C:\Users\wish0\OneDrive\Documents\Capstone Project\Homeless_Services_Provider_Interface\Leo\LA\FindHelp_extracted_data_la_mental_health.csv",
+    r"C:\Users\wish0\OneDrive\Documents\Capstone Project\Homeless_Services_Provider_Interface\Leo\LA\FindHelp_extracted_data_la_shelter.csv",
+    r"C:\Users\wish0\OneDrive\Documents\Capstone Project\Homeless_Services_Provider_Interface\Leo\LA\FindHelp_extracted_data_la_food_pantry.csv"
     ]
-    
     output_csv = "Triples.csv"
     
     all_triples = process_multiple_csvs(
