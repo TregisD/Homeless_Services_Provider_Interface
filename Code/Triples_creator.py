@@ -1,6 +1,7 @@
 import csv
 import pandas as pd
 import ast
+from pathlib import Path
 
 def parse_list_string(value):
     """
@@ -146,13 +147,18 @@ multi_value_columns = [
 
 if __name__ == "__main__":
     # List all your CSV files here
+    BASE_DIR = Path(__file__).resolve().parent.parent
+
     csv_files = [
-        r"C:\Users\wish0\OneDrive\Documents\Capstone Project\Homeless_Services_Provider_Interface\Leo\Riverside\FindHelp_extracted_data_riv_mental_health.csv",
-    r"C:\Users\wish0\OneDrive\Documents\Capstone Project\Homeless_Services_Provider_Interface\Leo\Riverside\FindHelp_extracted_data_riv_shelter.csv",
-    r"C:\Users\wish0\OneDrive\Documents\Capstone Project\Homeless_Services_Provider_Interface\Leo\Riverside\FindHelp_extracted_data_riv_food_pantry.csv",
-    r"C:\Users\wish0\OneDrive\Documents\Capstone Project\Homeless_Services_Provider_Interface\Leo\LA\FindHelp_extracted_data_la_mental_health.csv",
-    r"C:\Users\wish0\OneDrive\Documents\Capstone Project\Homeless_Services_Provider_Interface\Leo\LA\FindHelp_extracted_data_la_shelter.csv",
-    r"C:\Users\wish0\OneDrive\Documents\Capstone Project\Homeless_Services_Provider_Interface\Leo\LA\FindHelp_extracted_data_la_food_pantry.csv"
+    BASE_DIR / "Leo/Riverside/FindHelp_extracted_data_riv_mental_health.csv",
+    BASE_DIR / "Leo/Riverside/FindHelp_extracted_data_riv_shelter.csv",
+    BASE_DIR / "Leo/Riverside/FindHelp_extracted_data_riv_food_pantry.csv",
+    BASE_DIR / "Leo/LA/FindHelp_extracted_data_la_mental_health.csv",
+    BASE_DIR / "Leo/LA/FindHelp_extracted_data_la_shelter.csv",
+    BASE_DIR / "Leo/LA/FindHelp_extracted_data_la_food_pantry.csv",
+    BASE_DIR / "Chenzi/Irvine/FindHelp_extracted_data_irvine_food_pantry.csv",
+    BASE_DIR / "Chenzi/Irvine/FindHelp_extracted_data_irvine_mental_health.csv",
+    BASE_DIR / "Chenzi/Irvine/FindHelp_extracted_data_irvine_shelter.csv"
     ]
     output_csv = "Triples.csv"
     
