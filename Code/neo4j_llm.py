@@ -226,8 +226,10 @@ FINAL ANSWER (do not include instructions or explanations):
 
 Answer:
 """
+    
+    GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 
-    client = genai.Client(api_key='AIzaSyBXTMZ5Lx4iHSqT9SjR2TzkGUznS4Ueu9g')
+    client = genai.Client(api_key=GOOGLE_API_KEY)
     
     response = client.models.generate_content(
         model="gemini-2.5-flash",
