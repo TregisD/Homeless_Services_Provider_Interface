@@ -2,6 +2,7 @@ import ollama
 import json
 from neo4j import GraphDatabase
 import re
+from google import genai
 import os
 from dotenv import load_dotenv
 
@@ -11,6 +12,7 @@ STOPWORDS = {
     "nearest", "near", "closest", "find", "where",
     "what", "are", "is", "to", "the"
 }
+
 
 ##### LLM ONE #####
 
@@ -40,23 +42,49 @@ Ex. words located or location should be put in the relationships list as "is_loc
 - If a word isn't a relationship type, don't put it in the relationships list
 - Keywords should be relevant search terms that aren't relationship types
 - Words that describe intent are not graph entities. Do NOT include them as keywords.
+- Only use the first question in the user query to extract keywords and relationships. Ignore any prompt that is just information.
 - Output valid JSON only
 
 User query:
 "{user_query}"
 """
 
-    response = ollama.chat(
-    model="mistral",
-    messages=[{"role": "user", "content": prompt}],
-    options={
-        "temperature": 0,
-        "num_predict": 150,
-        "stop": ["\n\n", "```"]
-    }
-)
-
-    return json.loads(response["message"]["content"])
+    try:
+        response = ollama.chat(
+            model="mistral",
+            messages=[{"role": "user", "content": prompt}],
+            options={
+                "temperature": 0,
+                "num_predict": 500,
+                "stop": ["\n\n", "```"]
+            }
+        )
+        
+        # Debug: print the entire response object
+        print(f"Full response object: {response}")
+        print(f"Response text: '{response['message']['content']}'")
+        print(f"Response text length: {len(response['message']['content'])}")
+        
+        response_text = response["message"]["content"].strip()
+        
+        if not response_text:
+            print("Warning: Empty response from API")
+            return {"keywords": [], "relationships": []}
+        
+        # Remove markdown code blocks if present
+        if response_text.startswith("```"):
+            lines = response_text.split('\n')
+            response_text = '\n'.join(lines[1:-1])
+            response_text = response_text.strip()
+        
+        print(f"Cleaned response text: '{response_text}'")
+        
+        return json.loads(response_text)
+        
+    except Exception as e:
+        print(f"Error type: {type(e).__name__}")
+        print(f"Error message: {e}")
+        return {"keywords": [], "relationships": []}
 
 
 def extract_zipcode(keywords):
@@ -67,49 +95,64 @@ def extract_zipcode(keywords):
 
 
 def build_cypher(intent):
-    cypher = """
-    MATCH (s:node)-[r]->(o:node)
-    """
+    service_keywords = ["food pantry", "shelter", "mental health", "housing"]
+    has_service_keyword = any(kw in intent["keywords"] for kw in service_keywords)
 
-    where_clauses = []
-    params = {}
-
-    if intent["relationships"]:
-        where_clauses.append("type(r) IN $relationships")
-        params["relationships"] = intent["relationships"]
-
-    zipcode = extract_zipcode(intent["keywords"])
-
-    filtered_keywords = [
-        kw.lower()
-        for kw in intent["keywords"]
-        if kw.lower() not in STOPWORDS and kw != zipcode
-    ]
-
-    if filtered_keywords:
-        where_clauses.append("""
-        ANY(kw IN $keywords WHERE
-            toLower(s.name) CONTAINS kw
-        )
-        """)
-        params["keywords"] = filtered_keywords
-
-    if zipcode:
-        where_clauses.append(
-            "toLower(o.name) CONTAINS $zipcode"
-        )
-        params["zipcode"] = zipcode
-
-    if where_clauses:
-        cypher += " WHERE " + " AND ".join(where_clauses)
-
-    cypher += """
-    RETURN s.name AS subject,
-           type(r) AS relationship,
-           o.name AS object
-    LIMIT 25
-    """
-
+    if not intent:
+        raise ValueError("Intent is empty — LLM may have failed.")
+    
+    if has_service_keyword:
+        cypher = """
+        MATCH (s:node)-[r1:main_services_are]->(service_type:node)
+        MATCH (s)-[r2:is_located_at]->(address:node)
+        """
+        
+        where_clauses = []
+        params = {}
+        
+        zipcode = extract_zipcode(intent["keywords"])
+        print(f"DEBUG: Extracted zipcode: {zipcode}")
+        
+        filtered_keywords = [
+            kw.lower()
+            for kw in intent["keywords"]
+            if kw.lower() not in STOPWORDS and kw != zipcode
+        ]
+        print(f"DEBUG: Filtered keywords: {filtered_keywords}")
+        
+        # Match service type - search within array
+        if filtered_keywords:
+            where_clauses.append("""
+            ANY(kw IN $keywords WHERE
+                ANY(service IN service_type.name WHERE toLower(service) CONTAINS kw)
+            )
+            """)
+            params["keywords"] = filtered_keywords
+            print(f"DEBUG: Keywords: {filtered_keywords}")
+        
+        # Match zipcode
+        if zipcode:
+            cypher += """
+                MATCH (s)-[r3:zipcode_is]->(zip:node)
+                """
+            where_clauses.append(
+                "toInteger(zip.name) = $zipcode_int"
+            )
+            params["zipcode_int"] = int(zipcode)  # Convert to integer
+        
+        if where_clauses:
+            cypher += " WHERE " + " AND ".join(where_clauses)
+        
+        cypher += """
+        RETURN s.name AS subject,
+               'is_located_at' AS relationship,
+               address.name AS object
+        LIMIT 25
+        """
+    
+    print(f"DEBUG: Final Cypher:\n{cypher}")
+    print(f"DEBUG: Parameters: {params}")
+    
     return cypher, params
 
 NEO4J_USER = os.getenv("NEO4J_USER")
@@ -126,7 +169,7 @@ def run_query(cypher, params):
         return [record.data() for record in result]
 
  #Example usage
-query = "Where is the nearest food pantry to 92501?"
+query = "Where is the nearest food pantry to 92501?  How far are the services from where I am? I am on 3931 Carter Ave."
 
 intent = extract_query_intent(query)
 
@@ -135,7 +178,7 @@ print(intent)
 cypher, params = build_cypher(intent)
 results = run_query(cypher, params)
 
-print(results)
+#print(results)
 
 ##### LLM TWO #####
 
@@ -158,7 +201,7 @@ def generate_natural_response(user_query, triples):
     )
 
     prompt = f"""
-You are answering a question using a knowledge graph.
+You are a social worker and you want to answer a question using the given content. Give a summary of the relevant information in the content that answers the question. Use only the information provided in the content, and do not make any assumptions or use any outside knowledge. If the content does not contain enough information to answer the question, say so.
 
 STRICT RULES:
 - Use only the provided facts
@@ -166,12 +209,11 @@ STRICT RULES:
 - Do NOT abbreviate, truncate, reformat, or paraphrase addresses
 - If unsure, copy the address exactly as written- Do not include analysis
 - Do not include instruction text
-- Output bullet points only
 - Do NOT explain ambiguity.
 - Do NOT assume distances or "nearest".
-- Do NOT summarize to a single result.
 - If multiple valid answers exist, LIST ALL OF THEM.
-- If "nearest" is requested but distance data is missing, say so briefly at the end.
+- Answer the first question first, and then use the rest of the content to add on to the answer.
+- If the users location is mentioned, use it to calculate distance to the services. If not, say so briefly at the end.
 
 User question:
 "{user_query}"
@@ -185,27 +227,24 @@ FINAL ANSWER (do not include instructions or explanations):
 Answer:
 """
 
-    response = ollama.chat(
-    model="phi3",
-    messages=[
-        {
-            "role": "user",
-            "content": prompt
+    client = genai.Client(api_key='AIzaSyBXTMZ5Lx4iHSqT9SjR2TzkGUznS4Ueu9g')
+    
+    response = client.models.generate_content(
+        model="gemini-2.5-flash",
+        contents=prompt,
+        config={
+            "temperature": 0,
+            "max_output_tokens": 2000,  # Increased from 200 to be safe
+            "stop_sequences": [
+                "<|end_of_instruction|>",
+                "<|assistant|>",
+                "<|user|>",
+                "FINAL ANSWER:"
+            ]
         }
-    ],
-    options={
-        "temperature": 0,
-        "num_predict": 200,
-        "stop": [
-            "<|end_of_instruction|>",
-            "<|assistant|>",
-            "<|user|>",
-            "FINAL ANSWER:"
-        ]
-    }
-)
+    )
 
-    return response["message"]["content"].strip()
+    return response.text.strip()
 
 final_answer = generate_natural_response(query, results)
 print(final_answer)
