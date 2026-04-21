@@ -1,25 +1,17 @@
 """
 rag_triples_gemini.py
 
-RAG over Triples.csv (local “database”) + Gemini API for generation.
+Stable presentation version:
+- Local CPU retrieval over Triples.csv
+- Optional Gemini generation
+- Safe local fallback if Gemini is unavailable
 
-What it does:
-1) Loads Triples.csv (Subject, Relationship, Object)
-2) Builds “documents” per Subject from its triples
-3) Embeds each Subject-doc with SentenceTransformer (local)
-4) Builds FAISS index (local) + caches embeddings to disk
-5) On each question: retrieves top-K subjects, builds a compact Context
-6) Sends ONLY that Context + question to Gemini for a short answer
-
-Requirements (run inside your venv):
+Requirements:
   python -m pip install -U pandas numpy faiss-cpu sentence-transformers google-genai
 
-Set your API key (PowerShell):
-  setx GEMINI_API_KEY "YOUR_KEY_HERE"
+Optional API key for Gemini:
+  setx GEMINI_API_KEY "YOUR_KEY"
 Then restart terminal.
-
-Place this file in the same folder as Triples.csv
-(or set TRIPLES_CSV path below).
 """
 
 from __future__ import annotations
@@ -30,42 +22,51 @@ import json
 import time
 import hashlib
 from pathlib import Path
-from typing import Dict, List, Tuple
+from typing import Dict, List, Tuple, Optional
 
 import numpy as np
 import pandas as pd
 import faiss
 from sentence_transformers import SentenceTransformer
 
-from google import genai
+try:
+    from google import genai
+except Exception:
+    genai = None
 
 
 # =========================
 # 1) CONFIG
 # =========================
-TRIPLES_CSV = "Triples.csv"  # put Triples.csv in same folder as this script OR change to full path
+BASE_DIR = Path(__file__).resolve().parent
 
-# Column names in Triples.csv (case-sensitive). Change if your file uses different headers.
+# Safer path handling
+TRIPLES_CSV = BASE_DIR / "Triples.csv"
+if not TRIPLES_CSV.exists():
+    alt_csv = BASE_DIR.parent / "Triples.csv"
+    if alt_csv.exists():
+        TRIPLES_CSV = alt_csv
+
 SUBJ_COL = "Subject"
 REL_COL = "Relationship"
 OBJ_COL = "Object"
 
-# Embedding model (local)
 EMBED_MODEL_ID = "sentence-transformers/all-MiniLM-L6-v2"
 
-# Gemini model (API)
-GEMINI_MODEL = "gemini-2.5-flash"  # or "gemini-2.5-flash-lite" / "gemini-2.5-pro"
+# Presentation-safe default:
+# False = local-only mode, no API dependence
+USE_GEMINI = False
 
-# Retrieval & context limits
-TOP_K = 5                     # how many subjects to retrieve
-MAX_FACTS_PER_SUBJECT = 120   # cap per subject so one subject doesn't dominate
-MAX_CONTEXT_CHARS = 9000      # cap prompt size for speed/cost
-MIN_SCORE_TO_SHOW = 0.0       # keep all, or set e.g. 0.2
+# If you want to try Gemini later, change USE_GEMINI to True
+GEMINI_MODEL = "gemini-2.5-flash-lite"
 
-# Cache directory (saves embeddings + index so you don’t recompute each run)
-CACHE_DIR = Path(".rag_cache_triples")
+TOP_K = 5
+MAX_FACTS_PER_SUBJECT = 120
+MAX_CONTEXT_CHARS = 7000
+MIN_SCORE_TO_SHOW = 0.15
+
+CACHE_DIR = BASE_DIR / ".rag_cache_triples"
 CACHE_DIR.mkdir(exist_ok=True)
-
 
 SYSTEM_PROMPT = (
     "Answer using ONLY the provided Context extracted from Triples.csv.\n"
@@ -79,7 +80,6 @@ SYSTEM_PROMPT = (
 # 2) HELPERS
 # =========================
 def file_fingerprint(path: Path) -> str:
-    """Fast-ish fingerprint to invalidate cache when Triples.csv changes."""
     stat = path.stat()
     base = f"{path.name}|{stat.st_size}|{stat.st_mtime}"
     return hashlib.sha256(base.encode("utf-8")).hexdigest()[:16]
@@ -88,76 +88,87 @@ def file_fingerprint(path: Path) -> str:
 def normalize_text(s: str) -> str:
     s = str(s)
     s = s.replace("\r\n", "\n").replace("\r", "\n")
-    return s.strip()
+    return " ".join(s.strip().split())
 
 
 def extract_location_hints(question: str) -> Dict[str, List[str]]:
-    """
-    Very lightweight heuristics to reduce ‘Irvine -> Riverside’ type errors.
-    We try to detect:
-      - CA city-like words the user typed (capitalized tokens)
-      - ZIP codes (5 digits)
-    Then we can prefer retrieved docs containing these tokens.
-    """
     q = question.strip()
 
     zips = re.findall(r"\b(\d{5})\b", q)
 
-    # City candidates: words with letters, not too short, not common question words
     common = {
         "what", "where", "which", "find", "nearest", "closest", "food", "pantry",
         "shelter", "services", "service", "in", "near", "around", "to", "the",
-        "a", "an", "of", "for", "and", "is", "are", "i", "im", "me", "my"
+        "a", "an", "of", "for", "and", "is", "are", "i", "im", "me", "my",
+        "need", "help", "with", "from", "at"
     }
+
     tokens = re.findall(r"[A-Za-z]+", q)
-    # keep tokens that look like proper nouns OR are known city tokens user typed in caps
     city_like = []
+
     for t in tokens:
         low = t.lower()
         if low in common:
             continue
         if len(t) >= 4 and (t[0].isupper() or t.isupper()):
             city_like.append(t)
-    # also keep a direct mention of "irvine" etc even if not capitalized
-    # (if user typed lowercase)
+
     lower_tokens = set(t.lower() for t in tokens)
-    if "irvine" in lower_tokens and "Irvine" not in city_like:
-        city_like.append("Irvine")
+    known_city_candidates = [
+        "irvine", "riverside", "los", "angeles", "anaheim", "pomona",
+        "ontario", "pasadena", "fullerton", "santa", "ana", "long", "beach"
+    ]
+    for city in known_city_candidates:
+        if city in lower_tokens and city.capitalize() not in city_like:
+            city_like.append(city.capitalize())
 
     return {"zips": zips, "cities": list(dict.fromkeys(city_like))}
 
 
 def subject_doc_from_group(df_subj: pd.DataFrame) -> str:
-    """
-    Build a “document” string for one Subject from its triples.
-    This doc is what we embed and what we show in Context.
-    """
-    # Keep consistent ordering and limit
     rows = df_subj.head(MAX_FACTS_PER_SUBJECT)
     lines = []
-    subj_val = rows[SUBJ_COL].iloc[0]
+
+    subj_val = normalize_text(rows[SUBJ_COL].iloc[0])
     lines.append(f"Subject: {subj_val}")
+
+    seen = set()
+
     for _, r in rows.iterrows():
         rel = normalize_text(r.get(REL_COL, ""))
         obj = normalize_text(r.get(OBJ_COL, ""))
+
+        if not rel and not obj:
+            continue
+
+        key = (rel.lower(), obj.lower())
+        if key in seen:
+            continue
+        seen.add(key)
+
         if rel and obj:
             lines.append(f"{rel}: {obj}")
         elif rel:
             lines.append(f"{rel}:")
         elif obj:
             lines.append(f"- {obj}")
+
     return "\n".join(lines)
 
 
 def load_triples(triples_path: Path) -> pd.DataFrame:
+    if not triples_path.exists():
+        raise FileNotFoundError(f"Cannot find Triples.csv at: {triples_path}")
+
     df = pd.read_csv(triples_path)
+
     for col in [SUBJ_COL, REL_COL, OBJ_COL]:
         if col not in df.columns:
             raise ValueError(
                 f"Triples.csv is missing column '{col}'. "
-                f"Found columns: {list(df.columns)}. "
-                f"Update SUBJ_COL/REL_COL/OBJ_COL at top of the script."
+                f"Found columns: {list(df.columns)}"
             )
+
     df = df[[SUBJ_COL, REL_COL, OBJ_COL]].fillna("")
     return df
 
@@ -166,18 +177,16 @@ def load_triples(triples_path: Path) -> pd.DataFrame:
 # 3) BUILD / LOAD INDEX
 # =========================
 def build_subject_docs(df: pd.DataFrame) -> Tuple[List[str], List[str]]:
-    """
-    Returns:
-      subjects: list of unique subject ids (strings)
-      docs:     list of doc strings per subject (same length)
-    """
     subjects = []
     docs = []
 
-    # groupby preserves sort order unless sort=True; we want stable output
     for subj, g in df.groupby(SUBJ_COL, sort=False):
         g = g.reset_index(drop=True)
         doc = subject_doc_from_group(g)
+
+        if not doc.strip():
+            continue
+
         subjects.append(str(subj))
         docs.append(doc)
 
@@ -206,25 +215,22 @@ def load_or_build_index(triples_path: Path, embedder: SentenceTransformer):
         index = faiss.read_index(str(paths["index"]))
         return subjects, docs, emb, index
 
-    print("Building index (first time)…")
+    print("Building index (first time)...")
     df = load_triples(triples_path)
     subjects, docs = build_subject_docs(df)
 
-    # Embed docs (batch)
     emb = embedder.encode(
         docs,
         batch_size=64,
         show_progress_bar=True,
         convert_to_numpy=True,
-        normalize_embeddings=True,  # important for cosine similarity via inner product
+        normalize_embeddings=True,
     ).astype("float32")
 
-    # FAISS index: inner product (cosine because vectors normalized)
     dim = emb.shape[1]
     index = faiss.IndexFlatIP(dim)
     index.add(emb)
 
-    # Save cache
     paths["subjects"].write_text(json.dumps(subjects, ensure_ascii=False), encoding="utf-8")
     paths["docs"].write_text(json.dumps(docs, ensure_ascii=False), encoding="utf-8")
     np.save(paths["emb"], emb)
@@ -244,12 +250,14 @@ def retrieve(
     index: faiss.Index,
     top_k: int = TOP_K,
 ) -> List[Tuple[int, float]]:
-    """
-    Returns list of (doc_index, score) sorted by score desc.
-    Score is cosine similarity (0..1-ish) because we normalize embeddings and use inner product.
-    """
-    q_emb = embedder.encode([question], convert_to_numpy=True, normalize_embeddings=True).astype("float32")
+    q_emb = embedder.encode(
+        [question],
+        convert_to_numpy=True,
+        normalize_embeddings=True
+    ).astype("float32")
+
     scores, idxs = index.search(q_emb, top_k)
+
     results = []
     for i, s in zip(idxs[0].tolist(), scores[0].tolist()):
         if i == -1:
@@ -257,6 +265,7 @@ def retrieve(
         if s < MIN_SCORE_TO_SHOW:
             continue
         results.append((i, float(s)))
+
     return results
 
 
@@ -265,10 +274,6 @@ def apply_location_preference(
     candidates: List[Tuple[int, float]],
     docs: List[str],
 ) -> List[Tuple[int, float]]:
-    """
-    If user mentions a city or zip, prefer candidates that contain it.
-    (This helps avoid ‘Irvine’ question returning ‘Riverside’ results.)
-    """
     hints = extract_location_hints(question)
     if not hints["cities"] and not hints["zips"]:
         return candidates
@@ -288,19 +293,22 @@ def apply_location_preference(
 
     preferred = []
     others = []
-    for i, s in candidates:
-        (preferred if doc_has_hint(docs[i]) else others).append((i, s))
 
-    # If we found any preferred matches, return them first
+    for i, s in candidates:
+        if doc_has_hint(docs[i]):
+            preferred.append((i, s))
+        else:
+            others.append((i, s))
+
     return preferred + others
 
 
 def build_context(candidates: List[Tuple[int, float]], subjects: List[str], docs: List[str]) -> str:
     chunks = []
     total = 0
+
     for rank, (i, score) in enumerate(candidates, start=1):
-        header = f"[Match {rank} | score={score:.3f}]\n"
-        block = header + docs[i].strip() + "\n"
+        block = f"[Match {rank} | score={score:.3f}]\n{docs[i].strip()}\n"
         if total + len(block) > MAX_CONTEXT_CHARS:
             break
         chunks.append(block)
@@ -309,81 +317,159 @@ def build_context(candidates: List[Tuple[int, float]], subjects: List[str], docs
     return "\n---\n".join(chunks).strip()
 
 
+def extract_field(text, field):
+    import re
+    pattern = rf"{field}:\s*(.*)"
+    match = re.search(pattern, text)
+    if match:
+        return match.group(1).strip()
+    return "Not available"
+
+
+def format_local_answer(candidates, subjects, docs):
+    if not candidates:
+        return "Not found in the dataset."
+
+    lines = []
+    lines.append("Top matching services:\n")
+
+    for rank, (i, score) in enumerate(candidates[:5], start=1):
+
+        doc = docs[i]
+
+        service_name = subjects[i]
+
+        address = extract_field(doc, "Location_Address")
+        zipcode = extract_field(doc, "Zipcode")
+        website = extract_field(doc, "Website")
+        service_type = extract_field(doc, "Service_Type")
+
+        monday = extract_field(doc, "Monday")
+        tuesday = extract_field(doc, "Tuesday")
+        wednesday = extract_field(doc, "Wednesday")
+        thursday = extract_field(doc, "Thursday")
+
+        hours = f"Mon–Thu {monday}"
+
+        lines.append(
+            f"{rank}. {service_name}\n"
+            f"   Address: {address}\n"
+            f"   Zipcode: {zipcode}\n"
+            f"   Type: {service_type}\n"
+            f"   Hours: {hours}\n"
+            f"   Website: {website}\n"
+        )
+
+    return "\n".join(lines)
+
+
 # =========================
-# 5) GEMINI CALL
+# 5) GEMINI
 # =========================
-def gemini_client() -> genai.Client:
+def gemini_client() -> Optional["genai.Client"]:
+    if not USE_GEMINI:
+        return None
+
+    if genai is None:
+        print("Gemini SDK not available. Using local-only mode.")
+        return None
+
     key = os.environ.get("GEMINI_API_KEY")
     if not key:
-        raise RuntimeError(
-            "Missing GEMINI_API_KEY. In PowerShell run:\n"
-            '  setx GEMINI_API_KEY "YOUR_KEY"\n'
-            "Then restart VS Code terminal."
-        )
-    return genai.Client(api_key=key)
+        print("GEMINI_API_KEY not found. Using local-only mode.")
+        return None
+
+    try:
+        return genai.Client(api_key=key)
+    except Exception:
+        print("Failed to create Gemini client. Using local-only mode.")
+        return None
 
 
-def call_gemini(client: genai.Client, system_prompt: str, user_prompt: str) -> str:
-    # Keep it simple: pack system + user into one message.
-    resp = client.models.generate_content(
-        model=GEMINI_MODEL,
-        contents=[
-            {"role": "user", "parts": [{"text": f"{system_prompt}\n\n{user_prompt}"}]}
-        ],
-    )
-    return (resp.text or "").strip()
+def call_gemini_with_retry(client: "genai.Client", system_prompt: str, user_prompt: str) -> str:
+    retries = 3
+    wait_seconds = 4
+    last_error = None
+
+    for attempt in range(retries):
+        try:
+            resp = client.models.generate_content(
+                model=GEMINI_MODEL,
+                contents=[
+                    {
+                        "role": "user",
+                        "parts": [{"text": f"{system_prompt}\n\n{user_prompt}"}]
+                    }
+                ],
+            )
+            text = (resp.text or "").strip()
+            if text:
+                return text
+            return "Not found in the dataset."
+        except Exception as e:
+            last_error = e
+            err = str(e)
+            if "503" in err or "UNAVAILABLE" in err:
+                print(f"Gemini busy. Retry {attempt + 1}/{retries}...")
+                time.sleep(wait_seconds)
+            else:
+                break
+
+    raise last_error
 
 
 def answer_question(
     question: str,
     embedder: SentenceTransformer,
-    client: genai.Client,
+    client: Optional["genai.Client"],
     subjects: List[str],
     docs: List[str],
     index: faiss.Index,
 ) -> str:
-    # 1) retrieve
     candidates = retrieve(question, embedder, subjects, docs, index, top_k=TOP_K)
     candidates = apply_location_preference(question, candidates, docs)
 
-    # 2) context
-    context = build_context(candidates, subjects, docs)
-    if not context:
+    if not candidates:
         return "Not found in the dataset."
 
-    # 3) ask Gemini
+    context = build_context(candidates, subjects, docs)
+
+    if client is None:
+        return format_local_answer(candidates, subjects, docs)
+
     user_prompt = f"Context:\n{context}\n\nQuestion:\n{question}"
-    return call_gemini(client, SYSTEM_PROMPT, user_prompt)
+
+    try:
+        return call_gemini_with_retry(client, SYSTEM_PROMPT, user_prompt)
+    except Exception:
+        return format_local_answer(candidates, subjects, docs)
 
 
 # =========================
-# 6) MAIN LOOP
+# 6) MAIN
 # =========================
 def main():
-    triples_path = Path(TRIPLES_CSV)
-    if not triples_path.exists():
-        # Try “Code/Triples.csv” if user runs from repo root
-        alt = Path("Code") / TRIPLES_CSV
-        if alt.exists():
-            triples_path = alt
-        else:
-            raise FileNotFoundError(
-                f"Cannot find {TRIPLES_CSV}.\n"
-                f"Looked in: {Path.cwd() / TRIPLES_CSV}\n"
-                f"Also tried: {Path.cwd() / alt}\n"
-                "Fix TRIPLES_CSV path at the top of the script."
-            )
+    if not TRIPLES_CSV.exists():
+        raise FileNotFoundError(
+            f"Cannot find Triples.csv.\nLooked in: {TRIPLES_CSV}"
+        )
 
-    print(f"Using Triples file: {triples_path.resolve()}")
-
+    print(f"Using Triples file: {TRIPLES_CSV.resolve()}")
     print(f"Loading embedder: {EMBED_MODEL_ID}")
+
     embedder = SentenceTransformer(EMBED_MODEL_ID)
 
-    subjects, docs, emb, index = load_or_build_index(triples_path, embedder)
+    subjects, docs, emb, index = load_or_build_index(TRIPLES_CSV, embedder)
     print(f"Index ready. Subjects: {len(subjects)}")
 
     client = gemini_client()
-    print("\nDataset-grounded assistant ready.")
+
+    if client is None:
+        print("\nRunning in LOCAL-ONLY mode.")
+    else:
+        print("\nRunning in GEMINI mode with local fallback.")
+
+    print("Dataset-grounded assistant ready.")
     print("Type a question. Type 'exit' to quit.\n")
 
     while True:
@@ -398,8 +484,11 @@ def main():
             ans = answer_question(q, embedder, client, subjects, docs, index)
             dt = time.time() - t0
             print(f"\nAssistant ({dt:.2f}s):\n{ans}\n")
+        except KeyboardInterrupt:
+            print("\nInterrupted.\n")
+            break
         except Exception as e:
-            print("\nError:\n", repr(e), "\n")
+            print(f"\nError:\n{repr(e)}\n")
 
 
 if __name__ == "__main__":
