@@ -2,17 +2,10 @@ import ollama
 import json
 from neo4j import GraphDatabase
 import re
-from google import genai
 import os
 from dotenv import load_dotenv
 
 load_dotenv('../Misc/.env')
-
-STOPWORDS = {
-    "nearest", "near", "closest", "find", "where",
-    "what", "are", "is", "to", "the"
-}
-
 
 ##### LLM ONE #####
 
@@ -95,64 +88,142 @@ def extract_zipcode(keywords):
 
 
 def build_cypher(intent):
-    service_keywords = ["food pantry", "shelter", "mental health", "housing"]
-    has_service_keyword = any(kw in intent["keywords"] for kw in service_keywords)
+    if not intent or "keywords" not in intent:
+        raise ValueError("Invalid intent")
 
-    if not intent:
-        raise ValueError("Intent is empty — LLM may have failed.")
+    all_keywords = [k.lower() for k in intent["keywords"]]
+
+    zipcode = None
+    for k in all_keywords:
+        if k.isdigit() and len(k) == 5:
+            zipcode = k
+            break
+
+    entity_keywords = ["phone", "number", "contact", "address", "website", "url"]
+    service_keywords = ["food", "pantry", "shelter", "mental", "health", "housing", "services"]
+    geo_keywords = ["near", "nearest", "closest", "nearby"]
+
+    is_entity_lookup = any(any(ek in kw for ek in entity_keywords) for kw in all_keywords)
+    is_service_search = any(any(sk in kw for sk in service_keywords) for kw in all_keywords)
+    has_geo_intent = any(gk in " ".join(all_keywords) for gk in geo_keywords) or any(k.isdigit() for k in all_keywords)
+
+    STOPWORDS = {"nearest", "near", "closest", "find", "where", "what", "are", "is", "to", "the"}
     
-    if has_service_keyword:
-        cypher = """
-        MATCH (s:node)-[r1:main_services_are]->(service_type:node)
-        MATCH (s)-[r2:is_located_at]->(address:node)
-        """
-        
-        where_clauses = []
-        params = {}
-        
-        zipcode = extract_zipcode(intent["keywords"])
-        print(f"DEBUG: Extracted zipcode: {zipcode}")
-        
-        filtered_keywords = [
-            kw.lower()
-            for kw in intent["keywords"]
-            if kw.lower() not in STOPWORDS and kw != zipcode
-        ]
-        print(f"DEBUG: Filtered keywords: {filtered_keywords}")
-        
-        # Match service type - search within array
-        if filtered_keywords:
-            where_clauses.append("""
-            ANY(kw IN $keywords WHERE
-                ANY(service IN service_type.name WHERE toLower(service) CONTAINS kw)
-            )
-            """)
-            params["keywords"] = filtered_keywords
-            print(f"DEBUG: Keywords: {filtered_keywords}")
-        
-        # Match zipcode
+    keywords = [
+        k for k in all_keywords 
+        if k not in STOPWORDS and k != zipcode
+    ]
+
+    params = {"keywords": keywords}
+
+    # =========================================================
+    # 1. ENTITY LOOKUP (phone, website, etc.)
+    # =========================================================
+    if is_entity_lookup:
+        entity_words = {"phone", "number", "contact", "address", "website", "url"}
+        name_keywords = [k for k in keywords if k not in entity_words]
+        params["keywords"] = name_keywords if name_keywords else keywords
+
+        wants_phone = any(k in " ".join(all_keywords) for k in ["phone", "number", "contact"])
+        wants_website = any(k in all_keywords for k in ["website", "url"])
+        wants_address = any(k in all_keywords for k in ["address", "location"])
+
+        if wants_phone:
+            cypher = """
+            MATCH (o:node)-[:phone_number_is]->(phone:node)
+            WHERE ANY(k IN $keywords WHERE toLower(o.name) CONTAINS k)
+            RETURN o.name AS subject, phone.name AS phone
+            LIMIT 5
+            """
+        elif wants_website:
+            cypher = """
+            MATCH (o:node)-[:website_is]->(website:node)
+            WHERE ANY(k IN $keywords WHERE toLower(o.name) CONTAINS k)
+            RETURN o.name AS subject, website.name AS website
+            LIMIT 5
+            """
+        elif wants_address:
+            cypher = """
+            MATCH (o:node)-[:is_located_at]->(address:node)
+            WHERE ANY(k IN $keywords WHERE toLower(o.name) CONTAINS k)
+            RETURN o.name AS subject, address.name AS object
+            LIMIT 5
+            """
+        else:
+            cypher = """
+            MATCH (o:node)
+            WHERE ANY(k IN $keywords WHERE toLower(o.name) CONTAINS k)
+            OPTIONAL MATCH (o)-[:phone_number_is]->(phone:node)
+            OPTIONAL MATCH (o)-[:website_is]->(website:node)
+            RETURN o.name AS subject, phone.name AS phone, website.name AS website
+            LIMIT 10
+            """
+
+    # =========================================================
+    # 2. SERVICE SEARCH WITH LOCATION (must come before plain service search!)
+    # =========================================================
+    elif is_service_search and has_geo_intent:  
         if zipcode:
-            cypher += """
-                MATCH (s)-[r3:zipcode_is]->(zip:node)
-                """
-            where_clauses.append(
-                "toInteger(zip.name) = $zipcode_int"
-            )
-            params["zipcode_int"] = int(zipcode)  # Convert to integer
-        
-        if where_clauses:
-            cypher += " WHERE " + " AND ".join(where_clauses)
-        
-        cypher += """
-        RETURN s.name AS subject,
-               'is_located_at' AS relationship,
-               address.name AS object
+            cypher = """
+            MATCH (s:node)-[r1:main_services_are]->(service_type:node)
+            MATCH (s)-[r2:is_located_at]->(address:node)
+            MATCH (s)-[r3:zipcode_is]->(zip:node)
+            WHERE ANY(kw IN $keywords WHERE toLower(service_type.name) CONTAINS kw)
+              AND (zip.name = $zipcode_str OR zip.name = $zipcode_str + '.0')
+              AND address.name CONTAINS $zipcode_str
+              AND NOT toLower(s.name) CONTAINS "support services"
+            RETURN s.name AS subject,
+                   'is_located_at' AS relationship,
+                   address.name AS object
+            LIMIT 25
+            """
+            params["zipcode_str"] = str(int(float(zipcode)))
+        else:
+            cypher = """
+            MATCH (s:node)-[:main_services_are]->(service:node)
+            MATCH (s)-[:is_located_at]->(loc:node)
+            WHERE ANY(k IN $keywords WHERE 
+                    ANY(svc IN service.name WHERE toLower(svc) CONTAINS k)
+                  )
+            RETURN s.name AS subject,
+                   'is_located_at' AS relationship,
+                   loc.name AS object
+            LIMIT 25
+            """
+
+    # =========================================================
+    # 3. SERVICE SEARCH (without location)
+    # =========================================================
+    elif is_service_search:
+        cypher = """
+        MATCH (o:node)-[:main_services_are]->(service:node)
+        OPTIONAL MATCH (o)-[:other_services_are]->(other:node)
+        OPTIONAL MATCH (o)-[:is_located_at]->(loc:node)
+        WHERE ANY(k IN $keywords WHERE 
+                ANY(svc IN service.name WHERE toLower(svc) CONTAINS k)
+              )
+        RETURN
+            o.name AS subject,
+            service.name AS main_service,
+            other.name AS other_service,
+            loc.name AS location
         LIMIT 25
         """
-    
-    print(f"DEBUG: Final Cypher:\n{cypher}")
-    print(f"DEBUG: Parameters: {params}")
-    
+
+    # =========================================================
+    # 4. FALLBACK
+    # =========================================================
+    else:
+        cypher = """
+        MATCH (o:node)
+        WHERE ANY(k IN $keywords WHERE toLower(o.name) CONTAINS k)
+        RETURN o.name AS subject
+        LIMIT 10
+        """
+
+    print(f"DEBUG Cypher:\n{cypher}")
+    print(f"DEBUG Params: {params}")
+
     return cypher, params
 
 NEO4J_USER = os.getenv("NEO4J_USER")
@@ -169,7 +240,7 @@ def run_query(cypher, params):
         return [record.data() for record in result]
 
  #Example usage
-query = "Where is the nearest food pantry to 92501?  How far are the services from where I am? I am on 3931 Carter Ave."
+query = "What is the phone number of Youth Emergency Services (SafeHouse)?"
 
 intent = extract_query_intent(query)
 
@@ -177,76 +248,64 @@ print(intent)
 
 cypher, params = build_cypher(intent)
 results = run_query(cypher, params)
-
-#print(results)
+print(f"DEBUG Results: {results}")  # Add this
 
 ##### LLM TWO #####
 
 def generate_natural_response(user_query, triples):
     if not triples:
-        return "I couldn’t find any matching services for your request."
+        return "I couldn't find any matching services for your request."
 
-    # Deduplicate by subject + object
     seen = set()
-    unique_triples = []
+    unique = []
+
     for t in triples:
-        key = (t["subject"], t["object"])
-        if key not in seen:
-            seen.add(key)
-            unique_triples.append(t)
+        subject = t.get("subject") or t.get("n", {}).get("name")
+        obj = t.get("object")  # This is the address!
+        phone = t.get("phone")
+        website = t.get("website")
+
+        if not subject:
+            continue
+
+        key = (subject, obj)
+        if key in seen:
+            continue
+        seen.add(key)
+
+        unique.append({
+            "subject": subject,
+            "object": obj,
+            "phone": phone,
+            "website": website
+        })
 
     facts = "\n".join(
-        f"- {t['subject']} is located at {t['object']}"
-        for t in unique_triples
+        f"{i+1}. {t['subject']}"
+        + (f" — Address: {t['object']}" if t.get("object") else "")
+        + (f" — Phone: {t['phone']}" if t.get("phone") else "")
+        + (f" — Website: {t['website']}" if t.get("website") else "")
+        for i, t in enumerate(unique)
     )
 
-    prompt = f"""
-You are a social worker and you want to answer a question using the given content. Give a summary of the relevant information in the content that answers the question. Use only the information provided in the content, and do not make any assumptions or use any outside knowledge. If the content does not contain enough information to answer the question, say so.
+    prompt = f"""You are a helpful social worker. A user asked: "{user_query}"
 
-STRICT RULES:
-- Use only the provided facts
-- Addresses MUST be copied character-for-character from the facts
-- Do NOT abbreviate, truncate, reformat, or paraphrase addresses
-- If unsure, copy the address exactly as written- Do not include analysis
-- Do not include instruction text
-- Do NOT explain ambiguity.
-- Do NOT assume distances or "nearest".
-- If multiple valid answers exist, LIST ALL OF THEM.
-- Answer the first question first, and then use the rest of the content to add on to the answer.
-- If the users location is mentioned, use it to calculate distance to the services. If not, say so briefly at the end.
+The database returned exactly {len(unique)} results. You MUST include ALL {len(unique)} of them in your response, numbered exactly as shown below. Do not add, remove, or reorder any entries. Do not determine which is nearest. Copy all addresses exactly as written.
 
-User question:
-"{user_query}"
-
-Facts:
+Results:
 {facts}
 
-===
-FINAL ANSWER (do not include instructions or explanations):
-
-Answer:
-"""
+Write a brief intro sentence, then list all {len(unique)} results exactly as numbered above:"""
     
-    GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
-
-    client = genai.Client(api_key=GOOGLE_API_KEY)
-    
-    response = client.models.generate_content(
-        model="gemini-2.5-flash",
-        contents=prompt,
-        config={
+    response = ollama.chat(
+        model="llama3",
+        messages=[{"role": "user", "content": prompt}],
+        options={
             "temperature": 0,
-            "max_output_tokens": 2000,  # Increased from 200 to be safe
-            "stop_sequences": [
-                "<|end_of_instruction|>",
-                "<|assistant|>",
-                "<|user|>",
-                "FINAL ANSWER:"
-            ]
+            "num_predict": 1000
         }
     )
-
-    return response.text.strip()
+    return response["message"]["content"].strip()
 
 final_answer = generate_natural_response(query, results)
 print(final_answer)
